@@ -8,9 +8,9 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/semantic-ui@2.4.2/dist/semantic.min.css">
 <script src="https://code.jquery.com/jquery-3.4.1.min.js"
 	integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous"></script>
-</head>
 <script src="https://cdn.jsdelivr.net/npm/semantic-ui@2.4.2/dist/semantic.min.js"></script>
 <script src="https://d3js.org/d3.v4.min.js"></script>
+</head>
 
 <body>
 
@@ -18,7 +18,7 @@
 
 		<div class="ui label">
 			<i class="sync alternate icon"></i>
-			<span class="sub header" id="last-updated" aria-timestamp="">2020-03-08 15:00 (CET)</span>
+			<span class="sub header" id="last-updated"></span>
 		</div>
 
 		<h1 class="ui header">
@@ -37,15 +37,15 @@
 					<div class="centered twelve wide column">
 						<div class="ui small statistics">
 							<div class="statistic">
-								<div class="value">161</div>
+								<div id="stat-country-confirmed" class="value">0</div>
 								<div class="label">Confirmed</div>
 							</div>
 							<div class="green statistic">
-								<div class="value">1</div>
+								<div id="stat-country-recovered" class="value">0</div>
 								<div class="label">Recovered</div>
 							</div>
 							<div class="red statistic">
-								<div class="value">0</div>
+								<div id="stat-country-deceased" class="value">0</div>
 								<div class="label">Deceased</div>
 							</div>
 						</div>
@@ -109,19 +109,34 @@
 	<script type="text/javascript">
 	$( document ).ready( function () {
 
-		// ----------------------------------------------------------
-		// dropdown: county
-		// ----------------------------------------------------------
-		$( '#dropdown-county' )
-			.dropdown( {
-				values: [
-					{ name: 'Stockholm', value: 'Stockholm', selected: true },
-					{ name: 'Skåne', value: 'Skåne' }
-				],
-				onChange: function ( value, text, item ) {
-					console.log( 'text: ' + text + ', value: ' + value );
-				}
-			} );
+		$.getJSON( 'assets/data/latest.json', function( json ) {
+			
+			// Last updated.
+			$( '#last-updated' ).text( json['updated']['datetime'] );
+
+			// Country-wide stats.
+			var summary = json[ 'summary' ];
+			$( '#stat-country-confirmed' ).text( summary[ 'confirmed' ] );
+			$( '#stat-country-recovered' ).text( summary[ 'recovered-fully' ] + summary[ 'recovered-clinically' ] );
+			$( '#stat-country-deceased' ).text( summary[ 'deceased' ] );
+			
+			// ----------------------------------------------------------
+			// dropdown: county
+			// ----------------------------------------------------------
+			$( '#dropdown-county' )
+				.dropdown( {
+					values: [
+						{ name: 'Stockholm', value: 'Stockholm', selected: true },
+						{ name: 'Skåne', value: 'Skåne' }
+					],
+					onChange: function ( value, text, item ) {
+						console.log( 'text: ' + text + ', value: ' + value );
+					}
+				} );
+
+		} );
+
+
 
 		// ----------------------------------------------------------
 		// graph: country-wide
