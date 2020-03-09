@@ -1,0 +1,3668 @@
+{
+    "updated": {
+        "datetime": "2020-03-09 2AM (UTC)",
+        "timestamp": 1583722742
+    },
+    "cases": [
+        {
+            "no": "1",
+            "date": "2020-01-31",
+            "status": "recovered-clinically",
+            "origin": {
+                "type": "T",
+                "path": null
+            },
+            "location": {
+                "region": "J\u00f6nk\u00f6ping County",
+                "city": "J\u00f6nk\u00f6ping"
+            },
+            "treatment": "",
+            "sex": "",
+            "age": ""
+        },
+        {
+            "no": "2",
+            "date": "2020-02-26",
+            "status": "unknown",
+            "origin": {
+                "type": "T",
+                "path": null
+            },
+            "location": {
+                "region": "V\u00e4stra G\u00f6taland County",
+                "city": "Gothenburg"
+            },
+            "treatment": "",
+            "sex": "",
+            "age": ""
+        },
+        {
+            "no": "3",
+            "date": "2020-02-27",
+            "status": "unknown",
+            "origin": {
+                "type": "PTP",
+                "path": null
+            },
+            "location": {
+                "region": "V\u00e4stra G\u00f6taland County",
+                "city": "Gothenburg"
+            },
+            "treatment": "",
+            "sex": "",
+            "age": ""
+        },
+        {
+            "no": 4,
+            "date": "2020-02-27",
+            "status": "unknown",
+            "origin": {
+                "type": "PTP",
+                "path": null
+            },
+            "location": {
+                "region": "V\u00e4stra G\u00f6taland County",
+                "city": "Gothenburg"
+            },
+            "treatment": "",
+            "sex": "",
+            "age": ""
+        },
+        {
+            "no": "5",
+            "date": "2020-02-27",
+            "status": "unknown",
+            "origin": {
+                "type": "T",
+                "path": null
+            },
+            "location": {
+                "region": "V\u00e4stra G\u00f6taland County",
+                "city": "Gothenburg"
+            },
+            "treatment": "",
+            "sex": "",
+            "age": ""
+        },
+        {
+            "no": "6",
+            "date": "2020-02-27",
+            "status": "unknown",
+            "origin": {
+                "type": "T",
+                "path": null
+            },
+            "location": {
+                "region": "Stockholm County",
+                "city": "Stockholm"
+            },
+            "treatment": "",
+            "sex": "",
+            "age": ""
+        },
+        {
+            "no": "7",
+            "date": "2020-02-27",
+            "status": "unknown",
+            "origin": {
+                "type": "T",
+                "path": null
+            },
+            "location": {
+                "region": "Uppsala County",
+                "city": "Uppsala"
+            },
+            "treatment": "",
+            "sex": "",
+            "age": ""
+        },
+        {
+            "no": "8",
+            "date": "2020-02-28",
+            "status": "unknown",
+            "origin": {
+                "type": "T",
+                "path": null
+            },
+            "location": {
+                "region": "J\u00f6nk\u00f6ping County",
+                "city": "J\u00f6nk\u00f6ping"
+            },
+            "treatment": "",
+            "sex": "",
+            "age": ""
+        },
+        {
+            "no": "9",
+            "date": "2020-02-28",
+            "status": "unknown",
+            "origin": {
+                "type": "PTP",
+                "path": null
+            },
+            "location": {
+                "region": "Stockholm County",
+                "city": "Stockholm"
+            },
+            "treatment": "",
+            "sex": "",
+            "age": ""
+        },
+        {
+            "no": "10",
+            "date": "2020-02-28",
+            "status": "unknown",
+            "origin": {
+                "type": "PTP",
+                "path": null
+            },
+            "location": {
+                "region": "Stockholm County",
+                "city": "Stockholm"
+            },
+            "treatment": "",
+            "sex": "",
+            "age": ""
+        },
+        {
+            "no": "11",
+            "date": "2020-02-28",
+            "status": "unknown",
+            "origin": {
+                "type": "T",
+                "path": null
+            },
+            "location": {
+                "region": "Uppsala County",
+                "city": "Tierp"
+            },
+            "treatment": "",
+            "sex": "",
+            "age": ""
+        },
+        {
+            "no": "12",
+            "date": "2020-02-29",
+            "status": "unknown",
+            "origin": {
+                "type": "T",
+                "path": null
+            },
+            "location": {
+                "region": "V\u00e4stra G\u00f6taland County",
+                "city": "Gothenburg"
+            },
+            "treatment": "",
+            "sex": "",
+            "age": ""
+        },
+        {
+            "no": "13",
+            "date": "2020-02-29",
+            "status": "unknown",
+            "origin": {
+                "type": "PTP",
+                "path": null
+            },
+            "location": {
+                "region": "Stockholm County",
+                "city": "Stockholm"
+            },
+            "treatment": "",
+            "sex": "",
+            "age": ""
+        },
+        {
+            "no": "14",
+            "date": "2020-03-01",
+            "status": "unknown",
+            "origin": {
+                "type": "T",
+                "path": null
+            },
+            "location": {
+                "region": "V\u00e4stra G\u00f6taland County",
+                "city": "Gothenburg"
+            },
+            "treatment": "",
+            "sex": "",
+            "age": ""
+        },
+        {
+            "no": "15",
+            "date": "2020-03-02",
+            "status": "unknown",
+            "origin": {
+                "type": "T",
+                "path": null
+            },
+            "location": {
+                "region": "Stockholm County",
+                "city": "Stockholm"
+            },
+            "treatment": "",
+            "sex": "",
+            "age": ""
+        },
+        {
+            "no": "16",
+            "date": "2020-03-03",
+            "status": "unknown",
+            "origin": {
+                "type": "T",
+                "path": null
+            },
+            "location": {
+                "region": "J\u00f6nk\u00f6ping County",
+                "city": "J\u00f6nk\u00f6ping"
+            },
+            "treatment": "",
+            "sex": "",
+            "age": ""
+        },
+        {
+            "no": "17",
+            "date": "2020-03-03",
+            "status": "unknown",
+            "origin": {
+                "type": "T",
+                "path": null
+            },
+            "location": {
+                "region": "V\u00e4stra G\u00f6taland County",
+                "city": "Gothenburg"
+            },
+            "treatment": "",
+            "sex": "",
+            "age": ""
+        },
+        {
+            "no": 18,
+            "date": "2020-03-03",
+            "status": "unknown",
+            "origin": {
+                "type": "T",
+                "path": null
+            },
+            "location": {
+                "region": "V\u00e4stra G\u00f6taland County",
+                "city": "Gothenburg"
+            },
+            "treatment": "",
+            "sex": "",
+            "age": ""
+        },
+        {
+            "no": 19,
+            "date": "2020-03-03",
+            "status": "unknown",
+            "origin": {
+                "type": "T",
+                "path": null
+            },
+            "location": {
+                "region": "V\u00e4stra G\u00f6taland County",
+                "city": "Gothenburg"
+            },
+            "treatment": "",
+            "sex": "",
+            "age": ""
+        },
+        {
+            "no": "20",
+            "date": "2020-03-03",
+            "status": "unknown",
+            "origin": {
+                "type": "T",
+                "path": null
+            },
+            "location": {
+                "region": "Sk\u00e5ne County",
+                "city": "Lund"
+            },
+            "treatment": "",
+            "sex": "",
+            "age": ""
+        },
+        {
+            "no": "21",
+            "date": "2020-03-03",
+            "status": "unknown",
+            "origin": {
+                "type": "T",
+                "path": null
+            },
+            "location": {
+                "region": "Stockholm County",
+                "city": "Stockholm"
+            },
+            "treatment": "",
+            "sex": "",
+            "age": ""
+        },
+        {
+            "no": 22,
+            "date": "2020-03-03",
+            "status": "unknown",
+            "origin": {
+                "type": "T",
+                "path": null
+            },
+            "location": {
+                "region": "Stockholm County",
+                "city": "Stockholm"
+            },
+            "treatment": "",
+            "sex": "",
+            "age": ""
+        },
+        {
+            "no": 23,
+            "date": "2020-03-03",
+            "status": "unknown",
+            "origin": {
+                "type": "T",
+                "path": null
+            },
+            "location": {
+                "region": "Stockholm County",
+                "city": "Stockholm"
+            },
+            "treatment": "",
+            "sex": "",
+            "age": ""
+        },
+        {
+            "no": "24",
+            "date": "2020-03-03",
+            "status": "unknown",
+            "origin": {
+                "type": "T",
+                "path": null
+            },
+            "location": {
+                "region": "Stockholm County",
+                "city": "Stockholm"
+            },
+            "treatment": "",
+            "sex": "",
+            "age": ""
+        },
+        {
+            "no": "25",
+            "date": "2020-03-03",
+            "status": "unknown",
+            "origin": {
+                "type": "T",
+                "path": null
+            },
+            "location": {
+                "region": "Stockholm County",
+                "city": "Stockholm"
+            },
+            "treatment": "",
+            "sex": "",
+            "age": ""
+        },
+        {
+            "no": 26,
+            "date": "2020-03-03",
+            "status": "unknown",
+            "origin": {
+                "type": "T",
+                "path": null
+            },
+            "location": {
+                "region": "Stockholm County",
+                "city": "Stockholm"
+            },
+            "treatment": "",
+            "sex": "",
+            "age": ""
+        },
+        {
+            "no": 27,
+            "date": "2020-03-03",
+            "status": "unknown",
+            "origin": {
+                "type": "T",
+                "path": null
+            },
+            "location": {
+                "region": "Stockholm County",
+                "city": "Stockholm"
+            },
+            "treatment": "",
+            "sex": "",
+            "age": ""
+        },
+        {
+            "no": 28,
+            "date": "2020-03-03",
+            "status": "unknown",
+            "origin": {
+                "type": "T",
+                "path": null
+            },
+            "location": {
+                "region": "Stockholm County",
+                "city": "Stockholm"
+            },
+            "treatment": "",
+            "sex": "",
+            "age": ""
+        },
+        {
+            "no": "29",
+            "date": "2020-03-03",
+            "status": "unknown",
+            "origin": {
+                "type": "PTP",
+                "path": null
+            },
+            "location": {
+                "region": "Stockholm County",
+                "city": "Stockholm"
+            },
+            "treatment": "",
+            "sex": "",
+            "age": ""
+        },
+        {
+            "no": "30",
+            "date": "2020-03-03",
+            "status": "unknown",
+            "origin": {
+                "type": "T",
+                "path": null
+            },
+            "location": {
+                "region": "Stockholm County",
+                "city": "Stockholm"
+            },
+            "treatment": "",
+            "sex": "",
+            "age": ""
+        },
+        {
+            "no": "31",
+            "date": "2020-03-04",
+            "status": "unknown",
+            "origin": {
+                "type": "T",
+                "path": null
+            },
+            "location": {
+                "region": "V\u00e4stra G\u00f6taland County",
+                "city": "Gothenburg"
+            },
+            "treatment": "",
+            "sex": "",
+            "age": ""
+        },
+        {
+            "no": "32",
+            "date": "2020-03-04",
+            "status": "unknown",
+            "origin": {
+                "type": "T",
+                "path": null
+            },
+            "location": {
+                "region": "V\u00e4stra G\u00f6taland County",
+                "city": "Gothenburg"
+            },
+            "treatment": "",
+            "sex": "",
+            "age": ""
+        },
+        {
+            "no": "33",
+            "date": "2020-03-04",
+            "status": "unknown",
+            "origin": {
+                "type": "T",
+                "path": null
+            },
+            "location": {
+                "region": "Sk\u00e5ne County",
+                "city": "Malm\u00f6"
+            },
+            "treatment": "",
+            "sex": "",
+            "age": ""
+        },
+        {
+            "no": "34",
+            "date": "2020-03-04",
+            "status": "unknown",
+            "origin": {
+                "type": "T",
+                "path": null
+            },
+            "location": {
+                "region": "V\u00e4rmland County",
+                "city": "Karlstad"
+            },
+            "treatment": "",
+            "sex": "",
+            "age": ""
+        },
+        {
+            "no": 35,
+            "date": "2020-03-04",
+            "status": "unknown",
+            "origin": {
+                "type": "T",
+                "path": null
+            },
+            "location": {
+                "region": "V\u00e4rmland County",
+                "city": "Karlstad"
+            },
+            "treatment": "",
+            "sex": "",
+            "age": ""
+        },
+        {
+            "no": "36",
+            "date": "2020-03-04",
+            "status": "unknown",
+            "origin": {
+                "type": "T",
+                "path": null
+            },
+            "location": {
+                "region": "\u00d6rebro County",
+                "city": "\u00d6rebro"
+            },
+            "treatment": "",
+            "sex": "",
+            "age": ""
+        },
+        {
+            "no": "37",
+            "date": "2020-03-04",
+            "status": "unknown",
+            "origin": {
+                "type": "T",
+                "path": null
+            },
+            "location": {
+                "region": "Stockholm County",
+                "city": "-"
+            },
+            "treatment": "",
+            "sex": "",
+            "age": ""
+        },
+        {
+            "no": 38,
+            "date": "2020-03-04",
+            "status": "unknown",
+            "origin": {
+                "type": "T",
+                "path": null
+            },
+            "location": {
+                "region": "Stockholm County",
+                "city": "-"
+            },
+            "treatment": "",
+            "sex": "",
+            "age": ""
+        },
+        {
+            "no": 39,
+            "date": "2020-03-04",
+            "status": "unknown",
+            "origin": {
+                "type": "T",
+                "path": null
+            },
+            "location": {
+                "region": "Stockholm County",
+                "city": "-"
+            },
+            "treatment": "",
+            "sex": "",
+            "age": ""
+        },
+        {
+            "no": 40,
+            "date": "2020-03-04",
+            "status": "unknown",
+            "origin": {
+                "type": "T",
+                "path": null
+            },
+            "location": {
+                "region": "Stockholm County",
+                "city": "-"
+            },
+            "treatment": "",
+            "sex": "",
+            "age": ""
+        },
+        {
+            "no": 41,
+            "date": "2020-03-04",
+            "status": "unknown",
+            "origin": {
+                "type": "T",
+                "path": null
+            },
+            "location": {
+                "region": "Stockholm County",
+                "city": "-"
+            },
+            "treatment": "",
+            "sex": "",
+            "age": ""
+        },
+        {
+            "no": 42,
+            "date": "2020-03-04",
+            "status": "unknown",
+            "origin": {
+                "type": "T",
+                "path": null
+            },
+            "location": {
+                "region": "Stockholm County",
+                "city": "-"
+            },
+            "treatment": "",
+            "sex": "",
+            "age": ""
+        },
+        {
+            "no": 43,
+            "date": "2020-03-04",
+            "status": "unknown",
+            "origin": {
+                "type": "T",
+                "path": null
+            },
+            "location": {
+                "region": "Stockholm County",
+                "city": "-"
+            },
+            "treatment": "",
+            "sex": "",
+            "age": ""
+        },
+        {
+            "no": 44,
+            "date": "2020-03-04",
+            "status": "unknown",
+            "origin": {
+                "type": "T",
+                "path": null
+            },
+            "location": {
+                "region": "Stockholm County",
+                "city": "-"
+            },
+            "treatment": "",
+            "sex": "",
+            "age": ""
+        },
+        {
+            "no": 45,
+            "date": "2020-03-04",
+            "status": "unknown",
+            "origin": {
+                "type": "T",
+                "path": null
+            },
+            "location": {
+                "region": "Stockholm County",
+                "city": "-"
+            },
+            "treatment": "",
+            "sex": "",
+            "age": ""
+        },
+        {
+            "no": 46,
+            "date": "2020-03-04",
+            "status": "unknown",
+            "origin": {
+                "type": "T",
+                "path": null
+            },
+            "location": {
+                "region": "Stockholm County",
+                "city": "-"
+            },
+            "treatment": "",
+            "sex": "",
+            "age": ""
+        },
+        {
+            "no": 47,
+            "date": "2020-03-04",
+            "status": "unknown",
+            "origin": {
+                "type": "T",
+                "path": null
+            },
+            "location": {
+                "region": "Stockholm County",
+                "city": "-"
+            },
+            "treatment": "",
+            "sex": "",
+            "age": ""
+        },
+        {
+            "no": 48,
+            "date": "2020-03-04",
+            "status": "unknown",
+            "origin": {
+                "type": "T",
+                "path": null
+            },
+            "location": {
+                "region": "Stockholm County",
+                "city": "-"
+            },
+            "treatment": "",
+            "sex": "",
+            "age": ""
+        },
+        {
+            "no": 49,
+            "date": "2020-03-04",
+            "status": "unknown",
+            "origin": {
+                "type": "T",
+                "path": null
+            },
+            "location": {
+                "region": "Stockholm County",
+                "city": "-"
+            },
+            "treatment": "",
+            "sex": "",
+            "age": ""
+        },
+        {
+            "no": 50,
+            "date": "2020-03-04",
+            "status": "unknown",
+            "origin": {
+                "type": "T",
+                "path": null
+            },
+            "location": {
+                "region": "Stockholm County",
+                "city": "-"
+            },
+            "treatment": "",
+            "sex": "",
+            "age": ""
+        },
+        {
+            "no": 51,
+            "date": "2020-03-04",
+            "status": "unknown",
+            "origin": {
+                "type": "T",
+                "path": null
+            },
+            "location": {
+                "region": "Stockholm County",
+                "city": "-"
+            },
+            "treatment": "",
+            "sex": "",
+            "age": ""
+        },
+        {
+            "no": "52",
+            "date": "2020-03-04",
+            "status": "unknown",
+            "origin": {
+                "type": "T",
+                "path": null
+            },
+            "location": {
+                "region": "Stockholm County",
+                "city": "-"
+            },
+            "treatment": "",
+            "sex": "",
+            "age": ""
+        },
+        {
+            "no": "53",
+            "date": "2020-03-05",
+            "status": "unknown",
+            "origin": {
+                "type": "T",
+                "path": null
+            },
+            "location": {
+                "region": "V\u00e4stra G\u00f6taland County",
+                "city": "Bor\u00e5s"
+            },
+            "treatment": "",
+            "sex": "",
+            "age": ""
+        },
+        {
+            "no": "54",
+            "date": "2020-03-05",
+            "status": "unknown",
+            "origin": {
+                "type": "T",
+                "path": null
+            },
+            "location": {
+                "region": "Sk\u00e5ne County",
+                "city": "-"
+            },
+            "treatment": "",
+            "sex": "",
+            "age": ""
+        },
+        {
+            "no": 55,
+            "date": "2020-03-05",
+            "status": "unknown",
+            "origin": {
+                "type": "T",
+                "path": null
+            },
+            "location": {
+                "region": "Sk\u00e5ne County",
+                "city": "-"
+            },
+            "treatment": "",
+            "sex": "",
+            "age": ""
+        },
+        {
+            "no": 56,
+            "date": "2020-03-05",
+            "status": "unknown",
+            "origin": {
+                "type": "T",
+                "path": null
+            },
+            "location": {
+                "region": "Sk\u00e5ne County",
+                "city": "-"
+            },
+            "treatment": "",
+            "sex": "",
+            "age": ""
+        },
+        {
+            "no": 57,
+            "date": "2020-03-05",
+            "status": "unknown",
+            "origin": {
+                "type": "T",
+                "path": null
+            },
+            "location": {
+                "region": "Sk\u00e5ne County",
+                "city": "-"
+            },
+            "treatment": "",
+            "sex": "",
+            "age": ""
+        },
+        {
+            "no": 58,
+            "date": "2020-03-05",
+            "status": "unknown",
+            "origin": {
+                "type": "T",
+                "path": null
+            },
+            "location": {
+                "region": "Sk\u00e5ne County",
+                "city": "-"
+            },
+            "treatment": "",
+            "sex": "",
+            "age": ""
+        },
+        {
+            "no": 59,
+            "date": "2020-03-05",
+            "status": "unknown",
+            "origin": {
+                "type": "T",
+                "path": null
+            },
+            "location": {
+                "region": "Sk\u00e5ne County",
+                "city": "-"
+            },
+            "treatment": "",
+            "sex": "",
+            "age": ""
+        },
+        {
+            "no": 60,
+            "date": "2020-03-05",
+            "status": "unknown",
+            "origin": {
+                "type": "T",
+                "path": null
+            },
+            "location": {
+                "region": "Sk\u00e5ne County",
+                "city": "-"
+            },
+            "treatment": "",
+            "sex": "",
+            "age": ""
+        },
+        {
+            "no": "61",
+            "date": "2020-03-05",
+            "status": "unknown",
+            "origin": {
+                "type": "PTP",
+                "path": null
+            },
+            "location": {
+                "region": "V\u00e4rmland County",
+                "city": "-"
+            },
+            "treatment": "",
+            "sex": "",
+            "age": ""
+        },
+        {
+            "no": 62,
+            "date": "2020-03-05",
+            "status": "unknown",
+            "origin": {
+                "type": "PTP",
+                "path": null
+            },
+            "location": {
+                "region": "V\u00e4rmland County",
+                "city": "-"
+            },
+            "treatment": "",
+            "sex": "",
+            "age": ""
+        },
+        {
+            "no": "63",
+            "date": "2020-03-05",
+            "status": "unknown",
+            "origin": {
+                "type": "T",
+                "path": null
+            },
+            "location": {
+                "region": "V\u00e4rmland County",
+                "city": "-"
+            },
+            "treatment": "",
+            "sex": "",
+            "age": ""
+        },
+        {
+            "no": "64",
+            "date": "2020-03-05",
+            "status": "unknown",
+            "origin": {
+                "type": "T",
+                "path": null
+            },
+            "location": {
+                "region": "G\u00e4vleborg County",
+                "city": "-"
+            },
+            "treatment": "",
+            "sex": "",
+            "age": ""
+        },
+        {
+            "no": "65",
+            "date": "2020-03-05",
+            "status": "unknown",
+            "origin": {
+                "type": "T\/TPTP",
+                "path": null
+            },
+            "location": {
+                "region": "Stockholm County",
+                "city": "-"
+            },
+            "treatment": "",
+            "sex": "",
+            "age": ""
+        },
+        {
+            "no": 66,
+            "date": "2020-03-05",
+            "status": "unknown",
+            "origin": {
+                "type": "T\/TPTP",
+                "path": null
+            },
+            "location": {
+                "region": "Stockholm County",
+                "city": "-"
+            },
+            "treatment": "",
+            "sex": "",
+            "age": ""
+        },
+        {
+            "no": 67,
+            "date": "2020-03-05",
+            "status": "unknown",
+            "origin": {
+                "type": "T\/TPTP",
+                "path": null
+            },
+            "location": {
+                "region": "Stockholm County",
+                "city": "-"
+            },
+            "treatment": "",
+            "sex": "",
+            "age": ""
+        },
+        {
+            "no": 68,
+            "date": "2020-03-05",
+            "status": "unknown",
+            "origin": {
+                "type": "T\/TPTP",
+                "path": null
+            },
+            "location": {
+                "region": "Stockholm County",
+                "city": "-"
+            },
+            "treatment": "",
+            "sex": "",
+            "age": ""
+        },
+        {
+            "no": 69,
+            "date": "2020-03-05",
+            "status": "unknown",
+            "origin": {
+                "type": "T\/TPTP",
+                "path": null
+            },
+            "location": {
+                "region": "Stockholm County",
+                "city": "-"
+            },
+            "treatment": "",
+            "sex": "",
+            "age": ""
+        },
+        {
+            "no": 70,
+            "date": "2020-03-05",
+            "status": "unknown",
+            "origin": {
+                "type": "T\/TPTP",
+                "path": null
+            },
+            "location": {
+                "region": "Stockholm County",
+                "city": "-"
+            },
+            "treatment": "",
+            "sex": "",
+            "age": ""
+        },
+        {
+            "no": 71,
+            "date": "2020-03-05",
+            "status": "unknown",
+            "origin": {
+                "type": "T\/TPTP",
+                "path": null
+            },
+            "location": {
+                "region": "Stockholm County",
+                "city": "-"
+            },
+            "treatment": "",
+            "sex": "",
+            "age": ""
+        },
+        {
+            "no": 72,
+            "date": "2020-03-05",
+            "status": "unknown",
+            "origin": {
+                "type": "T\/TPTP",
+                "path": null
+            },
+            "location": {
+                "region": "Stockholm County",
+                "city": "-"
+            },
+            "treatment": "",
+            "sex": "",
+            "age": ""
+        },
+        {
+            "no": 73,
+            "date": "2020-03-05",
+            "status": "unknown",
+            "origin": {
+                "type": "T\/TPTP",
+                "path": null
+            },
+            "location": {
+                "region": "Stockholm County",
+                "city": "-"
+            },
+            "treatment": "",
+            "sex": "",
+            "age": ""
+        },
+        {
+            "no": 74,
+            "date": "2020-03-05",
+            "status": "unknown",
+            "origin": {
+                "type": "T\/TPTP",
+                "path": null
+            },
+            "location": {
+                "region": "Stockholm County",
+                "city": "-"
+            },
+            "treatment": "",
+            "sex": "",
+            "age": ""
+        },
+        {
+            "no": 75,
+            "date": "2020-03-05",
+            "status": "unknown",
+            "origin": {
+                "type": "T\/TPTP",
+                "path": null
+            },
+            "location": {
+                "region": "Stockholm County",
+                "city": "-"
+            },
+            "treatment": "",
+            "sex": "",
+            "age": ""
+        },
+        {
+            "no": 76,
+            "date": "2020-03-05",
+            "status": "unknown",
+            "origin": {
+                "type": "T\/TPTP",
+                "path": null
+            },
+            "location": {
+                "region": "Stockholm County",
+                "city": "-"
+            },
+            "treatment": "",
+            "sex": "",
+            "age": ""
+        },
+        {
+            "no": 77,
+            "date": "2020-03-05",
+            "status": "unknown",
+            "origin": {
+                "type": "T\/TPTP",
+                "path": null
+            },
+            "location": {
+                "region": "Stockholm County",
+                "city": "-"
+            },
+            "treatment": "",
+            "sex": "",
+            "age": ""
+        },
+        {
+            "no": 78,
+            "date": "2020-03-05",
+            "status": "unknown",
+            "origin": {
+                "type": "T\/TPTP",
+                "path": null
+            },
+            "location": {
+                "region": "Stockholm County",
+                "city": "-"
+            },
+            "treatment": "",
+            "sex": "",
+            "age": ""
+        },
+        {
+            "no": "79",
+            "date": "2020-03-05",
+            "status": "unknown",
+            "origin": {
+                "type": "T\/TPTP",
+                "path": null
+            },
+            "location": {
+                "region": "Stockholm County",
+                "city": "-"
+            },
+            "treatment": "",
+            "sex": "",
+            "age": ""
+        },
+        {
+            "no": 80,
+            "date": "2020-03-05",
+            "status": "unknown",
+            "origin": {
+                "type": "T\/TPTP",
+                "path": null
+            },
+            "location": {
+                "region": "Stockholm County",
+                "city": "-"
+            },
+            "treatment": "",
+            "sex": "",
+            "age": ""
+        },
+        {
+            "no": 81,
+            "date": "2020-03-05",
+            "status": "unknown",
+            "origin": {
+                "type": "T\/TPTP",
+                "path": null
+            },
+            "location": {
+                "region": "Stockholm County",
+                "city": "-"
+            },
+            "treatment": "",
+            "sex": "",
+            "age": ""
+        },
+        {
+            "no": 82,
+            "date": "2020-03-05",
+            "status": "unknown",
+            "origin": {
+                "type": "T\/TPTP",
+                "path": null
+            },
+            "location": {
+                "region": "Stockholm County",
+                "city": "-"
+            },
+            "treatment": "",
+            "sex": "",
+            "age": ""
+        },
+        {
+            "no": 83,
+            "date": "2020-03-05",
+            "status": "unknown",
+            "origin": {
+                "type": "T\/TPTP",
+                "path": null
+            },
+            "location": {
+                "region": "Stockholm County",
+                "city": "-"
+            },
+            "treatment": "",
+            "sex": "",
+            "age": ""
+        },
+        {
+            "no": 84,
+            "date": "2020-03-05",
+            "status": "unknown",
+            "origin": {
+                "type": "T\/TPTP",
+                "path": null
+            },
+            "location": {
+                "region": "Stockholm County",
+                "city": "-"
+            },
+            "treatment": "",
+            "sex": "",
+            "age": ""
+        },
+        {
+            "no": 85,
+            "date": "2020-03-05",
+            "status": "unknown",
+            "origin": {
+                "type": "T\/TPTP",
+                "path": null
+            },
+            "location": {
+                "region": "Stockholm County",
+                "city": "-"
+            },
+            "treatment": "",
+            "sex": "",
+            "age": ""
+        },
+        {
+            "no": 86,
+            "date": "2020-03-05",
+            "status": "unknown",
+            "origin": {
+                "type": "T\/TPTP",
+                "path": null
+            },
+            "location": {
+                "region": "Stockholm County",
+                "city": "-"
+            },
+            "treatment": "",
+            "sex": "",
+            "age": ""
+        },
+        {
+            "no": 87,
+            "date": "2020-03-05",
+            "status": "unknown",
+            "origin": {
+                "type": "T\/TPTP",
+                "path": null
+            },
+            "location": {
+                "region": "Stockholm County",
+                "city": "-"
+            },
+            "treatment": "",
+            "sex": "",
+            "age": ""
+        },
+        {
+            "no": 88,
+            "date": "2020-03-05",
+            "status": "unknown",
+            "origin": {
+                "type": "T\/TPTP",
+                "path": null
+            },
+            "location": {
+                "region": "Stockholm County",
+                "city": "-"
+            },
+            "treatment": "",
+            "sex": "",
+            "age": ""
+        },
+        {
+            "no": 89,
+            "date": "2020-03-05",
+            "status": "unknown",
+            "origin": {
+                "type": "T\/TPTP",
+                "path": null
+            },
+            "location": {
+                "region": "Stockholm County",
+                "city": "-"
+            },
+            "treatment": "",
+            "sex": "",
+            "age": ""
+        },
+        {
+            "no": 90,
+            "date": "2020-03-05",
+            "status": "unknown",
+            "origin": {
+                "type": "T\/TPTP",
+                "path": null
+            },
+            "location": {
+                "region": "Stockholm County",
+                "city": "-"
+            },
+            "treatment": "",
+            "sex": "",
+            "age": ""
+        },
+        {
+            "no": 91,
+            "date": "2020-03-05",
+            "status": "unknown",
+            "origin": {
+                "type": "T\/TPTP",
+                "path": null
+            },
+            "location": {
+                "region": "Stockholm County",
+                "city": "-"
+            },
+            "treatment": "",
+            "sex": "",
+            "age": ""
+        },
+        {
+            "no": 92,
+            "date": "2020-03-05",
+            "status": "unknown",
+            "origin": {
+                "type": "T\/TPTP",
+                "path": null
+            },
+            "location": {
+                "region": "Stockholm County",
+                "city": "-"
+            },
+            "treatment": "",
+            "sex": "",
+            "age": ""
+        },
+        {
+            "no": "93",
+            "date": "2020-03-05",
+            "status": "unknown",
+            "origin": {
+                "type": "T",
+                "path": null
+            },
+            "location": {
+                "region": "Uppsala County",
+                "city": "-"
+            },
+            "treatment": "",
+            "sex": "",
+            "age": ""
+        },
+        {
+            "no": 94,
+            "date": "2020-03-05",
+            "status": "unknown",
+            "origin": {
+                "type": "T",
+                "path": null
+            },
+            "location": {
+                "region": "Uppsala County",
+                "city": "-"
+            },
+            "treatment": "",
+            "sex": "",
+            "age": ""
+        },
+        {
+            "no": "95",
+            "date": "2020-03-06",
+            "status": "unknown",
+            "origin": {
+                "type": "T",
+                "path": null
+            },
+            "location": {
+                "region": "V\u00e4stra G\u00f6taland County",
+                "city": "-"
+            },
+            "treatment": "",
+            "sex": "",
+            "age": ""
+        },
+        {
+            "no": "96",
+            "date": "2020-03-06",
+            "status": "unknown",
+            "origin": {
+                "type": "T",
+                "path": null
+            },
+            "location": {
+                "region": "V\u00e4stra G\u00f6taland County",
+                "city": "-"
+            },
+            "treatment": "",
+            "sex": "",
+            "age": ""
+        },
+        {
+            "no": "97",
+            "date": "2020-03-06",
+            "status": "unknown",
+            "origin": {
+                "type": "T",
+                "path": null
+            },
+            "location": {
+                "region": "Sk\u00e5ne County",
+                "city": "-"
+            },
+            "treatment": "",
+            "sex": "",
+            "age": ""
+        },
+        {
+            "no": 98,
+            "date": "2020-03-06",
+            "status": "unknown",
+            "origin": {
+                "type": "T",
+                "path": null
+            },
+            "location": {
+                "region": "Sk\u00e5ne County",
+                "city": "-"
+            },
+            "treatment": "",
+            "sex": "",
+            "age": ""
+        },
+        {
+            "no": 99,
+            "date": "2020-03-06",
+            "status": "unknown",
+            "origin": {
+                "type": "T",
+                "path": null
+            },
+            "location": {
+                "region": "Sk\u00e5ne County",
+                "city": "-"
+            },
+            "treatment": "",
+            "sex": "",
+            "age": ""
+        },
+        {
+            "no": 100,
+            "date": "2020-03-06",
+            "status": "unknown",
+            "origin": {
+                "type": "T",
+                "path": null
+            },
+            "location": {
+                "region": "Sk\u00e5ne County",
+                "city": "-"
+            },
+            "treatment": "",
+            "sex": "",
+            "age": ""
+        },
+        {
+            "no": 101,
+            "date": "2020-03-06",
+            "status": "unknown",
+            "origin": {
+                "type": "T",
+                "path": null
+            },
+            "location": {
+                "region": "Sk\u00e5ne County",
+                "city": "-"
+            },
+            "treatment": "",
+            "sex": "",
+            "age": ""
+        },
+        {
+            "no": "102",
+            "date": "2020-03-06",
+            "status": "unknown",
+            "origin": {
+                "type": "T\/TPTP",
+                "path": null
+            },
+            "location": {
+                "region": "V\u00e4rmland County",
+                "city": "-"
+            },
+            "treatment": "",
+            "sex": "",
+            "age": ""
+        },
+        {
+            "no": 103,
+            "date": "2020-03-06",
+            "status": "unknown",
+            "origin": {
+                "type": "T\/TPTP",
+                "path": null
+            },
+            "location": {
+                "region": "V\u00e4rmland County",
+                "city": "-"
+            },
+            "treatment": "",
+            "sex": "",
+            "age": ""
+        },
+        {
+            "no": 104,
+            "date": "2020-03-06",
+            "status": "unknown",
+            "origin": {
+                "type": "T\/TPTP",
+                "path": null
+            },
+            "location": {
+                "region": "V\u00e4rmland County",
+                "city": "-"
+            },
+            "treatment": "",
+            "sex": "",
+            "age": ""
+        },
+        {
+            "no": 105,
+            "date": "2020-03-06",
+            "status": "unknown",
+            "origin": {
+                "type": "T\/TPTP",
+                "path": null
+            },
+            "location": {
+                "region": "V\u00e4rmland County",
+                "city": "-"
+            },
+            "treatment": "",
+            "sex": "",
+            "age": ""
+        },
+        {
+            "no": 106,
+            "date": "2020-03-06",
+            "status": "unknown",
+            "origin": {
+                "type": "T\/TPTP",
+                "path": null
+            },
+            "location": {
+                "region": "V\u00e4rmland County",
+                "city": "-"
+            },
+            "treatment": "",
+            "sex": "",
+            "age": ""
+        },
+        {
+            "no": 107,
+            "date": "2020-03-06",
+            "status": "unknown",
+            "origin": {
+                "type": "T\/TPTP",
+                "path": null
+            },
+            "location": {
+                "region": "V\u00e4rmland County",
+                "city": "-"
+            },
+            "treatment": "",
+            "sex": "",
+            "age": ""
+        },
+        {
+            "no": 108,
+            "date": "2020-03-06",
+            "status": "unknown",
+            "origin": {
+                "type": "T\/TPTP",
+                "path": null
+            },
+            "location": {
+                "region": "V\u00e4rmland County",
+                "city": "-"
+            },
+            "treatment": "",
+            "sex": "",
+            "age": ""
+        },
+        {
+            "no": "109",
+            "date": "2020-03-06",
+            "status": "unknown",
+            "origin": {
+                "type": "T",
+                "path": null
+            },
+            "location": {
+                "region": "V\u00e4rmland County",
+                "city": "-"
+            },
+            "treatment": "",
+            "sex": "",
+            "age": ""
+        },
+        {
+            "no": "110",
+            "date": "2020-03-06",
+            "status": "unknown",
+            "origin": {
+                "type": "PTP",
+                "path": null
+            },
+            "location": {
+                "region": "Uppsala County",
+                "city": "-"
+            },
+            "treatment": "",
+            "sex": "",
+            "age": ""
+        },
+        {
+            "no": "111",
+            "date": "2020-03-06",
+            "status": "unknown",
+            "origin": {
+                "type": "T",
+                "path": null
+            },
+            "location": {
+                "region": "J\u00f6nk\u00f6ping County",
+                "city": "-"
+            },
+            "treatment": "",
+            "sex": "",
+            "age": ""
+        },
+        {
+            "no": "112",
+            "date": "2020-03-06",
+            "status": "unknown",
+            "origin": {
+                "type": "T",
+                "path": null
+            },
+            "location": {
+                "region": "J\u00f6nk\u00f6ping County",
+                "city": "-"
+            },
+            "treatment": "",
+            "sex": "",
+            "age": ""
+        },
+        {
+            "no": 113,
+            "date": "2020-03-06",
+            "status": "unknown",
+            "origin": {
+                "type": "T",
+                "path": null
+            },
+            "location": {
+                "region": "J\u00f6nk\u00f6ping County",
+                "city": "-"
+            },
+            "treatment": "",
+            "sex": "",
+            "age": ""
+        },
+        {
+            "no": "114",
+            "date": "2020-03-06",
+            "status": "unknown",
+            "origin": {
+                "type": "PTP",
+                "path": null
+            },
+            "location": {
+                "region": "J\u00f6nk\u00f6ping County",
+                "city": "-"
+            },
+            "treatment": "",
+            "sex": "",
+            "age": ""
+        },
+        {
+            "no": "115",
+            "date": "2020-03-06",
+            "status": "unknown",
+            "origin": {
+                "type": "PTP",
+                "path": null
+            },
+            "location": {
+                "region": "J\u00f6nk\u00f6ping County",
+                "city": "-"
+            },
+            "treatment": "",
+            "sex": "",
+            "age": ""
+        },
+        {
+            "no": "116",
+            "date": "2020-03-06",
+            "status": "unknown",
+            "origin": {
+                "type": "T\/TPTP",
+                "path": null
+            },
+            "location": {
+                "region": "Stockholm County",
+                "city": "-"
+            },
+            "treatment": "",
+            "sex": "",
+            "age": ""
+        },
+        {
+            "no": 117,
+            "date": "2020-03-06",
+            "status": "unknown",
+            "origin": {
+                "type": "T\/TPTP",
+                "path": null
+            },
+            "location": {
+                "region": "Stockholm County",
+                "city": "-"
+            },
+            "treatment": "",
+            "sex": "",
+            "age": ""
+        },
+        {
+            "no": 118,
+            "date": "2020-03-06",
+            "status": "unknown",
+            "origin": {
+                "type": "T\/TPTP",
+                "path": null
+            },
+            "location": {
+                "region": "Stockholm County",
+                "city": "-"
+            },
+            "treatment": "",
+            "sex": "",
+            "age": ""
+        },
+        {
+            "no": 119,
+            "date": "2020-03-06",
+            "status": "unknown",
+            "origin": {
+                "type": "T\/TPTP",
+                "path": null
+            },
+            "location": {
+                "region": "Stockholm County",
+                "city": "-"
+            },
+            "treatment": "",
+            "sex": "",
+            "age": ""
+        },
+        {
+            "no": 120,
+            "date": "2020-03-06",
+            "status": "unknown",
+            "origin": {
+                "type": "T\/TPTP",
+                "path": null
+            },
+            "location": {
+                "region": "Stockholm County",
+                "city": "-"
+            },
+            "treatment": "",
+            "sex": "",
+            "age": ""
+        },
+        {
+            "no": 121,
+            "date": "2020-03-06",
+            "status": "unknown",
+            "origin": {
+                "type": "T\/TPTP",
+                "path": null
+            },
+            "location": {
+                "region": "Stockholm County",
+                "city": "-"
+            },
+            "treatment": "",
+            "sex": "",
+            "age": ""
+        },
+        {
+            "no": 122,
+            "date": "2020-03-06",
+            "status": "unknown",
+            "origin": {
+                "type": "T\/TPTP",
+                "path": null
+            },
+            "location": {
+                "region": "Stockholm County",
+                "city": "-"
+            },
+            "treatment": "",
+            "sex": "",
+            "age": ""
+        },
+        {
+            "no": 123,
+            "date": "2020-03-06",
+            "status": "unknown",
+            "origin": {
+                "type": "T\/TPTP",
+                "path": null
+            },
+            "location": {
+                "region": "Stockholm County",
+                "city": "-"
+            },
+            "treatment": "",
+            "sex": "",
+            "age": ""
+        },
+        {
+            "no": 124,
+            "date": "2020-03-06",
+            "status": "unknown",
+            "origin": {
+                "type": "T\/TPTP",
+                "path": null
+            },
+            "location": {
+                "region": "Stockholm County",
+                "city": "-"
+            },
+            "treatment": "",
+            "sex": "",
+            "age": ""
+        },
+        {
+            "no": 125,
+            "date": "2020-03-06",
+            "status": "unknown",
+            "origin": {
+                "type": "T\/TPTP",
+                "path": null
+            },
+            "location": {
+                "region": "Stockholm County",
+                "city": "-"
+            },
+            "treatment": "",
+            "sex": "",
+            "age": ""
+        },
+        {
+            "no": 126,
+            "date": "2020-03-06",
+            "status": "unknown",
+            "origin": {
+                "type": "T\/TPTP",
+                "path": null
+            },
+            "location": {
+                "region": "Stockholm County",
+                "city": "-"
+            },
+            "treatment": "",
+            "sex": "",
+            "age": ""
+        },
+        {
+            "no": 127,
+            "date": "2020-03-06",
+            "status": "unknown",
+            "origin": {
+                "type": "T\/TPTP",
+                "path": null
+            },
+            "location": {
+                "region": "Stockholm County",
+                "city": "-"
+            },
+            "treatment": "",
+            "sex": "",
+            "age": ""
+        },
+        {
+            "no": 128,
+            "date": "2020-03-06",
+            "status": "unknown",
+            "origin": {
+                "type": "T\/TPTP",
+                "path": null
+            },
+            "location": {
+                "region": "Stockholm County",
+                "city": "-"
+            },
+            "treatment": "",
+            "sex": "",
+            "age": ""
+        },
+        {
+            "no": 129,
+            "date": "2020-03-06",
+            "status": "unknown",
+            "origin": {
+                "type": "T\/TPTP",
+                "path": null
+            },
+            "location": {
+                "region": "Stockholm County",
+                "city": "-"
+            },
+            "treatment": "",
+            "sex": "",
+            "age": ""
+        },
+        {
+            "no": 130,
+            "date": "2020-03-06",
+            "status": "unknown",
+            "origin": {
+                "type": "T\/TPTP",
+                "path": null
+            },
+            "location": {
+                "region": "Stockholm County",
+                "city": "-"
+            },
+            "treatment": "",
+            "sex": "",
+            "age": ""
+        },
+        {
+            "no": 131,
+            "date": "2020-03-06",
+            "status": "unknown",
+            "origin": {
+                "type": "T\/TPTP",
+                "path": null
+            },
+            "location": {
+                "region": "Stockholm County",
+                "city": "-"
+            },
+            "treatment": "",
+            "sex": "",
+            "age": ""
+        },
+        {
+            "no": 132,
+            "date": "2020-03-06",
+            "status": "unknown",
+            "origin": {
+                "type": "T\/TPTP",
+                "path": null
+            },
+            "location": {
+                "region": "Stockholm County",
+                "city": "-"
+            },
+            "treatment": "",
+            "sex": "",
+            "age": ""
+        },
+        {
+            "no": 133,
+            "date": "2020-03-06",
+            "status": "unknown",
+            "origin": {
+                "type": "T\/TPTP",
+                "path": null
+            },
+            "location": {
+                "region": "Stockholm County",
+                "city": "-"
+            },
+            "treatment": "",
+            "sex": "",
+            "age": ""
+        },
+        {
+            "no": 134,
+            "date": "2020-03-06",
+            "status": "unknown",
+            "origin": {
+                "type": "T\/TPTP",
+                "path": null
+            },
+            "location": {
+                "region": "Stockholm County",
+                "city": "-"
+            },
+            "treatment": "",
+            "sex": "",
+            "age": ""
+        },
+        {
+            "no": 135,
+            "date": "2020-03-06",
+            "status": "unknown",
+            "origin": {
+                "type": "T\/TPTP",
+                "path": null
+            },
+            "location": {
+                "region": "Stockholm County",
+                "city": "-"
+            },
+            "treatment": "",
+            "sex": "",
+            "age": ""
+        },
+        {
+            "no": 136,
+            "date": "2020-03-06",
+            "status": "unknown",
+            "origin": {
+                "type": "T\/TPTP",
+                "path": null
+            },
+            "location": {
+                "region": "Stockholm County",
+                "city": "-"
+            },
+            "treatment": "",
+            "sex": "",
+            "age": ""
+        },
+        {
+            "no": "137",
+            "date": "2020-03-06",
+            "status": "unknown",
+            "origin": {
+                "type": "T",
+                "path": null
+            },
+            "location": {
+                "region": "G\u00e4vleborg County",
+                "city": "-"
+            },
+            "treatment": "",
+            "sex": "",
+            "age": ""
+        },
+        {
+            "no": "138",
+            "date": "2020-03-07",
+            "status": "unknown",
+            "origin": {
+                "type": false,
+                "path": null
+            },
+            "location": {
+                "region": "Sk\u00e5ne County",
+                "city": "-"
+            },
+            "treatment": "",
+            "sex": "",
+            "age": ""
+        },
+        {
+            "no": 139,
+            "date": "2020-03-07",
+            "status": "unknown",
+            "origin": {
+                "type": false,
+                "path": null
+            },
+            "location": {
+                "region": "Sk\u00e5ne County",
+                "city": "-"
+            },
+            "treatment": "",
+            "sex": "",
+            "age": ""
+        },
+        {
+            "no": 140,
+            "date": "2020-03-07",
+            "status": "unknown",
+            "origin": {
+                "type": false,
+                "path": null
+            },
+            "location": {
+                "region": "Sk\u00e5ne County",
+                "city": "-"
+            },
+            "treatment": "",
+            "sex": "",
+            "age": ""
+        },
+        {
+            "no": "141",
+            "date": "2020-03-07",
+            "status": "unknown",
+            "origin": {
+                "type": "T",
+                "path": null
+            },
+            "location": {
+                "region": "Stockholm County",
+                "city": "-"
+            },
+            "treatment": "",
+            "sex": "",
+            "age": ""
+        },
+        {
+            "no": "142",
+            "date": "2020-03-07",
+            "status": "unknown",
+            "origin": {
+                "type": false,
+                "path": null
+            },
+            "location": {
+                "region": "Stockholm County",
+                "city": "-"
+            },
+            "treatment": "",
+            "sex": "",
+            "age": ""
+        },
+        {
+            "no": 143,
+            "date": "2020-03-07",
+            "status": "unknown",
+            "origin": {
+                "type": false,
+                "path": null
+            },
+            "location": {
+                "region": "Stockholm County",
+                "city": "-"
+            },
+            "treatment": "",
+            "sex": "",
+            "age": ""
+        },
+        {
+            "no": 144,
+            "date": "2020-03-07",
+            "status": "unknown",
+            "origin": {
+                "type": false,
+                "path": null
+            },
+            "location": {
+                "region": "Stockholm County",
+                "city": "-"
+            },
+            "treatment": "",
+            "sex": "",
+            "age": ""
+        },
+        {
+            "no": 145,
+            "date": "2020-03-07",
+            "status": "unknown",
+            "origin": {
+                "type": false,
+                "path": null
+            },
+            "location": {
+                "region": "Stockholm County",
+                "city": "-"
+            },
+            "treatment": "",
+            "sex": "",
+            "age": ""
+        },
+        {
+            "no": 146,
+            "date": "2020-03-07",
+            "status": "unknown",
+            "origin": {
+                "type": false,
+                "path": null
+            },
+            "location": {
+                "region": "Stockholm County",
+                "city": "-"
+            },
+            "treatment": "",
+            "sex": "",
+            "age": ""
+        },
+        {
+            "no": 147,
+            "date": "2020-03-07",
+            "status": "unknown",
+            "origin": {
+                "type": false,
+                "path": null
+            },
+            "location": {
+                "region": "Stockholm County",
+                "city": "-"
+            },
+            "treatment": "",
+            "sex": "",
+            "age": ""
+        },
+        {
+            "no": 148,
+            "date": "2020-03-07",
+            "status": "unknown",
+            "origin": {
+                "type": false,
+                "path": null
+            },
+            "location": {
+                "region": "Stockholm County",
+                "city": "-"
+            },
+            "treatment": "",
+            "sex": "",
+            "age": ""
+        },
+        {
+            "no": 149,
+            "date": "2020-03-07",
+            "status": "unknown",
+            "origin": {
+                "type": false,
+                "path": null
+            },
+            "location": {
+                "region": "Stockholm County",
+                "city": "-"
+            },
+            "treatment": "",
+            "sex": "",
+            "age": ""
+        },
+        {
+            "no": 150,
+            "date": "2020-03-07",
+            "status": "unknown",
+            "origin": {
+                "type": false,
+                "path": null
+            },
+            "location": {
+                "region": "Stockholm County",
+                "city": "-"
+            },
+            "treatment": "",
+            "sex": "",
+            "age": ""
+        },
+        {
+            "no": 151,
+            "date": "2020-03-07",
+            "status": "unknown",
+            "origin": {
+                "type": false,
+                "path": null
+            },
+            "location": {
+                "region": "Stockholm County",
+                "city": "-"
+            },
+            "treatment": "",
+            "sex": "",
+            "age": ""
+        },
+        {
+            "no": 152,
+            "date": "2020-03-07",
+            "status": "unknown",
+            "origin": {
+                "type": false,
+                "path": null
+            },
+            "location": {
+                "region": "Stockholm County",
+                "city": "-"
+            },
+            "treatment": "",
+            "sex": "",
+            "age": ""
+        },
+        {
+            "no": 153,
+            "date": "2020-03-07",
+            "status": "unknown",
+            "origin": {
+                "type": false,
+                "path": null
+            },
+            "location": {
+                "region": "Stockholm County",
+                "city": "-"
+            },
+            "treatment": "",
+            "sex": "",
+            "age": ""
+        },
+        {
+            "no": 154,
+            "date": "2020-03-07",
+            "status": "unknown",
+            "origin": {
+                "type": false,
+                "path": null
+            },
+            "location": {
+                "region": "Stockholm County",
+                "city": "-"
+            },
+            "treatment": "",
+            "sex": "",
+            "age": ""
+        },
+        {
+            "no": 155,
+            "date": "2020-03-07",
+            "status": "unknown",
+            "origin": {
+                "type": false,
+                "path": null
+            },
+            "location": {
+                "region": "Stockholm County",
+                "city": "-"
+            },
+            "treatment": "",
+            "sex": "",
+            "age": ""
+        },
+        {
+            "no": 156,
+            "date": "2020-03-07",
+            "status": "unknown",
+            "origin": {
+                "type": false,
+                "path": null
+            },
+            "location": {
+                "region": "Stockholm County",
+                "city": "-"
+            },
+            "treatment": "",
+            "sex": "",
+            "age": ""
+        },
+        {
+            "no": 157,
+            "date": "2020-03-07",
+            "status": "unknown",
+            "origin": {
+                "type": false,
+                "path": null
+            },
+            "location": {
+                "region": "Stockholm County",
+                "city": "-"
+            },
+            "treatment": "",
+            "sex": "",
+            "age": ""
+        },
+        {
+            "no": 158,
+            "date": "2020-03-07",
+            "status": "unknown",
+            "origin": {
+                "type": false,
+                "path": null
+            },
+            "location": {
+                "region": "Stockholm County",
+                "city": "-"
+            },
+            "treatment": "",
+            "sex": "",
+            "age": ""
+        },
+        {
+            "no": 159,
+            "date": "2020-03-07",
+            "status": "unknown",
+            "origin": {
+                "type": false,
+                "path": null
+            },
+            "location": {
+                "region": "Stockholm County",
+                "city": "-"
+            },
+            "treatment": "",
+            "sex": "",
+            "age": ""
+        },
+        {
+            "no": 160,
+            "date": "2020-03-07",
+            "status": "unknown",
+            "origin": {
+                "type": false,
+                "path": null
+            },
+            "location": {
+                "region": "Stockholm County",
+                "city": "-"
+            },
+            "treatment": "",
+            "sex": "",
+            "age": ""
+        },
+        {
+            "no": 161,
+            "date": "2020-03-07",
+            "status": "unknown",
+            "origin": {
+                "type": false,
+                "path": null
+            },
+            "location": {
+                "region": "Stockholm County",
+                "city": "-"
+            },
+            "treatment": "",
+            "sex": "",
+            "age": ""
+        },
+        {
+            "no": "162",
+            "date": "2020-03-08",
+            "status": "unknown",
+            "origin": {
+                "type": "T",
+                "path": null
+            },
+            "location": {
+                "region": "Uppsala County",
+                "city": "-"
+            },
+            "treatment": "",
+            "sex": "",
+            "age": ""
+        },
+        {
+            "no": "163",
+            "date": "2020-03-08",
+            "status": "unknown",
+            "origin": {
+                "type": "T\/TPTP",
+                "path": null
+            },
+            "location": {
+                "region": "Sk\u00e5ne County",
+                "city": "-"
+            },
+            "treatment": "",
+            "sex": "",
+            "age": ""
+        },
+        {
+            "no": 164,
+            "date": "2020-03-08",
+            "status": "unknown",
+            "origin": {
+                "type": "T\/TPTP",
+                "path": null
+            },
+            "location": {
+                "region": "Sk\u00e5ne County",
+                "city": "-"
+            },
+            "treatment": "",
+            "sex": "",
+            "age": ""
+        },
+        {
+            "no": 165,
+            "date": "2020-03-08",
+            "status": "unknown",
+            "origin": {
+                "type": "T\/TPTP",
+                "path": null
+            },
+            "location": {
+                "region": "Sk\u00e5ne County",
+                "city": "-"
+            },
+            "treatment": "",
+            "sex": "",
+            "age": ""
+        },
+        {
+            "no": 166,
+            "date": "2020-03-08",
+            "status": "unknown",
+            "origin": {
+                "type": "T\/TPTP",
+                "path": null
+            },
+            "location": {
+                "region": "Sk\u00e5ne County",
+                "city": "-"
+            },
+            "treatment": "",
+            "sex": "",
+            "age": ""
+        },
+        {
+            "no": 167,
+            "date": "2020-03-08",
+            "status": "unknown",
+            "origin": {
+                "type": "T\/TPTP",
+                "path": null
+            },
+            "location": {
+                "region": "Sk\u00e5ne County",
+                "city": "-"
+            },
+            "treatment": "",
+            "sex": "",
+            "age": ""
+        },
+        {
+            "no": "168",
+            "date": "2020-03-08",
+            "status": "unknown",
+            "origin": {
+                "type": "T\/TPTP",
+                "path": null
+            },
+            "location": {
+                "region": "V\u00e4stra G\u00f6taland County",
+                "city": "-"
+            },
+            "treatment": "",
+            "sex": "",
+            "age": ""
+        },
+        {
+            "no": 169,
+            "date": "2020-03-08",
+            "status": "unknown",
+            "origin": {
+                "type": "T\/TPTP",
+                "path": null
+            },
+            "location": {
+                "region": "V\u00e4stra G\u00f6taland County",
+                "city": "-"
+            },
+            "treatment": "",
+            "sex": "",
+            "age": ""
+        },
+        {
+            "no": 170,
+            "date": "2020-03-08",
+            "status": "unknown",
+            "origin": {
+                "type": "T\/TPTP",
+                "path": null
+            },
+            "location": {
+                "region": "V\u00e4stra G\u00f6taland County",
+                "city": "-"
+            },
+            "treatment": "",
+            "sex": "",
+            "age": ""
+        },
+        {
+            "no": 171,
+            "date": "2020-03-08",
+            "status": "unknown",
+            "origin": {
+                "type": "T\/TPTP",
+                "path": null
+            },
+            "location": {
+                "region": "V\u00e4stra G\u00f6taland County",
+                "city": "-"
+            },
+            "treatment": "",
+            "sex": "",
+            "age": ""
+        },
+        {
+            "no": 172,
+            "date": "2020-03-08",
+            "status": "unknown",
+            "origin": {
+                "type": "T\/TPTP",
+                "path": null
+            },
+            "location": {
+                "region": "V\u00e4stra G\u00f6taland County",
+                "city": "-"
+            },
+            "treatment": "",
+            "sex": "",
+            "age": ""
+        },
+        {
+            "no": 173,
+            "date": "2020-03-08",
+            "status": "unknown",
+            "origin": {
+                "type": "T\/TPTP",
+                "path": null
+            },
+            "location": {
+                "region": "V\u00e4stra G\u00f6taland County",
+                "city": "-"
+            },
+            "treatment": "",
+            "sex": "",
+            "age": ""
+        },
+        {
+            "no": 174,
+            "date": "2020-03-08",
+            "status": "unknown",
+            "origin": {
+                "type": "T\/TPTP",
+                "path": null
+            },
+            "location": {
+                "region": "V\u00e4stra G\u00f6taland County",
+                "city": "-"
+            },
+            "treatment": "",
+            "sex": "",
+            "age": ""
+        },
+        {
+            "no": 175,
+            "date": "2020-03-08",
+            "status": "unknown",
+            "origin": {
+                "type": "T\/TPTP",
+                "path": null
+            },
+            "location": {
+                "region": "V\u00e4stra G\u00f6taland County",
+                "city": "-"
+            },
+            "treatment": "",
+            "sex": "",
+            "age": ""
+        },
+        {
+            "no": 176,
+            "date": "2020-03-08",
+            "status": "unknown",
+            "origin": {
+                "type": "T\/TPTP",
+                "path": null
+            },
+            "location": {
+                "region": "V\u00e4stra G\u00f6taland County",
+                "city": "-"
+            },
+            "treatment": "",
+            "sex": "",
+            "age": ""
+        },
+        {
+            "no": 177,
+            "date": "2020-03-08",
+            "status": "unknown",
+            "origin": {
+                "type": "T\/TPTP",
+                "path": null
+            },
+            "location": {
+                "region": "V\u00e4stra G\u00f6taland County",
+                "city": "-"
+            },
+            "treatment": "",
+            "sex": "",
+            "age": ""
+        },
+        {
+            "no": 178,
+            "date": "2020-03-08",
+            "status": "unknown",
+            "origin": {
+                "type": "T\/TPTP",
+                "path": null
+            },
+            "location": {
+                "region": "V\u00e4stra G\u00f6taland County",
+                "city": "-"
+            },
+            "treatment": "",
+            "sex": "",
+            "age": ""
+        },
+        {
+            "no": 179,
+            "date": "2020-03-08",
+            "status": "unknown",
+            "origin": {
+                "type": "T\/TPTP",
+                "path": null
+            },
+            "location": {
+                "region": "V\u00e4stra G\u00f6taland County",
+                "city": "-"
+            },
+            "treatment": "",
+            "sex": "",
+            "age": ""
+        },
+        {
+            "no": "180",
+            "date": "2020-03-08",
+            "status": "unknown",
+            "origin": {
+                "type": "T\/TPTP",
+                "path": null
+            },
+            "location": {
+                "region": "V\u00e4rmland County",
+                "city": "-"
+            },
+            "treatment": "",
+            "sex": "",
+            "age": ""
+        },
+        {
+            "no": 181,
+            "date": "2020-03-08",
+            "status": "unknown",
+            "origin": {
+                "type": "T\/TPTP",
+                "path": null
+            },
+            "location": {
+                "region": "V\u00e4rmland County",
+                "city": "-"
+            },
+            "treatment": "",
+            "sex": "",
+            "age": ""
+        },
+        {
+            "no": 182,
+            "date": "2020-03-08",
+            "status": "unknown",
+            "origin": {
+                "type": "T\/TPTP",
+                "path": null
+            },
+            "location": {
+                "region": "V\u00e4rmland County",
+                "city": "-"
+            },
+            "treatment": "",
+            "sex": "",
+            "age": ""
+        },
+        {
+            "no": 183,
+            "date": "2020-03-08",
+            "status": "unknown",
+            "origin": {
+                "type": "T\/TPTP",
+                "path": null
+            },
+            "location": {
+                "region": "V\u00e4rmland County",
+                "city": "-"
+            },
+            "treatment": "",
+            "sex": "",
+            "age": ""
+        },
+        {
+            "no": 184,
+            "date": "2020-03-08",
+            "status": "unknown",
+            "origin": {
+                "type": "T\/TPTP",
+                "path": null
+            },
+            "location": {
+                "region": "V\u00e4rmland County",
+                "city": "-"
+            },
+            "treatment": "",
+            "sex": "",
+            "age": ""
+        },
+        {
+            "no": 185,
+            "date": "2020-03-08",
+            "status": "unknown",
+            "origin": {
+                "type": "T\/TPTP",
+                "path": null
+            },
+            "location": {
+                "region": "V\u00e4rmland County",
+                "city": "-"
+            },
+            "treatment": "",
+            "sex": "",
+            "age": ""
+        },
+        {
+            "no": 186,
+            "date": "2020-03-08",
+            "status": "unknown",
+            "origin": {
+                "type": "T\/TPTP",
+                "path": null
+            },
+            "location": {
+                "region": "V\u00e4rmland County",
+                "city": "-"
+            },
+            "treatment": "",
+            "sex": "",
+            "age": ""
+        },
+        {
+            "no": "187",
+            "date": "2020-03-08",
+            "status": "unknown",
+            "origin": {
+                "type": "T",
+                "path": null
+            },
+            "location": {
+                "region": "\u00d6rebro County",
+                "city": "-"
+            },
+            "treatment": "",
+            "sex": "",
+            "age": ""
+        },
+        {
+            "no": "188",
+            "date": "2020-03-08",
+            "status": "unknown",
+            "origin": {
+                "type": "PTP",
+                "path": null
+            },
+            "location": {
+                "region": "\u00d6rebro County",
+                "city": "-"
+            },
+            "treatment": "",
+            "sex": "",
+            "age": ""
+        },
+        {
+            "no": "189",
+            "date": "2020-03-08",
+            "status": "unknown",
+            "origin": {
+                "type": "PTP",
+                "path": null
+            },
+            "location": {
+                "region": "\u00d6rebro County",
+                "city": "-"
+            },
+            "treatment": "",
+            "sex": "",
+            "age": ""
+        },
+        {
+            "no": "190",
+            "date": "2020-03-08",
+            "status": "unknown",
+            "origin": {
+                "type": false,
+                "path": null
+            },
+            "location": {
+                "region": "Stockholm County",
+                "city": "-"
+            },
+            "treatment": "",
+            "sex": "",
+            "age": ""
+        },
+        {
+            "no": 191,
+            "date": "2020-03-08",
+            "status": "unknown",
+            "origin": {
+                "type": false,
+                "path": null
+            },
+            "location": {
+                "region": "Stockholm County",
+                "city": "-"
+            },
+            "treatment": "",
+            "sex": "",
+            "age": ""
+        },
+        {
+            "no": 192,
+            "date": "2020-03-08",
+            "status": "unknown",
+            "origin": {
+                "type": false,
+                "path": null
+            },
+            "location": {
+                "region": "Stockholm County",
+                "city": "-"
+            },
+            "treatment": "",
+            "sex": "",
+            "age": ""
+        },
+        {
+            "no": 193,
+            "date": "2020-03-08",
+            "status": "unknown",
+            "origin": {
+                "type": false,
+                "path": null
+            },
+            "location": {
+                "region": "Stockholm County",
+                "city": "-"
+            },
+            "treatment": "",
+            "sex": "",
+            "age": ""
+        },
+        {
+            "no": 194,
+            "date": "2020-03-08",
+            "status": "unknown",
+            "origin": {
+                "type": false,
+                "path": null
+            },
+            "location": {
+                "region": "Stockholm County",
+                "city": "-"
+            },
+            "treatment": "",
+            "sex": "",
+            "age": ""
+        },
+        {
+            "no": 195,
+            "date": "2020-03-08",
+            "status": "unknown",
+            "origin": {
+                "type": false,
+                "path": null
+            },
+            "location": {
+                "region": "Stockholm County",
+                "city": "-"
+            },
+            "treatment": "",
+            "sex": "",
+            "age": ""
+        },
+        {
+            "no": 196,
+            "date": "2020-03-08",
+            "status": "unknown",
+            "origin": {
+                "type": false,
+                "path": null
+            },
+            "location": {
+                "region": "Stockholm County",
+                "city": "-"
+            },
+            "treatment": "",
+            "sex": "",
+            "age": ""
+        },
+        {
+            "no": 197,
+            "date": "2020-03-08",
+            "status": "unknown",
+            "origin": {
+                "type": false,
+                "path": null
+            },
+            "location": {
+                "region": "Stockholm County",
+                "city": "-"
+            },
+            "treatment": "",
+            "sex": "",
+            "age": ""
+        },
+        {
+            "no": 198,
+            "date": "2020-03-08",
+            "status": "unknown",
+            "origin": {
+                "type": false,
+                "path": null
+            },
+            "location": {
+                "region": "Stockholm County",
+                "city": "-"
+            },
+            "treatment": "",
+            "sex": "",
+            "age": ""
+        },
+        {
+            "no": 199,
+            "date": "2020-03-08",
+            "status": "unknown",
+            "origin": {
+                "type": false,
+                "path": null
+            },
+            "location": {
+                "region": "Stockholm County",
+                "city": "-"
+            },
+            "treatment": "",
+            "sex": "",
+            "age": ""
+        },
+        {
+            "no": 200,
+            "date": "2020-03-08",
+            "status": "unknown",
+            "origin": {
+                "type": false,
+                "path": null
+            },
+            "location": {
+                "region": "Stockholm County",
+                "city": "-"
+            },
+            "treatment": "",
+            "sex": "",
+            "age": ""
+        },
+        {
+            "no": 201,
+            "date": "2020-03-08",
+            "status": "unknown",
+            "origin": {
+                "type": false,
+                "path": null
+            },
+            "location": {
+                "region": "Stockholm County",
+                "city": "-"
+            },
+            "treatment": "",
+            "sex": "",
+            "age": ""
+        },
+        {
+            "no": 202,
+            "date": "2020-03-08",
+            "status": "unknown",
+            "origin": {
+                "type": false,
+                "path": null
+            },
+            "location": {
+                "region": "Stockholm County",
+                "city": "-"
+            },
+            "treatment": "",
+            "sex": "",
+            "age": ""
+        },
+        {
+            "no": 203,
+            "date": "2020-03-08",
+            "status": "unknown",
+            "origin": {
+                "type": false,
+                "path": null
+            },
+            "location": {
+                "region": "Stockholm County",
+                "city": "-"
+            },
+            "treatment": "",
+            "sex": "",
+            "age": ""
+        }
+    ],
+    "origins": {
+        "T": {
+            "total": 73
+        },
+        "PTP": {
+            "total": 13
+        },
+        "T\/TPTP": {
+            "total": 80
+        }
+    },
+    "regions": {
+        "J\u00f6nk\u00f6ping County": {
+            "total": 8,
+            "logs": {
+                "2020-01-31": {
+                    "total": 1,
+                    "recovered-fully": 0,
+                    "recovered-clinically": 1,
+                    "intensive-care": 0,
+                    "unknown": 0,
+                    "deceased": 0
+                },
+                "2020-02-28": {
+                    "total": 1,
+                    "recovered-fully": 0,
+                    "recovered-clinically": 0,
+                    "intensive-care": 0,
+                    "unknown": 1,
+                    "deceased": 0
+                },
+                "2020-03-03": {
+                    "total": 1,
+                    "recovered-fully": 0,
+                    "recovered-clinically": 0,
+                    "intensive-care": 0,
+                    "unknown": 1,
+                    "deceased": 0
+                },
+                "2020-03-06": {
+                    "total": 5,
+                    "recovered-fully": 0,
+                    "recovered-clinically": 0,
+                    "intensive-care": 0,
+                    "unknown": 5,
+                    "deceased": 0
+                }
+            }
+        },
+        "V\u00e4stra G\u00f6taland County": {
+            "total": 26,
+            "logs": {
+                "2020-02-26": {
+                    "total": 1,
+                    "recovered-fully": 0,
+                    "recovered-clinically": 0,
+                    "intensive-care": 0,
+                    "unknown": 1,
+                    "deceased": 0
+                },
+                "2020-02-27": {
+                    "total": 3,
+                    "recovered-fully": 0,
+                    "recovered-clinically": 0,
+                    "intensive-care": 0,
+                    "unknown": 3,
+                    "deceased": 0
+                },
+                "2020-02-29": {
+                    "total": 1,
+                    "recovered-fully": 0,
+                    "recovered-clinically": 0,
+                    "intensive-care": 0,
+                    "unknown": 1,
+                    "deceased": 0
+                },
+                "2020-03-01": {
+                    "total": 1,
+                    "recovered-fully": 0,
+                    "recovered-clinically": 0,
+                    "intensive-care": 0,
+                    "unknown": 1,
+                    "deceased": 0
+                },
+                "2020-03-03": {
+                    "total": 3,
+                    "recovered-fully": 0,
+                    "recovered-clinically": 0,
+                    "intensive-care": 0,
+                    "unknown": 3,
+                    "deceased": 0
+                },
+                "2020-03-04": {
+                    "total": 2,
+                    "recovered-fully": 0,
+                    "recovered-clinically": 0,
+                    "intensive-care": 0,
+                    "unknown": 2,
+                    "deceased": 0
+                },
+                "2020-03-05": {
+                    "total": 1,
+                    "recovered-fully": 0,
+                    "recovered-clinically": 0,
+                    "intensive-care": 0,
+                    "unknown": 1,
+                    "deceased": 0
+                },
+                "2020-03-06": {
+                    "total": 2,
+                    "recovered-fully": 0,
+                    "recovered-clinically": 0,
+                    "intensive-care": 0,
+                    "unknown": 2,
+                    "deceased": 0
+                },
+                "2020-03-08": {
+                    "total": 12,
+                    "recovered-fully": 0,
+                    "recovered-clinically": 0,
+                    "intensive-care": 0,
+                    "unknown": 12,
+                    "deceased": 0
+                }
+            }
+        },
+        "Stockholm County": {
+            "total": 115,
+            "logs": {
+                "2020-02-27": {
+                    "total": 1,
+                    "recovered-fully": 0,
+                    "recovered-clinically": 0,
+                    "intensive-care": 0,
+                    "unknown": 1,
+                    "deceased": 0
+                },
+                "2020-02-28": {
+                    "total": 2,
+                    "recovered-fully": 0,
+                    "recovered-clinically": 0,
+                    "intensive-care": 0,
+                    "unknown": 2,
+                    "deceased": 0
+                },
+                "2020-02-29": {
+                    "total": 1,
+                    "recovered-fully": 0,
+                    "recovered-clinically": 0,
+                    "intensive-care": 0,
+                    "unknown": 1,
+                    "deceased": 0
+                },
+                "2020-03-02": {
+                    "total": 1,
+                    "recovered-fully": 0,
+                    "recovered-clinically": 0,
+                    "intensive-care": 0,
+                    "unknown": 1,
+                    "deceased": 0
+                },
+                "2020-03-03": {
+                    "total": 10,
+                    "recovered-fully": 0,
+                    "recovered-clinically": 0,
+                    "intensive-care": 0,
+                    "unknown": 10,
+                    "deceased": 0
+                },
+                "2020-03-04": {
+                    "total": 16,
+                    "recovered-fully": 0,
+                    "recovered-clinically": 0,
+                    "intensive-care": 0,
+                    "unknown": 16,
+                    "deceased": 0
+                },
+                "2020-03-05": {
+                    "total": 28,
+                    "recovered-fully": 0,
+                    "recovered-clinically": 0,
+                    "intensive-care": 0,
+                    "unknown": 28,
+                    "deceased": 0
+                },
+                "2020-03-06": {
+                    "total": 21,
+                    "recovered-fully": 0,
+                    "recovered-clinically": 0,
+                    "intensive-care": 0,
+                    "unknown": 21,
+                    "deceased": 0
+                },
+                "2020-03-07": {
+                    "total": 21,
+                    "recovered-fully": 0,
+                    "recovered-clinically": 0,
+                    "intensive-care": 0,
+                    "unknown": 21,
+                    "deceased": 0
+                },
+                "2020-03-08": {
+                    "total": 14,
+                    "recovered-fully": 0,
+                    "recovered-clinically": 0,
+                    "intensive-care": 0,
+                    "unknown": 14,
+                    "deceased": 0
+                }
+            }
+        },
+        "Uppsala County": {
+            "total": 6,
+            "logs": {
+                "2020-02-27": {
+                    "total": 1,
+                    "recovered-fully": 0,
+                    "recovered-clinically": 0,
+                    "intensive-care": 0,
+                    "unknown": 1,
+                    "deceased": 0
+                },
+                "2020-02-28": {
+                    "total": 1,
+                    "recovered-fully": 0,
+                    "recovered-clinically": 0,
+                    "intensive-care": 0,
+                    "unknown": 1,
+                    "deceased": 0
+                },
+                "2020-03-05": {
+                    "total": 2,
+                    "recovered-fully": 0,
+                    "recovered-clinically": 0,
+                    "intensive-care": 0,
+                    "unknown": 2,
+                    "deceased": 0
+                },
+                "2020-03-06": {
+                    "total": 1,
+                    "recovered-fully": 0,
+                    "recovered-clinically": 0,
+                    "intensive-care": 0,
+                    "unknown": 1,
+                    "deceased": 0
+                },
+                "2020-03-08": {
+                    "total": 1,
+                    "recovered-fully": 0,
+                    "recovered-clinically": 0,
+                    "intensive-care": 0,
+                    "unknown": 1,
+                    "deceased": 0
+                }
+            }
+        },
+        "Sk\u00e5ne County": {
+            "total": 22,
+            "logs": {
+                "2020-03-03": {
+                    "total": 1,
+                    "recovered-fully": 0,
+                    "recovered-clinically": 0,
+                    "intensive-care": 0,
+                    "unknown": 1,
+                    "deceased": 0
+                },
+                "2020-03-04": {
+                    "total": 1,
+                    "recovered-fully": 0,
+                    "recovered-clinically": 0,
+                    "intensive-care": 0,
+                    "unknown": 1,
+                    "deceased": 0
+                },
+                "2020-03-05": {
+                    "total": 7,
+                    "recovered-fully": 0,
+                    "recovered-clinically": 0,
+                    "intensive-care": 0,
+                    "unknown": 7,
+                    "deceased": 0
+                },
+                "2020-03-06": {
+                    "total": 5,
+                    "recovered-fully": 0,
+                    "recovered-clinically": 0,
+                    "intensive-care": 0,
+                    "unknown": 5,
+                    "deceased": 0
+                },
+                "2020-03-07": {
+                    "total": 3,
+                    "recovered-fully": 0,
+                    "recovered-clinically": 0,
+                    "intensive-care": 0,
+                    "unknown": 3,
+                    "deceased": 0
+                },
+                "2020-03-08": {
+                    "total": 5,
+                    "recovered-fully": 0,
+                    "recovered-clinically": 0,
+                    "intensive-care": 0,
+                    "unknown": 5,
+                    "deceased": 0
+                }
+            }
+        },
+        "V\u00e4rmland County": {
+            "total": 20,
+            "logs": {
+                "2020-03-04": {
+                    "total": 2,
+                    "recovered-fully": 0,
+                    "recovered-clinically": 0,
+                    "intensive-care": 0,
+                    "unknown": 2,
+                    "deceased": 0
+                },
+                "2020-03-05": {
+                    "total": 3,
+                    "recovered-fully": 0,
+                    "recovered-clinically": 0,
+                    "intensive-care": 0,
+                    "unknown": 3,
+                    "deceased": 0
+                },
+                "2020-03-06": {
+                    "total": 8,
+                    "recovered-fully": 0,
+                    "recovered-clinically": 0,
+                    "intensive-care": 0,
+                    "unknown": 8,
+                    "deceased": 0
+                },
+                "2020-03-08": {
+                    "total": 7,
+                    "recovered-fully": 0,
+                    "recovered-clinically": 0,
+                    "intensive-care": 0,
+                    "unknown": 7,
+                    "deceased": 0
+                }
+            }
+        },
+        "\u00d6rebro County": {
+            "total": 4,
+            "logs": {
+                "2020-03-04": {
+                    "total": 1,
+                    "recovered-fully": 0,
+                    "recovered-clinically": 0,
+                    "intensive-care": 0,
+                    "unknown": 1,
+                    "deceased": 0
+                },
+                "2020-03-08": {
+                    "total": 3,
+                    "recovered-fully": 0,
+                    "recovered-clinically": 0,
+                    "intensive-care": 0,
+                    "unknown": 3,
+                    "deceased": 0
+                }
+            }
+        },
+        "G\u00e4vleborg County": {
+            "total": 2,
+            "logs": {
+                "2020-03-05": {
+                    "total": 1,
+                    "recovered-fully": 0,
+                    "recovered-clinically": 0,
+                    "intensive-care": 0,
+                    "unknown": 1,
+                    "deceased": 0
+                },
+                "2020-03-06": {
+                    "total": 1,
+                    "recovered-fully": 0,
+                    "recovered-clinically": 0,
+                    "intensive-care": 0,
+                    "unknown": 1,
+                    "deceased": 0
+                }
+            }
+        }
+    },
+    "dates": {
+        "2020-01-31": 1,
+        "2020-02-26": 1,
+        "2020-02-27": 5,
+        "2020-02-28": 4,
+        "2020-02-29": 2,
+        "2020-03-01": 1,
+        "2020-03-02": 1,
+        "2020-03-03": 15,
+        "2020-03-04": 22,
+        "2020-03-05": 42,
+        "2020-03-06": 43,
+        "2020-03-07": 24,
+        "2020-03-08": 42
+    },
+    "summary": {
+        "confirmed": 203,
+        "recovered-fully": 0,
+        "recovered-clinically": 1,
+        "intensive-care": 0,
+        "unknown": 202,
+        "deceased": 0
+    }
+}
