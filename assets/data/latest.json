@@ -1,7 +1,7 @@
 {
     "updated": {
-        "datetime": "2020-03-09 2AM (UTC)",
-        "timestamp": 1583722742
+        "datetime": "2020-03-09 3AM (UTC)",
+        "timestamp": 1583726320
     },
     "cases": [
         {
@@ -10,7 +10,7 @@
             "status": "recovered-clinically",
             "origin": {
                 "type": "T",
-                "path": null
+                "path": "Wuhan, China"
             },
             "location": {
                 "region": "J\u00f6nk\u00f6ping County",
@@ -26,7 +26,7 @@
             "status": "unknown",
             "origin": {
                 "type": "T",
-                "path": null
+                "path": "N. Italy"
             },
             "location": {
                 "region": "V\u00e4stra G\u00f6taland County",
@@ -42,7 +42,7 @@
             "status": "unknown",
             "origin": {
                 "type": "PTP",
-                "path": null
+                "path": "Case 2"
             },
             "location": {
                 "region": "V\u00e4stra G\u00f6taland County",
@@ -58,7 +58,7 @@
             "status": "unknown",
             "origin": {
                 "type": "PTP",
-                "path": null
+                "path": "Case 2"
             },
             "location": {
                 "region": "V\u00e4stra G\u00f6taland County",
@@ -74,7 +74,7 @@
             "status": "unknown",
             "origin": {
                 "type": "T",
-                "path": null
+                "path": "N. Italy"
             },
             "location": {
                 "region": "V\u00e4stra G\u00f6taland County",
@@ -90,7 +90,7 @@
             "status": "unknown",
             "origin": {
                 "type": "T",
-                "path": null
+                "path": "Iran"
             },
             "location": {
                 "region": "Stockholm County",
@@ -106,7 +106,7 @@
             "status": "unknown",
             "origin": {
                 "type": "T",
-                "path": null
+                "path": "Germany"
             },
             "location": {
                 "region": "Uppsala County",
@@ -122,7 +122,7 @@
             "status": "unknown",
             "origin": {
                 "type": "T",
-                "path": null
+                "path": "N. Italy"
             },
             "location": {
                 "region": "J\u00f6nk\u00f6ping County",
@@ -138,7 +138,7 @@
             "status": "unknown",
             "origin": {
                 "type": "PTP",
-                "path": null
+                "path": "Case 6"
             },
             "location": {
                 "region": "Stockholm County",
@@ -154,7 +154,7 @@
             "status": "unknown",
             "origin": {
                 "type": "PTP",
-                "path": null
+                "path": "Case 6"
             },
             "location": {
                 "region": "Stockholm County",
@@ -170,7 +170,7 @@
             "status": "unknown",
             "origin": {
                 "type": "T",
-                "path": null
+                "path": "Iran"
             },
             "location": {
                 "region": "Uppsala County",
@@ -186,7 +186,7 @@
             "status": "unknown",
             "origin": {
                 "type": "T",
-                "path": null
+                "path": "Iran"
             },
             "location": {
                 "region": "V\u00e4stra G\u00f6taland County",
@@ -202,7 +202,7 @@
             "status": "unknown",
             "origin": {
                 "type": "PTP",
-                "path": null
+                "path": "Case 6"
             },
             "location": {
                 "region": "Stockholm County",
@@ -218,7 +218,7 @@
             "status": "unknown",
             "origin": {
                 "type": "T",
-                "path": null
+                "path": "N. Italy, travelled with"
             },
             "location": {
                 "region": "V\u00e4stra G\u00f6taland County",
@@ -234,7 +234,7 @@
             "status": "unknown",
             "origin": {
                 "type": "T",
-                "path": null
+                "path": "N. Italy"
             },
             "location": {
                 "region": "Stockholm County",
@@ -250,7 +250,7 @@
             "status": "unknown",
             "origin": {
                 "type": "T",
-                "path": null
+                "path": "N. Italy, travelled with case 8"
             },
             "location": {
                 "region": "J\u00f6nk\u00f6ping County",
@@ -266,7 +266,7 @@
             "status": "unknown",
             "origin": {
                 "type": "T",
-                "path": null
+                "path": "N. Italy, travelled together"
             },
             "location": {
                 "region": "V\u00e4stra G\u00f6taland County",
@@ -282,7 +282,7 @@
             "status": "unknown",
             "origin": {
                 "type": "T",
-                "path": null
+                "path": "N. Italy, travelled together"
             },
             "location": {
                 "region": "V\u00e4stra G\u00f6taland County",
@@ -298,7 +298,7 @@
             "status": "unknown",
             "origin": {
                 "type": "T",
-                "path": null
+                "path": "N. Italy, travelled together"
             },
             "location": {
                 "region": "V\u00e4stra G\u00f6taland County",
@@ -314,7 +314,7 @@
             "status": "unknown",
             "origin": {
                 "type": "T",
-                "path": null
+                "path": "N. Italy"
             },
             "location": {
                 "region": "Sk\u00e5ne County",
@@ -330,7 +330,7 @@
             "status": "unknown",
             "origin": {
                 "type": "T",
-                "path": null
+                "path": "N. Italy, travelled together"
             },
             "location": {
                 "region": "Stockholm County",
@@ -346,7 +346,7 @@
             "status": "unknown",
             "origin": {
                 "type": "T",
-                "path": null
+                "path": "N. Italy, travelled together"
             },
             "location": {
                 "region": "Stockholm County",
@@ -362,7 +362,7 @@
             "status": "unknown",
             "origin": {
                 "type": "T",
-                "path": null
+                "path": "N. Italy, travelled together"
             },
             "location": {
                 "region": "Stockholm County",
@@ -378,7 +378,7 @@
             "status": "unknown",
             "origin": {
                 "type": "T",
-                "path": null
+                "path": "N. Italy"
             },
             "location": {
                 "region": "Stockholm County",
@@ -394,7 +394,7 @@
             "status": "unknown",
             "origin": {
                 "type": "T",
-                "path": null
+                "path": "N. Italy"
             },
             "location": {
                 "region": "Stockholm County",
@@ -410,7 +410,7 @@
             "status": "unknown",
             "origin": {
                 "type": "T",
-                "path": null
+                "path": "N. Italy"
             },
             "location": {
                 "region": "Stockholm County",
@@ -426,7 +426,7 @@
             "status": "unknown",
             "origin": {
                 "type": "T",
-                "path": null
+                "path": "N. Italy"
             },
             "location": {
                 "region": "Stockholm County",
@@ -442,7 +442,7 @@
             "status": "unknown",
             "origin": {
                 "type": "T",
-                "path": null
+                "path": "N. Italy"
             },
             "location": {
                 "region": "Stockholm County",
@@ -458,7 +458,7 @@
             "status": "unknown",
             "origin": {
                 "type": "PTP",
-                "path": null
+                "path": "Case 28"
             },
             "location": {
                 "region": "Stockholm County",
@@ -474,7 +474,7 @@
             "status": "unknown",
             "origin": {
                 "type": "T",
-                "path": null
+                "path": "Iran"
             },
             "location": {
                 "region": "Stockholm County",
@@ -490,7 +490,7 @@
             "status": "unknown",
             "origin": {
                 "type": "T",
-                "path": null
+                "path": "Iran"
             },
             "location": {
                 "region": "V\u00e4stra G\u00f6taland County",
@@ -506,7 +506,7 @@
             "status": "unknown",
             "origin": {
                 "type": "T",
-                "path": null
+                "path": "N. Italy"
             },
             "location": {
                 "region": "V\u00e4stra G\u00f6taland County",
@@ -522,7 +522,7 @@
             "status": "unknown",
             "origin": {
                 "type": "T",
-                "path": null
+                "path": "N. Italy"
             },
             "location": {
                 "region": "Sk\u00e5ne County",
@@ -538,7 +538,7 @@
             "status": "unknown",
             "origin": {
                 "type": "T",
-                "path": null
+                "path": "N. Italy, travelled together"
             },
             "location": {
                 "region": "V\u00e4rmland County",
@@ -554,7 +554,7 @@
             "status": "unknown",
             "origin": {
                 "type": "T",
-                "path": null
+                "path": "N. Italy, travelled together"
             },
             "location": {
                 "region": "V\u00e4rmland County",
@@ -570,7 +570,7 @@
             "status": "unknown",
             "origin": {
                 "type": "T",
-                "path": null
+                "path": "N. Italy"
             },
             "location": {
                 "region": "\u00d6rebro County",
@@ -586,7 +586,7 @@
             "status": "unknown",
             "origin": {
                 "type": "T",
-                "path": null
+                "path": "N. Italy"
             },
             "location": {
                 "region": "Stockholm County",
@@ -602,7 +602,7 @@
             "status": "unknown",
             "origin": {
                 "type": "T",
-                "path": null
+                "path": "N. Italy"
             },
             "location": {
                 "region": "Stockholm County",
@@ -618,7 +618,7 @@
             "status": "unknown",
             "origin": {
                 "type": "T",
-                "path": null
+                "path": "N. Italy"
             },
             "location": {
                 "region": "Stockholm County",
@@ -634,7 +634,7 @@
             "status": "unknown",
             "origin": {
                 "type": "T",
-                "path": null
+                "path": "N. Italy"
             },
             "location": {
                 "region": "Stockholm County",
@@ -650,7 +650,7 @@
             "status": "unknown",
             "origin": {
                 "type": "T",
-                "path": null
+                "path": "N. Italy"
             },
             "location": {
                 "region": "Stockholm County",
@@ -666,7 +666,7 @@
             "status": "unknown",
             "origin": {
                 "type": "T",
-                "path": null
+                "path": "N. Italy"
             },
             "location": {
                 "region": "Stockholm County",
@@ -682,7 +682,7 @@
             "status": "unknown",
             "origin": {
                 "type": "T",
-                "path": null
+                "path": "N. Italy"
             },
             "location": {
                 "region": "Stockholm County",
@@ -698,7 +698,7 @@
             "status": "unknown",
             "origin": {
                 "type": "T",
-                "path": null
+                "path": "N. Italy"
             },
             "location": {
                 "region": "Stockholm County",
@@ -714,7 +714,7 @@
             "status": "unknown",
             "origin": {
                 "type": "T",
-                "path": null
+                "path": "N. Italy"
             },
             "location": {
                 "region": "Stockholm County",
@@ -730,7 +730,7 @@
             "status": "unknown",
             "origin": {
                 "type": "T",
-                "path": null
+                "path": "N. Italy"
             },
             "location": {
                 "region": "Stockholm County",
@@ -746,7 +746,7 @@
             "status": "unknown",
             "origin": {
                 "type": "T",
-                "path": null
+                "path": "N. Italy"
             },
             "location": {
                 "region": "Stockholm County",
@@ -762,7 +762,7 @@
             "status": "unknown",
             "origin": {
                 "type": "T",
-                "path": null
+                "path": "N. Italy"
             },
             "location": {
                 "region": "Stockholm County",
@@ -778,7 +778,7 @@
             "status": "unknown",
             "origin": {
                 "type": "T",
-                "path": null
+                "path": "N. Italy"
             },
             "location": {
                 "region": "Stockholm County",
@@ -794,7 +794,7 @@
             "status": "unknown",
             "origin": {
                 "type": "T",
-                "path": null
+                "path": "N. Italy"
             },
             "location": {
                 "region": "Stockholm County",
@@ -810,7 +810,7 @@
             "status": "unknown",
             "origin": {
                 "type": "T",
-                "path": null
+                "path": "N. Italy"
             },
             "location": {
                 "region": "Stockholm County",
@@ -826,7 +826,7 @@
             "status": "unknown",
             "origin": {
                 "type": "T",
-                "path": null
+                "path": "Iran"
             },
             "location": {
                 "region": "Stockholm County",
@@ -842,7 +842,7 @@
             "status": "unknown",
             "origin": {
                 "type": "T",
-                "path": null
+                "path": "N. Italy"
             },
             "location": {
                 "region": "V\u00e4stra G\u00f6taland County",
@@ -858,7 +858,7 @@
             "status": "unknown",
             "origin": {
                 "type": "T",
-                "path": null
+                "path": "N. Italy"
             },
             "location": {
                 "region": "Sk\u00e5ne County",
@@ -874,7 +874,7 @@
             "status": "unknown",
             "origin": {
                 "type": "T",
-                "path": null
+                "path": "N. Italy"
             },
             "location": {
                 "region": "Sk\u00e5ne County",
@@ -890,7 +890,7 @@
             "status": "unknown",
             "origin": {
                 "type": "T",
-                "path": null
+                "path": "N. Italy"
             },
             "location": {
                 "region": "Sk\u00e5ne County",
@@ -906,7 +906,7 @@
             "status": "unknown",
             "origin": {
                 "type": "T",
-                "path": null
+                "path": "N. Italy"
             },
             "location": {
                 "region": "Sk\u00e5ne County",
@@ -922,7 +922,7 @@
             "status": "unknown",
             "origin": {
                 "type": "T",
-                "path": null
+                "path": "N. Italy"
             },
             "location": {
                 "region": "Sk\u00e5ne County",
@@ -938,7 +938,7 @@
             "status": "unknown",
             "origin": {
                 "type": "T",
-                "path": null
+                "path": "N. Italy"
             },
             "location": {
                 "region": "Sk\u00e5ne County",
@@ -954,7 +954,7 @@
             "status": "unknown",
             "origin": {
                 "type": "T",
-                "path": null
+                "path": "N. Italy"
             },
             "location": {
                 "region": "Sk\u00e5ne County",
@@ -970,7 +970,7 @@
             "status": "unknown",
             "origin": {
                 "type": "PTP",
-                "path": null
+                "path": "Case 34\/35"
             },
             "location": {
                 "region": "V\u00e4rmland County",
@@ -986,7 +986,7 @@
             "status": "unknown",
             "origin": {
                 "type": "PTP",
-                "path": null
+                "path": "Case 34\/35"
             },
             "location": {
                 "region": "V\u00e4rmland County",
@@ -1002,7 +1002,7 @@
             "status": "unknown",
             "origin": {
                 "type": "T",
-                "path": null
+                "path": "N. Italy"
             },
             "location": {
                 "region": "V\u00e4rmland County",
@@ -1018,7 +1018,7 @@
             "status": "unknown",
             "origin": {
                 "type": "T",
-                "path": null
+                "path": "N. Italy"
             },
             "location": {
                 "region": "G\u00e4vleborg County",
@@ -1034,7 +1034,7 @@
             "status": "unknown",
             "origin": {
                 "type": "T\/TPTP",
-                "path": null
+                "path": "N. Italy"
             },
             "location": {
                 "region": "Stockholm County",
@@ -1050,7 +1050,7 @@
             "status": "unknown",
             "origin": {
                 "type": "T\/TPTP",
-                "path": null
+                "path": "N. Italy"
             },
             "location": {
                 "region": "Stockholm County",
@@ -1066,7 +1066,7 @@
             "status": "unknown",
             "origin": {
                 "type": "T\/TPTP",
-                "path": null
+                "path": "N. Italy"
             },
             "location": {
                 "region": "Stockholm County",
@@ -1082,7 +1082,7 @@
             "status": "unknown",
             "origin": {
                 "type": "T\/TPTP",
-                "path": null
+                "path": "N. Italy"
             },
             "location": {
                 "region": "Stockholm County",
@@ -1098,7 +1098,7 @@
             "status": "unknown",
             "origin": {
                 "type": "T\/TPTP",
-                "path": null
+                "path": "N. Italy"
             },
             "location": {
                 "region": "Stockholm County",
@@ -1114,7 +1114,7 @@
             "status": "unknown",
             "origin": {
                 "type": "T\/TPTP",
-                "path": null
+                "path": "N. Italy"
             },
             "location": {
                 "region": "Stockholm County",
@@ -1130,7 +1130,7 @@
             "status": "unknown",
             "origin": {
                 "type": "T\/TPTP",
-                "path": null
+                "path": "N. Italy"
             },
             "location": {
                 "region": "Stockholm County",
@@ -1146,7 +1146,7 @@
             "status": "unknown",
             "origin": {
                 "type": "T\/TPTP",
-                "path": null
+                "path": "N. Italy"
             },
             "location": {
                 "region": "Stockholm County",
@@ -1162,7 +1162,7 @@
             "status": "unknown",
             "origin": {
                 "type": "T\/TPTP",
-                "path": null
+                "path": "N. Italy"
             },
             "location": {
                 "region": "Stockholm County",
@@ -1178,7 +1178,7 @@
             "status": "unknown",
             "origin": {
                 "type": "T\/TPTP",
-                "path": null
+                "path": "N. Italy"
             },
             "location": {
                 "region": "Stockholm County",
@@ -1194,7 +1194,7 @@
             "status": "unknown",
             "origin": {
                 "type": "T\/TPTP",
-                "path": null
+                "path": "N. Italy"
             },
             "location": {
                 "region": "Stockholm County",
@@ -1210,7 +1210,7 @@
             "status": "unknown",
             "origin": {
                 "type": "T\/TPTP",
-                "path": null
+                "path": "N. Italy"
             },
             "location": {
                 "region": "Stockholm County",
@@ -1226,7 +1226,7 @@
             "status": "unknown",
             "origin": {
                 "type": "T\/TPTP",
-                "path": null
+                "path": "N. Italy"
             },
             "location": {
                 "region": "Stockholm County",
@@ -1242,7 +1242,7 @@
             "status": "unknown",
             "origin": {
                 "type": "T\/TPTP",
-                "path": null
+                "path": "N. Italy"
             },
             "location": {
                 "region": "Stockholm County",
@@ -1258,7 +1258,7 @@
             "status": "unknown",
             "origin": {
                 "type": "T\/TPTP",
-                "path": null
+                "path": "N. Italy or Iran"
             },
             "location": {
                 "region": "Stockholm County",
@@ -1274,7 +1274,7 @@
             "status": "unknown",
             "origin": {
                 "type": "T\/TPTP",
-                "path": null
+                "path": "N. Italy or Iran"
             },
             "location": {
                 "region": "Stockholm County",
@@ -1290,7 +1290,7 @@
             "status": "unknown",
             "origin": {
                 "type": "T\/TPTP",
-                "path": null
+                "path": "N. Italy or Iran"
             },
             "location": {
                 "region": "Stockholm County",
@@ -1306,7 +1306,7 @@
             "status": "unknown",
             "origin": {
                 "type": "T\/TPTP",
-                "path": null
+                "path": "N. Italy or Iran"
             },
             "location": {
                 "region": "Stockholm County",
@@ -1322,7 +1322,7 @@
             "status": "unknown",
             "origin": {
                 "type": "T\/TPTP",
-                "path": null
+                "path": "N. Italy or Iran"
             },
             "location": {
                 "region": "Stockholm County",
@@ -1338,7 +1338,7 @@
             "status": "unknown",
             "origin": {
                 "type": "T\/TPTP",
-                "path": null
+                "path": "N. Italy or Iran"
             },
             "location": {
                 "region": "Stockholm County",
@@ -1354,7 +1354,7 @@
             "status": "unknown",
             "origin": {
                 "type": "T\/TPTP",
-                "path": null
+                "path": "N. Italy or Iran"
             },
             "location": {
                 "region": "Stockholm County",
@@ -1370,7 +1370,7 @@
             "status": "unknown",
             "origin": {
                 "type": "T\/TPTP",
-                "path": null
+                "path": "N. Italy or Iran"
             },
             "location": {
                 "region": "Stockholm County",
@@ -1386,7 +1386,7 @@
             "status": "unknown",
             "origin": {
                 "type": "T\/TPTP",
-                "path": null
+                "path": "N. Italy or Iran"
             },
             "location": {
                 "region": "Stockholm County",
@@ -1402,7 +1402,7 @@
             "status": "unknown",
             "origin": {
                 "type": "T\/TPTP",
-                "path": null
+                "path": "N. Italy or Iran"
             },
             "location": {
                 "region": "Stockholm County",
@@ -1418,7 +1418,7 @@
             "status": "unknown",
             "origin": {
                 "type": "T\/TPTP",
-                "path": null
+                "path": "N. Italy or Iran"
             },
             "location": {
                 "region": "Stockholm County",
@@ -1434,7 +1434,7 @@
             "status": "unknown",
             "origin": {
                 "type": "T\/TPTP",
-                "path": null
+                "path": "N. Italy or Iran"
             },
             "location": {
                 "region": "Stockholm County",
@@ -1450,7 +1450,7 @@
             "status": "unknown",
             "origin": {
                 "type": "T\/TPTP",
-                "path": null
+                "path": "N. Italy or Iran"
             },
             "location": {
                 "region": "Stockholm County",
@@ -1466,7 +1466,7 @@
             "status": "unknown",
             "origin": {
                 "type": "T\/TPTP",
-                "path": null
+                "path": "N. Italy or Iran"
             },
             "location": {
                 "region": "Stockholm County",
@@ -1482,7 +1482,7 @@
             "status": "unknown",
             "origin": {
                 "type": "T",
-                "path": null
+                "path": "N. Italy"
             },
             "location": {
                 "region": "Uppsala County",
@@ -1498,7 +1498,7 @@
             "status": "unknown",
             "origin": {
                 "type": "T",
-                "path": null
+                "path": "N. Italy"
             },
             "location": {
                 "region": "Uppsala County",
@@ -1514,7 +1514,7 @@
             "status": "unknown",
             "origin": {
                 "type": "T",
-                "path": null
+                "path": "N. Italy"
             },
             "location": {
                 "region": "V\u00e4stra G\u00f6taland County",
@@ -1530,7 +1530,7 @@
             "status": "unknown",
             "origin": {
                 "type": "T",
-                "path": null
+                "path": "Iran"
             },
             "location": {
                 "region": "V\u00e4stra G\u00f6taland County",
@@ -1546,7 +1546,7 @@
             "status": "unknown",
             "origin": {
                 "type": "T",
-                "path": null
+                "path": "N. Italy"
             },
             "location": {
                 "region": "Sk\u00e5ne County",
@@ -1562,7 +1562,7 @@
             "status": "unknown",
             "origin": {
                 "type": "T",
-                "path": null
+                "path": "N. Italy"
             },
             "location": {
                 "region": "Sk\u00e5ne County",
@@ -1578,7 +1578,7 @@
             "status": "unknown",
             "origin": {
                 "type": "T",
-                "path": null
+                "path": "N. Italy"
             },
             "location": {
                 "region": "Sk\u00e5ne County",
@@ -1594,7 +1594,7 @@
             "status": "unknown",
             "origin": {
                 "type": "T",
-                "path": null
+                "path": "N. Italy"
             },
             "location": {
                 "region": "Sk\u00e5ne County",
@@ -1610,7 +1610,7 @@
             "status": "unknown",
             "origin": {
                 "type": "T",
-                "path": null
+                "path": "N. Italy"
             },
             "location": {
                 "region": "Sk\u00e5ne County",
@@ -1626,7 +1626,7 @@
             "status": "unknown",
             "origin": {
                 "type": "T\/TPTP",
-                "path": null
+                "path": "N. Italy and case 34-35"
             },
             "location": {
                 "region": "V\u00e4rmland County",
@@ -1642,7 +1642,7 @@
             "status": "unknown",
             "origin": {
                 "type": "T\/TPTP",
-                "path": null
+                "path": "N. Italy and case 34-35"
             },
             "location": {
                 "region": "V\u00e4rmland County",
@@ -1658,7 +1658,7 @@
             "status": "unknown",
             "origin": {
                 "type": "T\/TPTP",
-                "path": null
+                "path": "N. Italy and case 34-35"
             },
             "location": {
                 "region": "V\u00e4rmland County",
@@ -1674,7 +1674,7 @@
             "status": "unknown",
             "origin": {
                 "type": "T\/TPTP",
-                "path": null
+                "path": "N. Italy and case 34-35"
             },
             "location": {
                 "region": "V\u00e4rmland County",
@@ -1690,7 +1690,7 @@
             "status": "unknown",
             "origin": {
                 "type": "T\/TPTP",
-                "path": null
+                "path": "N. Italy and case 34-35"
             },
             "location": {
                 "region": "V\u00e4rmland County",
@@ -1706,7 +1706,7 @@
             "status": "unknown",
             "origin": {
                 "type": "T\/TPTP",
-                "path": null
+                "path": "N. Italy and case 34-35"
             },
             "location": {
                 "region": "V\u00e4rmland County",
@@ -1722,7 +1722,7 @@
             "status": "unknown",
             "origin": {
                 "type": "T\/TPTP",
-                "path": null
+                "path": "N. Italy and case 34-35"
             },
             "location": {
                 "region": "V\u00e4rmland County",
@@ -1738,7 +1738,7 @@
             "status": "unknown",
             "origin": {
                 "type": "T",
-                "path": null
+                "path": "-"
             },
             "location": {
                 "region": "V\u00e4rmland County",
@@ -1754,7 +1754,7 @@
             "status": "unknown",
             "origin": {
                 "type": "PTP",
-                "path": null
+                "path": "Related to case 93-94"
             },
             "location": {
                 "region": "Uppsala County",
@@ -1770,7 +1770,7 @@
             "status": "unknown",
             "origin": {
                 "type": "T",
-                "path": null
+                "path": "N. Italy"
             },
             "location": {
                 "region": "J\u00f6nk\u00f6ping County",
@@ -1786,7 +1786,7 @@
             "status": "unknown",
             "origin": {
                 "type": "T",
-                "path": null
+                "path": "N. Italy"
             },
             "location": {
                 "region": "J\u00f6nk\u00f6ping County",
@@ -1802,7 +1802,7 @@
             "status": "unknown",
             "origin": {
                 "type": "T",
-                "path": null
+                "path": "N. Italy"
             },
             "location": {
                 "region": "J\u00f6nk\u00f6ping County",
@@ -1818,7 +1818,7 @@
             "status": "unknown",
             "origin": {
                 "type": "PTP",
-                "path": null
+                "path": "Another region in Sweden"
             },
             "location": {
                 "region": "J\u00f6nk\u00f6ping County",
@@ -1834,7 +1834,7 @@
             "status": "unknown",
             "origin": {
                 "type": "PTP",
-                "path": null
+                "path": "Another region in Sweden. Related to case 114."
             },
             "location": {
                 "region": "J\u00f6nk\u00f6ping County",
@@ -1850,7 +1850,7 @@
             "status": "unknown",
             "origin": {
                 "type": "T\/TPTP",
-                "path": null
+                "path": "N. Italy or Iran"
             },
             "location": {
                 "region": "Stockholm County",
@@ -1866,7 +1866,7 @@
             "status": "unknown",
             "origin": {
                 "type": "T\/TPTP",
-                "path": null
+                "path": "N. Italy or Iran"
             },
             "location": {
                 "region": "Stockholm County",
@@ -1882,7 +1882,7 @@
             "status": "unknown",
             "origin": {
                 "type": "T\/TPTP",
-                "path": null
+                "path": "N. Italy or Iran"
             },
             "location": {
                 "region": "Stockholm County",
@@ -1898,7 +1898,7 @@
             "status": "unknown",
             "origin": {
                 "type": "T\/TPTP",
-                "path": null
+                "path": "N. Italy or Iran"
             },
             "location": {
                 "region": "Stockholm County",
@@ -1914,7 +1914,7 @@
             "status": "unknown",
             "origin": {
                 "type": "T\/TPTP",
-                "path": null
+                "path": "N. Italy or Iran"
             },
             "location": {
                 "region": "Stockholm County",
@@ -1930,7 +1930,7 @@
             "status": "unknown",
             "origin": {
                 "type": "T\/TPTP",
-                "path": null
+                "path": "N. Italy or Iran"
             },
             "location": {
                 "region": "Stockholm County",
@@ -1946,7 +1946,7 @@
             "status": "unknown",
             "origin": {
                 "type": "T\/TPTP",
-                "path": null
+                "path": "N. Italy or Iran"
             },
             "location": {
                 "region": "Stockholm County",
@@ -1962,7 +1962,7 @@
             "status": "unknown",
             "origin": {
                 "type": "T\/TPTP",
-                "path": null
+                "path": "N. Italy or Iran"
             },
             "location": {
                 "region": "Stockholm County",
@@ -1978,7 +1978,7 @@
             "status": "unknown",
             "origin": {
                 "type": "T\/TPTP",
-                "path": null
+                "path": "N. Italy or Iran"
             },
             "location": {
                 "region": "Stockholm County",
@@ -1994,7 +1994,7 @@
             "status": "unknown",
             "origin": {
                 "type": "T\/TPTP",
-                "path": null
+                "path": "N. Italy or Iran"
             },
             "location": {
                 "region": "Stockholm County",
@@ -2010,7 +2010,7 @@
             "status": "unknown",
             "origin": {
                 "type": "T\/TPTP",
-                "path": null
+                "path": "N. Italy or Iran"
             },
             "location": {
                 "region": "Stockholm County",
@@ -2026,7 +2026,7 @@
             "status": "unknown",
             "origin": {
                 "type": "T\/TPTP",
-                "path": null
+                "path": "N. Italy or Iran"
             },
             "location": {
                 "region": "Stockholm County",
@@ -2042,7 +2042,7 @@
             "status": "unknown",
             "origin": {
                 "type": "T\/TPTP",
-                "path": null
+                "path": "N. Italy or Iran"
             },
             "location": {
                 "region": "Stockholm County",
@@ -2058,7 +2058,7 @@
             "status": "unknown",
             "origin": {
                 "type": "T\/TPTP",
-                "path": null
+                "path": "N. Italy or Iran"
             },
             "location": {
                 "region": "Stockholm County",
@@ -2074,7 +2074,7 @@
             "status": "unknown",
             "origin": {
                 "type": "T\/TPTP",
-                "path": null
+                "path": "N. Italy or Iran"
             },
             "location": {
                 "region": "Stockholm County",
@@ -2090,7 +2090,7 @@
             "status": "unknown",
             "origin": {
                 "type": "T\/TPTP",
-                "path": null
+                "path": "N. Italy or Iran"
             },
             "location": {
                 "region": "Stockholm County",
@@ -2106,7 +2106,7 @@
             "status": "unknown",
             "origin": {
                 "type": "T\/TPTP",
-                "path": null
+                "path": "N. Italy or Iran"
             },
             "location": {
                 "region": "Stockholm County",
@@ -2122,7 +2122,7 @@
             "status": "unknown",
             "origin": {
                 "type": "T\/TPTP",
-                "path": null
+                "path": "N. Italy or Iran"
             },
             "location": {
                 "region": "Stockholm County",
@@ -2138,7 +2138,7 @@
             "status": "unknown",
             "origin": {
                 "type": "T\/TPTP",
-                "path": null
+                "path": "N. Italy or Iran"
             },
             "location": {
                 "region": "Stockholm County",
@@ -2154,7 +2154,7 @@
             "status": "unknown",
             "origin": {
                 "type": "T\/TPTP",
-                "path": null
+                "path": "N. Italy or Iran"
             },
             "location": {
                 "region": "Stockholm County",
@@ -2170,7 +2170,7 @@
             "status": "unknown",
             "origin": {
                 "type": "T\/TPTP",
-                "path": null
+                "path": "N. Italy or Iran"
             },
             "location": {
                 "region": "Stockholm County",
@@ -2186,7 +2186,7 @@
             "status": "unknown",
             "origin": {
                 "type": "T",
-                "path": null
+                "path": "N. Italy (same region as case 64)"
             },
             "location": {
                 "region": "G\u00e4vleborg County",
@@ -2202,7 +2202,7 @@
             "status": "unknown",
             "origin": {
                 "type": false,
-                "path": null
+                "path": "-"
             },
             "location": {
                 "region": "Sk\u00e5ne County",
@@ -2218,7 +2218,7 @@
             "status": "unknown",
             "origin": {
                 "type": false,
-                "path": null
+                "path": "-"
             },
             "location": {
                 "region": "Sk\u00e5ne County",
@@ -2234,7 +2234,7 @@
             "status": "unknown",
             "origin": {
                 "type": false,
-                "path": null
+                "path": "-"
             },
             "location": {
                 "region": "Sk\u00e5ne County",
@@ -2250,7 +2250,7 @@
             "status": "unknown",
             "origin": {
                 "type": "T",
-                "path": null
+                "path": "Europe but not Italy"
             },
             "location": {
                 "region": "Stockholm County",
@@ -2266,7 +2266,7 @@
             "status": "unknown",
             "origin": {
                 "type": false,
-                "path": null
+                "path": "-"
             },
             "location": {
                 "region": "Stockholm County",
@@ -2282,7 +2282,7 @@
             "status": "unknown",
             "origin": {
                 "type": false,
-                "path": null
+                "path": "-"
             },
             "location": {
                 "region": "Stockholm County",
@@ -2298,7 +2298,7 @@
             "status": "unknown",
             "origin": {
                 "type": false,
-                "path": null
+                "path": "-"
             },
             "location": {
                 "region": "Stockholm County",
@@ -2314,7 +2314,7 @@
             "status": "unknown",
             "origin": {
                 "type": false,
-                "path": null
+                "path": "-"
             },
             "location": {
                 "region": "Stockholm County",
@@ -2330,7 +2330,7 @@
             "status": "unknown",
             "origin": {
                 "type": false,
-                "path": null
+                "path": "-"
             },
             "location": {
                 "region": "Stockholm County",
@@ -2346,7 +2346,7 @@
             "status": "unknown",
             "origin": {
                 "type": false,
-                "path": null
+                "path": "-"
             },
             "location": {
                 "region": "Stockholm County",
@@ -2362,7 +2362,7 @@
             "status": "unknown",
             "origin": {
                 "type": false,
-                "path": null
+                "path": "-"
             },
             "location": {
                 "region": "Stockholm County",
@@ -2378,7 +2378,7 @@
             "status": "unknown",
             "origin": {
                 "type": false,
-                "path": null
+                "path": "-"
             },
             "location": {
                 "region": "Stockholm County",
@@ -2394,7 +2394,7 @@
             "status": "unknown",
             "origin": {
                 "type": false,
-                "path": null
+                "path": "-"
             },
             "location": {
                 "region": "Stockholm County",
@@ -2410,7 +2410,7 @@
             "status": "unknown",
             "origin": {
                 "type": false,
-                "path": null
+                "path": "-"
             },
             "location": {
                 "region": "Stockholm County",
@@ -2426,7 +2426,7 @@
             "status": "unknown",
             "origin": {
                 "type": false,
-                "path": null
+                "path": "-"
             },
             "location": {
                 "region": "Stockholm County",
@@ -2442,7 +2442,7 @@
             "status": "unknown",
             "origin": {
                 "type": false,
-                "path": null
+                "path": "-"
             },
             "location": {
                 "region": "Stockholm County",
@@ -2458,7 +2458,7 @@
             "status": "unknown",
             "origin": {
                 "type": false,
-                "path": null
+                "path": "-"
             },
             "location": {
                 "region": "Stockholm County",
@@ -2474,7 +2474,7 @@
             "status": "unknown",
             "origin": {
                 "type": false,
-                "path": null
+                "path": "-"
             },
             "location": {
                 "region": "Stockholm County",
@@ -2490,7 +2490,7 @@
             "status": "unknown",
             "origin": {
                 "type": false,
-                "path": null
+                "path": "-"
             },
             "location": {
                 "region": "Stockholm County",
@@ -2506,7 +2506,7 @@
             "status": "unknown",
             "origin": {
                 "type": false,
-                "path": null
+                "path": "-"
             },
             "location": {
                 "region": "Stockholm County",
@@ -2522,7 +2522,7 @@
             "status": "unknown",
             "origin": {
                 "type": false,
-                "path": null
+                "path": "-"
             },
             "location": {
                 "region": "Stockholm County",
@@ -2538,7 +2538,7 @@
             "status": "unknown",
             "origin": {
                 "type": false,
-                "path": null
+                "path": "-"
             },
             "location": {
                 "region": "Stockholm County",
@@ -2554,7 +2554,7 @@
             "status": "unknown",
             "origin": {
                 "type": false,
-                "path": null
+                "path": "-"
             },
             "location": {
                 "region": "Stockholm County",
@@ -2570,7 +2570,7 @@
             "status": "unknown",
             "origin": {
                 "type": false,
-                "path": null
+                "path": "-"
             },
             "location": {
                 "region": "Stockholm County",
@@ -2586,7 +2586,7 @@
             "status": "unknown",
             "origin": {
                 "type": "T",
-                "path": null
+                "path": "N. Italy"
             },
             "location": {
                 "region": "Uppsala County",
@@ -2602,7 +2602,7 @@
             "status": "unknown",
             "origin": {
                 "type": "T\/TPTP",
-                "path": null
+                "path": "N. Italy or Iran"
             },
             "location": {
                 "region": "Sk\u00e5ne County",
@@ -2618,7 +2618,7 @@
             "status": "unknown",
             "origin": {
                 "type": "T\/TPTP",
-                "path": null
+                "path": "N. Italy or Iran"
             },
             "location": {
                 "region": "Sk\u00e5ne County",
@@ -2634,7 +2634,7 @@
             "status": "unknown",
             "origin": {
                 "type": "T\/TPTP",
-                "path": null
+                "path": "N. Italy or Iran"
             },
             "location": {
                 "region": "Sk\u00e5ne County",
@@ -2650,7 +2650,7 @@
             "status": "unknown",
             "origin": {
                 "type": "T\/TPTP",
-                "path": null
+                "path": "N. Italy or Iran"
             },
             "location": {
                 "region": "Sk\u00e5ne County",
@@ -2666,7 +2666,7 @@
             "status": "unknown",
             "origin": {
                 "type": "T\/TPTP",
-                "path": null
+                "path": "N. Italy or Iran"
             },
             "location": {
                 "region": "Sk\u00e5ne County",
@@ -2682,7 +2682,7 @@
             "status": "unknown",
             "origin": {
                 "type": "T\/TPTP",
-                "path": null
+                "path": "N. Italy or Iran"
             },
             "location": {
                 "region": "V\u00e4stra G\u00f6taland County",
@@ -2698,7 +2698,7 @@
             "status": "unknown",
             "origin": {
                 "type": "T\/TPTP",
-                "path": null
+                "path": "N. Italy or Iran"
             },
             "location": {
                 "region": "V\u00e4stra G\u00f6taland County",
@@ -2714,7 +2714,7 @@
             "status": "unknown",
             "origin": {
                 "type": "T\/TPTP",
-                "path": null
+                "path": "N. Italy or Iran"
             },
             "location": {
                 "region": "V\u00e4stra G\u00f6taland County",
@@ -2730,7 +2730,7 @@
             "status": "unknown",
             "origin": {
                 "type": "T\/TPTP",
-                "path": null
+                "path": "N. Italy or Iran"
             },
             "location": {
                 "region": "V\u00e4stra G\u00f6taland County",
@@ -2746,7 +2746,7 @@
             "status": "unknown",
             "origin": {
                 "type": "T\/TPTP",
-                "path": null
+                "path": "N. Italy or Iran"
             },
             "location": {
                 "region": "V\u00e4stra G\u00f6taland County",
@@ -2762,7 +2762,7 @@
             "status": "unknown",
             "origin": {
                 "type": "T\/TPTP",
-                "path": null
+                "path": "N. Italy or Iran"
             },
             "location": {
                 "region": "V\u00e4stra G\u00f6taland County",
@@ -2778,7 +2778,7 @@
             "status": "unknown",
             "origin": {
                 "type": "T\/TPTP",
-                "path": null
+                "path": "N. Italy or Iran"
             },
             "location": {
                 "region": "V\u00e4stra G\u00f6taland County",
@@ -2794,7 +2794,7 @@
             "status": "unknown",
             "origin": {
                 "type": "T\/TPTP",
-                "path": null
+                "path": "N. Italy or Iran"
             },
             "location": {
                 "region": "V\u00e4stra G\u00f6taland County",
@@ -2810,7 +2810,7 @@
             "status": "unknown",
             "origin": {
                 "type": "T\/TPTP",
-                "path": null
+                "path": "N. Italy or Iran"
             },
             "location": {
                 "region": "V\u00e4stra G\u00f6taland County",
@@ -2826,7 +2826,7 @@
             "status": "unknown",
             "origin": {
                 "type": "T\/TPTP",
-                "path": null
+                "path": "N. Italy or Iran"
             },
             "location": {
                 "region": "V\u00e4stra G\u00f6taland County",
@@ -2842,7 +2842,7 @@
             "status": "unknown",
             "origin": {
                 "type": "T\/TPTP",
-                "path": null
+                "path": "N. Italy or Iran"
             },
             "location": {
                 "region": "V\u00e4stra G\u00f6taland County",
@@ -2858,7 +2858,7 @@
             "status": "unknown",
             "origin": {
                 "type": "T\/TPTP",
-                "path": null
+                "path": "N. Italy or Iran"
             },
             "location": {
                 "region": "V\u00e4stra G\u00f6taland County",
@@ -2874,7 +2874,7 @@
             "status": "unknown",
             "origin": {
                 "type": "T\/TPTP",
-                "path": null
+                "path": "-"
             },
             "location": {
                 "region": "V\u00e4rmland County",
@@ -2890,7 +2890,7 @@
             "status": "unknown",
             "origin": {
                 "type": "T\/TPTP",
-                "path": null
+                "path": "-"
             },
             "location": {
                 "region": "V\u00e4rmland County",
@@ -2906,7 +2906,7 @@
             "status": "unknown",
             "origin": {
                 "type": "T\/TPTP",
-                "path": null
+                "path": "-"
             },
             "location": {
                 "region": "V\u00e4rmland County",
@@ -2922,7 +2922,7 @@
             "status": "unknown",
             "origin": {
                 "type": "T\/TPTP",
-                "path": null
+                "path": "-"
             },
             "location": {
                 "region": "V\u00e4rmland County",
@@ -2938,7 +2938,7 @@
             "status": "unknown",
             "origin": {
                 "type": "T\/TPTP",
-                "path": null
+                "path": "-"
             },
             "location": {
                 "region": "V\u00e4rmland County",
@@ -2954,7 +2954,7 @@
             "status": "unknown",
             "origin": {
                 "type": "T\/TPTP",
-                "path": null
+                "path": "-"
             },
             "location": {
                 "region": "V\u00e4rmland County",
@@ -2970,7 +2970,7 @@
             "status": "unknown",
             "origin": {
                 "type": "T\/TPTP",
-                "path": null
+                "path": "-"
             },
             "location": {
                 "region": "V\u00e4rmland County",
@@ -2986,7 +2986,7 @@
             "status": "unknown",
             "origin": {
                 "type": "T",
-                "path": null
+                "path": "United States"
             },
             "location": {
                 "region": "\u00d6rebro County",
@@ -3002,7 +3002,7 @@
             "status": "unknown",
             "origin": {
                 "type": "PTP",
-                "path": null
+                "path": "Related to case 187"
             },
             "location": {
                 "region": "\u00d6rebro County",
@@ -3018,7 +3018,7 @@
             "status": "unknown",
             "origin": {
                 "type": "PTP",
-                "path": null
+                "path": "Related to case 187"
             },
             "location": {
                 "region": "\u00d6rebro County",
@@ -3034,7 +3034,7 @@
             "status": "unknown",
             "origin": {
                 "type": false,
-                "path": null
+                "path": "-"
             },
             "location": {
                 "region": "Stockholm County",
@@ -3050,7 +3050,7 @@
             "status": "unknown",
             "origin": {
                 "type": false,
-                "path": null
+                "path": "-"
             },
             "location": {
                 "region": "Stockholm County",
@@ -3066,7 +3066,7 @@
             "status": "unknown",
             "origin": {
                 "type": false,
-                "path": null
+                "path": "-"
             },
             "location": {
                 "region": "Stockholm County",
@@ -3082,7 +3082,7 @@
             "status": "unknown",
             "origin": {
                 "type": false,
-                "path": null
+                "path": "-"
             },
             "location": {
                 "region": "Stockholm County",
@@ -3098,7 +3098,7 @@
             "status": "unknown",
             "origin": {
                 "type": false,
-                "path": null
+                "path": "-"
             },
             "location": {
                 "region": "Stockholm County",
@@ -3114,7 +3114,7 @@
             "status": "unknown",
             "origin": {
                 "type": false,
-                "path": null
+                "path": "-"
             },
             "location": {
                 "region": "Stockholm County",
@@ -3130,7 +3130,7 @@
             "status": "unknown",
             "origin": {
                 "type": false,
-                "path": null
+                "path": "-"
             },
             "location": {
                 "region": "Stockholm County",
@@ -3146,7 +3146,7 @@
             "status": "unknown",
             "origin": {
                 "type": false,
-                "path": null
+                "path": "-"
             },
             "location": {
                 "region": "Stockholm County",
@@ -3162,7 +3162,7 @@
             "status": "unknown",
             "origin": {
                 "type": false,
-                "path": null
+                "path": "-"
             },
             "location": {
                 "region": "Stockholm County",
@@ -3178,7 +3178,7 @@
             "status": "unknown",
             "origin": {
                 "type": false,
-                "path": null
+                "path": "-"
             },
             "location": {
                 "region": "Stockholm County",
@@ -3194,7 +3194,7 @@
             "status": "unknown",
             "origin": {
                 "type": false,
-                "path": null
+                "path": "-"
             },
             "location": {
                 "region": "Stockholm County",
@@ -3210,7 +3210,7 @@
             "status": "unknown",
             "origin": {
                 "type": false,
-                "path": null
+                "path": "-"
             },
             "location": {
                 "region": "Stockholm County",
@@ -3226,7 +3226,7 @@
             "status": "unknown",
             "origin": {
                 "type": false,
-                "path": null
+                "path": "-"
             },
             "location": {
                 "region": "Stockholm County",
@@ -3242,7 +3242,7 @@
             "status": "unknown",
             "origin": {
                 "type": false,
-                "path": null
+                "path": "-"
             },
             "location": {
                 "region": "Stockholm County",
@@ -3255,17 +3255,38 @@
     ],
     "origins": {
         "T": {
-            "total": 73
+            "total": 73,
+            "Wuhan, China": 1,
+            "N. Italy": 50,
+            "Iran": 7,
+            "Germany": 1,
+            "N. Italy, travelled with": 1,
+            "N. Italy, travelled with case 8": 1,
+            "N. Italy, travelled together": 8,
+            "N. Italy (same region as case 64)": 1,
+            "Europe but not Italy": 1,
+            "United States": 1
         },
         "PTP": {
-            "total": 13
+            "total": 13,
+            "Case 2": 2,
+            "Case 6": 3,
+            "Case 28": 1,
+            "Case 34\/35": 2,
+            "Related to case 93-94": 1,
+            "Another region in Sweden": 1,
+            "Another region in Sweden. Related to case 114.": 1,
+            "Related to case 187": 2
         },
         "T\/TPTP": {
-            "total": 80
+            "total": 80,
+            "N. Italy": 14,
+            "N. Italy or Iran": 52,
+            "N. Italy and case 34-35": 7
         }
     },
     "regions": {
-        "J\u00f6nk\u00f6ping County": {
+        "J\u00f6nk\u00f6ping": {
             "total": 8,
             "logs": {
                 "2020-01-31": {
@@ -3302,7 +3323,7 @@
                 }
             }
         },
-        "V\u00e4stra G\u00f6taland County": {
+        "V\u00e4stra G\u00f6taland": {
             "total": 26,
             "logs": {
                 "2020-02-26": {
@@ -3379,7 +3400,7 @@
                 }
             }
         },
-        "Stockholm County": {
+        "Stockholm": {
             "total": 115,
             "logs": {
                 "2020-02-27": {
@@ -3464,7 +3485,7 @@
                 }
             }
         },
-        "Uppsala County": {
+        "Uppsala": {
             "total": 6,
             "logs": {
                 "2020-02-27": {
@@ -3509,7 +3530,7 @@
                 }
             }
         },
-        "Sk\u00e5ne County": {
+        "Sk\u00e5ne": {
             "total": 22,
             "logs": {
                 "2020-03-03": {
@@ -3562,7 +3583,7 @@
                 }
             }
         },
-        "V\u00e4rmland County": {
+        "V\u00e4rmland": {
             "total": 20,
             "logs": {
                 "2020-03-04": {
@@ -3599,7 +3620,7 @@
                 }
             }
         },
-        "\u00d6rebro County": {
+        "\u00d6rebro": {
             "total": 4,
             "logs": {
                 "2020-03-04": {
@@ -3620,7 +3641,7 @@
                 }
             }
         },
-        "G\u00e4vleborg County": {
+        "G\u00e4vleborg": {
             "total": 2,
             "logs": {
                 "2020-03-05": {
