@@ -60,14 +60,14 @@
 		<h3 class="ui header">
 			Stats by Region (Län)
 		</h3>
-		<div id="dropdown-county" class="ui search selection dropdown">
+		<div id="dropdown-region" class="ui search selection dropdown">
 			<input type="hidden" name="country">
 			<div class="default text">Select Country</div>
 			<i class="dropdown icon"></i>
 			<div class="menu"></div>
 		</div>
 
-		<table id="table-county-stats" class="ui stackable compact table">
+		<table id="table-region-stats" class="ui stackable compact table">
 			<thead>
 				<tr>
 					<th>Date</th>
@@ -119,21 +119,29 @@
 			$( '#stat-country-confirmed' ).text( summary[ 'confirmed' ] );
 			$( '#stat-country-recovered' ).text( summary[ 'recovered-fully' ] + summary[ 'recovered-clinically' ] );
 			$( '#stat-country-deceased' ).text( summary[ 'deceased' ] );
-			
+
+			// Regional stats.
+			var regions = json[ 'regions' ];
+			var region_keys = Object.keys( regions );
+			var region_dropdown_items = [];
+			var default_region = 'Stockholm';
+			region_keys.forEach( function( value ) {
+				region_dropdown_items.push( {
+					name: value,
+					value: value,
+					selected: ( value == default_region )
+				} );
+			} );
 			// ----------------------------------------------------------
-			// dropdown: county
+			// dropdown: region
 			// ----------------------------------------------------------
-			$( '#dropdown-county' )
+			$( '#dropdown-region' )
 				.dropdown( {
-					values: [
-						{ name: 'Stockholm', value: 'Stockholm', selected: true },
-						{ name: 'Skåne', value: 'Skåne' }
-					],
+					values: region_dropdown_items,
 					onChange: function ( value, text, item ) {
 						console.log( 'text: ' + text + ', value: ' + value );
 					}
 				} );
-
 		} );
 
 
