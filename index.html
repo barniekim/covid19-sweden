@@ -71,28 +71,16 @@
 			<thead>
 				<tr>
 					<th>Date</th>
-					<th>Confirmed (New)</th>
-					<th>Confirmed (Total)</th>
-					<th>Deceased (New)</th>
-					<th>Deceased (Total)</th>
+					<th>Confirmed</th>
+					<th>Deceased</th>
 				</tr>
 			</thead>
-			<tbody>
-				<tr>
-					<td>2020-03-01</td>
-					<td>1</td>
-					<td>90</td>
-					<td class="error">0</td>
-					<td class="error">0</td>
-				</tr>
-			</tbody>
+			<tbody></tbody>
 			<tfoot>
 				<tr>
 					<th>Total</th>
-					<th>1</th>
-					<th>90</th>
-					<th>0</th>
-					<th>0</th>
+					<th aria-type="confirmed">0</th>
+					<th aria-type="deceased">0</th>
 				</tr>
 			</tfoot>
 		</table>
@@ -132,14 +120,34 @@
 					selected: ( value == default_region )
 				} );
 			} );
-			// ----------------------------------------------------------
 			// dropdown: region
-			// ----------------------------------------------------------
 			$( '#dropdown-region' )
 				.dropdown( {
 					values: region_dropdown_items,
 					onChange: function ( value, text, item ) {
-						console.log( 'text: ' + text + ', value: ' + value );
+
+						// table: region
+						$( '#table-region-stats tbody' ).empty();
+
+						var _total = { confirmed: 0, deceased: 0};
+						var _logs  = regions[ value ]['logs'];
+						var _dates = Object.keys( _logs );
+
+						_dates.forEach( function( _date ) {
+							var _log = _logs[ _date ];
+							_total[ 'confirmed' ] += _log[ 'total' ];
+							_total[ 'deceased' ] += _log[ 'deceased' ];
+							$( '#table-region-stats tbody' ).append(
+								'<tr>' +
+									'<td>' + _date +'</td>' +
+									'<td>' + _log[ 'total' ] + '</td>' +
+									'<td>' + _log[ 'deceased' ] + '</td>' +
+								'</tr>'
+							);
+						} );
+
+						$( '#table-region-stats tfoot th[aria-type=confirmed]' ).text( _total[ 'confirmed' ] );
+						$( '#table-region-stats tfoot th[aria-type=deceased]' ).text( _total[ 'deceased' ] );
 					}
 				} );
 		} );
