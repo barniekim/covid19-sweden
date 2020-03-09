@@ -1,7 +1,7 @@
 {
     "updated": {
-        "datetime": "2020-03-09 10AM (UTC)",
-        "timestamp": 1583750004
+        "datetime": "2020-03-09 2PM (UTC)",
+        "timestamp": 1583762628
     },
     "cases": [
         {
@@ -9,11 +9,11 @@
             "date": "2020-01-31",
             "status": "recovered-clinically",
             "origin": {
-                "type": "T",
+                "type": false,
                 "path": "Wuhan, China"
             },
             "location": {
-                "region": "J\u00f6nk\u00f6ping County",
+                "region": "J\u00f6nk\u00f6ping RegionJ\u00f6nk\u00f6ping",
                 "city": "J\u00f6nk\u00f6ping"
             },
             "treatment": "",
@@ -25,11 +25,11 @@
             "date": "2020-02-26",
             "status": "unknown",
             "origin": {
-                "type": "T",
+                "type": false,
                 "path": "N. Italy"
             },
             "location": {
-                "region": "V\u00e4stra G\u00f6taland County",
+                "region": "V\u00e4stra G\u00f6taland RegionVGR",
                 "city": "Gothenburg"
             },
             "treatment": "",
@@ -41,11 +41,11 @@
             "date": "2020-02-27",
             "status": "unknown",
             "origin": {
-                "type": "PTP",
+                "type": false,
                 "path": "Case 2"
             },
             "location": {
-                "region": "V\u00e4stra G\u00f6taland County",
+                "region": "V\u00e4stra G\u00f6taland RegionVGR",
                 "city": "Gothenburg"
             },
             "treatment": "",
@@ -57,11 +57,11 @@
             "date": "2020-02-27",
             "status": "unknown",
             "origin": {
-                "type": "PTP",
+                "type": false,
                 "path": "Case 2"
             },
             "location": {
-                "region": "V\u00e4stra G\u00f6taland County",
+                "region": "V\u00e4stra G\u00f6taland RegionVGR",
                 "city": "Gothenburg"
             },
             "treatment": "",
@@ -73,11 +73,11 @@
             "date": "2020-02-27",
             "status": "unknown",
             "origin": {
-                "type": "T",
+                "type": false,
                 "path": "N. Italy"
             },
             "location": {
-                "region": "V\u00e4stra G\u00f6taland County",
+                "region": "V\u00e4stra G\u00f6taland RegionVGR",
                 "city": "Gothenburg"
             },
             "treatment": "",
@@ -89,11 +89,11 @@
             "date": "2020-02-27",
             "status": "unknown",
             "origin": {
-                "type": "T",
+                "type": false,
                 "path": "Iran"
             },
             "location": {
-                "region": "Stockholm County",
+                "region": "Stockholm RegionStockholm",
                 "city": "Stockholm"
             },
             "treatment": "",
@@ -105,11 +105,11 @@
             "date": "2020-02-27",
             "status": "unknown",
             "origin": {
-                "type": "T",
+                "type": false,
                 "path": "Germany"
             },
             "location": {
-                "region": "Uppsala County",
+                "region": "Uppsala RegionUppsala",
                 "city": "Uppsala"
             },
             "treatment": "",
@@ -121,11 +121,11 @@
             "date": "2020-02-28",
             "status": "unknown",
             "origin": {
-                "type": "T",
+                "type": false,
                 "path": "N. Italy"
             },
             "location": {
-                "region": "J\u00f6nk\u00f6ping County",
+                "region": "J\u00f6nk\u00f6ping RegionJ\u00f6nk\u00f6ping",
                 "city": "J\u00f6nk\u00f6ping"
             },
             "treatment": "",
@@ -137,11 +137,11 @@
             "date": "2020-02-28",
             "status": "unknown",
             "origin": {
-                "type": "PTP",
+                "type": false,
                 "path": "Case 6"
             },
             "location": {
-                "region": "Stockholm County",
+                "region": "Stockholm RegionStockholm",
                 "city": "Stockholm"
             },
             "treatment": "",
@@ -153,11 +153,11 @@
             "date": "2020-02-28",
             "status": "unknown",
             "origin": {
-                "type": "PTP",
+                "type": false,
                 "path": "Case 6"
             },
             "location": {
-                "region": "Stockholm County",
+                "region": "Stockholm RegionStockholm",
                 "city": "Stockholm"
             },
             "treatment": "",
@@ -169,11 +169,11 @@
             "date": "2020-02-28",
             "status": "unknown",
             "origin": {
-                "type": "T",
+                "type": false,
                 "path": "Iran"
             },
             "location": {
-                "region": "Uppsala County",
+                "region": "Uppsala RegionUppsala",
                 "city": "Tierp"
             },
             "treatment": "",
@@ -185,11 +185,11 @@
             "date": "2020-02-29",
             "status": "unknown",
             "origin": {
-                "type": "T",
+                "type": false,
                 "path": "Iran"
             },
             "location": {
-                "region": "V\u00e4stra G\u00f6taland County",
+                "region": "V\u00e4stra G\u00f6taland RegionVGR",
                 "city": "Gothenburg"
             },
             "treatment": "",
@@ -201,11 +201,11 @@
             "date": "2020-02-29",
             "status": "unknown",
             "origin": {
-                "type": "PTP",
+                "type": false,
                 "path": "Case 6"
             },
             "location": {
-                "region": "Stockholm County",
+                "region": "Stockholm RegionStockholm",
                 "city": "Stockholm"
             },
             "treatment": "",
@@ -217,11 +217,11 @@
             "date": "2020-03-01",
             "status": "unknown",
             "origin": {
-                "type": "T",
+                "type": false,
                 "path": "N. Italy, travelled with"
             },
             "location": {
-                "region": "V\u00e4stra G\u00f6taland County",
+                "region": "V\u00e4stra G\u00f6taland RegionVGR",
                 "city": "Gothenburg"
             },
             "treatment": "",
@@ -233,11 +233,11 @@
             "date": "2020-03-02",
             "status": "unknown",
             "origin": {
-                "type": "T",
+                "type": false,
                 "path": "N. Italy"
             },
             "location": {
-                "region": "Stockholm County",
+                "region": "Stockholm RegionStockholm",
                 "city": "Stockholm"
             },
             "treatment": "",
@@ -249,11 +249,11 @@
             "date": "2020-03-03",
             "status": "unknown",
             "origin": {
-                "type": "T",
+                "type": false,
                 "path": "N. Italy, travelled with case 8"
             },
             "location": {
-                "region": "J\u00f6nk\u00f6ping County",
+                "region": "J\u00f6nk\u00f6ping RegionJ\u00f6nk\u00f6ping",
                 "city": "J\u00f6nk\u00f6ping"
             },
             "treatment": "",
@@ -265,11 +265,11 @@
             "date": "2020-03-03",
             "status": "unknown",
             "origin": {
-                "type": "T",
+                "type": false,
                 "path": "N. Italy, travelled together"
             },
             "location": {
-                "region": "V\u00e4stra G\u00f6taland County",
+                "region": "V\u00e4stra G\u00f6taland RegionVGR",
                 "city": "Gothenburg"
             },
             "treatment": "",
@@ -281,11 +281,11 @@
             "date": "2020-03-03",
             "status": "unknown",
             "origin": {
-                "type": "T",
+                "type": false,
                 "path": "N. Italy, travelled together"
             },
             "location": {
-                "region": "V\u00e4stra G\u00f6taland County",
+                "region": "V\u00e4stra G\u00f6taland RegionVGR",
                 "city": "Gothenburg"
             },
             "treatment": "",
@@ -297,11 +297,11 @@
             "date": "2020-03-03",
             "status": "unknown",
             "origin": {
-                "type": "T",
+                "type": false,
                 "path": "N. Italy, travelled together"
             },
             "location": {
-                "region": "V\u00e4stra G\u00f6taland County",
+                "region": "V\u00e4stra G\u00f6taland RegionVGR",
                 "city": "Gothenburg"
             },
             "treatment": "",
@@ -313,11 +313,11 @@
             "date": "2020-03-03",
             "status": "unknown",
             "origin": {
-                "type": "T",
+                "type": false,
                 "path": "N. Italy"
             },
             "location": {
-                "region": "Sk\u00e5ne County",
+                "region": "Sk\u00e5ne RegionSk\u00e5ne",
                 "city": "Lund"
             },
             "treatment": "",
@@ -329,11 +329,11 @@
             "date": "2020-03-03",
             "status": "unknown",
             "origin": {
-                "type": "T",
+                "type": false,
                 "path": "N. Italy, travelled together"
             },
             "location": {
-                "region": "Stockholm County",
+                "region": "Stockholm RegionStockholm",
                 "city": "Stockholm"
             },
             "treatment": "",
@@ -345,11 +345,11 @@
             "date": "2020-03-03",
             "status": "unknown",
             "origin": {
-                "type": "T",
+                "type": false,
                 "path": "N. Italy, travelled together"
             },
             "location": {
-                "region": "Stockholm County",
+                "region": "Stockholm RegionStockholm",
                 "city": "Stockholm"
             },
             "treatment": "",
@@ -361,11 +361,11 @@
             "date": "2020-03-03",
             "status": "unknown",
             "origin": {
-                "type": "T",
+                "type": false,
                 "path": "N. Italy, travelled together"
             },
             "location": {
-                "region": "Stockholm County",
+                "region": "Stockholm RegionStockholm",
                 "city": "Stockholm"
             },
             "treatment": "",
@@ -377,11 +377,11 @@
             "date": "2020-03-03",
             "status": "unknown",
             "origin": {
-                "type": "T",
+                "type": false,
                 "path": "N. Italy"
             },
             "location": {
-                "region": "Stockholm County",
+                "region": "Stockholm RegionStockholm",
                 "city": "Stockholm"
             },
             "treatment": "",
@@ -393,11 +393,11 @@
             "date": "2020-03-03",
             "status": "unknown",
             "origin": {
-                "type": "T",
+                "type": false,
                 "path": "N. Italy"
             },
             "location": {
-                "region": "Stockholm County",
+                "region": "Stockholm RegionStockholm",
                 "city": "Stockholm"
             },
             "treatment": "",
@@ -409,11 +409,11 @@
             "date": "2020-03-03",
             "status": "unknown",
             "origin": {
-                "type": "T",
+                "type": false,
                 "path": "N. Italy"
             },
             "location": {
-                "region": "Stockholm County",
+                "region": "Stockholm RegionStockholm",
                 "city": "Stockholm"
             },
             "treatment": "",
@@ -425,11 +425,11 @@
             "date": "2020-03-03",
             "status": "unknown",
             "origin": {
-                "type": "T",
+                "type": false,
                 "path": "N. Italy"
             },
             "location": {
-                "region": "Stockholm County",
+                "region": "Stockholm RegionStockholm",
                 "city": "Stockholm"
             },
             "treatment": "",
@@ -441,11 +441,11 @@
             "date": "2020-03-03",
             "status": "unknown",
             "origin": {
-                "type": "T",
+                "type": false,
                 "path": "N. Italy"
             },
             "location": {
-                "region": "Stockholm County",
+                "region": "Stockholm RegionStockholm",
                 "city": "Stockholm"
             },
             "treatment": "",
@@ -457,11 +457,11 @@
             "date": "2020-03-03",
             "status": "unknown",
             "origin": {
-                "type": "PTP",
+                "type": false,
                 "path": "Case 28"
             },
             "location": {
-                "region": "Stockholm County",
+                "region": "Stockholm RegionStockholm",
                 "city": "Stockholm"
             },
             "treatment": "",
@@ -473,11 +473,11 @@
             "date": "2020-03-03",
             "status": "unknown",
             "origin": {
-                "type": "T",
+                "type": false,
                 "path": "Iran"
             },
             "location": {
-                "region": "Stockholm County",
+                "region": "Stockholm RegionStockholm",
                 "city": "Stockholm"
             },
             "treatment": "",
@@ -489,11 +489,11 @@
             "date": "2020-03-04",
             "status": "unknown",
             "origin": {
-                "type": "T",
+                "type": false,
                 "path": "Iran"
             },
             "location": {
-                "region": "V\u00e4stra G\u00f6taland County",
+                "region": "V\u00e4stra G\u00f6taland RegionVGR",
                 "city": "Gothenburg"
             },
             "treatment": "",
@@ -505,11 +505,11 @@
             "date": "2020-03-04",
             "status": "unknown",
             "origin": {
-                "type": "T",
+                "type": false,
                 "path": "N. Italy"
             },
             "location": {
-                "region": "V\u00e4stra G\u00f6taland County",
+                "region": "V\u00e4stra G\u00f6taland RegionVGR",
                 "city": "Gothenburg"
             },
             "treatment": "",
@@ -521,11 +521,11 @@
             "date": "2020-03-04",
             "status": "unknown",
             "origin": {
-                "type": "T",
+                "type": false,
                 "path": "N. Italy"
             },
             "location": {
-                "region": "Sk\u00e5ne County",
+                "region": "Sk\u00e5ne RegionSk\u00e5ne",
                 "city": "Malm\u00f6"
             },
             "treatment": "",
@@ -537,11 +537,11 @@
             "date": "2020-03-04",
             "status": "unknown",
             "origin": {
-                "type": "T",
+                "type": false,
                 "path": "N. Italy, travelled together"
             },
             "location": {
-                "region": "V\u00e4rmland County",
+                "region": "V\u00e4rmland RegionV\u00e4rmland",
                 "city": "Karlstad"
             },
             "treatment": "",
@@ -553,11 +553,11 @@
             "date": "2020-03-04",
             "status": "unknown",
             "origin": {
-                "type": "T",
+                "type": false,
                 "path": "N. Italy, travelled together"
             },
             "location": {
-                "region": "V\u00e4rmland County",
+                "region": "V\u00e4rmland RegionV\u00e4rmland",
                 "city": "Karlstad"
             },
             "treatment": "",
@@ -569,11 +569,11 @@
             "date": "2020-03-04",
             "status": "unknown",
             "origin": {
-                "type": "T",
+                "type": false,
                 "path": "N. Italy"
             },
             "location": {
-                "region": "\u00d6rebro County",
+                "region": "\u00d6rebro Region\u00d6rebro",
                 "city": "\u00d6rebro"
             },
             "treatment": "",
@@ -585,11 +585,11 @@
             "date": "2020-03-04",
             "status": "unknown",
             "origin": {
-                "type": "T",
+                "type": false,
                 "path": "N. Italy"
             },
             "location": {
-                "region": "Stockholm County",
+                "region": "Stockholm RegionStockholm",
                 "city": "-"
             },
             "treatment": "",
@@ -601,11 +601,11 @@
             "date": "2020-03-04",
             "status": "unknown",
             "origin": {
-                "type": "T",
+                "type": false,
                 "path": "N. Italy"
             },
             "location": {
-                "region": "Stockholm County",
+                "region": "Stockholm RegionStockholm",
                 "city": "-"
             },
             "treatment": "",
@@ -617,11 +617,11 @@
             "date": "2020-03-04",
             "status": "unknown",
             "origin": {
-                "type": "T",
+                "type": false,
                 "path": "N. Italy"
             },
             "location": {
-                "region": "Stockholm County",
+                "region": "Stockholm RegionStockholm",
                 "city": "-"
             },
             "treatment": "",
@@ -633,11 +633,11 @@
             "date": "2020-03-04",
             "status": "unknown",
             "origin": {
-                "type": "T",
+                "type": false,
                 "path": "N. Italy"
             },
             "location": {
-                "region": "Stockholm County",
+                "region": "Stockholm RegionStockholm",
                 "city": "-"
             },
             "treatment": "",
@@ -649,11 +649,11 @@
             "date": "2020-03-04",
             "status": "unknown",
             "origin": {
-                "type": "T",
+                "type": false,
                 "path": "N. Italy"
             },
             "location": {
-                "region": "Stockholm County",
+                "region": "Stockholm RegionStockholm",
                 "city": "-"
             },
             "treatment": "",
@@ -665,11 +665,11 @@
             "date": "2020-03-04",
             "status": "unknown",
             "origin": {
-                "type": "T",
+                "type": false,
                 "path": "N. Italy"
             },
             "location": {
-                "region": "Stockholm County",
+                "region": "Stockholm RegionStockholm",
                 "city": "-"
             },
             "treatment": "",
@@ -681,11 +681,11 @@
             "date": "2020-03-04",
             "status": "unknown",
             "origin": {
-                "type": "T",
+                "type": false,
                 "path": "N. Italy"
             },
             "location": {
-                "region": "Stockholm County",
+                "region": "Stockholm RegionStockholm",
                 "city": "-"
             },
             "treatment": "",
@@ -697,11 +697,11 @@
             "date": "2020-03-04",
             "status": "unknown",
             "origin": {
-                "type": "T",
+                "type": false,
                 "path": "N. Italy"
             },
             "location": {
-                "region": "Stockholm County",
+                "region": "Stockholm RegionStockholm",
                 "city": "-"
             },
             "treatment": "",
@@ -713,11 +713,11 @@
             "date": "2020-03-04",
             "status": "unknown",
             "origin": {
-                "type": "T",
+                "type": false,
                 "path": "N. Italy"
             },
             "location": {
-                "region": "Stockholm County",
+                "region": "Stockholm RegionStockholm",
                 "city": "-"
             },
             "treatment": "",
@@ -729,11 +729,11 @@
             "date": "2020-03-04",
             "status": "unknown",
             "origin": {
-                "type": "T",
+                "type": false,
                 "path": "N. Italy"
             },
             "location": {
-                "region": "Stockholm County",
+                "region": "Stockholm RegionStockholm",
                 "city": "-"
             },
             "treatment": "",
@@ -745,11 +745,11 @@
             "date": "2020-03-04",
             "status": "unknown",
             "origin": {
-                "type": "T",
+                "type": false,
                 "path": "N. Italy"
             },
             "location": {
-                "region": "Stockholm County",
+                "region": "Stockholm RegionStockholm",
                 "city": "-"
             },
             "treatment": "",
@@ -761,11 +761,11 @@
             "date": "2020-03-04",
             "status": "unknown",
             "origin": {
-                "type": "T",
+                "type": false,
                 "path": "N. Italy"
             },
             "location": {
-                "region": "Stockholm County",
+                "region": "Stockholm RegionStockholm",
                 "city": "-"
             },
             "treatment": "",
@@ -777,11 +777,11 @@
             "date": "2020-03-04",
             "status": "unknown",
             "origin": {
-                "type": "T",
+                "type": false,
                 "path": "N. Italy"
             },
             "location": {
-                "region": "Stockholm County",
+                "region": "Stockholm RegionStockholm",
                 "city": "-"
             },
             "treatment": "",
@@ -793,11 +793,11 @@
             "date": "2020-03-04",
             "status": "unknown",
             "origin": {
-                "type": "T",
+                "type": false,
                 "path": "N. Italy"
             },
             "location": {
-                "region": "Stockholm County",
+                "region": "Stockholm RegionStockholm",
                 "city": "-"
             },
             "treatment": "",
@@ -809,11 +809,11 @@
             "date": "2020-03-04",
             "status": "unknown",
             "origin": {
-                "type": "T",
+                "type": false,
                 "path": "N. Italy"
             },
             "location": {
-                "region": "Stockholm County",
+                "region": "Stockholm RegionStockholm",
                 "city": "-"
             },
             "treatment": "",
@@ -825,11 +825,11 @@
             "date": "2020-03-04",
             "status": "unknown",
             "origin": {
-                "type": "T",
+                "type": false,
                 "path": "Iran"
             },
             "location": {
-                "region": "Stockholm County",
+                "region": "Stockholm RegionStockholm",
                 "city": "-"
             },
             "treatment": "",
@@ -841,11 +841,11 @@
             "date": "2020-03-05",
             "status": "unknown",
             "origin": {
-                "type": "T",
+                "type": false,
                 "path": "N. Italy"
             },
             "location": {
-                "region": "V\u00e4stra G\u00f6taland County",
+                "region": "V\u00e4stra G\u00f6taland RegionVGR",
                 "city": "Bor\u00e5s"
             },
             "treatment": "",
@@ -857,11 +857,11 @@
             "date": "2020-03-05",
             "status": "unknown",
             "origin": {
-                "type": "T",
+                "type": false,
                 "path": "N. Italy"
             },
             "location": {
-                "region": "Sk\u00e5ne County",
+                "region": "Sk\u00e5ne RegionSk\u00e5ne",
                 "city": "-"
             },
             "treatment": "",
@@ -873,11 +873,11 @@
             "date": "2020-03-05",
             "status": "unknown",
             "origin": {
-                "type": "T",
+                "type": false,
                 "path": "N. Italy"
             },
             "location": {
-                "region": "Sk\u00e5ne County",
+                "region": "Sk\u00e5ne RegionSk\u00e5ne",
                 "city": "-"
             },
             "treatment": "",
@@ -889,11 +889,11 @@
             "date": "2020-03-05",
             "status": "unknown",
             "origin": {
-                "type": "T",
+                "type": false,
                 "path": "N. Italy"
             },
             "location": {
-                "region": "Sk\u00e5ne County",
+                "region": "Sk\u00e5ne RegionSk\u00e5ne",
                 "city": "-"
             },
             "treatment": "",
@@ -905,11 +905,11 @@
             "date": "2020-03-05",
             "status": "unknown",
             "origin": {
-                "type": "T",
+                "type": false,
                 "path": "N. Italy"
             },
             "location": {
-                "region": "Sk\u00e5ne County",
+                "region": "Sk\u00e5ne RegionSk\u00e5ne",
                 "city": "-"
             },
             "treatment": "",
@@ -921,11 +921,11 @@
             "date": "2020-03-05",
             "status": "unknown",
             "origin": {
-                "type": "T",
+                "type": false,
                 "path": "N. Italy"
             },
             "location": {
-                "region": "Sk\u00e5ne County",
+                "region": "Sk\u00e5ne RegionSk\u00e5ne",
                 "city": "-"
             },
             "treatment": "",
@@ -937,11 +937,11 @@
             "date": "2020-03-05",
             "status": "unknown",
             "origin": {
-                "type": "T",
+                "type": false,
                 "path": "N. Italy"
             },
             "location": {
-                "region": "Sk\u00e5ne County",
+                "region": "Sk\u00e5ne RegionSk\u00e5ne",
                 "city": "-"
             },
             "treatment": "",
@@ -953,11 +953,11 @@
             "date": "2020-03-05",
             "status": "unknown",
             "origin": {
-                "type": "T",
+                "type": false,
                 "path": "N. Italy"
             },
             "location": {
-                "region": "Sk\u00e5ne County",
+                "region": "Sk\u00e5ne RegionSk\u00e5ne",
                 "city": "-"
             },
             "treatment": "",
@@ -969,11 +969,11 @@
             "date": "2020-03-05",
             "status": "unknown",
             "origin": {
-                "type": "PTP",
+                "type": false,
                 "path": "Case 34\/35"
             },
             "location": {
-                "region": "V\u00e4rmland County",
+                "region": "V\u00e4rmland RegionV\u00e4rmland",
                 "city": "-"
             },
             "treatment": "",
@@ -985,11 +985,11 @@
             "date": "2020-03-05",
             "status": "unknown",
             "origin": {
-                "type": "PTP",
+                "type": false,
                 "path": "Case 34\/35"
             },
             "location": {
-                "region": "V\u00e4rmland County",
+                "region": "V\u00e4rmland RegionV\u00e4rmland",
                 "city": "-"
             },
             "treatment": "",
@@ -1001,11 +1001,11 @@
             "date": "2020-03-05",
             "status": "unknown",
             "origin": {
-                "type": "T",
+                "type": false,
                 "path": "N. Italy"
             },
             "location": {
-                "region": "V\u00e4rmland County",
+                "region": "V\u00e4rmland RegionV\u00e4rmland",
                 "city": "-"
             },
             "treatment": "",
@@ -1017,11 +1017,11 @@
             "date": "2020-03-05",
             "status": "unknown",
             "origin": {
-                "type": "T",
+                "type": false,
                 "path": "N. Italy"
             },
             "location": {
-                "region": "G\u00e4vleborg County",
+                "region": "G\u00e4vleborg RegionG\u00e4vleborg",
                 "city": "-"
             },
             "treatment": "",
@@ -1033,11 +1033,11 @@
             "date": "2020-03-05",
             "status": "unknown",
             "origin": {
-                "type": "T\/TPTP",
+                "type": false,
                 "path": "N. Italy"
             },
             "location": {
-                "region": "Stockholm County",
+                "region": "Stockholm RegionStockholm",
                 "city": "-"
             },
             "treatment": "",
@@ -1049,11 +1049,11 @@
             "date": "2020-03-05",
             "status": "unknown",
             "origin": {
-                "type": "T\/TPTP",
+                "type": false,
                 "path": "N. Italy"
             },
             "location": {
-                "region": "Stockholm County",
+                "region": "Stockholm RegionStockholm",
                 "city": "-"
             },
             "treatment": "",
@@ -1065,11 +1065,11 @@
             "date": "2020-03-05",
             "status": "unknown",
             "origin": {
-                "type": "T\/TPTP",
+                "type": false,
                 "path": "N. Italy"
             },
             "location": {
-                "region": "Stockholm County",
+                "region": "Stockholm RegionStockholm",
                 "city": "-"
             },
             "treatment": "",
@@ -1081,11 +1081,11 @@
             "date": "2020-03-05",
             "status": "unknown",
             "origin": {
-                "type": "T\/TPTP",
+                "type": false,
                 "path": "N. Italy"
             },
             "location": {
-                "region": "Stockholm County",
+                "region": "Stockholm RegionStockholm",
                 "city": "-"
             },
             "treatment": "",
@@ -1097,11 +1097,11 @@
             "date": "2020-03-05",
             "status": "unknown",
             "origin": {
-                "type": "T\/TPTP",
+                "type": false,
                 "path": "N. Italy"
             },
             "location": {
-                "region": "Stockholm County",
+                "region": "Stockholm RegionStockholm",
                 "city": "-"
             },
             "treatment": "",
@@ -1113,11 +1113,11 @@
             "date": "2020-03-05",
             "status": "unknown",
             "origin": {
-                "type": "T\/TPTP",
+                "type": false,
                 "path": "N. Italy"
             },
             "location": {
-                "region": "Stockholm County",
+                "region": "Stockholm RegionStockholm",
                 "city": "-"
             },
             "treatment": "",
@@ -1129,11 +1129,11 @@
             "date": "2020-03-05",
             "status": "unknown",
             "origin": {
-                "type": "T\/TPTP",
+                "type": false,
                 "path": "N. Italy"
             },
             "location": {
-                "region": "Stockholm County",
+                "region": "Stockholm RegionStockholm",
                 "city": "-"
             },
             "treatment": "",
@@ -1145,11 +1145,11 @@
             "date": "2020-03-05",
             "status": "unknown",
             "origin": {
-                "type": "T\/TPTP",
+                "type": false,
                 "path": "N. Italy"
             },
             "location": {
-                "region": "Stockholm County",
+                "region": "Stockholm RegionStockholm",
                 "city": "-"
             },
             "treatment": "",
@@ -1161,11 +1161,11 @@
             "date": "2020-03-05",
             "status": "unknown",
             "origin": {
-                "type": "T\/TPTP",
+                "type": false,
                 "path": "N. Italy"
             },
             "location": {
-                "region": "Stockholm County",
+                "region": "Stockholm RegionStockholm",
                 "city": "-"
             },
             "treatment": "",
@@ -1177,11 +1177,11 @@
             "date": "2020-03-05",
             "status": "unknown",
             "origin": {
-                "type": "T\/TPTP",
+                "type": false,
                 "path": "N. Italy"
             },
             "location": {
-                "region": "Stockholm County",
+                "region": "Stockholm RegionStockholm",
                 "city": "-"
             },
             "treatment": "",
@@ -1193,11 +1193,11 @@
             "date": "2020-03-05",
             "status": "unknown",
             "origin": {
-                "type": "T\/TPTP",
+                "type": false,
                 "path": "N. Italy"
             },
             "location": {
-                "region": "Stockholm County",
+                "region": "Stockholm RegionStockholm",
                 "city": "-"
             },
             "treatment": "",
@@ -1209,11 +1209,11 @@
             "date": "2020-03-05",
             "status": "unknown",
             "origin": {
-                "type": "T\/TPTP",
+                "type": false,
                 "path": "N. Italy"
             },
             "location": {
-                "region": "Stockholm County",
+                "region": "Stockholm RegionStockholm",
                 "city": "-"
             },
             "treatment": "",
@@ -1225,11 +1225,11 @@
             "date": "2020-03-05",
             "status": "unknown",
             "origin": {
-                "type": "T\/TPTP",
+                "type": false,
                 "path": "N. Italy"
             },
             "location": {
-                "region": "Stockholm County",
+                "region": "Stockholm RegionStockholm",
                 "city": "-"
             },
             "treatment": "",
@@ -1241,11 +1241,11 @@
             "date": "2020-03-05",
             "status": "unknown",
             "origin": {
-                "type": "T\/TPTP",
+                "type": false,
                 "path": "N. Italy"
             },
             "location": {
-                "region": "Stockholm County",
+                "region": "Stockholm RegionStockholm",
                 "city": "-"
             },
             "treatment": "",
@@ -1257,11 +1257,11 @@
             "date": "2020-03-05",
             "status": "unknown",
             "origin": {
-                "type": "T\/TPTP",
-                "path": "N. No case specific information"
+                "type": false,
+                "path": "No case specific information"
             },
             "location": {
-                "region": "Stockholm County",
+                "region": "Stockholm RegionStockholm",
                 "city": "-"
             },
             "treatment": "",
@@ -1273,11 +1273,11 @@
             "date": "2020-03-05",
             "status": "unknown",
             "origin": {
-                "type": "T\/TPTP",
-                "path": "N. No case specific information"
+                "type": false,
+                "path": "No case specific information"
             },
             "location": {
-                "region": "Stockholm County",
+                "region": "Stockholm RegionStockholm",
                 "city": "-"
             },
             "treatment": "",
@@ -1289,11 +1289,11 @@
             "date": "2020-03-05",
             "status": "unknown",
             "origin": {
-                "type": "T\/TPTP",
-                "path": "N. No case specific information"
+                "type": false,
+                "path": "No case specific information"
             },
             "location": {
-                "region": "Stockholm County",
+                "region": "Stockholm RegionStockholm",
                 "city": "-"
             },
             "treatment": "",
@@ -1305,11 +1305,11 @@
             "date": "2020-03-05",
             "status": "unknown",
             "origin": {
-                "type": "T\/TPTP",
-                "path": "N. No case specific information"
+                "type": false,
+                "path": "No case specific information"
             },
             "location": {
-                "region": "Stockholm County",
+                "region": "Stockholm RegionStockholm",
                 "city": "-"
             },
             "treatment": "",
@@ -1321,11 +1321,11 @@
             "date": "2020-03-05",
             "status": "unknown",
             "origin": {
-                "type": "T\/TPTP",
-                "path": "N. No case specific information"
+                "type": false,
+                "path": "No case specific information"
             },
             "location": {
-                "region": "Stockholm County",
+                "region": "Stockholm RegionStockholm",
                 "city": "-"
             },
             "treatment": "",
@@ -1337,11 +1337,11 @@
             "date": "2020-03-05",
             "status": "unknown",
             "origin": {
-                "type": "T\/TPTP",
-                "path": "N. No case specific information"
+                "type": false,
+                "path": "No case specific information"
             },
             "location": {
-                "region": "Stockholm County",
+                "region": "Stockholm RegionStockholm",
                 "city": "-"
             },
             "treatment": "",
@@ -1353,11 +1353,11 @@
             "date": "2020-03-05",
             "status": "unknown",
             "origin": {
-                "type": "T\/TPTP",
-                "path": "N. No case specific information"
+                "type": false,
+                "path": "No case specific information"
             },
             "location": {
-                "region": "Stockholm County",
+                "region": "Stockholm RegionStockholm",
                 "city": "-"
             },
             "treatment": "",
@@ -1369,11 +1369,11 @@
             "date": "2020-03-05",
             "status": "unknown",
             "origin": {
-                "type": "T\/TPTP",
-                "path": "N. No case specific information"
+                "type": false,
+                "path": "No case specific information"
             },
             "location": {
-                "region": "Stockholm County",
+                "region": "Stockholm RegionStockholm",
                 "city": "-"
             },
             "treatment": "",
@@ -1385,11 +1385,11 @@
             "date": "2020-03-05",
             "status": "unknown",
             "origin": {
-                "type": "T\/TPTP",
-                "path": "N. No case specific information"
+                "type": false,
+                "path": "No case specific information"
             },
             "location": {
-                "region": "Stockholm County",
+                "region": "Stockholm RegionStockholm",
                 "city": "-"
             },
             "treatment": "",
@@ -1401,11 +1401,11 @@
             "date": "2020-03-05",
             "status": "unknown",
             "origin": {
-                "type": "T\/TPTP",
-                "path": "N. No case specific information"
+                "type": false,
+                "path": "No case specific information"
             },
             "location": {
-                "region": "Stockholm County",
+                "region": "Stockholm RegionStockholm",
                 "city": "-"
             },
             "treatment": "",
@@ -1417,11 +1417,11 @@
             "date": "2020-03-05",
             "status": "unknown",
             "origin": {
-                "type": "T\/TPTP",
-                "path": "N. No case specific information"
+                "type": false,
+                "path": "No case specific information"
             },
             "location": {
-                "region": "Stockholm County",
+                "region": "Stockholm RegionStockholm",
                 "city": "-"
             },
             "treatment": "",
@@ -1433,11 +1433,11 @@
             "date": "2020-03-05",
             "status": "unknown",
             "origin": {
-                "type": "T\/TPTP",
-                "path": "N. No case specific information"
+                "type": false,
+                "path": "No case specific information"
             },
             "location": {
-                "region": "Stockholm County",
+                "region": "Stockholm RegionStockholm",
                 "city": "-"
             },
             "treatment": "",
@@ -1449,11 +1449,11 @@
             "date": "2020-03-05",
             "status": "unknown",
             "origin": {
-                "type": "T\/TPTP",
-                "path": "N. No case specific information"
+                "type": false,
+                "path": "No case specific information"
             },
             "location": {
-                "region": "Stockholm County",
+                "region": "Stockholm RegionStockholm",
                 "city": "-"
             },
             "treatment": "",
@@ -1465,11 +1465,11 @@
             "date": "2020-03-05",
             "status": "unknown",
             "origin": {
-                "type": "T\/TPTP",
-                "path": "N. No case specific information"
+                "type": false,
+                "path": "No case specific information"
             },
             "location": {
-                "region": "Stockholm County",
+                "region": "Stockholm RegionStockholm",
                 "city": "-"
             },
             "treatment": "",
@@ -1481,11 +1481,11 @@
             "date": "2020-03-05",
             "status": "unknown",
             "origin": {
-                "type": "T",
+                "type": false,
                 "path": "N. Italy"
             },
             "location": {
-                "region": "Uppsala County",
+                "region": "Uppsala RegionUppsala",
                 "city": "-"
             },
             "treatment": "",
@@ -1497,11 +1497,11 @@
             "date": "2020-03-05",
             "status": "unknown",
             "origin": {
-                "type": "T",
+                "type": false,
                 "path": "N. Italy"
             },
             "location": {
-                "region": "Uppsala County",
+                "region": "Uppsala RegionUppsala",
                 "city": "-"
             },
             "treatment": "",
@@ -1513,11 +1513,11 @@
             "date": "2020-03-06",
             "status": "unknown",
             "origin": {
-                "type": "T",
+                "type": false,
                 "path": "N. Italy"
             },
             "location": {
-                "region": "V\u00e4stra G\u00f6taland County",
+                "region": "V\u00e4stra G\u00f6taland RegionVGR",
                 "city": "-"
             },
             "treatment": "",
@@ -1529,11 +1529,11 @@
             "date": "2020-03-06",
             "status": "unknown",
             "origin": {
-                "type": "T",
+                "type": false,
                 "path": "Iran"
             },
             "location": {
-                "region": "V\u00e4stra G\u00f6taland County",
+                "region": "V\u00e4stra G\u00f6taland RegionVGR",
                 "city": "-"
             },
             "treatment": "",
@@ -1545,11 +1545,11 @@
             "date": "2020-03-06",
             "status": "unknown",
             "origin": {
-                "type": "T",
+                "type": false,
                 "path": "N. Italy"
             },
             "location": {
-                "region": "Sk\u00e5ne County",
+                "region": "Sk\u00e5ne RegionSk\u00e5ne",
                 "city": "-"
             },
             "treatment": "",
@@ -1561,11 +1561,11 @@
             "date": "2020-03-06",
             "status": "unknown",
             "origin": {
-                "type": "T",
+                "type": false,
                 "path": "N. Italy"
             },
             "location": {
-                "region": "Sk\u00e5ne County",
+                "region": "Sk\u00e5ne RegionSk\u00e5ne",
                 "city": "-"
             },
             "treatment": "",
@@ -1577,11 +1577,11 @@
             "date": "2020-03-06",
             "status": "unknown",
             "origin": {
-                "type": "T",
+                "type": false,
                 "path": "N. Italy"
             },
             "location": {
-                "region": "Sk\u00e5ne County",
+                "region": "Sk\u00e5ne RegionSk\u00e5ne",
                 "city": "-"
             },
             "treatment": "",
@@ -1593,11 +1593,11 @@
             "date": "2020-03-06",
             "status": "unknown",
             "origin": {
-                "type": "T",
+                "type": false,
                 "path": "N. Italy"
             },
             "location": {
-                "region": "Sk\u00e5ne County",
+                "region": "Sk\u00e5ne RegionSk\u00e5ne",
                 "city": "-"
             },
             "treatment": "",
@@ -1609,11 +1609,11 @@
             "date": "2020-03-06",
             "status": "unknown",
             "origin": {
-                "type": "T",
+                "type": false,
                 "path": "N. Italy"
             },
             "location": {
-                "region": "Sk\u00e5ne County",
+                "region": "Sk\u00e5ne RegionSk\u00e5ne",
                 "city": "-"
             },
             "treatment": "",
@@ -1625,11 +1625,11 @@
             "date": "2020-03-06",
             "status": "unknown",
             "origin": {
-                "type": "T\/TPTP",
+                "type": false,
                 "path": "N. Italy and case 34-35"
             },
             "location": {
-                "region": "V\u00e4rmland County",
+                "region": "V\u00e4rmland RegionV\u00e4rmland",
                 "city": "-"
             },
             "treatment": "",
@@ -1641,11 +1641,11 @@
             "date": "2020-03-06",
             "status": "unknown",
             "origin": {
-                "type": "T\/TPTP",
+                "type": false,
                 "path": "N. Italy and case 34-35"
             },
             "location": {
-                "region": "V\u00e4rmland County",
+                "region": "V\u00e4rmland RegionV\u00e4rmland",
                 "city": "-"
             },
             "treatment": "",
@@ -1657,11 +1657,11 @@
             "date": "2020-03-06",
             "status": "unknown",
             "origin": {
-                "type": "T\/TPTP",
+                "type": false,
                 "path": "N. Italy and case 34-35"
             },
             "location": {
-                "region": "V\u00e4rmland County",
+                "region": "V\u00e4rmland RegionV\u00e4rmland",
                 "city": "-"
             },
             "treatment": "",
@@ -1673,11 +1673,11 @@
             "date": "2020-03-06",
             "status": "unknown",
             "origin": {
-                "type": "T\/TPTP",
+                "type": false,
                 "path": "N. Italy and case 34-35"
             },
             "location": {
-                "region": "V\u00e4rmland County",
+                "region": "V\u00e4rmland RegionV\u00e4rmland",
                 "city": "-"
             },
             "treatment": "",
@@ -1689,11 +1689,11 @@
             "date": "2020-03-06",
             "status": "unknown",
             "origin": {
-                "type": "T\/TPTP",
+                "type": false,
                 "path": "N. Italy and case 34-35"
             },
             "location": {
-                "region": "V\u00e4rmland County",
+                "region": "V\u00e4rmland RegionV\u00e4rmland",
                 "city": "-"
             },
             "treatment": "",
@@ -1705,11 +1705,11 @@
             "date": "2020-03-06",
             "status": "unknown",
             "origin": {
-                "type": "T\/TPTP",
+                "type": false,
                 "path": "N. Italy and case 34-35"
             },
             "location": {
-                "region": "V\u00e4rmland County",
+                "region": "V\u00e4rmland RegionV\u00e4rmland",
                 "city": "-"
             },
             "treatment": "",
@@ -1721,11 +1721,11 @@
             "date": "2020-03-06",
             "status": "unknown",
             "origin": {
-                "type": "T\/TPTP",
+                "type": false,
                 "path": "N. Italy and case 34-35"
             },
             "location": {
-                "region": "V\u00e4rmland County",
+                "region": "V\u00e4rmland RegionV\u00e4rmland",
                 "city": "-"
             },
             "treatment": "",
@@ -1737,11 +1737,11 @@
             "date": "2020-03-06",
             "status": "unknown",
             "origin": {
-                "type": "T",
+                "type": false,
                 "path": "-"
             },
             "location": {
-                "region": "V\u00e4rmland County",
+                "region": "V\u00e4rmland RegionV\u00e4rmland",
                 "city": "-"
             },
             "treatment": "",
@@ -1753,11 +1753,11 @@
             "date": "2020-03-06",
             "status": "unknown",
             "origin": {
-                "type": "PTP",
+                "type": false,
                 "path": "Related to case 93-94"
             },
             "location": {
-                "region": "Uppsala County",
+                "region": "Uppsala RegionUppsala",
                 "city": "-"
             },
             "treatment": "",
@@ -1769,11 +1769,11 @@
             "date": "2020-03-06",
             "status": "unknown",
             "origin": {
-                "type": "T",
+                "type": false,
                 "path": "N. Italy"
             },
             "location": {
-                "region": "J\u00f6nk\u00f6ping County",
+                "region": "J\u00f6nk\u00f6ping RegionJ\u00f6nk\u00f6ping",
                 "city": "-"
             },
             "treatment": "",
@@ -1785,11 +1785,11 @@
             "date": "2020-03-06",
             "status": "unknown",
             "origin": {
-                "type": "T",
+                "type": false,
                 "path": "N. Italy"
             },
             "location": {
-                "region": "J\u00f6nk\u00f6ping County",
+                "region": "J\u00f6nk\u00f6ping RegionJ\u00f6nk\u00f6ping",
                 "city": "-"
             },
             "treatment": "",
@@ -1801,11 +1801,11 @@
             "date": "2020-03-06",
             "status": "unknown",
             "origin": {
-                "type": "T",
+                "type": false,
                 "path": "N. Italy"
             },
             "location": {
-                "region": "J\u00f6nk\u00f6ping County",
+                "region": "J\u00f6nk\u00f6ping RegionJ\u00f6nk\u00f6ping",
                 "city": "-"
             },
             "treatment": "",
@@ -1817,11 +1817,11 @@
             "date": "2020-03-06",
             "status": "unknown",
             "origin": {
-                "type": "PTP",
+                "type": false,
                 "path": "Another region in Sweden"
             },
             "location": {
-                "region": "J\u00f6nk\u00f6ping County",
+                "region": "J\u00f6nk\u00f6ping RegionJ\u00f6nk\u00f6ping",
                 "city": "-"
             },
             "treatment": "",
@@ -1833,11 +1833,11 @@
             "date": "2020-03-06",
             "status": "unknown",
             "origin": {
-                "type": "PTP",
+                "type": false,
                 "path": "Another region in Sweden. Related to case 114."
             },
             "location": {
-                "region": "J\u00f6nk\u00f6ping County",
+                "region": "J\u00f6nk\u00f6ping RegionJ\u00f6nk\u00f6ping",
                 "city": "-"
             },
             "treatment": "",
@@ -1849,11 +1849,11 @@
             "date": "2020-03-06",
             "status": "unknown",
             "origin": {
-                "type": "T\/TPTP",
-                "path": "N. No case specific information"
+                "type": false,
+                "path": "No case specific information"
             },
             "location": {
-                "region": "Stockholm County",
+                "region": "Stockholm RegionStockholm",
                 "city": "-"
             },
             "treatment": "",
@@ -1865,11 +1865,11 @@
             "date": "2020-03-06",
             "status": "unknown",
             "origin": {
-                "type": "T\/TPTP",
-                "path": "N. No case specific information"
+                "type": false,
+                "path": "No case specific information"
             },
             "location": {
-                "region": "Stockholm County",
+                "region": "Stockholm RegionStockholm",
                 "city": "-"
             },
             "treatment": "",
@@ -1881,11 +1881,11 @@
             "date": "2020-03-06",
             "status": "unknown",
             "origin": {
-                "type": "T\/TPTP",
-                "path": "N. No case specific information"
+                "type": false,
+                "path": "No case specific information"
             },
             "location": {
-                "region": "Stockholm County",
+                "region": "Stockholm RegionStockholm",
                 "city": "-"
             },
             "treatment": "",
@@ -1897,11 +1897,11 @@
             "date": "2020-03-06",
             "status": "unknown",
             "origin": {
-                "type": "T\/TPTP",
-                "path": "N. No case specific information"
+                "type": false,
+                "path": "No case specific information"
             },
             "location": {
-                "region": "Stockholm County",
+                "region": "Stockholm RegionStockholm",
                 "city": "-"
             },
             "treatment": "",
@@ -1913,11 +1913,11 @@
             "date": "2020-03-06",
             "status": "unknown",
             "origin": {
-                "type": "T\/TPTP",
-                "path": "N. No case specific information"
+                "type": false,
+                "path": "No case specific information"
             },
             "location": {
-                "region": "Stockholm County",
+                "region": "Stockholm RegionStockholm",
                 "city": "-"
             },
             "treatment": "",
@@ -1929,11 +1929,11 @@
             "date": "2020-03-06",
             "status": "unknown",
             "origin": {
-                "type": "T\/TPTP",
-                "path": "N. No case specific information"
+                "type": false,
+                "path": "No case specific information"
             },
             "location": {
-                "region": "Stockholm County",
+                "region": "Stockholm RegionStockholm",
                 "city": "-"
             },
             "treatment": "",
@@ -1945,11 +1945,11 @@
             "date": "2020-03-06",
             "status": "unknown",
             "origin": {
-                "type": "T\/TPTP",
-                "path": "N. No case specific information"
+                "type": false,
+                "path": "No case specific information"
             },
             "location": {
-                "region": "Stockholm County",
+                "region": "Stockholm RegionStockholm",
                 "city": "-"
             },
             "treatment": "",
@@ -1961,11 +1961,11 @@
             "date": "2020-03-06",
             "status": "unknown",
             "origin": {
-                "type": "T\/TPTP",
-                "path": "N. No case specific information"
+                "type": false,
+                "path": "No case specific information"
             },
             "location": {
-                "region": "Stockholm County",
+                "region": "Stockholm RegionStockholm",
                 "city": "-"
             },
             "treatment": "",
@@ -1977,11 +1977,11 @@
             "date": "2020-03-06",
             "status": "unknown",
             "origin": {
-                "type": "T\/TPTP",
-                "path": "N. No case specific information"
+                "type": false,
+                "path": "No case specific information"
             },
             "location": {
-                "region": "Stockholm County",
+                "region": "Stockholm RegionStockholm",
                 "city": "-"
             },
             "treatment": "",
@@ -1993,11 +1993,11 @@
             "date": "2020-03-06",
             "status": "unknown",
             "origin": {
-                "type": "T\/TPTP",
-                "path": "N. No case specific information"
+                "type": false,
+                "path": "No case specific information"
             },
             "location": {
-                "region": "Stockholm County",
+                "region": "Stockholm RegionStockholm",
                 "city": "-"
             },
             "treatment": "",
@@ -2009,11 +2009,11 @@
             "date": "2020-03-06",
             "status": "unknown",
             "origin": {
-                "type": "T\/TPTP",
-                "path": "N. No case specific information"
+                "type": false,
+                "path": "No case specific information"
             },
             "location": {
-                "region": "Stockholm County",
+                "region": "Stockholm RegionStockholm",
                 "city": "-"
             },
             "treatment": "",
@@ -2025,11 +2025,11 @@
             "date": "2020-03-06",
             "status": "unknown",
             "origin": {
-                "type": "T\/TPTP",
-                "path": "N. No case specific information"
+                "type": false,
+                "path": "No case specific information"
             },
             "location": {
-                "region": "Stockholm County",
+                "region": "Stockholm RegionStockholm",
                 "city": "-"
             },
             "treatment": "",
@@ -2041,11 +2041,11 @@
             "date": "2020-03-06",
             "status": "unknown",
             "origin": {
-                "type": "T\/TPTP",
-                "path": "N. No case specific information"
+                "type": false,
+                "path": "No case specific information"
             },
             "location": {
-                "region": "Stockholm County",
+                "region": "Stockholm RegionStockholm",
                 "city": "-"
             },
             "treatment": "",
@@ -2057,11 +2057,11 @@
             "date": "2020-03-06",
             "status": "unknown",
             "origin": {
-                "type": "T\/TPTP",
-                "path": "N. No case specific information"
+                "type": false,
+                "path": "No case specific information"
             },
             "location": {
-                "region": "Stockholm County",
+                "region": "Stockholm RegionStockholm",
                 "city": "-"
             },
             "treatment": "",
@@ -2073,11 +2073,11 @@
             "date": "2020-03-06",
             "status": "unknown",
             "origin": {
-                "type": "T\/TPTP",
-                "path": "N. No case specific information"
+                "type": false,
+                "path": "No case specific information"
             },
             "location": {
-                "region": "Stockholm County",
+                "region": "Stockholm RegionStockholm",
                 "city": "-"
             },
             "treatment": "",
@@ -2089,11 +2089,11 @@
             "date": "2020-03-06",
             "status": "unknown",
             "origin": {
-                "type": "T\/TPTP",
-                "path": "N. No case specific information"
+                "type": false,
+                "path": "No case specific information"
             },
             "location": {
-                "region": "Stockholm County",
+                "region": "Stockholm RegionStockholm",
                 "city": "-"
             },
             "treatment": "",
@@ -2105,11 +2105,11 @@
             "date": "2020-03-06",
             "status": "unknown",
             "origin": {
-                "type": "T\/TPTP",
-                "path": "N. No case specific information"
+                "type": false,
+                "path": "No case specific information"
             },
             "location": {
-                "region": "Stockholm County",
+                "region": "Stockholm RegionStockholm",
                 "city": "-"
             },
             "treatment": "",
@@ -2121,11 +2121,11 @@
             "date": "2020-03-06",
             "status": "unknown",
             "origin": {
-                "type": "T\/TPTP",
-                "path": "N. No case specific information"
+                "type": false,
+                "path": "No case specific information"
             },
             "location": {
-                "region": "Stockholm County",
+                "region": "Stockholm RegionStockholm",
                 "city": "-"
             },
             "treatment": "",
@@ -2137,11 +2137,11 @@
             "date": "2020-03-06",
             "status": "unknown",
             "origin": {
-                "type": "T\/TPTP",
-                "path": "N. No case specific information"
+                "type": false,
+                "path": "No case specific information"
             },
             "location": {
-                "region": "Stockholm County",
+                "region": "Stockholm RegionStockholm",
                 "city": "-"
             },
             "treatment": "",
@@ -2153,11 +2153,11 @@
             "date": "2020-03-06",
             "status": "unknown",
             "origin": {
-                "type": "T\/TPTP",
-                "path": "N. No case specific information"
+                "type": false,
+                "path": "No case specific information"
             },
             "location": {
-                "region": "Stockholm County",
+                "region": "Stockholm RegionStockholm",
                 "city": "-"
             },
             "treatment": "",
@@ -2169,11 +2169,11 @@
             "date": "2020-03-06",
             "status": "unknown",
             "origin": {
-                "type": "T\/TPTP",
-                "path": "N. No case specific information"
+                "type": false,
+                "path": "No case specific information"
             },
             "location": {
-                "region": "Stockholm County",
+                "region": "Stockholm RegionStockholm",
                 "city": "-"
             },
             "treatment": "",
@@ -2185,11 +2185,11 @@
             "date": "2020-03-06",
             "status": "unknown",
             "origin": {
-                "type": "T",
+                "type": false,
                 "path": "N. Italy (same region as case 64)"
             },
             "location": {
-                "region": "G\u00e4vleborg County",
+                "region": "G\u00e4vleborg RegionG\u00e4vleborg",
                 "city": "-"
             },
             "treatment": "",
@@ -2205,7 +2205,7 @@
                 "path": "-"
             },
             "location": {
-                "region": "Sk\u00e5ne County",
+                "region": "Sk\u00e5ne RegionSk\u00e5ne",
                 "city": "-"
             },
             "treatment": "",
@@ -2221,7 +2221,7 @@
                 "path": "-"
             },
             "location": {
-                "region": "Sk\u00e5ne County",
+                "region": "Sk\u00e5ne RegionSk\u00e5ne",
                 "city": "-"
             },
             "treatment": "",
@@ -2237,7 +2237,7 @@
                 "path": "-"
             },
             "location": {
-                "region": "Sk\u00e5ne County",
+                "region": "Sk\u00e5ne RegionSk\u00e5ne",
                 "city": "-"
             },
             "treatment": "",
@@ -2249,11 +2249,11 @@
             "date": "2020-03-07",
             "status": "unknown",
             "origin": {
-                "type": "T",
+                "type": false,
                 "path": "Europe but not Italy"
             },
             "location": {
-                "region": "Stockholm County",
+                "region": "Stockholm RegionStockholm",
                 "city": "-"
             },
             "treatment": "",
@@ -2269,7 +2269,7 @@
                 "path": "-"
             },
             "location": {
-                "region": "Stockholm County",
+                "region": "Stockholm RegionStockholm",
                 "city": "-"
             },
             "treatment": "",
@@ -2285,7 +2285,7 @@
                 "path": "-"
             },
             "location": {
-                "region": "Stockholm County",
+                "region": "Stockholm RegionStockholm",
                 "city": "-"
             },
             "treatment": "",
@@ -2301,7 +2301,7 @@
                 "path": "-"
             },
             "location": {
-                "region": "Stockholm County",
+                "region": "Stockholm RegionStockholm",
                 "city": "-"
             },
             "treatment": "",
@@ -2317,7 +2317,7 @@
                 "path": "-"
             },
             "location": {
-                "region": "Stockholm County",
+                "region": "Stockholm RegionStockholm",
                 "city": "-"
             },
             "treatment": "",
@@ -2333,7 +2333,7 @@
                 "path": "-"
             },
             "location": {
-                "region": "Stockholm County",
+                "region": "Stockholm RegionStockholm",
                 "city": "-"
             },
             "treatment": "",
@@ -2349,7 +2349,7 @@
                 "path": "-"
             },
             "location": {
-                "region": "Stockholm County",
+                "region": "Stockholm RegionStockholm",
                 "city": "-"
             },
             "treatment": "",
@@ -2365,7 +2365,7 @@
                 "path": "-"
             },
             "location": {
-                "region": "Stockholm County",
+                "region": "Stockholm RegionStockholm",
                 "city": "-"
             },
             "treatment": "",
@@ -2381,7 +2381,7 @@
                 "path": "-"
             },
             "location": {
-                "region": "Stockholm County",
+                "region": "Stockholm RegionStockholm",
                 "city": "-"
             },
             "treatment": "",
@@ -2397,7 +2397,7 @@
                 "path": "-"
             },
             "location": {
-                "region": "Stockholm County",
+                "region": "Stockholm RegionStockholm",
                 "city": "-"
             },
             "treatment": "",
@@ -2413,7 +2413,7 @@
                 "path": "-"
             },
             "location": {
-                "region": "Stockholm County",
+                "region": "Stockholm RegionStockholm",
                 "city": "-"
             },
             "treatment": "",
@@ -2429,7 +2429,7 @@
                 "path": "-"
             },
             "location": {
-                "region": "Stockholm County",
+                "region": "Stockholm RegionStockholm",
                 "city": "-"
             },
             "treatment": "",
@@ -2445,7 +2445,7 @@
                 "path": "-"
             },
             "location": {
-                "region": "Stockholm County",
+                "region": "Stockholm RegionStockholm",
                 "city": "-"
             },
             "treatment": "",
@@ -2461,7 +2461,7 @@
                 "path": "-"
             },
             "location": {
-                "region": "Stockholm County",
+                "region": "Stockholm RegionStockholm",
                 "city": "-"
             },
             "treatment": "",
@@ -2477,7 +2477,7 @@
                 "path": "-"
             },
             "location": {
-                "region": "Stockholm County",
+                "region": "Stockholm RegionStockholm",
                 "city": "-"
             },
             "treatment": "",
@@ -2493,7 +2493,7 @@
                 "path": "-"
             },
             "location": {
-                "region": "Stockholm County",
+                "region": "Stockholm RegionStockholm",
                 "city": "-"
             },
             "treatment": "",
@@ -2509,7 +2509,7 @@
                 "path": "-"
             },
             "location": {
-                "region": "Stockholm County",
+                "region": "Stockholm RegionStockholm",
                 "city": "-"
             },
             "treatment": "",
@@ -2525,7 +2525,7 @@
                 "path": "-"
             },
             "location": {
-                "region": "Stockholm County",
+                "region": "Stockholm RegionStockholm",
                 "city": "-"
             },
             "treatment": "",
@@ -2541,7 +2541,7 @@
                 "path": "-"
             },
             "location": {
-                "region": "Stockholm County",
+                "region": "Stockholm RegionStockholm",
                 "city": "-"
             },
             "treatment": "",
@@ -2557,7 +2557,7 @@
                 "path": "-"
             },
             "location": {
-                "region": "Stockholm County",
+                "region": "Stockholm RegionStockholm",
                 "city": "-"
             },
             "treatment": "",
@@ -2573,7 +2573,7 @@
                 "path": "-"
             },
             "location": {
-                "region": "Stockholm County",
+                "region": "Stockholm RegionStockholm",
                 "city": "-"
             },
             "treatment": "",
@@ -2585,12 +2585,12 @@
             "date": "2020-03-08",
             "status": "unknown",
             "origin": {
-                "type": "T",
+                "type": false,
                 "path": "N. Italy"
             },
             "location": {
-                "region": "Uppsala County",
-                "city": "-"
+                "region": "Uppsala RegionUppsala",
+                "city": "Uppsala"
             },
             "treatment": "",
             "sex": "",
@@ -2601,11 +2601,11 @@
             "date": "2020-03-08",
             "status": "unknown",
             "origin": {
-                "type": "T\/TPTP",
+                "type": false,
                 "path": "N. -"
             },
             "location": {
-                "region": "Sk\u00e5ne County",
+                "region": "Sk\u00e5ne RegionSk\u00e5ne",
                 "city": "-"
             },
             "treatment": "",
@@ -2617,11 +2617,11 @@
             "date": "2020-03-08",
             "status": "unknown",
             "origin": {
-                "type": "T\/TPTP",
+                "type": false,
                 "path": "N. -"
             },
             "location": {
-                "region": "Sk\u00e5ne County",
+                "region": "Sk\u00e5ne RegionSk\u00e5ne",
                 "city": "-"
             },
             "treatment": "",
@@ -2633,11 +2633,11 @@
             "date": "2020-03-08",
             "status": "unknown",
             "origin": {
-                "type": "T\/TPTP",
+                "type": false,
                 "path": "N. -"
             },
             "location": {
-                "region": "Sk\u00e5ne County",
+                "region": "Sk\u00e5ne RegionSk\u00e5ne",
                 "city": "-"
             },
             "treatment": "",
@@ -2649,11 +2649,11 @@
             "date": "2020-03-08",
             "status": "unknown",
             "origin": {
-                "type": "T\/TPTP",
+                "type": false,
                 "path": "N. -"
             },
             "location": {
-                "region": "Sk\u00e5ne County",
+                "region": "Sk\u00e5ne RegionSk\u00e5ne",
                 "city": "-"
             },
             "treatment": "",
@@ -2665,11 +2665,11 @@
             "date": "2020-03-08",
             "status": "unknown",
             "origin": {
-                "type": "T\/TPTP",
+                "type": false,
                 "path": "N. -"
             },
             "location": {
-                "region": "Sk\u00e5ne County",
+                "region": "Sk\u00e5ne RegionSk\u00e5ne",
                 "city": "-"
             },
             "treatment": "",
@@ -2681,11 +2681,11 @@
             "date": "2020-03-08",
             "status": "unknown",
             "origin": {
-                "type": "T\/TPTP",
-                "path": "N. -"
+                "type": false,
+                "path": "-"
             },
             "location": {
-                "region": "V\u00e4stra G\u00f6taland County",
+                "region": "V\u00e4stra G\u00f6taland RegionVGR",
                 "city": "-"
             },
             "treatment": "",
@@ -2697,11 +2697,11 @@
             "date": "2020-03-08",
             "status": "unknown",
             "origin": {
-                "type": "T\/TPTP",
-                "path": "N. -"
+                "type": false,
+                "path": "-"
             },
             "location": {
-                "region": "V\u00e4stra G\u00f6taland County",
+                "region": "V\u00e4stra G\u00f6taland RegionVGR",
                 "city": "-"
             },
             "treatment": "",
@@ -2713,11 +2713,11 @@
             "date": "2020-03-08",
             "status": "unknown",
             "origin": {
-                "type": "T\/TPTP",
-                "path": "N. -"
+                "type": false,
+                "path": "-"
             },
             "location": {
-                "region": "V\u00e4stra G\u00f6taland County",
+                "region": "V\u00e4stra G\u00f6taland RegionVGR",
                 "city": "-"
             },
             "treatment": "",
@@ -2729,11 +2729,11 @@
             "date": "2020-03-08",
             "status": "unknown",
             "origin": {
-                "type": "T\/TPTP",
-                "path": "N. -"
+                "type": false,
+                "path": "-"
             },
             "location": {
-                "region": "V\u00e4stra G\u00f6taland County",
+                "region": "V\u00e4stra G\u00f6taland RegionVGR",
                 "city": "-"
             },
             "treatment": "",
@@ -2745,11 +2745,11 @@
             "date": "2020-03-08",
             "status": "unknown",
             "origin": {
-                "type": "T\/TPTP",
-                "path": "N. -"
+                "type": false,
+                "path": "-"
             },
             "location": {
-                "region": "V\u00e4stra G\u00f6taland County",
+                "region": "V\u00e4stra G\u00f6taland RegionVGR",
                 "city": "-"
             },
             "treatment": "",
@@ -2761,11 +2761,11 @@
             "date": "2020-03-08",
             "status": "unknown",
             "origin": {
-                "type": "T\/TPTP",
-                "path": "N. -"
+                "type": false,
+                "path": "-"
             },
             "location": {
-                "region": "V\u00e4stra G\u00f6taland County",
+                "region": "V\u00e4stra G\u00f6taland RegionVGR",
                 "city": "-"
             },
             "treatment": "",
@@ -2777,11 +2777,11 @@
             "date": "2020-03-08",
             "status": "unknown",
             "origin": {
-                "type": "T\/TPTP",
-                "path": "N. -"
+                "type": false,
+                "path": "-"
             },
             "location": {
-                "region": "V\u00e4stra G\u00f6taland County",
+                "region": "V\u00e4stra G\u00f6taland RegionVGR",
                 "city": "-"
             },
             "treatment": "",
@@ -2793,11 +2793,11 @@
             "date": "2020-03-08",
             "status": "unknown",
             "origin": {
-                "type": "T\/TPTP",
-                "path": "N. -"
+                "type": false,
+                "path": "-"
             },
             "location": {
-                "region": "V\u00e4stra G\u00f6taland County",
+                "region": "V\u00e4stra G\u00f6taland RegionVGR",
                 "city": "-"
             },
             "treatment": "",
@@ -2809,11 +2809,11 @@
             "date": "2020-03-08",
             "status": "unknown",
             "origin": {
-                "type": "T\/TPTP",
-                "path": "N. -"
+                "type": false,
+                "path": "-"
             },
             "location": {
-                "region": "V\u00e4stra G\u00f6taland County",
+                "region": "V\u00e4stra G\u00f6taland RegionVGR",
                 "city": "-"
             },
             "treatment": "",
@@ -2825,11 +2825,11 @@
             "date": "2020-03-08",
             "status": "unknown",
             "origin": {
-                "type": "T\/TPTP",
-                "path": "N. -"
+                "type": false,
+                "path": "-"
             },
             "location": {
-                "region": "V\u00e4stra G\u00f6taland County",
+                "region": "V\u00e4stra G\u00f6taland RegionVGR",
                 "city": "-"
             },
             "treatment": "",
@@ -2841,11 +2841,11 @@
             "date": "2020-03-08",
             "status": "unknown",
             "origin": {
-                "type": "T\/TPTP",
-                "path": "N. -"
+                "type": false,
+                "path": "-"
             },
             "location": {
-                "region": "V\u00e4stra G\u00f6taland County",
+                "region": "V\u00e4stra G\u00f6taland RegionVGR",
                 "city": "-"
             },
             "treatment": "",
@@ -2857,11 +2857,11 @@
             "date": "2020-03-08",
             "status": "unknown",
             "origin": {
-                "type": "T\/TPTP",
-                "path": "N. -"
+                "type": false,
+                "path": "-"
             },
             "location": {
-                "region": "V\u00e4stra G\u00f6taland County",
+                "region": "V\u00e4stra G\u00f6taland RegionVGR",
                 "city": "-"
             },
             "treatment": "",
@@ -2873,11 +2873,11 @@
             "date": "2020-03-08",
             "status": "unknown",
             "origin": {
-                "type": "T\/TPTP",
+                "type": false,
                 "path": "-"
             },
             "location": {
-                "region": "V\u00e4rmland County",
+                "region": "V\u00e4rmland RegionV\u00e4rmland",
                 "city": "-"
             },
             "treatment": "",
@@ -2889,11 +2889,11 @@
             "date": "2020-03-08",
             "status": "unknown",
             "origin": {
-                "type": "T\/TPTP",
+                "type": false,
                 "path": "-"
             },
             "location": {
-                "region": "V\u00e4rmland County",
+                "region": "V\u00e4rmland RegionV\u00e4rmland",
                 "city": "-"
             },
             "treatment": "",
@@ -2905,11 +2905,11 @@
             "date": "2020-03-08",
             "status": "unknown",
             "origin": {
-                "type": "T\/TPTP",
+                "type": false,
                 "path": "-"
             },
             "location": {
-                "region": "V\u00e4rmland County",
+                "region": "V\u00e4rmland RegionV\u00e4rmland",
                 "city": "-"
             },
             "treatment": "",
@@ -2921,11 +2921,11 @@
             "date": "2020-03-08",
             "status": "unknown",
             "origin": {
-                "type": "T\/TPTP",
+                "type": false,
                 "path": "-"
             },
             "location": {
-                "region": "V\u00e4rmland County",
+                "region": "V\u00e4rmland RegionV\u00e4rmland",
                 "city": "-"
             },
             "treatment": "",
@@ -2937,11 +2937,11 @@
             "date": "2020-03-08",
             "status": "unknown",
             "origin": {
-                "type": "T\/TPTP",
+                "type": false,
                 "path": "-"
             },
             "location": {
-                "region": "V\u00e4rmland County",
+                "region": "V\u00e4rmland RegionV\u00e4rmland",
                 "city": "-"
             },
             "treatment": "",
@@ -2953,11 +2953,11 @@
             "date": "2020-03-08",
             "status": "unknown",
             "origin": {
-                "type": "T\/TPTP",
+                "type": false,
                 "path": "-"
             },
             "location": {
-                "region": "V\u00e4rmland County",
+                "region": "V\u00e4rmland RegionV\u00e4rmland",
                 "city": "-"
             },
             "treatment": "",
@@ -2969,11 +2969,11 @@
             "date": "2020-03-08",
             "status": "unknown",
             "origin": {
-                "type": "T\/TPTP",
+                "type": false,
                 "path": "-"
             },
             "location": {
-                "region": "V\u00e4rmland County",
+                "region": "V\u00e4rmland RegionV\u00e4rmland",
                 "city": "-"
             },
             "treatment": "",
@@ -2985,11 +2985,11 @@
             "date": "2020-03-08",
             "status": "unknown",
             "origin": {
-                "type": "T",
+                "type": false,
                 "path": "United States"
             },
             "location": {
-                "region": "\u00d6rebro County",
+                "region": "\u00d6rebro Region\u00d6rebro",
                 "city": "-"
             },
             "treatment": "",
@@ -3001,11 +3001,11 @@
             "date": "2020-03-08",
             "status": "unknown",
             "origin": {
-                "type": "PTP",
+                "type": false,
                 "path": "Related to case 187"
             },
             "location": {
-                "region": "\u00d6rebro County",
+                "region": "\u00d6rebro Region\u00d6rebro",
                 "city": "-"
             },
             "treatment": "",
@@ -3017,11 +3017,11 @@
             "date": "2020-03-08",
             "status": "unknown",
             "origin": {
-                "type": "PTP",
+                "type": false,
                 "path": "Related to case 187"
             },
             "location": {
-                "region": "\u00d6rebro County",
+                "region": "\u00d6rebro Region\u00d6rebro",
                 "city": "-"
             },
             "treatment": "",
@@ -3037,7 +3037,7 @@
                 "path": "-"
             },
             "location": {
-                "region": "Stockholm County",
+                "region": "Stockholm RegionStockholm",
                 "city": "-"
             },
             "treatment": "",
@@ -3053,7 +3053,7 @@
                 "path": "-"
             },
             "location": {
-                "region": "Stockholm County",
+                "region": "Stockholm RegionStockholm",
                 "city": "-"
             },
             "treatment": "",
@@ -3069,7 +3069,7 @@
                 "path": "-"
             },
             "location": {
-                "region": "Stockholm County",
+                "region": "Stockholm RegionStockholm",
                 "city": "-"
             },
             "treatment": "",
@@ -3085,7 +3085,7 @@
                 "path": "-"
             },
             "location": {
-                "region": "Stockholm County",
+                "region": "Stockholm RegionStockholm",
                 "city": "-"
             },
             "treatment": "",
@@ -3101,7 +3101,7 @@
                 "path": "-"
             },
             "location": {
-                "region": "Stockholm County",
+                "region": "Stockholm RegionStockholm",
                 "city": "-"
             },
             "treatment": "",
@@ -3117,7 +3117,7 @@
                 "path": "-"
             },
             "location": {
-                "region": "Stockholm County",
+                "region": "Stockholm RegionStockholm",
                 "city": "-"
             },
             "treatment": "",
@@ -3133,7 +3133,7 @@
                 "path": "-"
             },
             "location": {
-                "region": "Stockholm County",
+                "region": "Stockholm RegionStockholm",
                 "city": "-"
             },
             "treatment": "",
@@ -3149,7 +3149,7 @@
                 "path": "-"
             },
             "location": {
-                "region": "Stockholm County",
+                "region": "Stockholm RegionStockholm",
                 "city": "-"
             },
             "treatment": "",
@@ -3165,7 +3165,7 @@
                 "path": "-"
             },
             "location": {
-                "region": "Stockholm County",
+                "region": "Stockholm RegionStockholm",
                 "city": "-"
             },
             "treatment": "",
@@ -3181,7 +3181,7 @@
                 "path": "-"
             },
             "location": {
-                "region": "Stockholm County",
+                "region": "Stockholm RegionStockholm",
                 "city": "-"
             },
             "treatment": "",
@@ -3197,7 +3197,7 @@
                 "path": "-"
             },
             "location": {
-                "region": "Stockholm County",
+                "region": "Stockholm RegionStockholm",
                 "city": "-"
             },
             "treatment": "",
@@ -3213,7 +3213,7 @@
                 "path": "-"
             },
             "location": {
-                "region": "Stockholm County",
+                "region": "Stockholm RegionStockholm",
                 "city": "-"
             },
             "treatment": "",
@@ -3229,7 +3229,7 @@
                 "path": "-"
             },
             "location": {
-                "region": "Stockholm County",
+                "region": "Stockholm RegionStockholm",
                 "city": "-"
             },
             "treatment": "",
@@ -3245,7 +3245,647 @@
                 "path": "-"
             },
             "location": {
-                "region": "Stockholm County",
+                "region": "Stockholm RegionStockholm",
+                "city": "-"
+            },
+            "treatment": "",
+            "sex": "",
+            "age": ""
+        },
+        {
+            "no": "204",
+            "date": "2020-03-09",
+            "status": "unknown",
+            "origin": {
+                "type": false,
+                "path": "N. Italy"
+            },
+            "location": {
+                "region": "Halland",
+                "city": "Kungsbacka MunicipalityKungsbacka municipality"
+            },
+            "treatment": "",
+            "sex": "",
+            "age": ""
+        },
+        {
+            "no": "205",
+            "date": "2020-03-09",
+            "status": "unknown",
+            "origin": {
+                "type": false,
+                "path": "-"
+            },
+            "location": {
+                "region": "V\u00e4rmland RegionV\u00e4rmland",
+                "city": "-"
+            },
+            "treatment": "",
+            "sex": "",
+            "age": ""
+        },
+        {
+            "no": "206",
+            "date": "2020-03-09",
+            "status": "unknown",
+            "origin": {
+                "type": false,
+                "path": "-"
+            },
+            "location": {
+                "region": "V\u00e4stra G\u00f6taland RegionVGR",
+                "city": "Gothenburg area"
+            },
+            "treatment": "",
+            "sex": "",
+            "age": ""
+        },
+        {
+            "no": 207,
+            "date": "2020-03-09",
+            "status": "unknown",
+            "origin": {
+                "type": false,
+                "path": "-"
+            },
+            "location": {
+                "region": "V\u00e4stra G\u00f6taland RegionVGR",
+                "city": "Gothenburg area"
+            },
+            "treatment": "",
+            "sex": "",
+            "age": ""
+        },
+        {
+            "no": 208,
+            "date": "2020-03-09",
+            "status": "unknown",
+            "origin": {
+                "type": false,
+                "path": "-"
+            },
+            "location": {
+                "region": "V\u00e4stra G\u00f6taland RegionVGR",
+                "city": "Gothenburg area"
+            },
+            "treatment": "",
+            "sex": "",
+            "age": ""
+        },
+        {
+            "no": 209,
+            "date": "2020-03-09",
+            "status": "unknown",
+            "origin": {
+                "type": false,
+                "path": "-"
+            },
+            "location": {
+                "region": "V\u00e4stra G\u00f6taland RegionVGR",
+                "city": "Gothenburg area"
+            },
+            "treatment": "",
+            "sex": "",
+            "age": ""
+        },
+        {
+            "no": "210",
+            "date": "2020-03-09",
+            "status": "unknown",
+            "origin": {
+                "type": false,
+                "path": "Abroad"
+            },
+            "location": {
+                "region": "V\u00e4stra G\u00f6taland RegionVGR",
+                "city": "Sk\u00f6vde area"
+            },
+            "treatment": "",
+            "sex": "",
+            "age": ""
+        },
+        {
+            "no": 211,
+            "date": "2020-03-09",
+            "status": "unknown",
+            "origin": {
+                "type": false,
+                "path": "Abroad"
+            },
+            "location": {
+                "region": "V\u00e4stra G\u00f6taland RegionVGR",
+                "city": "Sk\u00f6vde area"
+            },
+            "treatment": "",
+            "sex": "",
+            "age": ""
+        },
+        {
+            "no": "212",
+            "date": "2020-03-09",
+            "status": "unknown",
+            "origin": {
+                "type": false,
+                "path": ""
+            },
+            "location": {
+                "region": "-",
+                "city": "-"
+            },
+            "treatment": "",
+            "sex": "",
+            "age": ""
+        },
+        {
+            "no": 213,
+            "date": "2020-03-09",
+            "status": "unknown",
+            "origin": {
+                "type": false,
+                "path": ""
+            },
+            "location": {
+                "region": "-",
+                "city": "-"
+            },
+            "treatment": "",
+            "sex": "",
+            "age": ""
+        },
+        {
+            "no": 214,
+            "date": "2020-03-09",
+            "status": "unknown",
+            "origin": {
+                "type": false,
+                "path": ""
+            },
+            "location": {
+                "region": "-",
+                "city": "-"
+            },
+            "treatment": "",
+            "sex": "",
+            "age": ""
+        },
+        {
+            "no": 215,
+            "date": "2020-03-09",
+            "status": "unknown",
+            "origin": {
+                "type": false,
+                "path": ""
+            },
+            "location": {
+                "region": "-",
+                "city": "-"
+            },
+            "treatment": "",
+            "sex": "",
+            "age": ""
+        },
+        {
+            "no": 216,
+            "date": "2020-03-09",
+            "status": "unknown",
+            "origin": {
+                "type": false,
+                "path": ""
+            },
+            "location": {
+                "region": "-",
+                "city": "-"
+            },
+            "treatment": "",
+            "sex": "",
+            "age": ""
+        },
+        {
+            "no": 217,
+            "date": "2020-03-09",
+            "status": "unknown",
+            "origin": {
+                "type": false,
+                "path": ""
+            },
+            "location": {
+                "region": "-",
+                "city": "-"
+            },
+            "treatment": "",
+            "sex": "",
+            "age": ""
+        },
+        {
+            "no": 218,
+            "date": "2020-03-09",
+            "status": "unknown",
+            "origin": {
+                "type": false,
+                "path": ""
+            },
+            "location": {
+                "region": "-",
+                "city": "-"
+            },
+            "treatment": "",
+            "sex": "",
+            "age": ""
+        },
+        {
+            "no": 219,
+            "date": "2020-03-09",
+            "status": "unknown",
+            "origin": {
+                "type": false,
+                "path": ""
+            },
+            "location": {
+                "region": "-",
+                "city": "-"
+            },
+            "treatment": "",
+            "sex": "",
+            "age": ""
+        },
+        {
+            "no": 220,
+            "date": "2020-03-09",
+            "status": "unknown",
+            "origin": {
+                "type": false,
+                "path": ""
+            },
+            "location": {
+                "region": "-",
+                "city": "-"
+            },
+            "treatment": "",
+            "sex": "",
+            "age": ""
+        },
+        {
+            "no": 221,
+            "date": "2020-03-09",
+            "status": "unknown",
+            "origin": {
+                "type": false,
+                "path": ""
+            },
+            "location": {
+                "region": "-",
+                "city": "-"
+            },
+            "treatment": "",
+            "sex": "",
+            "age": ""
+        },
+        {
+            "no": 222,
+            "date": "2020-03-09",
+            "status": "unknown",
+            "origin": {
+                "type": false,
+                "path": ""
+            },
+            "location": {
+                "region": "-",
+                "city": "-"
+            },
+            "treatment": "",
+            "sex": "",
+            "age": ""
+        },
+        {
+            "no": 223,
+            "date": "2020-03-09",
+            "status": "unknown",
+            "origin": {
+                "type": false,
+                "path": ""
+            },
+            "location": {
+                "region": "-",
+                "city": "-"
+            },
+            "treatment": "",
+            "sex": "",
+            "age": ""
+        },
+        {
+            "no": 224,
+            "date": "2020-03-09",
+            "status": "unknown",
+            "origin": {
+                "type": false,
+                "path": ""
+            },
+            "location": {
+                "region": "-",
+                "city": "-"
+            },
+            "treatment": "",
+            "sex": "",
+            "age": ""
+        },
+        {
+            "no": 225,
+            "date": "2020-03-09",
+            "status": "unknown",
+            "origin": {
+                "type": false,
+                "path": ""
+            },
+            "location": {
+                "region": "-",
+                "city": "-"
+            },
+            "treatment": "",
+            "sex": "",
+            "age": ""
+        },
+        {
+            "no": 226,
+            "date": "2020-03-09",
+            "status": "unknown",
+            "origin": {
+                "type": false,
+                "path": ""
+            },
+            "location": {
+                "region": "-",
+                "city": "-"
+            },
+            "treatment": "",
+            "sex": "",
+            "age": ""
+        },
+        {
+            "no": 227,
+            "date": "2020-03-09",
+            "status": "unknown",
+            "origin": {
+                "type": false,
+                "path": ""
+            },
+            "location": {
+                "region": "-",
+                "city": "-"
+            },
+            "treatment": "",
+            "sex": "",
+            "age": ""
+        },
+        {
+            "no": 228,
+            "date": "2020-03-09",
+            "status": "unknown",
+            "origin": {
+                "type": false,
+                "path": ""
+            },
+            "location": {
+                "region": "-",
+                "city": "-"
+            },
+            "treatment": "",
+            "sex": "",
+            "age": ""
+        },
+        {
+            "no": 229,
+            "date": "2020-03-09",
+            "status": "unknown",
+            "origin": {
+                "type": false,
+                "path": ""
+            },
+            "location": {
+                "region": "-",
+                "city": "-"
+            },
+            "treatment": "",
+            "sex": "",
+            "age": ""
+        },
+        {
+            "no": 230,
+            "date": "2020-03-09",
+            "status": "unknown",
+            "origin": {
+                "type": false,
+                "path": ""
+            },
+            "location": {
+                "region": "-",
+                "city": "-"
+            },
+            "treatment": "",
+            "sex": "",
+            "age": ""
+        },
+        {
+            "no": 231,
+            "date": "2020-03-09",
+            "status": "unknown",
+            "origin": {
+                "type": false,
+                "path": ""
+            },
+            "location": {
+                "region": "-",
+                "city": "-"
+            },
+            "treatment": "",
+            "sex": "",
+            "age": ""
+        },
+        {
+            "no": 232,
+            "date": "2020-03-09",
+            "status": "unknown",
+            "origin": {
+                "type": false,
+                "path": ""
+            },
+            "location": {
+                "region": "-",
+                "city": "-"
+            },
+            "treatment": "",
+            "sex": "",
+            "age": ""
+        },
+        {
+            "no": 233,
+            "date": "2020-03-09",
+            "status": "unknown",
+            "origin": {
+                "type": false,
+                "path": ""
+            },
+            "location": {
+                "region": "-",
+                "city": "-"
+            },
+            "treatment": "",
+            "sex": "",
+            "age": ""
+        },
+        {
+            "no": 234,
+            "date": "2020-03-09",
+            "status": "unknown",
+            "origin": {
+                "type": false,
+                "path": ""
+            },
+            "location": {
+                "region": "-",
+                "city": "-"
+            },
+            "treatment": "",
+            "sex": "",
+            "age": ""
+        },
+        {
+            "no": 235,
+            "date": "2020-03-09",
+            "status": "unknown",
+            "origin": {
+                "type": false,
+                "path": ""
+            },
+            "location": {
+                "region": "-",
+                "city": "-"
+            },
+            "treatment": "",
+            "sex": "",
+            "age": ""
+        },
+        {
+            "no": 236,
+            "date": "2020-03-09",
+            "status": "unknown",
+            "origin": {
+                "type": false,
+                "path": ""
+            },
+            "location": {
+                "region": "-",
+                "city": "-"
+            },
+            "treatment": "",
+            "sex": "",
+            "age": ""
+        },
+        {
+            "no": 237,
+            "date": "2020-03-09",
+            "status": "unknown",
+            "origin": {
+                "type": false,
+                "path": ""
+            },
+            "location": {
+                "region": "-",
+                "city": "-"
+            },
+            "treatment": "",
+            "sex": "",
+            "age": ""
+        },
+        {
+            "no": 238,
+            "date": "2020-03-09",
+            "status": "unknown",
+            "origin": {
+                "type": false,
+                "path": ""
+            },
+            "location": {
+                "region": "-",
+                "city": "-"
+            },
+            "treatment": "",
+            "sex": "",
+            "age": ""
+        },
+        {
+            "no": 239,
+            "date": "2020-03-09",
+            "status": "unknown",
+            "origin": {
+                "type": false,
+                "path": ""
+            },
+            "location": {
+                "region": "-",
+                "city": "-"
+            },
+            "treatment": "",
+            "sex": "",
+            "age": ""
+        },
+        {
+            "no": 240,
+            "date": "2020-03-09",
+            "status": "unknown",
+            "origin": {
+                "type": false,
+                "path": ""
+            },
+            "location": {
+                "region": "-",
+                "city": "-"
+            },
+            "treatment": "",
+            "sex": "",
+            "age": ""
+        },
+        {
+            "no": 241,
+            "date": "2020-03-09",
+            "status": "unknown",
+            "origin": {
+                "type": false,
+                "path": ""
+            },
+            "location": {
+                "region": "-",
+                "city": "-"
+            },
+            "treatment": "",
+            "sex": "",
+            "age": ""
+        },
+        {
+            "no": 242,
+            "date": "2020-03-09",
+            "status": "unknown",
+            "origin": {
+                "type": false,
+                "path": ""
+            },
+            "location": {
+                "region": "-",
+                "city": "-"
+            },
+            "treatment": "",
+            "sex": "",
+            "age": ""
+        },
+        {
+            "no": 243,
+            "date": "2020-03-09",
+            "status": "unknown",
+            "origin": {
+                "type": false,
+                "path": ""
+            },
+            "location": {
+                "region": "-",
                 "city": "-"
             },
             "treatment": "",
@@ -3253,41 +3893,9 @@
             "age": ""
         }
     ],
-    "origins": {
-        "T": {
-            "total": 73,
-            "Wuhan, China": 1,
-            "N. Italy": 50,
-            "Iran": 7,
-            "Germany": 1,
-            "N. Italy, travelled with": 1,
-            "N. Italy, travelled with case 8": 1,
-            "N. Italy, travelled together": 8,
-            "N. Italy (same region as case 64)": 1,
-            "Europe but not Italy": 1,
-            "United States": 1
-        },
-        "PTP": {
-            "total": 13,
-            "Case 2": 2,
-            "Case 6": 3,
-            "Case 28": 1,
-            "Case 34\/35": 2,
-            "Related to case 93-94": 1,
-            "Another region in Sweden": 1,
-            "Another region in Sweden. Related to case 114.": 1,
-            "Related to case 187": 2
-        },
-        "T\/TPTP": {
-            "total": 80,
-            "N. Italy": 14,
-            "N. No case specific information": 35,
-            "N. Italy and case 34-35": 7,
-            "N. -": 17
-        }
-    },
+    "origins": [],
     "regions": {
-        "J\u00f6nk\u00f6ping": {
+        "J\u00f6nk\u00f6ping RegionJ\u00f6nk\u00f6ping": {
             "total": 8,
             "logs": {
                 "2020-01-31": {
@@ -3324,8 +3932,8 @@
                 }
             }
         },
-        "V\u00e4stra G\u00f6taland": {
-            "total": 26,
+        "V\u00e4stra G\u00f6taland RegionVGR": {
+            "total": 32,
             "logs": {
                 "2020-02-26": {
                     "total": 1,
@@ -3398,10 +4006,18 @@
                     "intensive-care": 0,
                     "unknown": 12,
                     "deceased": 0
+                },
+                "2020-03-09": {
+                    "total": 6,
+                    "recovered-fully": 0,
+                    "recovered-clinically": 0,
+                    "intensive-care": 0,
+                    "unknown": 6,
+                    "deceased": 0
                 }
             }
         },
-        "Stockholm": {
+        "Stockholm RegionStockholm": {
             "total": 115,
             "logs": {
                 "2020-02-27": {
@@ -3486,7 +4102,7 @@
                 }
             }
         },
-        "Uppsala": {
+        "Uppsala RegionUppsala": {
             "total": 6,
             "logs": {
                 "2020-02-27": {
@@ -3531,7 +4147,7 @@
                 }
             }
         },
-        "Sk\u00e5ne": {
+        "Sk\u00e5ne RegionSk\u00e5ne": {
             "total": 22,
             "logs": {
                 "2020-03-03": {
@@ -3584,8 +4200,8 @@
                 }
             }
         },
-        "V\u00e4rmland": {
-            "total": 20,
+        "V\u00e4rmland RegionV\u00e4rmland": {
+            "total": 21,
             "logs": {
                 "2020-03-04": {
                     "total": 2,
@@ -3618,10 +4234,18 @@
                     "intensive-care": 0,
                     "unknown": 7,
                     "deceased": 0
+                },
+                "2020-03-09": {
+                    "total": 1,
+                    "recovered-fully": 0,
+                    "recovered-clinically": 0,
+                    "intensive-care": 0,
+                    "unknown": 1,
+                    "deceased": 0
                 }
             }
         },
-        "\u00d6rebro": {
+        "\u00d6rebro Region\u00d6rebro": {
             "total": 4,
             "logs": {
                 "2020-03-04": {
@@ -3642,7 +4266,7 @@
                 }
             }
         },
-        "G\u00e4vleborg": {
+        "G\u00e4vleborg RegionG\u00e4vleborg": {
             "total": 2,
             "logs": {
                 "2020-03-05": {
@@ -3662,6 +4286,32 @@
                     "deceased": 0
                 }
             }
+        },
+        "Halland": {
+            "total": 1,
+            "logs": {
+                "2020-03-09": {
+                    "total": 1,
+                    "recovered-fully": 0,
+                    "recovered-clinically": 0,
+                    "intensive-care": 0,
+                    "unknown": 1,
+                    "deceased": 0
+                }
+            }
+        },
+        "-": {
+            "total": 32,
+            "logs": {
+                "2020-03-09": {
+                    "total": 32,
+                    "recovered-fully": 0,
+                    "recovered-clinically": 0,
+                    "intensive-care": 0,
+                    "unknown": 32,
+                    "deceased": 0
+                }
+            }
         }
     },
     "dates": {
@@ -3677,14 +4327,15 @@
         "2020-03-05": 42,
         "2020-03-06": 43,
         "2020-03-07": 24,
-        "2020-03-08": 42
+        "2020-03-08": 42,
+        "2020-03-09": 40
     },
     "summary": {
-        "confirmed": 203,
+        "confirmed": 243,
         "recovered-fully": 0,
         "recovered-clinically": 1,
         "intensive-care": 0,
-        "unknown": 202,
+        "unknown": 242,
         "deceased": 0
     }
 }
