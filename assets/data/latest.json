@@ -1,7 +1,7 @@
 {
     "updated": {
         "datetime": "2020-03-09 2PM (UTC)",
-        "timestamp": 1583763244
+        "timestamp": 1583765492
     },
     "cases": [
         {
@@ -3277,7 +3277,7 @@
                 "path": "-"
             },
             "location": {
-                "region": "V\u00e4rmland Region",
+                "region": "Halland",
                 "city": "-"
             },
             "treatment": "",
@@ -3285,7 +3285,7 @@
             "age": ""
         },
         {
-            "no": "206",
+            "no": 206,
             "date": "2020-03-09",
             "status": "unknown",
             "origin": {
@@ -3293,8 +3293,8 @@
                 "path": "-"
             },
             "location": {
-                "region": "V\u00e4stra G\u00f6taland Region",
-                "city": "Gothenburg area"
+                "region": "Halland",
+                "city": "-"
             },
             "treatment": "",
             "sex": "",
@@ -3309,8 +3309,8 @@
                 "path": "-"
             },
             "location": {
-                "region": "V\u00e4stra G\u00f6taland Region",
-                "city": "Gothenburg area"
+                "region": "Halland",
+                "city": "-"
             },
             "treatment": "",
             "sex": "",
@@ -3325,15 +3325,31 @@
                 "path": "-"
             },
             "location": {
-                "region": "V\u00e4stra G\u00f6taland Region",
-                "city": "Gothenburg area"
+                "region": "Halland",
+                "city": "-"
             },
             "treatment": "",
             "sex": "",
             "age": ""
         },
         {
-            "no": 209,
+            "no": "209",
+            "date": "2020-03-09",
+            "status": "unknown",
+            "origin": {
+                "type": false,
+                "path": "-"
+            },
+            "location": {
+                "region": "V\u00e4rmland Region",
+                "city": "-"
+            },
+            "treatment": "",
+            "sex": "",
+            "age": ""
+        },
+        {
+            "no": "210",
             "date": "2020-03-09",
             "status": "unknown",
             "origin": {
@@ -3349,48 +3365,32 @@
             "age": ""
         },
         {
-            "no": "210",
-            "date": "2020-03-09",
-            "status": "unknown",
-            "origin": {
-                "type": false,
-                "path": "Abroad"
-            },
-            "location": {
-                "region": "V\u00e4stra G\u00f6taland Region",
-                "city": "Sk\u00f6vde area"
-            },
-            "treatment": "",
-            "sex": "",
-            "age": ""
-        },
-        {
             "no": 211,
             "date": "2020-03-09",
             "status": "unknown",
             "origin": {
                 "type": false,
-                "path": "Abroad"
+                "path": "-"
             },
             "location": {
                 "region": "V\u00e4stra G\u00f6taland Region",
-                "city": "Sk\u00f6vde area"
+                "city": "Gothenburg area"
             },
             "treatment": "",
             "sex": "",
             "age": ""
         },
         {
-            "no": "212",
+            "no": 212,
             "date": "2020-03-09",
             "status": "unknown",
             "origin": {
                 "type": false,
-                "path": ""
+                "path": "-"
             },
             "location": {
-                "region": "-",
-                "city": "-"
+                "region": "V\u00e4stra G\u00f6taland Region",
+                "city": "Gothenburg area"
             },
             "treatment": "",
             "sex": "",
@@ -3402,27 +3402,27 @@
             "status": "unknown",
             "origin": {
                 "type": false,
-                "path": ""
+                "path": "-"
             },
             "location": {
-                "region": "-",
-                "city": "-"
+                "region": "V\u00e4stra G\u00f6taland Region",
+                "city": "Gothenburg area"
             },
             "treatment": "",
             "sex": "",
             "age": ""
         },
         {
-            "no": 214,
+            "no": "214",
             "date": "2020-03-09",
             "status": "unknown",
             "origin": {
                 "type": false,
-                "path": ""
+                "path": "Abroad"
             },
             "location": {
-                "region": "-",
-                "city": "-"
+                "region": "V\u00e4stra G\u00f6taland Region",
+                "city": "Sk\u00f6vde area"
             },
             "treatment": "",
             "sex": "",
@@ -3434,18 +3434,18 @@
             "status": "unknown",
             "origin": {
                 "type": false,
-                "path": ""
+                "path": "Abroad"
             },
             "location": {
-                "region": "-",
-                "city": "-"
+                "region": "V\u00e4stra G\u00f6taland Region",
+                "city": "Sk\u00f6vde area"
             },
             "treatment": "",
             "sex": "",
             "age": ""
         },
         {
-            "no": 216,
+            "no": "216",
             "date": "2020-03-09",
             "status": "unknown",
             "origin": {
@@ -3891,12 +3891,156 @@
             "treatment": "",
             "sex": "",
             "age": ""
+        },
+        {
+            "no": 244,
+            "date": "2020-03-09",
+            "status": "unknown",
+            "origin": {
+                "type": false,
+                "path": ""
+            },
+            "location": {
+                "region": "-",
+                "city": "-"
+            },
+            "treatment": "",
+            "sex": "",
+            "age": ""
+        },
+        {
+            "no": 245,
+            "date": "2020-03-09",
+            "status": "unknown",
+            "origin": {
+                "type": false,
+                "path": ""
+            },
+            "location": {
+                "region": "-",
+                "city": "-"
+            },
+            "treatment": "",
+            "sex": "",
+            "age": ""
+        },
+        {
+            "no": 246,
+            "date": "2020-03-09",
+            "status": "unknown",
+            "origin": {
+                "type": false,
+                "path": ""
+            },
+            "location": {
+                "region": "-",
+                "city": "-"
+            },
+            "treatment": "",
+            "sex": "",
+            "age": ""
+        },
+        {
+            "no": 247,
+            "date": "2020-03-09",
+            "status": "unknown",
+            "origin": {
+                "type": false,
+                "path": ""
+            },
+            "location": {
+                "region": "-",
+                "city": "-"
+            },
+            "treatment": "",
+            "sex": "",
+            "age": ""
+        },
+        {
+            "no": "248",
+            "date": "2020-03-09",
+            "status": "unknown",
+            "origin": {
+                "type": false,
+                "path": "N. Italy, travelled together"
+            },
+            "location": {
+                "region": "J\u00f6nk\u00f6ping Region",
+                "city": "-"
+            },
+            "treatment": "",
+            "sex": "",
+            "age": ""
+        },
+        {
+            "no": 249,
+            "date": "2020-03-09",
+            "status": "unknown",
+            "origin": {
+                "type": false,
+                "path": "N. Italy, travelled together"
+            },
+            "location": {
+                "region": "J\u00f6nk\u00f6ping Region",
+                "city": "-"
+            },
+            "treatment": "",
+            "sex": "",
+            "age": ""
+        },
+        {
+            "no": "250",
+            "date": "2020-03-09",
+            "status": "unknown",
+            "origin": {
+                "type": false,
+                "path": "N. Italy, non-related"
+            },
+            "location": {
+                "region": "Uppsala Region",
+                "city": "-"
+            },
+            "treatment": "",
+            "sex": "",
+            "age": ""
+        },
+        {
+            "no": 251,
+            "date": "2020-03-09",
+            "status": "unknown",
+            "origin": {
+                "type": false,
+                "path": "N. Italy, non-related"
+            },
+            "location": {
+                "region": "Uppsala Region",
+                "city": "-"
+            },
+            "treatment": "",
+            "sex": "",
+            "age": ""
+        },
+        {
+            "no": "252",
+            "date": "2020-03-09",
+            "status": "unknown",
+            "origin": {
+                "type": false,
+                "path": "N. Italy"
+            },
+            "location": {
+                "region": "Uppsala Region",
+                "city": "-"
+            },
+            "treatment": "",
+            "sex": "",
+            "age": ""
         }
     ],
     "origins": [],
     "regions": {
         "J\u00f6nk\u00f6ping": {
-            "total": 8,
+            "total": 10,
             "logs": {
                 "2020-01-31": {
                     "total": 1,
@@ -3928,6 +4072,14 @@
                     "recovered-clinically": 0,
                     "intensive-care": 0,
                     "unknown": 5,
+                    "deceased": 0
+                },
+                "2020-03-09": {
+                    "total": 2,
+                    "recovered-fully": 0,
+                    "recovered-clinically": 0,
+                    "intensive-care": 0,
+                    "unknown": 2,
                     "deceased": 0
                 }
             }
@@ -4103,7 +4255,7 @@
             }
         },
         "Uppsala": {
-            "total": 6,
+            "total": 9,
             "logs": {
                 "2020-02-27": {
                     "total": 1,
@@ -4143,6 +4295,14 @@
                     "recovered-clinically": 0,
                     "intensive-care": 0,
                     "unknown": 1,
+                    "deceased": 0
+                },
+                "2020-03-09": {
+                    "total": 3,
+                    "recovered-fully": 0,
+                    "recovered-clinically": 0,
+                    "intensive-care": 0,
+                    "unknown": 3,
                     "deceased": 0
                 }
             }
@@ -4288,14 +4448,14 @@
             }
         },
         "Halland": {
-            "total": 1,
+            "total": 5,
             "logs": {
                 "2020-03-09": {
-                    "total": 1,
+                    "total": 5,
                     "recovered-fully": 0,
                     "recovered-clinically": 0,
                     "intensive-care": 0,
-                    "unknown": 1,
+                    "unknown": 5,
                     "deceased": 0
                 }
             }
@@ -4328,14 +4488,14 @@
         "2020-03-06": 43,
         "2020-03-07": 24,
         "2020-03-08": 42,
-        "2020-03-09": 40
+        "2020-03-09": 49
     },
     "summary": {
-        "confirmed": 243,
+        "confirmed": 252,
         "recovered-fully": 0,
         "recovered-clinically": 1,
         "intensive-care": 0,
-        "unknown": 242,
+        "unknown": 251,
         "deceased": 0
     }
 }
