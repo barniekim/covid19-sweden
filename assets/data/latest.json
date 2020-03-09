@@ -1,7 +1,7 @@
 {
     "updated": {
-        "datetime": "2020-03-09 3PM (Europe\/Stockholm)",
-        "timestamp": 1583765656
+        "datetime": "2020-03-09 4PM (Europe\/Stockholm)",
+        "timestamp": 1583767383
     },
     "cases": [
         {
@@ -3450,10 +3450,10 @@
             "status": "unknown",
             "origin": {
                 "type": false,
-                "path": ""
+                "path": "-"
             },
             "location": {
-                "region": "-",
+                "region": "Stockholm Region",
                 "city": "-"
             },
             "treatment": "",
@@ -3466,10 +3466,10 @@
             "status": "unknown",
             "origin": {
                 "type": false,
-                "path": ""
+                "path": "-"
             },
             "location": {
-                "region": "-",
+                "region": "Stockholm Region",
                 "city": "-"
             },
             "treatment": "",
@@ -3482,10 +3482,10 @@
             "status": "unknown",
             "origin": {
                 "type": false,
-                "path": ""
+                "path": "-"
             },
             "location": {
-                "region": "-",
+                "region": "Stockholm Region",
                 "city": "-"
             },
             "treatment": "",
@@ -3498,10 +3498,10 @@
             "status": "unknown",
             "origin": {
                 "type": false,
-                "path": ""
+                "path": "-"
             },
             "location": {
-                "region": "-",
+                "region": "Stockholm Region",
                 "city": "-"
             },
             "treatment": "",
@@ -3514,10 +3514,10 @@
             "status": "unknown",
             "origin": {
                 "type": false,
-                "path": ""
+                "path": "-"
             },
             "location": {
-                "region": "-",
+                "region": "Stockholm Region",
                 "city": "-"
             },
             "treatment": "",
@@ -3530,10 +3530,10 @@
             "status": "unknown",
             "origin": {
                 "type": false,
-                "path": ""
+                "path": "-"
             },
             "location": {
-                "region": "-",
+                "region": "Stockholm Region",
                 "city": "-"
             },
             "treatment": "",
@@ -3546,10 +3546,10 @@
             "status": "unknown",
             "origin": {
                 "type": false,
-                "path": ""
+                "path": "-"
             },
             "location": {
-                "region": "-",
+                "region": "Stockholm Region",
                 "city": "-"
             },
             "treatment": "",
@@ -3562,10 +3562,10 @@
             "status": "unknown",
             "origin": {
                 "type": false,
-                "path": ""
+                "path": "-"
             },
             "location": {
-                "region": "-",
+                "region": "Stockholm Region",
                 "city": "-"
             },
             "treatment": "",
@@ -3578,10 +3578,10 @@
             "status": "unknown",
             "origin": {
                 "type": false,
-                "path": ""
+                "path": "-"
             },
             "location": {
-                "region": "-",
+                "region": "Stockholm Region",
                 "city": "-"
             },
             "treatment": "",
@@ -3594,10 +3594,10 @@
             "status": "unknown",
             "origin": {
                 "type": false,
-                "path": ""
+                "path": "-"
             },
             "location": {
-                "region": "-",
+                "region": "Stockholm Region",
                 "city": "-"
             },
             "treatment": "",
@@ -3610,10 +3610,10 @@
             "status": "unknown",
             "origin": {
                 "type": false,
-                "path": ""
+                "path": "-"
             },
             "location": {
-                "region": "-",
+                "region": "Stockholm Region",
                 "city": "-"
             },
             "treatment": "",
@@ -3626,10 +3626,10 @@
             "status": "unknown",
             "origin": {
                 "type": false,
-                "path": ""
+                "path": "-"
             },
             "location": {
-                "region": "-",
+                "region": "Stockholm Region",
                 "city": "-"
             },
             "treatment": "",
@@ -3642,10 +3642,10 @@
             "status": "unknown",
             "origin": {
                 "type": false,
-                "path": ""
+                "path": "-"
             },
             "location": {
-                "region": "-",
+                "region": "Stockholm Region",
                 "city": "-"
             },
             "treatment": "",
@@ -3658,10 +3658,10 @@
             "status": "unknown",
             "origin": {
                 "type": false,
-                "path": ""
+                "path": "-"
             },
             "location": {
-                "region": "-",
+                "region": "Stockholm Region",
                 "city": "-"
             },
             "treatment": "",
@@ -3674,10 +3674,10 @@
             "status": "unknown",
             "origin": {
                 "type": false,
-                "path": ""
+                "path": "-"
             },
             "location": {
-                "region": "-",
+                "region": "Stockholm Region",
                 "city": "-"
             },
             "treatment": "",
@@ -3690,10 +3690,10 @@
             "status": "unknown",
             "origin": {
                 "type": false,
-                "path": ""
+                "path": "-"
             },
             "location": {
-                "region": "-",
+                "region": "Stockholm Region",
                 "city": "-"
             },
             "treatment": "",
@@ -3706,10 +3706,10 @@
             "status": "unknown",
             "origin": {
                 "type": false,
-                "path": ""
+                "path": "-"
             },
             "location": {
-                "region": "-",
+                "region": "Stockholm Region",
                 "city": "-"
             },
             "treatment": "",
@@ -3722,10 +3722,10 @@
             "status": "unknown",
             "origin": {
                 "type": false,
-                "path": ""
+                "path": "-"
             },
             "location": {
-                "region": "-",
+                "region": "Stockholm Region",
                 "city": "-"
             },
             "treatment": "",
@@ -3738,10 +3738,10 @@
             "status": "unknown",
             "origin": {
                 "type": false,
-                "path": ""
+                "path": "-"
             },
             "location": {
-                "region": "-",
+                "region": "Stockholm Region",
                 "city": "-"
             },
             "treatment": "",
@@ -3754,10 +3754,10 @@
             "status": "unknown",
             "origin": {
                 "type": false,
-                "path": ""
+                "path": "-"
             },
             "location": {
-                "region": "-",
+                "region": "Stockholm Region",
                 "city": "-"
             },
             "treatment": "",
@@ -3770,10 +3770,10 @@
             "status": "unknown",
             "origin": {
                 "type": false,
-                "path": ""
+                "path": "-"
             },
             "location": {
-                "region": "-",
+                "region": "Stockholm Region",
                 "city": "-"
             },
             "treatment": "",
@@ -3786,10 +3786,10 @@
             "status": "unknown",
             "origin": {
                 "type": false,
-                "path": ""
+                "path": "-"
             },
             "location": {
-                "region": "-",
+                "region": "Stockholm Region",
                 "city": "-"
             },
             "treatment": "",
@@ -3802,10 +3802,10 @@
             "status": "unknown",
             "origin": {
                 "type": false,
-                "path": ""
+                "path": "-"
             },
             "location": {
-                "region": "-",
+                "region": "Stockholm Region",
                 "city": "-"
             },
             "treatment": "",
@@ -3818,10 +3818,10 @@
             "status": "unknown",
             "origin": {
                 "type": false,
-                "path": ""
+                "path": "-"
             },
             "location": {
-                "region": "-",
+                "region": "Stockholm Region",
                 "city": "-"
             },
             "treatment": "",
@@ -3834,10 +3834,10 @@
             "status": "unknown",
             "origin": {
                 "type": false,
-                "path": ""
+                "path": "-"
             },
             "location": {
-                "region": "-",
+                "region": "Stockholm Region",
                 "city": "-"
             },
             "treatment": "",
@@ -3850,10 +3850,10 @@
             "status": "unknown",
             "origin": {
                 "type": false,
-                "path": ""
+                "path": "-"
             },
             "location": {
-                "region": "-",
+                "region": "Stockholm Region",
                 "city": "-"
             },
             "treatment": "",
@@ -3866,10 +3866,10 @@
             "status": "unknown",
             "origin": {
                 "type": false,
-                "path": ""
+                "path": "-"
             },
             "location": {
-                "region": "-",
+                "region": "Stockholm Region",
                 "city": "-"
             },
             "treatment": "",
@@ -3882,10 +3882,10 @@
             "status": "unknown",
             "origin": {
                 "type": false,
-                "path": ""
+                "path": "-"
             },
             "location": {
-                "region": "-",
+                "region": "Stockholm Region",
                 "city": "-"
             },
             "treatment": "",
@@ -3898,10 +3898,10 @@
             "status": "unknown",
             "origin": {
                 "type": false,
-                "path": ""
+                "path": "-"
             },
             "location": {
-                "region": "-",
+                "region": "Stockholm Region",
                 "city": "-"
             },
             "treatment": "",
@@ -3914,10 +3914,10 @@
             "status": "unknown",
             "origin": {
                 "type": false,
-                "path": ""
+                "path": "-"
             },
             "location": {
-                "region": "-",
+                "region": "Stockholm Region",
                 "city": "-"
             },
             "treatment": "",
@@ -3930,10 +3930,10 @@
             "status": "unknown",
             "origin": {
                 "type": false,
-                "path": ""
+                "path": "-"
             },
             "location": {
-                "region": "-",
+                "region": "Stockholm Region",
                 "city": "-"
             },
             "treatment": "",
@@ -3946,10 +3946,10 @@
             "status": "unknown",
             "origin": {
                 "type": false,
-                "path": ""
+                "path": "-"
             },
             "location": {
-                "region": "-",
+                "region": "Stockholm Region",
                 "city": "-"
             },
             "treatment": "",
@@ -4170,7 +4170,7 @@
             }
         },
         "Stockholm": {
-            "total": 115,
+            "total": 147,
             "logs": {
                 "2020-02-27": {
                     "total": 1,
@@ -4250,6 +4250,14 @@
                     "recovered-clinically": 0,
                     "intensive-care": 0,
                     "unknown": 14,
+                    "deceased": 0
+                },
+                "2020-03-09": {
+                    "total": 32,
+                    "recovered-fully": 0,
+                    "recovered-clinically": 0,
+                    "intensive-care": 0,
+                    "unknown": 32,
                     "deceased": 0
                 }
             }
@@ -4456,19 +4464,6 @@
                     "recovered-clinically": 0,
                     "intensive-care": 0,
                     "unknown": 5,
-                    "deceased": 0
-                }
-            }
-        },
-        "-": {
-            "total": 32,
-            "logs": {
-                "2020-03-09": {
-                    "total": 32,
-                    "recovered-fully": 0,
-                    "recovered-clinically": 0,
-                    "intensive-care": 0,
-                    "unknown": 32,
                     "deceased": 0
                 }
             }
