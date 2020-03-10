@@ -1,7 +1,7 @@
 {
     "updated": {
-        "datetime": "2020-03-10 6PM(CET)",
-        "timestamp": 1583859606
+        "datetime": "2020-03-10 8PM(CET)",
+        "timestamp": 1583866807
     },
     "cases": [
         {
@@ -4026,7 +4026,7 @@
             "status": "unknown",
             "origin": {
                 "type": false,
-                "path": "-"
+                "path": "N. Italy"
             },
             "location": {
                 "region": "S\u00f6dermanland County",
@@ -5546,10 +5546,138 @@
             "status": "unknown",
             "origin": {
                 "type": false,
-                "path": "N. Italy"
+                "path": "-"
             },
             "location": {
-                "region": "S\u00f6rmland County",
+                "region": "Halland County",
+                "city": "-"
+            },
+            "treatment": "",
+            "sex": "",
+            "age": ""
+        },
+        {
+            "no": 348,
+            "date": "2020-03-10",
+            "status": "unknown",
+            "origin": {
+                "type": false,
+                "path": "-"
+            },
+            "location": {
+                "region": "Halland County",
+                "city": "-"
+            },
+            "treatment": "",
+            "sex": "",
+            "age": ""
+        },
+        {
+            "no": 349,
+            "date": "2020-03-10",
+            "status": "unknown",
+            "origin": {
+                "type": false,
+                "path": "-"
+            },
+            "location": {
+                "region": "Halland County",
+                "city": "-"
+            },
+            "treatment": "",
+            "sex": "",
+            "age": ""
+        },
+        {
+            "no": "350",
+            "date": "2020-03-10",
+            "status": "unknown",
+            "origin": {
+                "type": false,
+                "path": "-"
+            },
+            "location": {
+                "region": "Norrbotten County",
+                "city": "-"
+            },
+            "treatment": "",
+            "sex": "",
+            "age": ""
+        },
+        {
+            "no": "351",
+            "date": "2020-03-10",
+            "status": "unknown",
+            "origin": {
+                "type": false,
+                "path": "-"
+            },
+            "location": {
+                "region": "Kalmar County",
+                "city": "-"
+            },
+            "treatment": "",
+            "sex": "",
+            "age": ""
+        },
+        {
+            "no": "352",
+            "date": "2020-03-10",
+            "status": "unknown",
+            "origin": {
+                "type": false,
+                "path": "-"
+            },
+            "location": {
+                "region": "V\u00e4sternorrland County",
+                "city": "-"
+            },
+            "treatment": "",
+            "sex": "",
+            "age": ""
+        },
+        {
+            "no": 353,
+            "date": "2020-03-10",
+            "status": "unknown",
+            "origin": {
+                "type": false,
+                "path": "-"
+            },
+            "location": {
+                "region": "V\u00e4sternorrland County",
+                "city": "-"
+            },
+            "treatment": "",
+            "sex": "",
+            "age": ""
+        },
+        {
+            "no": 354,
+            "date": "2020-03-10",
+            "status": "unknown",
+            "origin": {
+                "type": false,
+                "path": "-"
+            },
+            "location": {
+                "region": "V\u00e4sternorrland County",
+                "city": "-"
+            },
+            "treatment": "",
+            "sex": "",
+            "age": ""
+        },
+        {
+            "no": "355",
+            "date": "2020-03-10",
+            "status": "unknown",
+            "origin": {
+                "type": false,
+                "path": "-"
+            },
+            "location": {
+                "region": "Kronoberg County",
                 "city": "-"
             },
             "treatment": "",
@@ -6008,7 +6136,7 @@
             }
         },
         "Halland": {
-            "total": 6,
+            "total": 9,
             "logs": {
                 "2020-03-09": {
                     "total": 5,
@@ -6019,11 +6147,11 @@
                     "deceased": 0
                 },
                 "2020-03-10": {
-                    "total": 1,
+                    "total": 4,
                     "recovered-fully": 0,
                     "recovered-clinically": 0,
                     "intensive-care": 0,
-                    "unknown": 1,
+                    "unknown": 4,
                     "deceased": 0
                 }
             }
@@ -6042,9 +6170,17 @@
             }
         },
         "Norrbotten": {
-            "total": 1,
+            "total": 2,
             "logs": {
                 "2020-03-09": {
+                    "total": 1,
+                    "recovered-fully": 0,
+                    "recovered-clinically": 0,
+                    "intensive-care": 0,
+                    "unknown": 1,
+                    "deceased": 0
+                },
+                "2020-03-10": {
                     "total": 1,
                     "recovered-fully": 0,
                     "recovered-clinically": 0,
@@ -6094,14 +6230,14 @@
             }
         },
         "S\u00f6rmland": {
-            "total": 2,
+            "total": 1,
             "logs": {
                 "2020-03-10": {
-                    "total": 2,
+                    "total": 1,
                     "recovered-fully": 0,
                     "recovered-clinically": 0,
                     "intensive-care": 0,
-                    "unknown": 2,
+                    "unknown": 1,
                     "deceased": 0
                 }
             }
@@ -6120,14 +6256,40 @@
             }
         },
         "V\u00e4sternorrland": {
-            "total": 3,
+            "total": 6,
             "logs": {
                 "2020-03-10": {
-                    "total": 3,
+                    "total": 6,
                     "recovered-fully": 0,
                     "recovered-clinically": 0,
                     "intensive-care": 0,
-                    "unknown": 3,
+                    "unknown": 6,
+                    "deceased": 0
+                }
+            }
+        },
+        "Kalmar": {
+            "total": 1,
+            "logs": {
+                "2020-03-10": {
+                    "total": 1,
+                    "recovered-fully": 0,
+                    "recovered-clinically": 0,
+                    "intensive-care": 0,
+                    "unknown": 1,
+                    "deceased": 0
+                }
+            }
+        },
+        "Kronoberg": {
+            "total": 1,
+            "logs": {
+                "2020-03-10": {
+                    "total": 1,
+                    "recovered-fully": 0,
+                    "recovered-clinically": 0,
+                    "intensive-care": 0,
+                    "unknown": 1,
                     "deceased": 0
                 }
             }
@@ -6148,14 +6310,14 @@
         "2020-03-07": 24,
         "2020-03-08": 42,
         "2020-03-09": 57,
-        "2020-03-10": 87
+        "2020-03-10": 95
     },
     "summary": {
-        "confirmed": 347,
+        "confirmed": 355,
         "recovered-fully": 0,
         "recovered-clinically": 1,
         "intensive-care": 0,
-        "unknown": 346,
+        "unknown": 354,
         "deceased": 0
     }
 }
