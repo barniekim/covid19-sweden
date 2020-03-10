@@ -1,7 +1,7 @@
 {
     "updated": {
-        "datetime": "2020-03-10 4PM(CET)",
-        "timestamp": 1583852406
+        "datetime": "2020-03-10 5PM(CET)",
+        "timestamp": 1583856006
     },
     "cases": [
         {
@@ -5210,7 +5210,7 @@
             "status": "unknown",
             "origin": {
                 "type": false,
-                "path": "-"
+                "path": "An earlier V\u00e4rmland case from bus tour to N. Italy"
             },
             "location": {
                 "region": "V\u00e4rmland County",
@@ -5226,11 +5226,11 @@
             "status": "unknown",
             "origin": {
                 "type": false,
-                "path": "-"
+                "path": "Abroad"
             },
             "location": {
-                "region": "V\u00e4stra G\u00f6taland County",
-                "city": "-"
+                "region": "6 from Gothenburg area,",
+                "city": "4 from Norra \u00c4lvsborg area,"
             },
             "treatment": "",
             "sex": "",
@@ -5242,11 +5242,11 @@
             "status": "unknown",
             "origin": {
                 "type": false,
-                "path": "-"
+                "path": "Abroad"
             },
             "location": {
-                "region": "V\u00e4stra G\u00f6taland County",
-                "city": "-"
+                "region": "6 from Gothenburg area,",
+                "city": "4 from Norra \u00c4lvsborg area,"
             },
             "treatment": "",
             "sex": "",
@@ -5258,11 +5258,11 @@
             "status": "unknown",
             "origin": {
                 "type": false,
-                "path": "-"
+                "path": "Abroad"
             },
             "location": {
-                "region": "V\u00e4stra G\u00f6taland County",
-                "city": "-"
+                "region": "6 from Gothenburg area,",
+                "city": "4 from Norra \u00c4lvsborg area,"
             },
             "treatment": "",
             "sex": "",
@@ -5274,11 +5274,11 @@
             "status": "unknown",
             "origin": {
                 "type": false,
-                "path": "-"
+                "path": "Abroad"
             },
             "location": {
-                "region": "V\u00e4stra G\u00f6taland County",
-                "city": "-"
+                "region": "6 from Gothenburg area,",
+                "city": "4 from Norra \u00c4lvsborg area,"
             },
             "treatment": "",
             "sex": "",
@@ -5290,11 +5290,11 @@
             "status": "unknown",
             "origin": {
                 "type": false,
-                "path": "-"
+                "path": "Abroad"
             },
             "location": {
-                "region": "V\u00e4stra G\u00f6taland County",
-                "city": "-"
+                "region": "6 from Gothenburg area,",
+                "city": "4 from Norra \u00c4lvsborg area,"
             },
             "treatment": "",
             "sex": "",
@@ -5306,11 +5306,11 @@
             "status": "unknown",
             "origin": {
                 "type": false,
-                "path": "-"
+                "path": "Abroad"
             },
             "location": {
-                "region": "V\u00e4stra G\u00f6taland County",
-                "city": "-"
+                "region": "6 from Gothenburg area,",
+                "city": "4 from Norra \u00c4lvsborg area,"
             },
             "treatment": "",
             "sex": "",
@@ -5322,11 +5322,11 @@
             "status": "unknown",
             "origin": {
                 "type": false,
-                "path": "-"
+                "path": "Abroad"
             },
             "location": {
-                "region": "V\u00e4stra G\u00f6taland County",
-                "city": "-"
+                "region": "6 from Gothenburg area,",
+                "city": "4 from Norra \u00c4lvsborg area,"
             },
             "treatment": "",
             "sex": "",
@@ -5338,11 +5338,11 @@
             "status": "unknown",
             "origin": {
                 "type": false,
-                "path": "-"
+                "path": "Abroad"
             },
             "location": {
-                "region": "V\u00e4stra G\u00f6taland County",
-                "city": "-"
+                "region": "6 from Gothenburg area,",
+                "city": "4 from Norra \u00c4lvsborg area,"
             },
             "treatment": "",
             "sex": "",
@@ -5354,11 +5354,11 @@
             "status": "unknown",
             "origin": {
                 "type": false,
-                "path": "-"
+                "path": "Abroad"
             },
             "location": {
-                "region": "V\u00e4stra G\u00f6taland County",
-                "city": "-"
+                "region": "6 from Gothenburg area,",
+                "city": "4 from Norra \u00c4lvsborg area,"
             },
             "treatment": "",
             "sex": "",
@@ -5370,11 +5370,11 @@
             "status": "unknown",
             "origin": {
                 "type": false,
-                "path": "-"
+                "path": "Abroad"
             },
             "location": {
-                "region": "V\u00e4stra G\u00f6taland County",
-                "city": "-"
+                "region": "6 from Gothenburg area,",
+                "city": "4 from Norra \u00c4lvsborg area,"
             },
             "treatment": "",
             "sex": "",
@@ -5386,11 +5386,11 @@
             "status": "unknown",
             "origin": {
                 "type": false,
-                "path": "-"
+                "path": "Abroad"
             },
             "location": {
-                "region": "V\u00e4stra G\u00f6taland County",
-                "city": "-"
+                "region": "6 from Gothenburg area,",
+                "city": "4 from Norra \u00c4lvsborg area,"
             },
             "treatment": "",
             "sex": "",
@@ -5402,11 +5402,11 @@
             "status": "unknown",
             "origin": {
                 "type": false,
-                "path": "-"
+                "path": "Abroad"
             },
             "location": {
-                "region": "V\u00e4stra G\u00f6taland County",
-                "city": "-"
+                "region": "6 from Gothenburg area,",
+                "city": "4 from Norra \u00c4lvsborg area,"
             },
             "treatment": "",
             "sex": "",
@@ -5418,11 +5418,11 @@
             "status": "unknown",
             "origin": {
                 "type": false,
-                "path": "-"
+                "path": "Abroad"
             },
             "location": {
-                "region": "V\u00e4stra G\u00f6taland County",
-                "city": "-"
+                "region": "6 from Gothenburg area,",
+                "city": "4 from Norra \u00c4lvsborg area,"
             },
             "treatment": "",
             "sex": "",
@@ -5434,11 +5434,11 @@
             "status": "unknown",
             "origin": {
                 "type": false,
-                "path": "-"
+                "path": "Abroad"
             },
             "location": {
-                "region": "V\u00e4stra G\u00f6taland County",
-                "city": "-"
+                "region": "6 from Gothenburg area,",
+                "city": "4 from Norra \u00c4lvsborg area,"
             },
             "treatment": "",
             "sex": "",
@@ -5450,10 +5450,90 @@
             "status": "unknown",
             "origin": {
                 "type": false,
+                "path": "Abroad"
+            },
+            "location": {
+                "region": "6 from Gothenburg area,",
+                "city": "4 from Norra \u00c4lvsborg area,"
+            },
+            "treatment": "",
+            "sex": "",
+            "age": ""
+        },
+        {
+            "no": "342",
+            "date": "2020-03-10",
+            "status": "unknown",
+            "origin": {
+                "type": false,
                 "path": "-"
             },
             "location": {
-                "region": "V\u00e4stra G\u00f6taland County",
+                "region": "S\u00f6rmland County",
+                "city": "-"
+            },
+            "treatment": "",
+            "sex": "",
+            "age": ""
+        },
+        {
+            "no": "343",
+            "date": "2020-03-10",
+            "status": "unknown",
+            "origin": {
+                "type": false,
+                "path": "-"
+            },
+            "location": {
+                "region": "J\u00e4mtland County",
+                "city": "-"
+            },
+            "treatment": "",
+            "sex": "",
+            "age": ""
+        },
+        {
+            "no": "344",
+            "date": "2020-03-10",
+            "status": "unknown",
+            "origin": {
+                "type": false,
+                "path": "-"
+            },
+            "location": {
+                "region": "V\u00e4sternorrland County",
+                "city": "-"
+            },
+            "treatment": "",
+            "sex": "",
+            "age": ""
+        },
+        {
+            "no": 345,
+            "date": "2020-03-10",
+            "status": "unknown",
+            "origin": {
+                "type": false,
+                "path": "-"
+            },
+            "location": {
+                "region": "V\u00e4sternorrland County",
+                "city": "-"
+            },
+            "treatment": "",
+            "sex": "",
+            "age": ""
+        },
+        {
+            "no": 346,
+            "date": "2020-03-10",
+            "status": "unknown",
+            "origin": {
+                "type": false,
+                "path": "-"
+            },
+            "location": {
+                "region": "V\u00e4sternorrland County",
                 "city": "-"
             },
             "treatment": "",
@@ -5509,7 +5589,7 @@
             }
         },
         "V\u00e4stra G\u00f6taland": {
-            "total": 48,
+            "total": 33,
             "logs": {
                 "2020-02-26": {
                     "total": 1,
@@ -5589,14 +5669,6 @@
                     "recovered-clinically": 0,
                     "intensive-care": 0,
                     "unknown": 7,
-                    "deceased": 0
-                },
-                "2020-03-10": {
-                    "total": 15,
-                    "recovered-fully": 0,
-                    "recovered-clinically": 0,
-                    "intensive-care": 0,
-                    "unknown": 15,
                     "deceased": 0
                 }
             }
@@ -5991,6 +6063,58 @@
                     "deceased": 0
                 }
             }
+        },
+        "6 from Gothenburg area,": {
+            "total": 15,
+            "logs": {
+                "2020-03-10": {
+                    "total": 15,
+                    "recovered-fully": 0,
+                    "recovered-clinically": 0,
+                    "intensive-care": 0,
+                    "unknown": 15,
+                    "deceased": 0
+                }
+            }
+        },
+        "S\u00f6rmland": {
+            "total": 1,
+            "logs": {
+                "2020-03-10": {
+                    "total": 1,
+                    "recovered-fully": 0,
+                    "recovered-clinically": 0,
+                    "intensive-care": 0,
+                    "unknown": 1,
+                    "deceased": 0
+                }
+            }
+        },
+        "J\u00e4mtland": {
+            "total": 1,
+            "logs": {
+                "2020-03-10": {
+                    "total": 1,
+                    "recovered-fully": 0,
+                    "recovered-clinically": 0,
+                    "intensive-care": 0,
+                    "unknown": 1,
+                    "deceased": 0
+                }
+            }
+        },
+        "V\u00e4sternorrland": {
+            "total": 3,
+            "logs": {
+                "2020-03-10": {
+                    "total": 3,
+                    "recovered-fully": 0,
+                    "recovered-clinically": 0,
+                    "intensive-care": 0,
+                    "unknown": 3,
+                    "deceased": 0
+                }
+            }
         }
     },
     "dates": {
@@ -6008,14 +6132,14 @@
         "2020-03-07": 24,
         "2020-03-08": 42,
         "2020-03-09": 57,
-        "2020-03-10": 81
+        "2020-03-10": 86
     },
     "summary": {
-        "confirmed": 341,
+        "confirmed": 346,
         "recovered-fully": 0,
         "recovered-clinically": 1,
         "intensive-care": 0,
-        "unknown": 340,
+        "unknown": 345,
         "deceased": 0
     }
 }
