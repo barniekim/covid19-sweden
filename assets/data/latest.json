@@ -1,7 +1,7 @@
 {
     "updated": {
-        "datetime": "2020-03-10 12PM(CET)",
-        "timestamp": 1583838006
+        "datetime": "2020-03-10 1PM(CET)",
+        "timestamp": 1583841606
     },
     "cases": [
         {
@@ -4163,6 +4163,70 @@
             "treatment": "",
             "sex": "",
             "age": ""
+        },
+        {
+            "no": "261",
+            "date": "2020-03-10",
+            "status": "unknown",
+            "origin": {
+                "type": false,
+                "path": "-"
+            },
+            "location": {
+                "region": "Sk\u00e5ne Region",
+                "city": "-"
+            },
+            "treatment": "",
+            "sex": "",
+            "age": ""
+        },
+        {
+            "no": 262,
+            "date": "2020-03-10",
+            "status": "unknown",
+            "origin": {
+                "type": false,
+                "path": "-"
+            },
+            "location": {
+                "region": "Sk\u00e5ne Region",
+                "city": "-"
+            },
+            "treatment": "",
+            "sex": "",
+            "age": ""
+        },
+        {
+            "no": 263,
+            "date": "2020-03-10",
+            "status": "unknown",
+            "origin": {
+                "type": false,
+                "path": "-"
+            },
+            "location": {
+                "region": "Sk\u00e5ne Region",
+                "city": "-"
+            },
+            "treatment": "",
+            "sex": "",
+            "age": ""
+        },
+        {
+            "no": "264",
+            "date": "2020-03-10",
+            "status": "unknown",
+            "origin": {
+                "type": false,
+                "path": "-"
+            },
+            "location": {
+                "region": "Halland Region",
+                "city": "-"
+            },
+            "treatment": "",
+            "sex": "",
+            "age": ""
         }
     ],
     "origins": [],
@@ -4444,7 +4508,7 @@
             }
         },
         "Sk\u00e5ne": {
-            "total": 22,
+            "total": 25,
             "logs": {
                 "2020-03-03": {
                     "total": 1,
@@ -4492,6 +4556,14 @@
                     "recovered-clinically": 0,
                     "intensive-care": 0,
                     "unknown": 5,
+                    "deceased": 0
+                },
+                "2020-03-10": {
+                    "total": 3,
+                    "recovered-fully": 0,
+                    "recovered-clinically": 0,
+                    "intensive-care": 0,
+                    "unknown": 3,
                     "deceased": 0
                 }
             }
@@ -4584,7 +4656,7 @@
             }
         },
         "Halland": {
-            "total": 5,
+            "total": 6,
             "logs": {
                 "2020-03-09": {
                     "total": 5,
@@ -4592,6 +4664,14 @@
                     "recovered-clinically": 0,
                     "intensive-care": 0,
                     "unknown": 5,
+                    "deceased": 0
+                },
+                "2020-03-10": {
+                    "total": 1,
+                    "recovered-fully": 0,
+                    "recovered-clinically": 0,
+                    "intensive-care": 0,
+                    "unknown": 1,
                     "deceased": 0
                 }
             }
@@ -4663,14 +4743,15 @@
         "2020-03-06": 43,
         "2020-03-07": 24,
         "2020-03-08": 42,
-        "2020-03-09": 57
+        "2020-03-09": 57,
+        "2020-03-10": 4
     },
     "summary": {
-        "confirmed": 260,
+        "confirmed": 264,
         "recovered-fully": 0,
         "recovered-clinically": 1,
         "intensive-care": 0,
-        "unknown": 259,
+        "unknown": 263,
         "deceased": 0
     }
 }
