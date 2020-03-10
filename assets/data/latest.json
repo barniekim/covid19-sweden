@@ -1,7 +1,7 @@
 {
     "updated": {
-        "datetime": "2020-03-09 4PM (Europe\/Stockholm)",
-        "timestamp": 1583767383
+        "datetime": "2020-03-10 5AM (Europe\/Stockholm)",
+        "timestamp": 1583813229
     },
     "cases": [
         {
@@ -538,11 +538,11 @@
             "status": "unknown",
             "origin": {
                 "type": false,
-                "path": "N. Italy, travelled together"
+                "path": "N. Italy, travelled together on bus tour"
             },
             "location": {
                 "region": "V\u00e4rmland Region",
-                "city": "Karlstad"
+                "city": "Karlstad area"
             },
             "treatment": "",
             "sex": "",
@@ -554,11 +554,11 @@
             "status": "unknown",
             "origin": {
                 "type": false,
-                "path": "N. Italy, travelled together"
+                "path": "N. Italy, travelled together on bus tour"
             },
             "location": {
                 "region": "V\u00e4rmland Region",
-                "city": "Karlstad"
+                "city": "Karlstad area"
             },
             "treatment": "",
             "sex": "",
@@ -974,7 +974,7 @@
             },
             "location": {
                 "region": "V\u00e4rmland Region",
-                "city": "-"
+                "city": "Karlstad area"
             },
             "treatment": "",
             "sex": "",
@@ -990,7 +990,7 @@
             },
             "location": {
                 "region": "V\u00e4rmland Region",
-                "city": "-"
+                "city": "Karlstad area"
             },
             "treatment": "",
             "sex": "",
@@ -1006,7 +1006,7 @@
             },
             "location": {
                 "region": "V\u00e4rmland Region",
-                "city": "-"
+                "city": "Karlstad area"
             },
             "treatment": "",
             "sex": "",
@@ -1630,7 +1630,7 @@
             },
             "location": {
                 "region": "V\u00e4rmland Region",
-                "city": "-"
+                "city": "Karlstad area"
             },
             "treatment": "",
             "sex": "",
@@ -1646,7 +1646,7 @@
             },
             "location": {
                 "region": "V\u00e4rmland Region",
-                "city": "-"
+                "city": "Karlstad area"
             },
             "treatment": "",
             "sex": "",
@@ -1662,7 +1662,7 @@
             },
             "location": {
                 "region": "V\u00e4rmland Region",
-                "city": "-"
+                "city": "Karlstad area"
             },
             "treatment": "",
             "sex": "",
@@ -1678,7 +1678,7 @@
             },
             "location": {
                 "region": "V\u00e4rmland Region",
-                "city": "-"
+                "city": "Karlstad area"
             },
             "treatment": "",
             "sex": "",
@@ -1694,7 +1694,7 @@
             },
             "location": {
                 "region": "V\u00e4rmland Region",
-                "city": "-"
+                "city": "Karlstad area"
             },
             "treatment": "",
             "sex": "",
@@ -1710,7 +1710,7 @@
             },
             "location": {
                 "region": "V\u00e4rmland Region",
-                "city": "-"
+                "city": "Karlstad area"
             },
             "treatment": "",
             "sex": "",
@@ -1726,7 +1726,7 @@
             },
             "location": {
                 "region": "V\u00e4rmland Region",
-                "city": "-"
+                "city": "Karlstad area"
             },
             "treatment": "",
             "sex": "",
@@ -1738,11 +1738,11 @@
             "status": "unknown",
             "origin": {
                 "type": false,
-                "path": "-"
+                "path": ""
             },
             "location": {
                 "region": "V\u00e4rmland Region",
-                "city": "-"
+                "city": "Karlstad area"
             },
             "treatment": "",
             "sex": "",
@@ -2602,7 +2602,7 @@
             "status": "unknown",
             "origin": {
                 "type": false,
-                "path": "N. -"
+                "path": "-"
             },
             "location": {
                 "region": "Sk\u00e5ne Region",
@@ -2618,7 +2618,7 @@
             "status": "unknown",
             "origin": {
                 "type": false,
-                "path": "N. -"
+                "path": "-"
             },
             "location": {
                 "region": "Sk\u00e5ne Region",
@@ -2634,7 +2634,7 @@
             "status": "unknown",
             "origin": {
                 "type": false,
-                "path": "N. -"
+                "path": "-"
             },
             "location": {
                 "region": "Sk\u00e5ne Region",
@@ -2650,7 +2650,7 @@
             "status": "unknown",
             "origin": {
                 "type": false,
-                "path": "N. -"
+                "path": "-"
             },
             "location": {
                 "region": "Sk\u00e5ne Region",
@@ -2666,7 +2666,7 @@
             "status": "unknown",
             "origin": {
                 "type": false,
-                "path": "N. -"
+                "path": "-"
             },
             "location": {
                 "region": "Sk\u00e5ne Region",
@@ -2874,11 +2874,11 @@
             "status": "unknown",
             "origin": {
                 "type": false,
-                "path": "-"
+                "path": "N. Italy and case 34-35"
             },
             "location": {
                 "region": "V\u00e4rmland Region",
-                "city": "-"
+                "city": "Karlstad area"
             },
             "treatment": "",
             "sex": "",
@@ -2890,11 +2890,11 @@
             "status": "unknown",
             "origin": {
                 "type": false,
-                "path": "-"
+                "path": "N. Italy and case 34-35"
             },
             "location": {
                 "region": "V\u00e4rmland Region",
-                "city": "-"
+                "city": "Karlstad area"
             },
             "treatment": "",
             "sex": "",
@@ -2906,11 +2906,11 @@
             "status": "unknown",
             "origin": {
                 "type": false,
-                "path": "-"
+                "path": "N. Italy and case 34-35"
             },
             "location": {
                 "region": "V\u00e4rmland Region",
-                "city": "-"
+                "city": "Karlstad area"
             },
             "treatment": "",
             "sex": "",
@@ -2922,11 +2922,11 @@
             "status": "unknown",
             "origin": {
                 "type": false,
-                "path": "-"
+                "path": "N. Italy and case 34-35"
             },
             "location": {
                 "region": "V\u00e4rmland Region",
-                "city": "-"
+                "city": "Karlstad area"
             },
             "treatment": "",
             "sex": "",
@@ -2938,11 +2938,11 @@
             "status": "unknown",
             "origin": {
                 "type": false,
-                "path": "-"
+                "path": "N. Italy and case 34-35"
             },
             "location": {
                 "region": "V\u00e4rmland Region",
-                "city": "-"
+                "city": "Karlstad area"
             },
             "treatment": "",
             "sex": "",
@@ -2954,11 +2954,11 @@
             "status": "unknown",
             "origin": {
                 "type": false,
-                "path": "-"
+                "path": "N. Italy and case 34-35"
             },
             "location": {
                 "region": "V\u00e4rmland Region",
-                "city": "-"
+                "city": "Karlstad area"
             },
             "treatment": "",
             "sex": "",
@@ -2970,11 +2970,11 @@
             "status": "unknown",
             "origin": {
                 "type": false,
-                "path": "-"
+                "path": "N. Italy and case 34-35"
             },
             "location": {
                 "region": "V\u00e4rmland Region",
-                "city": "-"
+                "city": "Karlstad area"
             },
             "treatment": "",
             "sex": "",
@@ -3274,18 +3274,18 @@
             "status": "unknown",
             "origin": {
                 "type": false,
-                "path": "-"
+                "path": "An earlier V\u00e4rmland case from bus tour to N. Italy"
             },
             "location": {
-                "region": "Halland",
-                "city": "-"
+                "region": "V\u00e4rmland Region",
+                "city": "Karlstad area"
             },
             "treatment": "",
             "sex": "",
             "age": ""
         },
         {
-            "no": 206,
+            "no": "206",
             "date": "2020-03-09",
             "status": "unknown",
             "origin": {
@@ -3293,8 +3293,8 @@
                 "path": "-"
             },
             "location": {
-                "region": "Halland",
-                "city": "-"
+                "region": "V\u00e4stra G\u00f6taland Region",
+                "city": "Gothenburg area"
             },
             "treatment": "",
             "sex": "",
@@ -3309,8 +3309,8 @@
                 "path": "-"
             },
             "location": {
-                "region": "Halland",
-                "city": "-"
+                "region": "V\u00e4stra G\u00f6taland Region",
+                "city": "Gothenburg area"
             },
             "treatment": "",
             "sex": "",
@@ -3325,15 +3325,15 @@
                 "path": "-"
             },
             "location": {
-                "region": "Halland",
-                "city": "-"
+                "region": "V\u00e4stra G\u00f6taland Region",
+                "city": "Gothenburg area"
             },
             "treatment": "",
             "sex": "",
             "age": ""
         },
         {
-            "no": "209",
+            "no": 209,
             "date": "2020-03-09",
             "status": "unknown",
             "origin": {
@@ -3341,8 +3341,8 @@
                 "path": "-"
             },
             "location": {
-                "region": "V\u00e4rmland Region",
-                "city": "-"
+                "region": "V\u00e4stra G\u00f6taland Region",
+                "city": "Gothenburg area"
             },
             "treatment": "",
             "sex": "",
@@ -3354,11 +3354,11 @@
             "status": "unknown",
             "origin": {
                 "type": false,
-                "path": "-"
+                "path": "Abroad"
             },
             "location": {
                 "region": "V\u00e4stra G\u00f6taland Region",
-                "city": "Gothenburg area"
+                "city": "Sk\u00f6vde area"
             },
             "treatment": "",
             "sex": "",
@@ -3370,18 +3370,18 @@
             "status": "unknown",
             "origin": {
                 "type": false,
-                "path": "-"
+                "path": "Abroad"
             },
             "location": {
                 "region": "V\u00e4stra G\u00f6taland Region",
-                "city": "Gothenburg area"
+                "city": "Sk\u00f6vde area"
             },
             "treatment": "",
             "sex": "",
             "age": ""
         },
         {
-            "no": 212,
+            "no": "212",
             "date": "2020-03-09",
             "status": "unknown",
             "origin": {
@@ -3389,8 +3389,8 @@
                 "path": "-"
             },
             "location": {
-                "region": "V\u00e4stra G\u00f6taland Region",
-                "city": "Gothenburg area"
+                "region": "Stockholm Region",
+                "city": "-"
             },
             "treatment": "",
             "sex": "",
@@ -3405,24 +3405,24 @@
                 "path": "-"
             },
             "location": {
-                "region": "V\u00e4stra G\u00f6taland Region",
-                "city": "Gothenburg area"
+                "region": "Stockholm Region",
+                "city": "-"
             },
             "treatment": "",
             "sex": "",
             "age": ""
         },
         {
-            "no": "214",
+            "no": 214,
             "date": "2020-03-09",
             "status": "unknown",
             "origin": {
                 "type": false,
-                "path": "Abroad"
+                "path": "-"
             },
             "location": {
-                "region": "V\u00e4stra G\u00f6taland Region",
-                "city": "Sk\u00f6vde area"
+                "region": "Stockholm Region",
+                "city": "-"
             },
             "treatment": "",
             "sex": "",
@@ -3434,18 +3434,18 @@
             "status": "unknown",
             "origin": {
                 "type": false,
-                "path": "Abroad"
+                "path": "-"
             },
             "location": {
-                "region": "V\u00e4stra G\u00f6taland Region",
-                "city": "Sk\u00f6vde area"
+                "region": "Stockholm Region",
+                "city": "-"
             },
             "treatment": "",
             "sex": "",
             "age": ""
         },
         {
-            "no": "216",
+            "no": 216,
             "date": "2020-03-09",
             "status": "unknown",
             "origin": {
@@ -3893,15 +3893,15 @@
             "age": ""
         },
         {
-            "no": 244,
+            "no": "244",
             "date": "2020-03-09",
             "status": "unknown",
             "origin": {
                 "type": false,
-                "path": "-"
+                "path": "N. Italy, travelled together"
             },
             "location": {
-                "region": "Stockholm Region",
+                "region": "J\u00f6nk\u00f6ping Region",
                 "city": "-"
             },
             "treatment": "",
@@ -3914,10 +3914,10 @@
             "status": "unknown",
             "origin": {
                 "type": false,
-                "path": "-"
+                "path": "N. Italy, travelled together"
             },
             "location": {
-                "region": "Stockholm Region",
+                "region": "J\u00f6nk\u00f6ping Region",
                 "city": "-"
             },
             "treatment": "",
@@ -3925,15 +3925,15 @@
             "age": ""
         },
         {
-            "no": 246,
+            "no": "246",
             "date": "2020-03-09",
             "status": "unknown",
             "origin": {
                 "type": false,
-                "path": "-"
+                "path": "N. Italy"
             },
             "location": {
-                "region": "Stockholm Region",
+                "region": "Uppsala Region",
                 "city": "-"
             },
             "treatment": "",
@@ -3941,15 +3941,15 @@
             "age": ""
         },
         {
-            "no": 247,
+            "no": "247",
             "date": "2020-03-09",
             "status": "unknown",
             "origin": {
                 "type": false,
-                "path": "-"
+                "path": "N. Italy"
             },
             "location": {
-                "region": "Stockholm Region",
+                "region": "Uppsala Region",
                 "city": "-"
             },
             "treatment": "",
@@ -3962,10 +3962,26 @@
             "status": "unknown",
             "origin": {
                 "type": false,
-                "path": "N. Italy, travelled together"
+                "path": "Case 204"
             },
             "location": {
-                "region": "J\u00f6nk\u00f6ping Region",
+                "region": "Halland",
+                "city": "Kungsbacka Municipality"
+            },
+            "treatment": "",
+            "sex": "",
+            "age": ""
+        },
+        {
+            "no": "249",
+            "date": "2020-03-09",
+            "status": "unknown",
+            "origin": {
+                "type": false,
+                "path": "Italy"
+            },
+            "location": {
+                "region": "Halland",
                 "city": "-"
             },
             "treatment": "",
@@ -3973,31 +3989,15 @@
             "age": ""
         },
         {
-            "no": 249,
+            "no": 250,
             "date": "2020-03-09",
             "status": "unknown",
             "origin": {
                 "type": false,
-                "path": "N. Italy, travelled together"
+                "path": "Italy"
             },
             "location": {
-                "region": "J\u00f6nk\u00f6ping Region",
-                "city": "-"
-            },
-            "treatment": "",
-            "sex": "",
-            "age": ""
-        },
-        {
-            "no": "250",
-            "date": "2020-03-09",
-            "status": "unknown",
-            "origin": {
-                "type": false,
-                "path": "N. Italy, non-related"
-            },
-            "location": {
-                "region": "Uppsala Region",
+                "region": "Halland",
                 "city": "-"
             },
             "treatment": "",
@@ -4010,10 +4010,10 @@
             "status": "unknown",
             "origin": {
                 "type": false,
-                "path": "N. Italy, non-related"
+                "path": "Italy"
             },
             "location": {
-                "region": "Uppsala Region",
+                "region": "Halland",
                 "city": "-"
             },
             "treatment": "",
@@ -4026,11 +4026,139 @@
             "status": "unknown",
             "origin": {
                 "type": false,
+                "path": "-"
+            },
+            "location": {
+                "region": "S\u00f6rmland Region",
+                "city": "-"
+            },
+            "treatment": "",
+            "sex": "",
+            "age": ""
+        },
+        {
+            "no": "253",
+            "date": "2020-03-09",
+            "status": "unknown",
+            "origin": {
+                "type": false,
+                "path": "Italy"
+            },
+            "location": {
+                "region": "Norrbotten Region",
+                "city": "-"
+            },
+            "treatment": "",
+            "sex": "",
+            "age": ""
+        },
+        {
+            "no": "254",
+            "date": "2020-03-09",
+            "status": "unknown",
+            "origin": {
+                "type": false,
+                "path": ""
+            },
+            "location": {
+                "region": "V\u00e4stra G\u00f6taland Region",
+                "city": "Kung\u00e4lv"
+            },
+            "treatment": "",
+            "sex": "",
+            "age": ""
+        },
+        {
+            "no": "255",
+            "date": "2020-03-09",
+            "status": "unknown",
+            "origin": {
+                "type": false,
+                "path": "N. Italy, related to each other"
+            },
+            "location": {
+                "region": "V\u00e4sterbotten",
+                "city": "-"
+            },
+            "treatment": "",
+            "sex": "",
+            "age": ""
+        },
+        {
+            "no": 256,
+            "date": "2020-03-09",
+            "status": "unknown",
+            "origin": {
+                "type": false,
+                "path": "N. Italy, related to each other"
+            },
+            "location": {
+                "region": "V\u00e4sterbotten",
+                "city": "-"
+            },
+            "treatment": "",
+            "sex": "",
+            "age": ""
+        },
+        {
+            "no": 257,
+            "date": "2020-03-09",
+            "status": "unknown",
+            "origin": {
+                "type": false,
+                "path": "N. Italy, related to each other"
+            },
+            "location": {
+                "region": "V\u00e4sterbotten",
+                "city": "-"
+            },
+            "treatment": "",
+            "sex": "",
+            "age": ""
+        },
+        {
+            "no": "258",
+            "date": "2020-03-09",
+            "status": "unknown",
+            "origin": {
+                "type": false,
                 "path": "N. Italy"
             },
             "location": {
-                "region": "Uppsala Region",
+                "region": "V\u00e4sterbotten",
                 "city": "-"
+            },
+            "treatment": "",
+            "sex": "",
+            "age": ""
+        },
+        {
+            "no": 259,
+            "date": "2020-03-09",
+            "status": "unknown",
+            "origin": {
+                "type": false,
+                "path": "N. Italy"
+            },
+            "location": {
+                "region": "V\u00e4sterbotten",
+                "city": "-"
+            },
+            "treatment": "",
+            "sex": "",
+            "age": ""
+        },
+        {
+            "no": "260",
+            "date": "2020-03-09",
+            "status": "unknown",
+            "origin": {
+                "type": false,
+                "path": "N. Italy"
+            },
+            "location": {
+                "region": "\u00d6sterg\u00f6tland County",
+                "city": "Eastern parts of county"
             },
             "treatment": "",
             "sex": "",
@@ -4085,7 +4213,7 @@
             }
         },
         "V\u00e4stra G\u00f6taland": {
-            "total": 32,
+            "total": 33,
             "logs": {
                 "2020-02-26": {
                     "total": 1,
@@ -4160,11 +4288,11 @@
                     "deceased": 0
                 },
                 "2020-03-09": {
-                    "total": 6,
+                    "total": 7,
                     "recovered-fully": 0,
                     "recovered-clinically": 0,
                     "intensive-care": 0,
-                    "unknown": 6,
+                    "unknown": 7,
                     "deceased": 0
                 }
             }
@@ -4263,7 +4391,7 @@
             }
         },
         "Uppsala": {
-            "total": 9,
+            "total": 8,
             "logs": {
                 "2020-02-27": {
                     "total": 1,
@@ -4306,11 +4434,11 @@
                     "deceased": 0
                 },
                 "2020-03-09": {
-                    "total": 3,
+                    "total": 2,
                     "recovered-fully": 0,
                     "recovered-clinically": 0,
                     "intensive-care": 0,
-                    "unknown": 3,
+                    "unknown": 2,
                     "deceased": 0
                 }
             }
@@ -4467,6 +4595,58 @@
                     "deceased": 0
                 }
             }
+        },
+        "S\u00f6rmland": {
+            "total": 1,
+            "logs": {
+                "2020-03-09": {
+                    "total": 1,
+                    "recovered-fully": 0,
+                    "recovered-clinically": 0,
+                    "intensive-care": 0,
+                    "unknown": 1,
+                    "deceased": 0
+                }
+            }
+        },
+        "Norrbotten": {
+            "total": 1,
+            "logs": {
+                "2020-03-09": {
+                    "total": 1,
+                    "recovered-fully": 0,
+                    "recovered-clinically": 0,
+                    "intensive-care": 0,
+                    "unknown": 1,
+                    "deceased": 0
+                }
+            }
+        },
+        "V\u00e4sterbotten": {
+            "total": 5,
+            "logs": {
+                "2020-03-09": {
+                    "total": 5,
+                    "recovered-fully": 0,
+                    "recovered-clinically": 0,
+                    "intensive-care": 0,
+                    "unknown": 5,
+                    "deceased": 0
+                }
+            }
+        },
+        "\u00d6sterg\u00f6tland": {
+            "total": 1,
+            "logs": {
+                "2020-03-09": {
+                    "total": 1,
+                    "recovered-fully": 0,
+                    "recovered-clinically": 0,
+                    "intensive-care": 0,
+                    "unknown": 1,
+                    "deceased": 0
+                }
+            }
         }
     },
     "dates": {
@@ -4483,14 +4663,14 @@
         "2020-03-06": 43,
         "2020-03-07": 24,
         "2020-03-08": 42,
-        "2020-03-09": 49
+        "2020-03-09": 57
     },
     "summary": {
-        "confirmed": 252,
+        "confirmed": 260,
         "recovered-fully": 0,
         "recovered-clinically": 1,
         "intensive-care": 0,
-        "unknown": 251,
+        "unknown": 259,
         "deceased": 0
     }
 }
