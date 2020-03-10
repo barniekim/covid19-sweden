@@ -1,7 +1,7 @@
 {
     "updated": {
-        "datetime": "2020-03-10 2PM(CET)",
-        "timestamp": 1583845206
+        "datetime": "2020-03-10 3PM(CET)",
+        "timestamp": 1583848806
     },
     "cases": [
         {
@@ -4243,6 +4243,966 @@
             "treatment": "",
             "sex": "",
             "age": ""
+        },
+        {
+            "no": "266",
+            "date": "2020-03-10",
+            "status": "unknown",
+            "origin": {
+                "type": false,
+                "path": "-"
+            },
+            "location": {
+                "region": "Stockholm County",
+                "city": "-"
+            },
+            "treatment": "",
+            "sex": "",
+            "age": ""
+        },
+        {
+            "no": 267,
+            "date": "2020-03-10",
+            "status": "unknown",
+            "origin": {
+                "type": false,
+                "path": "-"
+            },
+            "location": {
+                "region": "Stockholm County",
+                "city": "-"
+            },
+            "treatment": "",
+            "sex": "",
+            "age": ""
+        },
+        {
+            "no": 268,
+            "date": "2020-03-10",
+            "status": "unknown",
+            "origin": {
+                "type": false,
+                "path": "-"
+            },
+            "location": {
+                "region": "Stockholm County",
+                "city": "-"
+            },
+            "treatment": "",
+            "sex": "",
+            "age": ""
+        },
+        {
+            "no": 269,
+            "date": "2020-03-10",
+            "status": "unknown",
+            "origin": {
+                "type": false,
+                "path": "-"
+            },
+            "location": {
+                "region": "Stockholm County",
+                "city": "-"
+            },
+            "treatment": "",
+            "sex": "",
+            "age": ""
+        },
+        {
+            "no": 270,
+            "date": "2020-03-10",
+            "status": "unknown",
+            "origin": {
+                "type": false,
+                "path": "-"
+            },
+            "location": {
+                "region": "Stockholm County",
+                "city": "-"
+            },
+            "treatment": "",
+            "sex": "",
+            "age": ""
+        },
+        {
+            "no": 271,
+            "date": "2020-03-10",
+            "status": "unknown",
+            "origin": {
+                "type": false,
+                "path": "-"
+            },
+            "location": {
+                "region": "Stockholm County",
+                "city": "-"
+            },
+            "treatment": "",
+            "sex": "",
+            "age": ""
+        },
+        {
+            "no": 272,
+            "date": "2020-03-10",
+            "status": "unknown",
+            "origin": {
+                "type": false,
+                "path": "-"
+            },
+            "location": {
+                "region": "Stockholm County",
+                "city": "-"
+            },
+            "treatment": "",
+            "sex": "",
+            "age": ""
+        },
+        {
+            "no": 273,
+            "date": "2020-03-10",
+            "status": "unknown",
+            "origin": {
+                "type": false,
+                "path": "-"
+            },
+            "location": {
+                "region": "Stockholm County",
+                "city": "-"
+            },
+            "treatment": "",
+            "sex": "",
+            "age": ""
+        },
+        {
+            "no": 274,
+            "date": "2020-03-10",
+            "status": "unknown",
+            "origin": {
+                "type": false,
+                "path": "-"
+            },
+            "location": {
+                "region": "Stockholm County",
+                "city": "-"
+            },
+            "treatment": "",
+            "sex": "",
+            "age": ""
+        },
+        {
+            "no": 275,
+            "date": "2020-03-10",
+            "status": "unknown",
+            "origin": {
+                "type": false,
+                "path": "-"
+            },
+            "location": {
+                "region": "Stockholm County",
+                "city": "-"
+            },
+            "treatment": "",
+            "sex": "",
+            "age": ""
+        },
+        {
+            "no": 276,
+            "date": "2020-03-10",
+            "status": "unknown",
+            "origin": {
+                "type": false,
+                "path": "-"
+            },
+            "location": {
+                "region": "Stockholm County",
+                "city": "-"
+            },
+            "treatment": "",
+            "sex": "",
+            "age": ""
+        },
+        {
+            "no": 277,
+            "date": "2020-03-10",
+            "status": "unknown",
+            "origin": {
+                "type": false,
+                "path": "-"
+            },
+            "location": {
+                "region": "Stockholm County",
+                "city": "-"
+            },
+            "treatment": "",
+            "sex": "",
+            "age": ""
+        },
+        {
+            "no": 278,
+            "date": "2020-03-10",
+            "status": "unknown",
+            "origin": {
+                "type": false,
+                "path": "-"
+            },
+            "location": {
+                "region": "Stockholm County",
+                "city": "-"
+            },
+            "treatment": "",
+            "sex": "",
+            "age": ""
+        },
+        {
+            "no": 279,
+            "date": "2020-03-10",
+            "status": "unknown",
+            "origin": {
+                "type": false,
+                "path": "-"
+            },
+            "location": {
+                "region": "Stockholm County",
+                "city": "-"
+            },
+            "treatment": "",
+            "sex": "",
+            "age": ""
+        },
+        {
+            "no": 280,
+            "date": "2020-03-10",
+            "status": "unknown",
+            "origin": {
+                "type": false,
+                "path": "-"
+            },
+            "location": {
+                "region": "Stockholm County",
+                "city": "-"
+            },
+            "treatment": "",
+            "sex": "",
+            "age": ""
+        },
+        {
+            "no": 281,
+            "date": "2020-03-10",
+            "status": "unknown",
+            "origin": {
+                "type": false,
+                "path": "-"
+            },
+            "location": {
+                "region": "Stockholm County",
+                "city": "-"
+            },
+            "treatment": "",
+            "sex": "",
+            "age": ""
+        },
+        {
+            "no": 282,
+            "date": "2020-03-10",
+            "status": "unknown",
+            "origin": {
+                "type": false,
+                "path": "-"
+            },
+            "location": {
+                "region": "Stockholm County",
+                "city": "-"
+            },
+            "treatment": "",
+            "sex": "",
+            "age": ""
+        },
+        {
+            "no": 283,
+            "date": "2020-03-10",
+            "status": "unknown",
+            "origin": {
+                "type": false,
+                "path": "-"
+            },
+            "location": {
+                "region": "Stockholm County",
+                "city": "-"
+            },
+            "treatment": "",
+            "sex": "",
+            "age": ""
+        },
+        {
+            "no": 284,
+            "date": "2020-03-10",
+            "status": "unknown",
+            "origin": {
+                "type": false,
+                "path": "-"
+            },
+            "location": {
+                "region": "Stockholm County",
+                "city": "-"
+            },
+            "treatment": "",
+            "sex": "",
+            "age": ""
+        },
+        {
+            "no": 285,
+            "date": "2020-03-10",
+            "status": "unknown",
+            "origin": {
+                "type": false,
+                "path": "-"
+            },
+            "location": {
+                "region": "Stockholm County",
+                "city": "-"
+            },
+            "treatment": "",
+            "sex": "",
+            "age": ""
+        },
+        {
+            "no": 286,
+            "date": "2020-03-10",
+            "status": "unknown",
+            "origin": {
+                "type": false,
+                "path": "-"
+            },
+            "location": {
+                "region": "Stockholm County",
+                "city": "-"
+            },
+            "treatment": "",
+            "sex": "",
+            "age": ""
+        },
+        {
+            "no": 287,
+            "date": "2020-03-10",
+            "status": "unknown",
+            "origin": {
+                "type": false,
+                "path": "-"
+            },
+            "location": {
+                "region": "Stockholm County",
+                "city": "-"
+            },
+            "treatment": "",
+            "sex": "",
+            "age": ""
+        },
+        {
+            "no": 288,
+            "date": "2020-03-10",
+            "status": "unknown",
+            "origin": {
+                "type": false,
+                "path": "-"
+            },
+            "location": {
+                "region": "Stockholm County",
+                "city": "-"
+            },
+            "treatment": "",
+            "sex": "",
+            "age": ""
+        },
+        {
+            "no": 289,
+            "date": "2020-03-10",
+            "status": "unknown",
+            "origin": {
+                "type": false,
+                "path": "-"
+            },
+            "location": {
+                "region": "Stockholm County",
+                "city": "-"
+            },
+            "treatment": "",
+            "sex": "",
+            "age": ""
+        },
+        {
+            "no": 290,
+            "date": "2020-03-10",
+            "status": "unknown",
+            "origin": {
+                "type": false,
+                "path": "-"
+            },
+            "location": {
+                "region": "Stockholm County",
+                "city": "-"
+            },
+            "treatment": "",
+            "sex": "",
+            "age": ""
+        },
+        {
+            "no": 291,
+            "date": "2020-03-10",
+            "status": "unknown",
+            "origin": {
+                "type": false,
+                "path": "-"
+            },
+            "location": {
+                "region": "Stockholm County",
+                "city": "-"
+            },
+            "treatment": "",
+            "sex": "",
+            "age": ""
+        },
+        {
+            "no": 292,
+            "date": "2020-03-10",
+            "status": "unknown",
+            "origin": {
+                "type": false,
+                "path": "-"
+            },
+            "location": {
+                "region": "Stockholm County",
+                "city": "-"
+            },
+            "treatment": "",
+            "sex": "",
+            "age": ""
+        },
+        {
+            "no": 293,
+            "date": "2020-03-10",
+            "status": "unknown",
+            "origin": {
+                "type": false,
+                "path": "-"
+            },
+            "location": {
+                "region": "Stockholm County",
+                "city": "-"
+            },
+            "treatment": "",
+            "sex": "",
+            "age": ""
+        },
+        {
+            "no": 294,
+            "date": "2020-03-10",
+            "status": "unknown",
+            "origin": {
+                "type": false,
+                "path": "-"
+            },
+            "location": {
+                "region": "Stockholm County",
+                "city": "-"
+            },
+            "treatment": "",
+            "sex": "",
+            "age": ""
+        },
+        {
+            "no": 295,
+            "date": "2020-03-10",
+            "status": "unknown",
+            "origin": {
+                "type": false,
+                "path": "-"
+            },
+            "location": {
+                "region": "Stockholm County",
+                "city": "-"
+            },
+            "treatment": "",
+            "sex": "",
+            "age": ""
+        },
+        {
+            "no": 296,
+            "date": "2020-03-10",
+            "status": "unknown",
+            "origin": {
+                "type": false,
+                "path": "-"
+            },
+            "location": {
+                "region": "Stockholm County",
+                "city": "-"
+            },
+            "treatment": "",
+            "sex": "",
+            "age": ""
+        },
+        {
+            "no": 297,
+            "date": "2020-03-10",
+            "status": "unknown",
+            "origin": {
+                "type": false,
+                "path": "-"
+            },
+            "location": {
+                "region": "Stockholm County",
+                "city": "-"
+            },
+            "treatment": "",
+            "sex": "",
+            "age": ""
+        },
+        {
+            "no": 298,
+            "date": "2020-03-10",
+            "status": "unknown",
+            "origin": {
+                "type": false,
+                "path": "-"
+            },
+            "location": {
+                "region": "Stockholm County",
+                "city": "-"
+            },
+            "treatment": "",
+            "sex": "",
+            "age": ""
+        },
+        {
+            "no": 299,
+            "date": "2020-03-10",
+            "status": "unknown",
+            "origin": {
+                "type": false,
+                "path": "-"
+            },
+            "location": {
+                "region": "Stockholm County",
+                "city": "-"
+            },
+            "treatment": "",
+            "sex": "",
+            "age": ""
+        },
+        {
+            "no": 300,
+            "date": "2020-03-10",
+            "status": "unknown",
+            "origin": {
+                "type": false,
+                "path": "-"
+            },
+            "location": {
+                "region": "Stockholm County",
+                "city": "-"
+            },
+            "treatment": "",
+            "sex": "",
+            "age": ""
+        },
+        {
+            "no": 301,
+            "date": "2020-03-10",
+            "status": "unknown",
+            "origin": {
+                "type": false,
+                "path": "-"
+            },
+            "location": {
+                "region": "Stockholm County",
+                "city": "-"
+            },
+            "treatment": "",
+            "sex": "",
+            "age": ""
+        },
+        {
+            "no": 302,
+            "date": "2020-03-10",
+            "status": "unknown",
+            "origin": {
+                "type": false,
+                "path": "-"
+            },
+            "location": {
+                "region": "Stockholm County",
+                "city": "-"
+            },
+            "treatment": "",
+            "sex": "",
+            "age": ""
+        },
+        {
+            "no": 303,
+            "date": "2020-03-10",
+            "status": "unknown",
+            "origin": {
+                "type": false,
+                "path": "-"
+            },
+            "location": {
+                "region": "Stockholm County",
+                "city": "-"
+            },
+            "treatment": "",
+            "sex": "",
+            "age": ""
+        },
+        {
+            "no": 304,
+            "date": "2020-03-10",
+            "status": "unknown",
+            "origin": {
+                "type": false,
+                "path": "-"
+            },
+            "location": {
+                "region": "Stockholm County",
+                "city": "-"
+            },
+            "treatment": "",
+            "sex": "",
+            "age": ""
+        },
+        {
+            "no": 305,
+            "date": "2020-03-10",
+            "status": "unknown",
+            "origin": {
+                "type": false,
+                "path": "-"
+            },
+            "location": {
+                "region": "Stockholm County",
+                "city": "-"
+            },
+            "treatment": "",
+            "sex": "",
+            "age": ""
+        },
+        {
+            "no": 306,
+            "date": "2020-03-10",
+            "status": "unknown",
+            "origin": {
+                "type": false,
+                "path": "-"
+            },
+            "location": {
+                "region": "Stockholm County",
+                "city": "-"
+            },
+            "treatment": "",
+            "sex": "",
+            "age": ""
+        },
+        {
+            "no": 307,
+            "date": "2020-03-10",
+            "status": "unknown",
+            "origin": {
+                "type": false,
+                "path": "-"
+            },
+            "location": {
+                "region": "Stockholm County",
+                "city": "-"
+            },
+            "treatment": "",
+            "sex": "",
+            "age": ""
+        },
+        {
+            "no": 308,
+            "date": "2020-03-10",
+            "status": "unknown",
+            "origin": {
+                "type": false,
+                "path": "-"
+            },
+            "location": {
+                "region": "Stockholm County",
+                "city": "-"
+            },
+            "treatment": "",
+            "sex": "",
+            "age": ""
+        },
+        {
+            "no": 309,
+            "date": "2020-03-10",
+            "status": "unknown",
+            "origin": {
+                "type": false,
+                "path": "-"
+            },
+            "location": {
+                "region": "Stockholm County",
+                "city": "-"
+            },
+            "treatment": "",
+            "sex": "",
+            "age": ""
+        },
+        {
+            "no": 310,
+            "date": "2020-03-10",
+            "status": "unknown",
+            "origin": {
+                "type": false,
+                "path": "-"
+            },
+            "location": {
+                "region": "Stockholm County",
+                "city": "-"
+            },
+            "treatment": "",
+            "sex": "",
+            "age": ""
+        },
+        {
+            "no": 311,
+            "date": "2020-03-10",
+            "status": "unknown",
+            "origin": {
+                "type": false,
+                "path": "-"
+            },
+            "location": {
+                "region": "Stockholm County",
+                "city": "-"
+            },
+            "treatment": "",
+            "sex": "",
+            "age": ""
+        },
+        {
+            "no": 312,
+            "date": "2020-03-10",
+            "status": "unknown",
+            "origin": {
+                "type": false,
+                "path": "-"
+            },
+            "location": {
+                "region": "Stockholm County",
+                "city": "-"
+            },
+            "treatment": "",
+            "sex": "",
+            "age": ""
+        },
+        {
+            "no": 313,
+            "date": "2020-03-10",
+            "status": "unknown",
+            "origin": {
+                "type": false,
+                "path": "-"
+            },
+            "location": {
+                "region": "Stockholm County",
+                "city": "-"
+            },
+            "treatment": "",
+            "sex": "",
+            "age": ""
+        },
+        {
+            "no": 314,
+            "date": "2020-03-10",
+            "status": "unknown",
+            "origin": {
+                "type": false,
+                "path": "-"
+            },
+            "location": {
+                "region": "Stockholm County",
+                "city": "-"
+            },
+            "treatment": "",
+            "sex": "",
+            "age": ""
+        },
+        {
+            "no": 315,
+            "date": "2020-03-10",
+            "status": "unknown",
+            "origin": {
+                "type": false,
+                "path": "-"
+            },
+            "location": {
+                "region": "Stockholm County",
+                "city": "-"
+            },
+            "treatment": "",
+            "sex": "",
+            "age": ""
+        },
+        {
+            "no": 316,
+            "date": "2020-03-10",
+            "status": "unknown",
+            "origin": {
+                "type": false,
+                "path": "-"
+            },
+            "location": {
+                "region": "Stockholm County",
+                "city": "-"
+            },
+            "treatment": "",
+            "sex": "",
+            "age": ""
+        },
+        {
+            "no": 317,
+            "date": "2020-03-10",
+            "status": "unknown",
+            "origin": {
+                "type": false,
+                "path": "-"
+            },
+            "location": {
+                "region": "Stockholm County",
+                "city": "-"
+            },
+            "treatment": "",
+            "sex": "",
+            "age": ""
+        },
+        {
+            "no": 318,
+            "date": "2020-03-10",
+            "status": "unknown",
+            "origin": {
+                "type": false,
+                "path": "-"
+            },
+            "location": {
+                "region": "Stockholm County",
+                "city": "-"
+            },
+            "treatment": "",
+            "sex": "",
+            "age": ""
+        },
+        {
+            "no": 319,
+            "date": "2020-03-10",
+            "status": "unknown",
+            "origin": {
+                "type": false,
+                "path": "-"
+            },
+            "location": {
+                "region": "Stockholm County",
+                "city": "-"
+            },
+            "treatment": "",
+            "sex": "",
+            "age": ""
+        },
+        {
+            "no": 320,
+            "date": "2020-03-10",
+            "status": "unknown",
+            "origin": {
+                "type": false,
+                "path": "-"
+            },
+            "location": {
+                "region": "Stockholm County",
+                "city": "-"
+            },
+            "treatment": "",
+            "sex": "",
+            "age": ""
+        },
+        {
+            "no": 321,
+            "date": "2020-03-10",
+            "status": "unknown",
+            "origin": {
+                "type": false,
+                "path": "-"
+            },
+            "location": {
+                "region": "Stockholm County",
+                "city": "-"
+            },
+            "treatment": "",
+            "sex": "",
+            "age": ""
+        },
+        {
+            "no": 322,
+            "date": "2020-03-10",
+            "status": "unknown",
+            "origin": {
+                "type": false,
+                "path": "-"
+            },
+            "location": {
+                "region": "Stockholm County",
+                "city": "-"
+            },
+            "treatment": "",
+            "sex": "",
+            "age": ""
+        },
+        {
+            "no": 323,
+            "date": "2020-03-10",
+            "status": "unknown",
+            "origin": {
+                "type": false,
+                "path": "-"
+            },
+            "location": {
+                "region": "Stockholm County",
+                "city": "-"
+            },
+            "treatment": "",
+            "sex": "",
+            "age": ""
+        },
+        {
+            "no": 324,
+            "date": "2020-03-10",
+            "status": "unknown",
+            "origin": {
+                "type": false,
+                "path": "-"
+            },
+            "location": {
+                "region": "Stockholm County",
+                "city": "-"
+            },
+            "treatment": "",
+            "sex": "",
+            "age": ""
+        },
+        {
+            "no": 325,
+            "date": "2020-03-10",
+            "status": "unknown",
+            "origin": {
+                "type": false,
+                "path": "-"
+            },
+            "location": {
+                "region": "Stockholm County",
+                "city": "-"
+            },
+            "treatment": "",
+            "sex": "",
+            "age": ""
         }
     ],
     "origins": [],
@@ -4378,7 +5338,7 @@
             }
         },
         "Stockholm": {
-            "total": 147,
+            "total": 207,
             "logs": {
                 "2020-02-27": {
                     "total": 1,
@@ -4466,6 +5426,14 @@
                     "recovered-clinically": 0,
                     "intensive-care": 0,
                     "unknown": 32,
+                    "deceased": 0
+                },
+                "2020-03-10": {
+                    "total": 60,
+                    "recovered-fully": 0,
+                    "recovered-clinically": 0,
+                    "intensive-care": 0,
+                    "unknown": 60,
                     "deceased": 0
                 }
             }
@@ -4768,14 +5736,14 @@
         "2020-03-07": 24,
         "2020-03-08": 42,
         "2020-03-09": 57,
-        "2020-03-10": 5
+        "2020-03-10": 65
     },
     "summary": {
-        "confirmed": 265,
+        "confirmed": 325,
         "recovered-fully": 0,
         "recovered-clinically": 1,
         "intensive-care": 0,
-        "unknown": 264,
+        "unknown": 324,
         "deceased": 0
     }
 }
