@@ -1,7 +1,7 @@
 {
     "updated": {
-        "datetime": "2020-03-10 9PM(CET)",
-        "timestamp": 1583870406
+        "datetime": "2020-03-10 10PM(CET)",
+        "timestamp": 1583874007
     },
     "cases": [
         {
@@ -5683,6 +5683,22 @@
             "treatment": "",
             "sex": "",
             "age": ""
+        },
+        {
+            "no": "356",
+            "date": "2020-03-10",
+            "status": "unknown",
+            "origin": {
+                "type": false,
+                "path": "Austria"
+            },
+            "location": {
+                "region": "Kalmar County",
+                "city": "-"
+            },
+            "treatment": "",
+            "sex": "",
+            "age": ""
         }
     ],
     "origins": [],
@@ -6269,14 +6285,14 @@
             }
         },
         "Kalmar": {
-            "total": 1,
+            "total": 2,
             "logs": {
                 "2020-03-10": {
-                    "total": 1,
+                    "total": 2,
                     "recovered-fully": 0,
                     "recovered-clinically": 0,
                     "intensive-care": 0,
-                    "unknown": 1,
+                    "unknown": 2,
                     "deceased": 0
                 }
             }
@@ -6310,14 +6326,14 @@
         "2020-03-07": 24,
         "2020-03-08": 42,
         "2020-03-09": 57,
-        "2020-03-10": 95
+        "2020-03-10": 96
     },
     "summary": {
-        "confirmed": 355,
+        "confirmed": 356,
         "recovered-fully": 0,
         "recovered-clinically": 1,
         "intensive-care": 0,
-        "unknown": 354,
+        "unknown": 355,
         "deceased": 0
     }
 }
