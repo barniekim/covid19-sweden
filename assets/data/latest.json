@@ -1,7 +1,7 @@
 {
     "updated": {
-        "datetime": "2020-03-10 8PM(CET)",
-        "timestamp": 1583866807
+        "datetime": "2020-03-10 9PM(CET)",
+        "timestamp": 1583870406
     },
     "cases": [
         {
@@ -3982,7 +3982,7 @@
             },
             "location": {
                 "region": "Halland County",
-                "city": "-"
+                "city": "Kungsbacka, Varberg or Laholm"
             },
             "treatment": "",
             "sex": "",
@@ -3998,7 +3998,7 @@
             },
             "location": {
                 "region": "Halland County",
-                "city": "-"
+                "city": "Kungsbacka, Varberg or Laholm"
             },
             "treatment": "",
             "sex": "",
@@ -4014,7 +4014,7 @@
             },
             "location": {
                 "region": "Halland County",
-                "city": "-"
+                "city": "Kungsbacka, Varberg or Laholm"
             },
             "treatment": "",
             "sex": "",
@@ -4042,7 +4042,7 @@
             "status": "unknown",
             "origin": {
                 "type": false,
-                "path": "Italy"
+                "path": "N. Italy"
             },
             "location": {
                 "region": "Norrbotten County",
@@ -4222,7 +4222,7 @@
             },
             "location": {
                 "region": "Halland County",
-                "city": "-"
+                "city": "Kungsbacka, Varberg or Laholm"
             },
             "treatment": "",
             "sex": "",
@@ -5550,7 +5550,7 @@
             },
             "location": {
                 "region": "Halland County",
-                "city": "-"
+                "city": "Kungsbacka, Varberg or Laholm"
             },
             "treatment": "",
             "sex": "",
@@ -5566,7 +5566,7 @@
             },
             "location": {
                 "region": "Halland County",
-                "city": "-"
+                "city": "Kungsbacka, Varberg or Laholm"
             },
             "treatment": "",
             "sex": "",
@@ -5582,7 +5582,7 @@
             },
             "location": {
                 "region": "Halland County",
-                "city": "-"
+                "city": "Kungsbacka, Varberg or Laholm"
             },
             "treatment": "",
             "sex": "",
@@ -5594,7 +5594,7 @@
             "status": "unknown",
             "origin": {
                 "type": false,
-                "path": "-"
+                "path": "N. Italy, related to case 253"
             },
             "location": {
                 "region": "Norrbotten County",
@@ -5610,7 +5610,7 @@
             "status": "unknown",
             "origin": {
                 "type": false,
-                "path": "-"
+                "path": "Austria"
             },
             "location": {
                 "region": "Kalmar County",
@@ -5626,7 +5626,7 @@
             "status": "unknown",
             "origin": {
                 "type": false,
-                "path": "-"
+                "path": "Italy, related to and travelled with case 344-346"
             },
             "location": {
                 "region": "V\u00e4sternorrland County",
@@ -5642,7 +5642,7 @@
             "status": "unknown",
             "origin": {
                 "type": false,
-                "path": "-"
+                "path": "Italy, related to and travelled with case 344-346"
             },
             "location": {
                 "region": "V\u00e4sternorrland County",
@@ -5658,7 +5658,7 @@
             "status": "unknown",
             "origin": {
                 "type": false,
-                "path": "-"
+                "path": "Italy, related to and travelled with case 344-346"
             },
             "location": {
                 "region": "V\u00e4sternorrland County",
@@ -5674,11 +5674,11 @@
             "status": "unknown",
             "origin": {
                 "type": false,
-                "path": "-"
+                "path": "A case in another region"
             },
             "location": {
                 "region": "Kronoberg County",
-                "city": "-"
+                "city": "Another county, visiting Kronoberg"
             },
             "treatment": "",
             "sex": "",
