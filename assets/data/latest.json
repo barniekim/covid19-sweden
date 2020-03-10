@@ -1,7 +1,7 @@
 {
     "updated": {
         "datetime": "2020-03-10 3PM(CET)",
-        "timestamp": 1583848806
+        "timestamp": 1583850179
     },
     "cases": [
         {
@@ -4170,7 +4170,7 @@
             "status": "unknown",
             "origin": {
                 "type": false,
-                "path": "-"
+                "path": "N. Italy"
             },
             "location": {
                 "region": "Sk\u00e5ne County",
@@ -4186,7 +4186,7 @@
             "status": "unknown",
             "origin": {
                 "type": false,
-                "path": "-"
+                "path": "N. Italy"
             },
             "location": {
                 "region": "Sk\u00e5ne County",
@@ -4202,7 +4202,7 @@
             "status": "unknown",
             "origin": {
                 "type": false,
-                "path": "-"
+                "path": "N. Italy"
             },
             "location": {
                 "region": "Sk\u00e5ne County",
@@ -4234,7 +4234,7 @@
             "status": "unknown",
             "origin": {
                 "type": false,
-                "path": "N. Italy"
+                "path": "N. Italy, related to three Stockholm cases"
             },
             "location": {
                 "region": "\u00d6rebro County",
@@ -5203,6 +5203,262 @@
             "treatment": "",
             "sex": "",
             "age": ""
+        },
+        {
+            "no": "326",
+            "date": "2020-03-10",
+            "status": "unknown",
+            "origin": {
+                "type": false,
+                "path": "-"
+            },
+            "location": {
+                "region": "V\u00e4rmland County",
+                "city": "-"
+            },
+            "treatment": "",
+            "sex": "",
+            "age": ""
+        },
+        {
+            "no": "327",
+            "date": "2020-03-10",
+            "status": "unknown",
+            "origin": {
+                "type": false,
+                "path": "-"
+            },
+            "location": {
+                "region": "V\u00e4stra G\u00f6taland County",
+                "city": "-"
+            },
+            "treatment": "",
+            "sex": "",
+            "age": ""
+        },
+        {
+            "no": 328,
+            "date": "2020-03-10",
+            "status": "unknown",
+            "origin": {
+                "type": false,
+                "path": "-"
+            },
+            "location": {
+                "region": "V\u00e4stra G\u00f6taland County",
+                "city": "-"
+            },
+            "treatment": "",
+            "sex": "",
+            "age": ""
+        },
+        {
+            "no": 329,
+            "date": "2020-03-10",
+            "status": "unknown",
+            "origin": {
+                "type": false,
+                "path": "-"
+            },
+            "location": {
+                "region": "V\u00e4stra G\u00f6taland County",
+                "city": "-"
+            },
+            "treatment": "",
+            "sex": "",
+            "age": ""
+        },
+        {
+            "no": 330,
+            "date": "2020-03-10",
+            "status": "unknown",
+            "origin": {
+                "type": false,
+                "path": "-"
+            },
+            "location": {
+                "region": "V\u00e4stra G\u00f6taland County",
+                "city": "-"
+            },
+            "treatment": "",
+            "sex": "",
+            "age": ""
+        },
+        {
+            "no": 331,
+            "date": "2020-03-10",
+            "status": "unknown",
+            "origin": {
+                "type": false,
+                "path": "-"
+            },
+            "location": {
+                "region": "V\u00e4stra G\u00f6taland County",
+                "city": "-"
+            },
+            "treatment": "",
+            "sex": "",
+            "age": ""
+        },
+        {
+            "no": 332,
+            "date": "2020-03-10",
+            "status": "unknown",
+            "origin": {
+                "type": false,
+                "path": "-"
+            },
+            "location": {
+                "region": "V\u00e4stra G\u00f6taland County",
+                "city": "-"
+            },
+            "treatment": "",
+            "sex": "",
+            "age": ""
+        },
+        {
+            "no": 333,
+            "date": "2020-03-10",
+            "status": "unknown",
+            "origin": {
+                "type": false,
+                "path": "-"
+            },
+            "location": {
+                "region": "V\u00e4stra G\u00f6taland County",
+                "city": "-"
+            },
+            "treatment": "",
+            "sex": "",
+            "age": ""
+        },
+        {
+            "no": 334,
+            "date": "2020-03-10",
+            "status": "unknown",
+            "origin": {
+                "type": false,
+                "path": "-"
+            },
+            "location": {
+                "region": "V\u00e4stra G\u00f6taland County",
+                "city": "-"
+            },
+            "treatment": "",
+            "sex": "",
+            "age": ""
+        },
+        {
+            "no": 335,
+            "date": "2020-03-10",
+            "status": "unknown",
+            "origin": {
+                "type": false,
+                "path": "-"
+            },
+            "location": {
+                "region": "V\u00e4stra G\u00f6taland County",
+                "city": "-"
+            },
+            "treatment": "",
+            "sex": "",
+            "age": ""
+        },
+        {
+            "no": 336,
+            "date": "2020-03-10",
+            "status": "unknown",
+            "origin": {
+                "type": false,
+                "path": "-"
+            },
+            "location": {
+                "region": "V\u00e4stra G\u00f6taland County",
+                "city": "-"
+            },
+            "treatment": "",
+            "sex": "",
+            "age": ""
+        },
+        {
+            "no": 337,
+            "date": "2020-03-10",
+            "status": "unknown",
+            "origin": {
+                "type": false,
+                "path": "-"
+            },
+            "location": {
+                "region": "V\u00e4stra G\u00f6taland County",
+                "city": "-"
+            },
+            "treatment": "",
+            "sex": "",
+            "age": ""
+        },
+        {
+            "no": 338,
+            "date": "2020-03-10",
+            "status": "unknown",
+            "origin": {
+                "type": false,
+                "path": "-"
+            },
+            "location": {
+                "region": "V\u00e4stra G\u00f6taland County",
+                "city": "-"
+            },
+            "treatment": "",
+            "sex": "",
+            "age": ""
+        },
+        {
+            "no": 339,
+            "date": "2020-03-10",
+            "status": "unknown",
+            "origin": {
+                "type": false,
+                "path": "-"
+            },
+            "location": {
+                "region": "V\u00e4stra G\u00f6taland County",
+                "city": "-"
+            },
+            "treatment": "",
+            "sex": "",
+            "age": ""
+        },
+        {
+            "no": 340,
+            "date": "2020-03-10",
+            "status": "unknown",
+            "origin": {
+                "type": false,
+                "path": "-"
+            },
+            "location": {
+                "region": "V\u00e4stra G\u00f6taland County",
+                "city": "-"
+            },
+            "treatment": "",
+            "sex": "",
+            "age": ""
+        },
+        {
+            "no": 341,
+            "date": "2020-03-10",
+            "status": "unknown",
+            "origin": {
+                "type": false,
+                "path": "-"
+            },
+            "location": {
+                "region": "V\u00e4stra G\u00f6taland County",
+                "city": "-"
+            },
+            "treatment": "",
+            "sex": "",
+            "age": ""
         }
     ],
     "origins": [],
@@ -5253,7 +5509,7 @@
             }
         },
         "V\u00e4stra G\u00f6taland": {
-            "total": 33,
+            "total": 48,
             "logs": {
                 "2020-02-26": {
                     "total": 1,
@@ -5333,6 +5589,14 @@
                     "recovered-clinically": 0,
                     "intensive-care": 0,
                     "unknown": 7,
+                    "deceased": 0
+                },
+                "2020-03-10": {
+                    "total": 15,
+                    "recovered-fully": 0,
+                    "recovered-clinically": 0,
+                    "intensive-care": 0,
+                    "unknown": 15,
                     "deceased": 0
                 }
             }
@@ -5553,7 +5817,7 @@
             }
         },
         "V\u00e4rmland": {
-            "total": 21,
+            "total": 22,
             "logs": {
                 "2020-03-04": {
                     "total": 2,
@@ -5588,6 +5852,14 @@
                     "deceased": 0
                 },
                 "2020-03-09": {
+                    "total": 1,
+                    "recovered-fully": 0,
+                    "recovered-clinically": 0,
+                    "intensive-care": 0,
+                    "unknown": 1,
+                    "deceased": 0
+                },
+                "2020-03-10": {
                     "total": 1,
                     "recovered-fully": 0,
                     "recovered-clinically": 0,
@@ -5736,14 +6008,14 @@
         "2020-03-07": 24,
         "2020-03-08": 42,
         "2020-03-09": 57,
-        "2020-03-10": 65
+        "2020-03-10": 81
     },
     "summary": {
-        "confirmed": 325,
+        "confirmed": 341,
         "recovered-fully": 0,
         "recovered-clinically": 1,
         "intensive-care": 0,
-        "unknown": 324,
+        "unknown": 340,
         "deceased": 0
     }
 }
