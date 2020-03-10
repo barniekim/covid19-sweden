@@ -1,7 +1,7 @@
 {
     "updated": {
-        "datetime": "2020-03-10 1PM(CET)",
-        "timestamp": 1583841606
+        "datetime": "2020-03-10 2PM(CET)",
+        "timestamp": 1583845206
     },
     "cases": [
         {
@@ -13,7 +13,7 @@
                 "path": "Wuhan, China"
             },
             "location": {
-                "region": "J\u00f6nk\u00f6ping Region",
+                "region": "J\u00f6nk\u00f6ping County",
                 "city": "J\u00f6nk\u00f6ping"
             },
             "treatment": "",
@@ -29,7 +29,7 @@
                 "path": "N. Italy"
             },
             "location": {
-                "region": "V\u00e4stra G\u00f6taland Region",
+                "region": "V\u00e4stra G\u00f6taland County",
                 "city": "Gothenburg"
             },
             "treatment": "",
@@ -45,7 +45,7 @@
                 "path": "Case 2"
             },
             "location": {
-                "region": "V\u00e4stra G\u00f6taland Region",
+                "region": "V\u00e4stra G\u00f6taland County",
                 "city": "Gothenburg"
             },
             "treatment": "",
@@ -61,7 +61,7 @@
                 "path": "Case 2"
             },
             "location": {
-                "region": "V\u00e4stra G\u00f6taland Region",
+                "region": "V\u00e4stra G\u00f6taland County",
                 "city": "Gothenburg"
             },
             "treatment": "",
@@ -77,7 +77,7 @@
                 "path": "N. Italy"
             },
             "location": {
-                "region": "V\u00e4stra G\u00f6taland Region",
+                "region": "V\u00e4stra G\u00f6taland County",
                 "city": "Gothenburg"
             },
             "treatment": "",
@@ -93,7 +93,7 @@
                 "path": "Iran"
             },
             "location": {
-                "region": "Stockholm Region",
+                "region": "Stockholm County",
                 "city": "Stockholm"
             },
             "treatment": "",
@@ -109,7 +109,7 @@
                 "path": "Germany"
             },
             "location": {
-                "region": "Uppsala Region",
+                "region": "Uppsala County",
                 "city": "Uppsala"
             },
             "treatment": "",
@@ -125,7 +125,7 @@
                 "path": "N. Italy"
             },
             "location": {
-                "region": "J\u00f6nk\u00f6ping Region",
+                "region": "J\u00f6nk\u00f6ping County",
                 "city": "J\u00f6nk\u00f6ping"
             },
             "treatment": "",
@@ -141,7 +141,7 @@
                 "path": "Case 6"
             },
             "location": {
-                "region": "Stockholm Region",
+                "region": "Stockholm County",
                 "city": "Stockholm"
             },
             "treatment": "",
@@ -157,7 +157,7 @@
                 "path": "Case 6"
             },
             "location": {
-                "region": "Stockholm Region",
+                "region": "Stockholm County",
                 "city": "Stockholm"
             },
             "treatment": "",
@@ -173,7 +173,7 @@
                 "path": "Iran"
             },
             "location": {
-                "region": "Uppsala Region",
+                "region": "Uppsala County",
                 "city": "Tierp"
             },
             "treatment": "",
@@ -189,7 +189,7 @@
                 "path": "Iran"
             },
             "location": {
-                "region": "V\u00e4stra G\u00f6taland Region",
+                "region": "V\u00e4stra G\u00f6taland County",
                 "city": "Gothenburg"
             },
             "treatment": "",
@@ -205,7 +205,7 @@
                 "path": "Case 6"
             },
             "location": {
-                "region": "Stockholm Region",
+                "region": "Stockholm County",
                 "city": "Stockholm"
             },
             "treatment": "",
@@ -221,7 +221,7 @@
                 "path": "N. Italy, travelled with"
             },
             "location": {
-                "region": "V\u00e4stra G\u00f6taland Region",
+                "region": "V\u00e4stra G\u00f6taland County",
                 "city": "Gothenburg"
             },
             "treatment": "",
@@ -237,7 +237,7 @@
                 "path": "N. Italy"
             },
             "location": {
-                "region": "Stockholm Region",
+                "region": "Stockholm County",
                 "city": "Stockholm"
             },
             "treatment": "",
@@ -253,7 +253,7 @@
                 "path": "N. Italy, travelled with case 8"
             },
             "location": {
-                "region": "J\u00f6nk\u00f6ping Region",
+                "region": "J\u00f6nk\u00f6ping County",
                 "city": "J\u00f6nk\u00f6ping"
             },
             "treatment": "",
@@ -269,7 +269,7 @@
                 "path": "N. Italy, travelled together"
             },
             "location": {
-                "region": "V\u00e4stra G\u00f6taland Region",
+                "region": "V\u00e4stra G\u00f6taland County",
                 "city": "Gothenburg"
             },
             "treatment": "",
@@ -285,7 +285,7 @@
                 "path": "N. Italy, travelled together"
             },
             "location": {
-                "region": "V\u00e4stra G\u00f6taland Region",
+                "region": "V\u00e4stra G\u00f6taland County",
                 "city": "Gothenburg"
             },
             "treatment": "",
@@ -301,7 +301,7 @@
                 "path": "N. Italy, travelled together"
             },
             "location": {
-                "region": "V\u00e4stra G\u00f6taland Region",
+                "region": "V\u00e4stra G\u00f6taland County",
                 "city": "Gothenburg"
             },
             "treatment": "",
@@ -317,7 +317,7 @@
                 "path": "N. Italy"
             },
             "location": {
-                "region": "Sk\u00e5ne Region",
+                "region": "Sk\u00e5ne County",
                 "city": "Lund"
             },
             "treatment": "",
@@ -333,7 +333,7 @@
                 "path": "N. Italy, travelled together"
             },
             "location": {
-                "region": "Stockholm Region",
+                "region": "Stockholm County",
                 "city": "Stockholm"
             },
             "treatment": "",
@@ -349,7 +349,7 @@
                 "path": "N. Italy, travelled together"
             },
             "location": {
-                "region": "Stockholm Region",
+                "region": "Stockholm County",
                 "city": "Stockholm"
             },
             "treatment": "",
@@ -365,7 +365,7 @@
                 "path": "N. Italy, travelled together"
             },
             "location": {
-                "region": "Stockholm Region",
+                "region": "Stockholm County",
                 "city": "Stockholm"
             },
             "treatment": "",
@@ -381,7 +381,7 @@
                 "path": "N. Italy"
             },
             "location": {
-                "region": "Stockholm Region",
+                "region": "Stockholm County",
                 "city": "Stockholm"
             },
             "treatment": "",
@@ -397,7 +397,7 @@
                 "path": "N. Italy"
             },
             "location": {
-                "region": "Stockholm Region",
+                "region": "Stockholm County",
                 "city": "Stockholm"
             },
             "treatment": "",
@@ -413,7 +413,7 @@
                 "path": "N. Italy"
             },
             "location": {
-                "region": "Stockholm Region",
+                "region": "Stockholm County",
                 "city": "Stockholm"
             },
             "treatment": "",
@@ -429,7 +429,7 @@
                 "path": "N. Italy"
             },
             "location": {
-                "region": "Stockholm Region",
+                "region": "Stockholm County",
                 "city": "Stockholm"
             },
             "treatment": "",
@@ -445,7 +445,7 @@
                 "path": "N. Italy"
             },
             "location": {
-                "region": "Stockholm Region",
+                "region": "Stockholm County",
                 "city": "Stockholm"
             },
             "treatment": "",
@@ -461,7 +461,7 @@
                 "path": "Case 28"
             },
             "location": {
-                "region": "Stockholm Region",
+                "region": "Stockholm County",
                 "city": "Stockholm"
             },
             "treatment": "",
@@ -477,7 +477,7 @@
                 "path": "Iran"
             },
             "location": {
-                "region": "Stockholm Region",
+                "region": "Stockholm County",
                 "city": "Stockholm"
             },
             "treatment": "",
@@ -493,7 +493,7 @@
                 "path": "Iran"
             },
             "location": {
-                "region": "V\u00e4stra G\u00f6taland Region",
+                "region": "V\u00e4stra G\u00f6taland County",
                 "city": "Gothenburg"
             },
             "treatment": "",
@@ -509,7 +509,7 @@
                 "path": "N. Italy"
             },
             "location": {
-                "region": "V\u00e4stra G\u00f6taland Region",
+                "region": "V\u00e4stra G\u00f6taland County",
                 "city": "Gothenburg"
             },
             "treatment": "",
@@ -525,7 +525,7 @@
                 "path": "N. Italy"
             },
             "location": {
-                "region": "Sk\u00e5ne Region",
+                "region": "Sk\u00e5ne County",
                 "city": "Malm\u00f6"
             },
             "treatment": "",
@@ -541,7 +541,7 @@
                 "path": "N. Italy, travelled together on bus tour"
             },
             "location": {
-                "region": "V\u00e4rmland Region",
+                "region": "V\u00e4rmland County",
                 "city": "Karlstad area"
             },
             "treatment": "",
@@ -557,7 +557,7 @@
                 "path": "N. Italy, travelled together on bus tour"
             },
             "location": {
-                "region": "V\u00e4rmland Region",
+                "region": "V\u00e4rmland County",
                 "city": "Karlstad area"
             },
             "treatment": "",
@@ -573,7 +573,7 @@
                 "path": "N. Italy"
             },
             "location": {
-                "region": "\u00d6rebro Region",
+                "region": "\u00d6rebro County",
                 "city": "\u00d6rebro"
             },
             "treatment": "",
@@ -589,7 +589,7 @@
                 "path": "N. Italy"
             },
             "location": {
-                "region": "Stockholm Region",
+                "region": "Stockholm County",
                 "city": "-"
             },
             "treatment": "",
@@ -605,7 +605,7 @@
                 "path": "N. Italy"
             },
             "location": {
-                "region": "Stockholm Region",
+                "region": "Stockholm County",
                 "city": "-"
             },
             "treatment": "",
@@ -621,7 +621,7 @@
                 "path": "N. Italy"
             },
             "location": {
-                "region": "Stockholm Region",
+                "region": "Stockholm County",
                 "city": "-"
             },
             "treatment": "",
@@ -637,7 +637,7 @@
                 "path": "N. Italy"
             },
             "location": {
-                "region": "Stockholm Region",
+                "region": "Stockholm County",
                 "city": "-"
             },
             "treatment": "",
@@ -653,7 +653,7 @@
                 "path": "N. Italy"
             },
             "location": {
-                "region": "Stockholm Region",
+                "region": "Stockholm County",
                 "city": "-"
             },
             "treatment": "",
@@ -669,7 +669,7 @@
                 "path": "N. Italy"
             },
             "location": {
-                "region": "Stockholm Region",
+                "region": "Stockholm County",
                 "city": "-"
             },
             "treatment": "",
@@ -685,7 +685,7 @@
                 "path": "N. Italy"
             },
             "location": {
-                "region": "Stockholm Region",
+                "region": "Stockholm County",
                 "city": "-"
             },
             "treatment": "",
@@ -701,7 +701,7 @@
                 "path": "N. Italy"
             },
             "location": {
-                "region": "Stockholm Region",
+                "region": "Stockholm County",
                 "city": "-"
             },
             "treatment": "",
@@ -717,7 +717,7 @@
                 "path": "N. Italy"
             },
             "location": {
-                "region": "Stockholm Region",
+                "region": "Stockholm County",
                 "city": "-"
             },
             "treatment": "",
@@ -733,7 +733,7 @@
                 "path": "N. Italy"
             },
             "location": {
-                "region": "Stockholm Region",
+                "region": "Stockholm County",
                 "city": "-"
             },
             "treatment": "",
@@ -749,7 +749,7 @@
                 "path": "N. Italy"
             },
             "location": {
-                "region": "Stockholm Region",
+                "region": "Stockholm County",
                 "city": "-"
             },
             "treatment": "",
@@ -765,7 +765,7 @@
                 "path": "N. Italy"
             },
             "location": {
-                "region": "Stockholm Region",
+                "region": "Stockholm County",
                 "city": "-"
             },
             "treatment": "",
@@ -781,7 +781,7 @@
                 "path": "N. Italy"
             },
             "location": {
-                "region": "Stockholm Region",
+                "region": "Stockholm County",
                 "city": "-"
             },
             "treatment": "",
@@ -797,7 +797,7 @@
                 "path": "N. Italy"
             },
             "location": {
-                "region": "Stockholm Region",
+                "region": "Stockholm County",
                 "city": "-"
             },
             "treatment": "",
@@ -813,7 +813,7 @@
                 "path": "N. Italy"
             },
             "location": {
-                "region": "Stockholm Region",
+                "region": "Stockholm County",
                 "city": "-"
             },
             "treatment": "",
@@ -829,7 +829,7 @@
                 "path": "Iran"
             },
             "location": {
-                "region": "Stockholm Region",
+                "region": "Stockholm County",
                 "city": "-"
             },
             "treatment": "",
@@ -845,7 +845,7 @@
                 "path": "N. Italy"
             },
             "location": {
-                "region": "V\u00e4stra G\u00f6taland Region",
+                "region": "V\u00e4stra G\u00f6taland County",
                 "city": "Bor\u00e5s"
             },
             "treatment": "",
@@ -861,7 +861,7 @@
                 "path": "N. Italy"
             },
             "location": {
-                "region": "Sk\u00e5ne Region",
+                "region": "Sk\u00e5ne County",
                 "city": "-"
             },
             "treatment": "",
@@ -877,7 +877,7 @@
                 "path": "N. Italy"
             },
             "location": {
-                "region": "Sk\u00e5ne Region",
+                "region": "Sk\u00e5ne County",
                 "city": "-"
             },
             "treatment": "",
@@ -893,7 +893,7 @@
                 "path": "N. Italy"
             },
             "location": {
-                "region": "Sk\u00e5ne Region",
+                "region": "Sk\u00e5ne County",
                 "city": "-"
             },
             "treatment": "",
@@ -909,7 +909,7 @@
                 "path": "N. Italy"
             },
             "location": {
-                "region": "Sk\u00e5ne Region",
+                "region": "Sk\u00e5ne County",
                 "city": "-"
             },
             "treatment": "",
@@ -925,7 +925,7 @@
                 "path": "N. Italy"
             },
             "location": {
-                "region": "Sk\u00e5ne Region",
+                "region": "Sk\u00e5ne County",
                 "city": "-"
             },
             "treatment": "",
@@ -941,7 +941,7 @@
                 "path": "N. Italy"
             },
             "location": {
-                "region": "Sk\u00e5ne Region",
+                "region": "Sk\u00e5ne County",
                 "city": "-"
             },
             "treatment": "",
@@ -957,7 +957,7 @@
                 "path": "N. Italy"
             },
             "location": {
-                "region": "Sk\u00e5ne Region",
+                "region": "Sk\u00e5ne County",
                 "city": "-"
             },
             "treatment": "",
@@ -973,7 +973,7 @@
                 "path": "Case 34\/35"
             },
             "location": {
-                "region": "V\u00e4rmland Region",
+                "region": "V\u00e4rmland County",
                 "city": "Karlstad area"
             },
             "treatment": "",
@@ -989,7 +989,7 @@
                 "path": "Case 34\/35"
             },
             "location": {
-                "region": "V\u00e4rmland Region",
+                "region": "V\u00e4rmland County",
                 "city": "Karlstad area"
             },
             "treatment": "",
@@ -1005,7 +1005,7 @@
                 "path": "N. Italy"
             },
             "location": {
-                "region": "V\u00e4rmland Region",
+                "region": "V\u00e4rmland County",
                 "city": "Karlstad area"
             },
             "treatment": "",
@@ -1021,7 +1021,7 @@
                 "path": "N. Italy"
             },
             "location": {
-                "region": "G\u00e4vleborg Region",
+                "region": "G\u00e4vleborg County",
                 "city": "-"
             },
             "treatment": "",
@@ -1037,7 +1037,7 @@
                 "path": "N. Italy"
             },
             "location": {
-                "region": "Stockholm Region",
+                "region": "Stockholm County",
                 "city": "-"
             },
             "treatment": "",
@@ -1053,7 +1053,7 @@
                 "path": "N. Italy"
             },
             "location": {
-                "region": "Stockholm Region",
+                "region": "Stockholm County",
                 "city": "-"
             },
             "treatment": "",
@@ -1069,7 +1069,7 @@
                 "path": "N. Italy"
             },
             "location": {
-                "region": "Stockholm Region",
+                "region": "Stockholm County",
                 "city": "-"
             },
             "treatment": "",
@@ -1085,7 +1085,7 @@
                 "path": "N. Italy"
             },
             "location": {
-                "region": "Stockholm Region",
+                "region": "Stockholm County",
                 "city": "-"
             },
             "treatment": "",
@@ -1101,7 +1101,7 @@
                 "path": "N. Italy"
             },
             "location": {
-                "region": "Stockholm Region",
+                "region": "Stockholm County",
                 "city": "-"
             },
             "treatment": "",
@@ -1117,7 +1117,7 @@
                 "path": "N. Italy"
             },
             "location": {
-                "region": "Stockholm Region",
+                "region": "Stockholm County",
                 "city": "-"
             },
             "treatment": "",
@@ -1133,7 +1133,7 @@
                 "path": "N. Italy"
             },
             "location": {
-                "region": "Stockholm Region",
+                "region": "Stockholm County",
                 "city": "-"
             },
             "treatment": "",
@@ -1149,7 +1149,7 @@
                 "path": "N. Italy"
             },
             "location": {
-                "region": "Stockholm Region",
+                "region": "Stockholm County",
                 "city": "-"
             },
             "treatment": "",
@@ -1165,7 +1165,7 @@
                 "path": "N. Italy"
             },
             "location": {
-                "region": "Stockholm Region",
+                "region": "Stockholm County",
                 "city": "-"
             },
             "treatment": "",
@@ -1181,7 +1181,7 @@
                 "path": "N. Italy"
             },
             "location": {
-                "region": "Stockholm Region",
+                "region": "Stockholm County",
                 "city": "-"
             },
             "treatment": "",
@@ -1197,7 +1197,7 @@
                 "path": "N. Italy"
             },
             "location": {
-                "region": "Stockholm Region",
+                "region": "Stockholm County",
                 "city": "-"
             },
             "treatment": "",
@@ -1213,7 +1213,7 @@
                 "path": "N. Italy"
             },
             "location": {
-                "region": "Stockholm Region",
+                "region": "Stockholm County",
                 "city": "-"
             },
             "treatment": "",
@@ -1229,7 +1229,7 @@
                 "path": "N. Italy"
             },
             "location": {
-                "region": "Stockholm Region",
+                "region": "Stockholm County",
                 "city": "-"
             },
             "treatment": "",
@@ -1245,7 +1245,7 @@
                 "path": "N. Italy"
             },
             "location": {
-                "region": "Stockholm Region",
+                "region": "Stockholm County",
                 "city": "-"
             },
             "treatment": "",
@@ -1261,7 +1261,7 @@
                 "path": "No case specific information"
             },
             "location": {
-                "region": "Stockholm Region",
+                "region": "Stockholm County",
                 "city": "-"
             },
             "treatment": "",
@@ -1277,7 +1277,7 @@
                 "path": "No case specific information"
             },
             "location": {
-                "region": "Stockholm Region",
+                "region": "Stockholm County",
                 "city": "-"
             },
             "treatment": "",
@@ -1293,7 +1293,7 @@
                 "path": "No case specific information"
             },
             "location": {
-                "region": "Stockholm Region",
+                "region": "Stockholm County",
                 "city": "-"
             },
             "treatment": "",
@@ -1309,7 +1309,7 @@
                 "path": "No case specific information"
             },
             "location": {
-                "region": "Stockholm Region",
+                "region": "Stockholm County",
                 "city": "-"
             },
             "treatment": "",
@@ -1325,7 +1325,7 @@
                 "path": "No case specific information"
             },
             "location": {
-                "region": "Stockholm Region",
+                "region": "Stockholm County",
                 "city": "-"
             },
             "treatment": "",
@@ -1341,7 +1341,7 @@
                 "path": "No case specific information"
             },
             "location": {
-                "region": "Stockholm Region",
+                "region": "Stockholm County",
                 "city": "-"
             },
             "treatment": "",
@@ -1357,7 +1357,7 @@
                 "path": "No case specific information"
             },
             "location": {
-                "region": "Stockholm Region",
+                "region": "Stockholm County",
                 "city": "-"
             },
             "treatment": "",
@@ -1373,7 +1373,7 @@
                 "path": "No case specific information"
             },
             "location": {
-                "region": "Stockholm Region",
+                "region": "Stockholm County",
                 "city": "-"
             },
             "treatment": "",
@@ -1389,7 +1389,7 @@
                 "path": "No case specific information"
             },
             "location": {
-                "region": "Stockholm Region",
+                "region": "Stockholm County",
                 "city": "-"
             },
             "treatment": "",
@@ -1405,7 +1405,7 @@
                 "path": "No case specific information"
             },
             "location": {
-                "region": "Stockholm Region",
+                "region": "Stockholm County",
                 "city": "-"
             },
             "treatment": "",
@@ -1421,7 +1421,7 @@
                 "path": "No case specific information"
             },
             "location": {
-                "region": "Stockholm Region",
+                "region": "Stockholm County",
                 "city": "-"
             },
             "treatment": "",
@@ -1437,7 +1437,7 @@
                 "path": "No case specific information"
             },
             "location": {
-                "region": "Stockholm Region",
+                "region": "Stockholm County",
                 "city": "-"
             },
             "treatment": "",
@@ -1453,7 +1453,7 @@
                 "path": "No case specific information"
             },
             "location": {
-                "region": "Stockholm Region",
+                "region": "Stockholm County",
                 "city": "-"
             },
             "treatment": "",
@@ -1469,7 +1469,7 @@
                 "path": "No case specific information"
             },
             "location": {
-                "region": "Stockholm Region",
+                "region": "Stockholm County",
                 "city": "-"
             },
             "treatment": "",
@@ -1485,7 +1485,7 @@
                 "path": "N. Italy"
             },
             "location": {
-                "region": "Uppsala Region",
+                "region": "Uppsala County",
                 "city": "-"
             },
             "treatment": "",
@@ -1501,7 +1501,7 @@
                 "path": "N. Italy"
             },
             "location": {
-                "region": "Uppsala Region",
+                "region": "Uppsala County",
                 "city": "-"
             },
             "treatment": "",
@@ -1517,7 +1517,7 @@
                 "path": "N. Italy"
             },
             "location": {
-                "region": "V\u00e4stra G\u00f6taland Region",
+                "region": "V\u00e4stra G\u00f6taland County",
                 "city": "-"
             },
             "treatment": "",
@@ -1533,7 +1533,7 @@
                 "path": "Iran"
             },
             "location": {
-                "region": "V\u00e4stra G\u00f6taland Region",
+                "region": "V\u00e4stra G\u00f6taland County",
                 "city": "-"
             },
             "treatment": "",
@@ -1549,7 +1549,7 @@
                 "path": "N. Italy"
             },
             "location": {
-                "region": "Sk\u00e5ne Region",
+                "region": "Sk\u00e5ne County",
                 "city": "-"
             },
             "treatment": "",
@@ -1565,7 +1565,7 @@
                 "path": "N. Italy"
             },
             "location": {
-                "region": "Sk\u00e5ne Region",
+                "region": "Sk\u00e5ne County",
                 "city": "-"
             },
             "treatment": "",
@@ -1581,7 +1581,7 @@
                 "path": "N. Italy"
             },
             "location": {
-                "region": "Sk\u00e5ne Region",
+                "region": "Sk\u00e5ne County",
                 "city": "-"
             },
             "treatment": "",
@@ -1597,7 +1597,7 @@
                 "path": "N. Italy"
             },
             "location": {
-                "region": "Sk\u00e5ne Region",
+                "region": "Sk\u00e5ne County",
                 "city": "-"
             },
             "treatment": "",
@@ -1613,7 +1613,7 @@
                 "path": "N. Italy"
             },
             "location": {
-                "region": "Sk\u00e5ne Region",
+                "region": "Sk\u00e5ne County",
                 "city": "-"
             },
             "treatment": "",
@@ -1629,7 +1629,7 @@
                 "path": "N. Italy and case 34-35"
             },
             "location": {
-                "region": "V\u00e4rmland Region",
+                "region": "V\u00e4rmland County",
                 "city": "Karlstad area"
             },
             "treatment": "",
@@ -1645,7 +1645,7 @@
                 "path": "N. Italy and case 34-35"
             },
             "location": {
-                "region": "V\u00e4rmland Region",
+                "region": "V\u00e4rmland County",
                 "city": "Karlstad area"
             },
             "treatment": "",
@@ -1661,7 +1661,7 @@
                 "path": "N. Italy and case 34-35"
             },
             "location": {
-                "region": "V\u00e4rmland Region",
+                "region": "V\u00e4rmland County",
                 "city": "Karlstad area"
             },
             "treatment": "",
@@ -1677,7 +1677,7 @@
                 "path": "N. Italy and case 34-35"
             },
             "location": {
-                "region": "V\u00e4rmland Region",
+                "region": "V\u00e4rmland County",
                 "city": "Karlstad area"
             },
             "treatment": "",
@@ -1693,7 +1693,7 @@
                 "path": "N. Italy and case 34-35"
             },
             "location": {
-                "region": "V\u00e4rmland Region",
+                "region": "V\u00e4rmland County",
                 "city": "Karlstad area"
             },
             "treatment": "",
@@ -1709,7 +1709,7 @@
                 "path": "N. Italy and case 34-35"
             },
             "location": {
-                "region": "V\u00e4rmland Region",
+                "region": "V\u00e4rmland County",
                 "city": "Karlstad area"
             },
             "treatment": "",
@@ -1725,7 +1725,7 @@
                 "path": "N. Italy and case 34-35"
             },
             "location": {
-                "region": "V\u00e4rmland Region",
+                "region": "V\u00e4rmland County",
                 "city": "Karlstad area"
             },
             "treatment": "",
@@ -1741,7 +1741,7 @@
                 "path": ""
             },
             "location": {
-                "region": "V\u00e4rmland Region",
+                "region": "V\u00e4rmland County",
                 "city": "Karlstad area"
             },
             "treatment": "",
@@ -1757,7 +1757,7 @@
                 "path": "Related to case 93-94"
             },
             "location": {
-                "region": "Uppsala Region",
+                "region": "Uppsala County",
                 "city": "-"
             },
             "treatment": "",
@@ -1773,7 +1773,7 @@
                 "path": "N. Italy"
             },
             "location": {
-                "region": "J\u00f6nk\u00f6ping Region",
+                "region": "J\u00f6nk\u00f6ping County",
                 "city": "-"
             },
             "treatment": "",
@@ -1789,7 +1789,7 @@
                 "path": "N. Italy"
             },
             "location": {
-                "region": "J\u00f6nk\u00f6ping Region",
+                "region": "J\u00f6nk\u00f6ping County",
                 "city": "-"
             },
             "treatment": "",
@@ -1805,7 +1805,7 @@
                 "path": "N. Italy"
             },
             "location": {
-                "region": "J\u00f6nk\u00f6ping Region",
+                "region": "J\u00f6nk\u00f6ping County",
                 "city": "-"
             },
             "treatment": "",
@@ -1821,7 +1821,7 @@
                 "path": "Another region in Sweden"
             },
             "location": {
-                "region": "J\u00f6nk\u00f6ping Region",
+                "region": "J\u00f6nk\u00f6ping County",
                 "city": "-"
             },
             "treatment": "",
@@ -1837,7 +1837,7 @@
                 "path": "Another region in Sweden. Related to case 114."
             },
             "location": {
-                "region": "J\u00f6nk\u00f6ping Region",
+                "region": "J\u00f6nk\u00f6ping County",
                 "city": "-"
             },
             "treatment": "",
@@ -1853,7 +1853,7 @@
                 "path": "No case specific information"
             },
             "location": {
-                "region": "Stockholm Region",
+                "region": "Stockholm County",
                 "city": "-"
             },
             "treatment": "",
@@ -1869,7 +1869,7 @@
                 "path": "No case specific information"
             },
             "location": {
-                "region": "Stockholm Region",
+                "region": "Stockholm County",
                 "city": "-"
             },
             "treatment": "",
@@ -1885,7 +1885,7 @@
                 "path": "No case specific information"
             },
             "location": {
-                "region": "Stockholm Region",
+                "region": "Stockholm County",
                 "city": "-"
             },
             "treatment": "",
@@ -1901,7 +1901,7 @@
                 "path": "No case specific information"
             },
             "location": {
-                "region": "Stockholm Region",
+                "region": "Stockholm County",
                 "city": "-"
             },
             "treatment": "",
@@ -1917,7 +1917,7 @@
                 "path": "No case specific information"
             },
             "location": {
-                "region": "Stockholm Region",
+                "region": "Stockholm County",
                 "city": "-"
             },
             "treatment": "",
@@ -1933,7 +1933,7 @@
                 "path": "No case specific information"
             },
             "location": {
-                "region": "Stockholm Region",
+                "region": "Stockholm County",
                 "city": "-"
             },
             "treatment": "",
@@ -1949,7 +1949,7 @@
                 "path": "No case specific information"
             },
             "location": {
-                "region": "Stockholm Region",
+                "region": "Stockholm County",
                 "city": "-"
             },
             "treatment": "",
@@ -1965,7 +1965,7 @@
                 "path": "No case specific information"
             },
             "location": {
-                "region": "Stockholm Region",
+                "region": "Stockholm County",
                 "city": "-"
             },
             "treatment": "",
@@ -1981,7 +1981,7 @@
                 "path": "No case specific information"
             },
             "location": {
-                "region": "Stockholm Region",
+                "region": "Stockholm County",
                 "city": "-"
             },
             "treatment": "",
@@ -1997,7 +1997,7 @@
                 "path": "No case specific information"
             },
             "location": {
-                "region": "Stockholm Region",
+                "region": "Stockholm County",
                 "city": "-"
             },
             "treatment": "",
@@ -2013,7 +2013,7 @@
                 "path": "No case specific information"
             },
             "location": {
-                "region": "Stockholm Region",
+                "region": "Stockholm County",
                 "city": "-"
             },
             "treatment": "",
@@ -2029,7 +2029,7 @@
                 "path": "No case specific information"
             },
             "location": {
-                "region": "Stockholm Region",
+                "region": "Stockholm County",
                 "city": "-"
             },
             "treatment": "",
@@ -2045,7 +2045,7 @@
                 "path": "No case specific information"
             },
             "location": {
-                "region": "Stockholm Region",
+                "region": "Stockholm County",
                 "city": "-"
             },
             "treatment": "",
@@ -2061,7 +2061,7 @@
                 "path": "No case specific information"
             },
             "location": {
-                "region": "Stockholm Region",
+                "region": "Stockholm County",
                 "city": "-"
             },
             "treatment": "",
@@ -2077,7 +2077,7 @@
                 "path": "No case specific information"
             },
             "location": {
-                "region": "Stockholm Region",
+                "region": "Stockholm County",
                 "city": "-"
             },
             "treatment": "",
@@ -2093,7 +2093,7 @@
                 "path": "No case specific information"
             },
             "location": {
-                "region": "Stockholm Region",
+                "region": "Stockholm County",
                 "city": "-"
             },
             "treatment": "",
@@ -2109,7 +2109,7 @@
                 "path": "No case specific information"
             },
             "location": {
-                "region": "Stockholm Region",
+                "region": "Stockholm County",
                 "city": "-"
             },
             "treatment": "",
@@ -2125,7 +2125,7 @@
                 "path": "No case specific information"
             },
             "location": {
-                "region": "Stockholm Region",
+                "region": "Stockholm County",
                 "city": "-"
             },
             "treatment": "",
@@ -2141,7 +2141,7 @@
                 "path": "No case specific information"
             },
             "location": {
-                "region": "Stockholm Region",
+                "region": "Stockholm County",
                 "city": "-"
             },
             "treatment": "",
@@ -2157,7 +2157,7 @@
                 "path": "No case specific information"
             },
             "location": {
-                "region": "Stockholm Region",
+                "region": "Stockholm County",
                 "city": "-"
             },
             "treatment": "",
@@ -2173,7 +2173,7 @@
                 "path": "No case specific information"
             },
             "location": {
-                "region": "Stockholm Region",
+                "region": "Stockholm County",
                 "city": "-"
             },
             "treatment": "",
@@ -2189,7 +2189,7 @@
                 "path": "N. Italy (same region as case 64)"
             },
             "location": {
-                "region": "G\u00e4vleborg Region",
+                "region": "G\u00e4vleborg County",
                 "city": "-"
             },
             "treatment": "",
@@ -2205,7 +2205,7 @@
                 "path": "-"
             },
             "location": {
-                "region": "Sk\u00e5ne Region",
+                "region": "Sk\u00e5ne County",
                 "city": "-"
             },
             "treatment": "",
@@ -2221,7 +2221,7 @@
                 "path": "-"
             },
             "location": {
-                "region": "Sk\u00e5ne Region",
+                "region": "Sk\u00e5ne County",
                 "city": "-"
             },
             "treatment": "",
@@ -2237,7 +2237,7 @@
                 "path": "-"
             },
             "location": {
-                "region": "Sk\u00e5ne Region",
+                "region": "Sk\u00e5ne County",
                 "city": "-"
             },
             "treatment": "",
@@ -2253,7 +2253,7 @@
                 "path": "Europe but not Italy"
             },
             "location": {
-                "region": "Stockholm Region",
+                "region": "Stockholm County",
                 "city": "-"
             },
             "treatment": "",
@@ -2269,7 +2269,7 @@
                 "path": "-"
             },
             "location": {
-                "region": "Stockholm Region",
+                "region": "Stockholm County",
                 "city": "-"
             },
             "treatment": "",
@@ -2285,7 +2285,7 @@
                 "path": "-"
             },
             "location": {
-                "region": "Stockholm Region",
+                "region": "Stockholm County",
                 "city": "-"
             },
             "treatment": "",
@@ -2301,7 +2301,7 @@
                 "path": "-"
             },
             "location": {
-                "region": "Stockholm Region",
+                "region": "Stockholm County",
                 "city": "-"
             },
             "treatment": "",
@@ -2317,7 +2317,7 @@
                 "path": "-"
             },
             "location": {
-                "region": "Stockholm Region",
+                "region": "Stockholm County",
                 "city": "-"
             },
             "treatment": "",
@@ -2333,7 +2333,7 @@
                 "path": "-"
             },
             "location": {
-                "region": "Stockholm Region",
+                "region": "Stockholm County",
                 "city": "-"
             },
             "treatment": "",
@@ -2349,7 +2349,7 @@
                 "path": "-"
             },
             "location": {
-                "region": "Stockholm Region",
+                "region": "Stockholm County",
                 "city": "-"
             },
             "treatment": "",
@@ -2365,7 +2365,7 @@
                 "path": "-"
             },
             "location": {
-                "region": "Stockholm Region",
+                "region": "Stockholm County",
                 "city": "-"
             },
             "treatment": "",
@@ -2381,7 +2381,7 @@
                 "path": "-"
             },
             "location": {
-                "region": "Stockholm Region",
+                "region": "Stockholm County",
                 "city": "-"
             },
             "treatment": "",
@@ -2397,7 +2397,7 @@
                 "path": "-"
             },
             "location": {
-                "region": "Stockholm Region",
+                "region": "Stockholm County",
                 "city": "-"
             },
             "treatment": "",
@@ -2413,7 +2413,7 @@
                 "path": "-"
             },
             "location": {
-                "region": "Stockholm Region",
+                "region": "Stockholm County",
                 "city": "-"
             },
             "treatment": "",
@@ -2429,7 +2429,7 @@
                 "path": "-"
             },
             "location": {
-                "region": "Stockholm Region",
+                "region": "Stockholm County",
                 "city": "-"
             },
             "treatment": "",
@@ -2445,7 +2445,7 @@
                 "path": "-"
             },
             "location": {
-                "region": "Stockholm Region",
+                "region": "Stockholm County",
                 "city": "-"
             },
             "treatment": "",
@@ -2461,7 +2461,7 @@
                 "path": "-"
             },
             "location": {
-                "region": "Stockholm Region",
+                "region": "Stockholm County",
                 "city": "-"
             },
             "treatment": "",
@@ -2477,7 +2477,7 @@
                 "path": "-"
             },
             "location": {
-                "region": "Stockholm Region",
+                "region": "Stockholm County",
                 "city": "-"
             },
             "treatment": "",
@@ -2493,7 +2493,7 @@
                 "path": "-"
             },
             "location": {
-                "region": "Stockholm Region",
+                "region": "Stockholm County",
                 "city": "-"
             },
             "treatment": "",
@@ -2509,7 +2509,7 @@
                 "path": "-"
             },
             "location": {
-                "region": "Stockholm Region",
+                "region": "Stockholm County",
                 "city": "-"
             },
             "treatment": "",
@@ -2525,7 +2525,7 @@
                 "path": "-"
             },
             "location": {
-                "region": "Stockholm Region",
+                "region": "Stockholm County",
                 "city": "-"
             },
             "treatment": "",
@@ -2541,7 +2541,7 @@
                 "path": "-"
             },
             "location": {
-                "region": "Stockholm Region",
+                "region": "Stockholm County",
                 "city": "-"
             },
             "treatment": "",
@@ -2557,7 +2557,7 @@
                 "path": "-"
             },
             "location": {
-                "region": "Stockholm Region",
+                "region": "Stockholm County",
                 "city": "-"
             },
             "treatment": "",
@@ -2573,7 +2573,7 @@
                 "path": "-"
             },
             "location": {
-                "region": "Stockholm Region",
+                "region": "Stockholm County",
                 "city": "-"
             },
             "treatment": "",
@@ -2589,7 +2589,7 @@
                 "path": "N. Italy"
             },
             "location": {
-                "region": "Uppsala Region",
+                "region": "Uppsala County",
                 "city": "Uppsala"
             },
             "treatment": "",
@@ -2605,7 +2605,7 @@
                 "path": "-"
             },
             "location": {
-                "region": "Sk\u00e5ne Region",
+                "region": "Sk\u00e5ne County",
                 "city": "-"
             },
             "treatment": "",
@@ -2621,7 +2621,7 @@
                 "path": "-"
             },
             "location": {
-                "region": "Sk\u00e5ne Region",
+                "region": "Sk\u00e5ne County",
                 "city": "-"
             },
             "treatment": "",
@@ -2637,7 +2637,7 @@
                 "path": "-"
             },
             "location": {
-                "region": "Sk\u00e5ne Region",
+                "region": "Sk\u00e5ne County",
                 "city": "-"
             },
             "treatment": "",
@@ -2653,7 +2653,7 @@
                 "path": "-"
             },
             "location": {
-                "region": "Sk\u00e5ne Region",
+                "region": "Sk\u00e5ne County",
                 "city": "-"
             },
             "treatment": "",
@@ -2669,7 +2669,7 @@
                 "path": "-"
             },
             "location": {
-                "region": "Sk\u00e5ne Region",
+                "region": "Sk\u00e5ne County",
                 "city": "-"
             },
             "treatment": "",
@@ -2685,7 +2685,7 @@
                 "path": "-"
             },
             "location": {
-                "region": "V\u00e4stra G\u00f6taland Region",
+                "region": "V\u00e4stra G\u00f6taland County",
                 "city": "-"
             },
             "treatment": "",
@@ -2701,7 +2701,7 @@
                 "path": "-"
             },
             "location": {
-                "region": "V\u00e4stra G\u00f6taland Region",
+                "region": "V\u00e4stra G\u00f6taland County",
                 "city": "-"
             },
             "treatment": "",
@@ -2717,7 +2717,7 @@
                 "path": "-"
             },
             "location": {
-                "region": "V\u00e4stra G\u00f6taland Region",
+                "region": "V\u00e4stra G\u00f6taland County",
                 "city": "-"
             },
             "treatment": "",
@@ -2733,7 +2733,7 @@
                 "path": "-"
             },
             "location": {
-                "region": "V\u00e4stra G\u00f6taland Region",
+                "region": "V\u00e4stra G\u00f6taland County",
                 "city": "-"
             },
             "treatment": "",
@@ -2749,7 +2749,7 @@
                 "path": "-"
             },
             "location": {
-                "region": "V\u00e4stra G\u00f6taland Region",
+                "region": "V\u00e4stra G\u00f6taland County",
                 "city": "-"
             },
             "treatment": "",
@@ -2765,7 +2765,7 @@
                 "path": "-"
             },
             "location": {
-                "region": "V\u00e4stra G\u00f6taland Region",
+                "region": "V\u00e4stra G\u00f6taland County",
                 "city": "-"
             },
             "treatment": "",
@@ -2781,7 +2781,7 @@
                 "path": "-"
             },
             "location": {
-                "region": "V\u00e4stra G\u00f6taland Region",
+                "region": "V\u00e4stra G\u00f6taland County",
                 "city": "-"
             },
             "treatment": "",
@@ -2797,7 +2797,7 @@
                 "path": "-"
             },
             "location": {
-                "region": "V\u00e4stra G\u00f6taland Region",
+                "region": "V\u00e4stra G\u00f6taland County",
                 "city": "-"
             },
             "treatment": "",
@@ -2813,7 +2813,7 @@
                 "path": "-"
             },
             "location": {
-                "region": "V\u00e4stra G\u00f6taland Region",
+                "region": "V\u00e4stra G\u00f6taland County",
                 "city": "-"
             },
             "treatment": "",
@@ -2829,7 +2829,7 @@
                 "path": "-"
             },
             "location": {
-                "region": "V\u00e4stra G\u00f6taland Region",
+                "region": "V\u00e4stra G\u00f6taland County",
                 "city": "-"
             },
             "treatment": "",
@@ -2845,7 +2845,7 @@
                 "path": "-"
             },
             "location": {
-                "region": "V\u00e4stra G\u00f6taland Region",
+                "region": "V\u00e4stra G\u00f6taland County",
                 "city": "-"
             },
             "treatment": "",
@@ -2861,7 +2861,7 @@
                 "path": "-"
             },
             "location": {
-                "region": "V\u00e4stra G\u00f6taland Region",
+                "region": "V\u00e4stra G\u00f6taland County",
                 "city": "-"
             },
             "treatment": "",
@@ -2877,7 +2877,7 @@
                 "path": "N. Italy and case 34-35"
             },
             "location": {
-                "region": "V\u00e4rmland Region",
+                "region": "V\u00e4rmland County",
                 "city": "Karlstad area"
             },
             "treatment": "",
@@ -2893,7 +2893,7 @@
                 "path": "N. Italy and case 34-35"
             },
             "location": {
-                "region": "V\u00e4rmland Region",
+                "region": "V\u00e4rmland County",
                 "city": "Karlstad area"
             },
             "treatment": "",
@@ -2909,7 +2909,7 @@
                 "path": "N. Italy and case 34-35"
             },
             "location": {
-                "region": "V\u00e4rmland Region",
+                "region": "V\u00e4rmland County",
                 "city": "Karlstad area"
             },
             "treatment": "",
@@ -2925,7 +2925,7 @@
                 "path": "N. Italy and case 34-35"
             },
             "location": {
-                "region": "V\u00e4rmland Region",
+                "region": "V\u00e4rmland County",
                 "city": "Karlstad area"
             },
             "treatment": "",
@@ -2941,7 +2941,7 @@
                 "path": "N. Italy and case 34-35"
             },
             "location": {
-                "region": "V\u00e4rmland Region",
+                "region": "V\u00e4rmland County",
                 "city": "Karlstad area"
             },
             "treatment": "",
@@ -2957,7 +2957,7 @@
                 "path": "N. Italy and case 34-35"
             },
             "location": {
-                "region": "V\u00e4rmland Region",
+                "region": "V\u00e4rmland County",
                 "city": "Karlstad area"
             },
             "treatment": "",
@@ -2973,7 +2973,7 @@
                 "path": "N. Italy and case 34-35"
             },
             "location": {
-                "region": "V\u00e4rmland Region",
+                "region": "V\u00e4rmland County",
                 "city": "Karlstad area"
             },
             "treatment": "",
@@ -2989,7 +2989,7 @@
                 "path": "United States"
             },
             "location": {
-                "region": "\u00d6rebro Region",
+                "region": "\u00d6rebro County",
                 "city": "-"
             },
             "treatment": "",
@@ -3005,7 +3005,7 @@
                 "path": "Related to case 187"
             },
             "location": {
-                "region": "\u00d6rebro Region",
+                "region": "\u00d6rebro County",
                 "city": "-"
             },
             "treatment": "",
@@ -3021,7 +3021,7 @@
                 "path": "Related to case 187"
             },
             "location": {
-                "region": "\u00d6rebro Region",
+                "region": "\u00d6rebro County",
                 "city": "-"
             },
             "treatment": "",
@@ -3037,7 +3037,7 @@
                 "path": "-"
             },
             "location": {
-                "region": "Stockholm Region",
+                "region": "Stockholm County",
                 "city": "-"
             },
             "treatment": "",
@@ -3053,7 +3053,7 @@
                 "path": "-"
             },
             "location": {
-                "region": "Stockholm Region",
+                "region": "Stockholm County",
                 "city": "-"
             },
             "treatment": "",
@@ -3069,7 +3069,7 @@
                 "path": "-"
             },
             "location": {
-                "region": "Stockholm Region",
+                "region": "Stockholm County",
                 "city": "-"
             },
             "treatment": "",
@@ -3085,7 +3085,7 @@
                 "path": "-"
             },
             "location": {
-                "region": "Stockholm Region",
+                "region": "Stockholm County",
                 "city": "-"
             },
             "treatment": "",
@@ -3101,7 +3101,7 @@
                 "path": "-"
             },
             "location": {
-                "region": "Stockholm Region",
+                "region": "Stockholm County",
                 "city": "-"
             },
             "treatment": "",
@@ -3117,7 +3117,7 @@
                 "path": "-"
             },
             "location": {
-                "region": "Stockholm Region",
+                "region": "Stockholm County",
                 "city": "-"
             },
             "treatment": "",
@@ -3133,7 +3133,7 @@
                 "path": "-"
             },
             "location": {
-                "region": "Stockholm Region",
+                "region": "Stockholm County",
                 "city": "-"
             },
             "treatment": "",
@@ -3149,7 +3149,7 @@
                 "path": "-"
             },
             "location": {
-                "region": "Stockholm Region",
+                "region": "Stockholm County",
                 "city": "-"
             },
             "treatment": "",
@@ -3165,7 +3165,7 @@
                 "path": "-"
             },
             "location": {
-                "region": "Stockholm Region",
+                "region": "Stockholm County",
                 "city": "-"
             },
             "treatment": "",
@@ -3181,7 +3181,7 @@
                 "path": "-"
             },
             "location": {
-                "region": "Stockholm Region",
+                "region": "Stockholm County",
                 "city": "-"
             },
             "treatment": "",
@@ -3197,7 +3197,7 @@
                 "path": "-"
             },
             "location": {
-                "region": "Stockholm Region",
+                "region": "Stockholm County",
                 "city": "-"
             },
             "treatment": "",
@@ -3213,7 +3213,7 @@
                 "path": "-"
             },
             "location": {
-                "region": "Stockholm Region",
+                "region": "Stockholm County",
                 "city": "-"
             },
             "treatment": "",
@@ -3229,7 +3229,7 @@
                 "path": "-"
             },
             "location": {
-                "region": "Stockholm Region",
+                "region": "Stockholm County",
                 "city": "-"
             },
             "treatment": "",
@@ -3245,7 +3245,7 @@
                 "path": "-"
             },
             "location": {
-                "region": "Stockholm Region",
+                "region": "Stockholm County",
                 "city": "-"
             },
             "treatment": "",
@@ -3261,7 +3261,7 @@
                 "path": "N. Italy"
             },
             "location": {
-                "region": "Halland",
+                "region": "Halland County",
                 "city": "Kungsbacka Municipality"
             },
             "treatment": "",
@@ -3277,7 +3277,7 @@
                 "path": "An earlier V\u00e4rmland case from bus tour to N. Italy"
             },
             "location": {
-                "region": "V\u00e4rmland Region",
+                "region": "V\u00e4rmland County",
                 "city": "Karlstad area"
             },
             "treatment": "",
@@ -3293,7 +3293,7 @@
                 "path": "-"
             },
             "location": {
-                "region": "V\u00e4stra G\u00f6taland Region",
+                "region": "V\u00e4stra G\u00f6taland County",
                 "city": "Gothenburg area"
             },
             "treatment": "",
@@ -3309,7 +3309,7 @@
                 "path": "-"
             },
             "location": {
-                "region": "V\u00e4stra G\u00f6taland Region",
+                "region": "V\u00e4stra G\u00f6taland County",
                 "city": "Gothenburg area"
             },
             "treatment": "",
@@ -3325,7 +3325,7 @@
                 "path": "-"
             },
             "location": {
-                "region": "V\u00e4stra G\u00f6taland Region",
+                "region": "V\u00e4stra G\u00f6taland County",
                 "city": "Gothenburg area"
             },
             "treatment": "",
@@ -3341,7 +3341,7 @@
                 "path": "-"
             },
             "location": {
-                "region": "V\u00e4stra G\u00f6taland Region",
+                "region": "V\u00e4stra G\u00f6taland County",
                 "city": "Gothenburg area"
             },
             "treatment": "",
@@ -3357,7 +3357,7 @@
                 "path": "Abroad"
             },
             "location": {
-                "region": "V\u00e4stra G\u00f6taland Region",
+                "region": "V\u00e4stra G\u00f6taland County",
                 "city": "Sk\u00f6vde area"
             },
             "treatment": "",
@@ -3373,7 +3373,7 @@
                 "path": "Abroad"
             },
             "location": {
-                "region": "V\u00e4stra G\u00f6taland Region",
+                "region": "V\u00e4stra G\u00f6taland County",
                 "city": "Sk\u00f6vde area"
             },
             "treatment": "",
@@ -3389,7 +3389,7 @@
                 "path": "-"
             },
             "location": {
-                "region": "Stockholm Region",
+                "region": "Stockholm County",
                 "city": "-"
             },
             "treatment": "",
@@ -3405,7 +3405,7 @@
                 "path": "-"
             },
             "location": {
-                "region": "Stockholm Region",
+                "region": "Stockholm County",
                 "city": "-"
             },
             "treatment": "",
@@ -3421,7 +3421,7 @@
                 "path": "-"
             },
             "location": {
-                "region": "Stockholm Region",
+                "region": "Stockholm County",
                 "city": "-"
             },
             "treatment": "",
@@ -3437,7 +3437,7 @@
                 "path": "-"
             },
             "location": {
-                "region": "Stockholm Region",
+                "region": "Stockholm County",
                 "city": "-"
             },
             "treatment": "",
@@ -3453,7 +3453,7 @@
                 "path": "-"
             },
             "location": {
-                "region": "Stockholm Region",
+                "region": "Stockholm County",
                 "city": "-"
             },
             "treatment": "",
@@ -3469,7 +3469,7 @@
                 "path": "-"
             },
             "location": {
-                "region": "Stockholm Region",
+                "region": "Stockholm County",
                 "city": "-"
             },
             "treatment": "",
@@ -3485,7 +3485,7 @@
                 "path": "-"
             },
             "location": {
-                "region": "Stockholm Region",
+                "region": "Stockholm County",
                 "city": "-"
             },
             "treatment": "",
@@ -3501,7 +3501,7 @@
                 "path": "-"
             },
             "location": {
-                "region": "Stockholm Region",
+                "region": "Stockholm County",
                 "city": "-"
             },
             "treatment": "",
@@ -3517,7 +3517,7 @@
                 "path": "-"
             },
             "location": {
-                "region": "Stockholm Region",
+                "region": "Stockholm County",
                 "city": "-"
             },
             "treatment": "",
@@ -3533,7 +3533,7 @@
                 "path": "-"
             },
             "location": {
-                "region": "Stockholm Region",
+                "region": "Stockholm County",
                 "city": "-"
             },
             "treatment": "",
@@ -3549,7 +3549,7 @@
                 "path": "-"
             },
             "location": {
-                "region": "Stockholm Region",
+                "region": "Stockholm County",
                 "city": "-"
             },
             "treatment": "",
@@ -3565,7 +3565,7 @@
                 "path": "-"
             },
             "location": {
-                "region": "Stockholm Region",
+                "region": "Stockholm County",
                 "city": "-"
             },
             "treatment": "",
@@ -3581,7 +3581,7 @@
                 "path": "-"
             },
             "location": {
-                "region": "Stockholm Region",
+                "region": "Stockholm County",
                 "city": "-"
             },
             "treatment": "",
@@ -3597,7 +3597,7 @@
                 "path": "-"
             },
             "location": {
-                "region": "Stockholm Region",
+                "region": "Stockholm County",
                 "city": "-"
             },
             "treatment": "",
@@ -3613,7 +3613,7 @@
                 "path": "-"
             },
             "location": {
-                "region": "Stockholm Region",
+                "region": "Stockholm County",
                 "city": "-"
             },
             "treatment": "",
@@ -3629,7 +3629,7 @@
                 "path": "-"
             },
             "location": {
-                "region": "Stockholm Region",
+                "region": "Stockholm County",
                 "city": "-"
             },
             "treatment": "",
@@ -3645,7 +3645,7 @@
                 "path": "-"
             },
             "location": {
-                "region": "Stockholm Region",
+                "region": "Stockholm County",
                 "city": "-"
             },
             "treatment": "",
@@ -3661,7 +3661,7 @@
                 "path": "-"
             },
             "location": {
-                "region": "Stockholm Region",
+                "region": "Stockholm County",
                 "city": "-"
             },
             "treatment": "",
@@ -3677,7 +3677,7 @@
                 "path": "-"
             },
             "location": {
-                "region": "Stockholm Region",
+                "region": "Stockholm County",
                 "city": "-"
             },
             "treatment": "",
@@ -3693,7 +3693,7 @@
                 "path": "-"
             },
             "location": {
-                "region": "Stockholm Region",
+                "region": "Stockholm County",
                 "city": "-"
             },
             "treatment": "",
@@ -3709,7 +3709,7 @@
                 "path": "-"
             },
             "location": {
-                "region": "Stockholm Region",
+                "region": "Stockholm County",
                 "city": "-"
             },
             "treatment": "",
@@ -3725,7 +3725,7 @@
                 "path": "-"
             },
             "location": {
-                "region": "Stockholm Region",
+                "region": "Stockholm County",
                 "city": "-"
             },
             "treatment": "",
@@ -3741,7 +3741,7 @@
                 "path": "-"
             },
             "location": {
-                "region": "Stockholm Region",
+                "region": "Stockholm County",
                 "city": "-"
             },
             "treatment": "",
@@ -3757,7 +3757,7 @@
                 "path": "-"
             },
             "location": {
-                "region": "Stockholm Region",
+                "region": "Stockholm County",
                 "city": "-"
             },
             "treatment": "",
@@ -3773,7 +3773,7 @@
                 "path": "-"
             },
             "location": {
-                "region": "Stockholm Region",
+                "region": "Stockholm County",
                 "city": "-"
             },
             "treatment": "",
@@ -3789,7 +3789,7 @@
                 "path": "-"
             },
             "location": {
-                "region": "Stockholm Region",
+                "region": "Stockholm County",
                 "city": "-"
             },
             "treatment": "",
@@ -3805,7 +3805,7 @@
                 "path": "-"
             },
             "location": {
-                "region": "Stockholm Region",
+                "region": "Stockholm County",
                 "city": "-"
             },
             "treatment": "",
@@ -3821,7 +3821,7 @@
                 "path": "-"
             },
             "location": {
-                "region": "Stockholm Region",
+                "region": "Stockholm County",
                 "city": "-"
             },
             "treatment": "",
@@ -3837,7 +3837,7 @@
                 "path": "-"
             },
             "location": {
-                "region": "Stockholm Region",
+                "region": "Stockholm County",
                 "city": "-"
             },
             "treatment": "",
@@ -3853,7 +3853,7 @@
                 "path": "-"
             },
             "location": {
-                "region": "Stockholm Region",
+                "region": "Stockholm County",
                 "city": "-"
             },
             "treatment": "",
@@ -3869,7 +3869,7 @@
                 "path": "-"
             },
             "location": {
-                "region": "Stockholm Region",
+                "region": "Stockholm County",
                 "city": "-"
             },
             "treatment": "",
@@ -3885,7 +3885,7 @@
                 "path": "-"
             },
             "location": {
-                "region": "Stockholm Region",
+                "region": "Stockholm County",
                 "city": "-"
             },
             "treatment": "",
@@ -3901,7 +3901,7 @@
                 "path": "N. Italy, travelled together"
             },
             "location": {
-                "region": "J\u00f6nk\u00f6ping Region",
+                "region": "J\u00f6nk\u00f6ping County",
                 "city": "-"
             },
             "treatment": "",
@@ -3917,7 +3917,7 @@
                 "path": "N. Italy, travelled together"
             },
             "location": {
-                "region": "J\u00f6nk\u00f6ping Region",
+                "region": "J\u00f6nk\u00f6ping County",
                 "city": "-"
             },
             "treatment": "",
@@ -3933,7 +3933,7 @@
                 "path": "N. Italy"
             },
             "location": {
-                "region": "Uppsala Region",
+                "region": "Uppsala County",
                 "city": "-"
             },
             "treatment": "",
@@ -3949,7 +3949,7 @@
                 "path": "N. Italy"
             },
             "location": {
-                "region": "Uppsala Region",
+                "region": "Uppsala County",
                 "city": "-"
             },
             "treatment": "",
@@ -3981,7 +3981,7 @@
                 "path": "Italy"
             },
             "location": {
-                "region": "Halland",
+                "region": "Halland County",
                 "city": "-"
             },
             "treatment": "",
@@ -3997,7 +3997,7 @@
                 "path": "Italy"
             },
             "location": {
-                "region": "Halland",
+                "region": "Halland County",
                 "city": "-"
             },
             "treatment": "",
@@ -4013,7 +4013,7 @@
                 "path": "Italy"
             },
             "location": {
-                "region": "Halland",
+                "region": "Halland County",
                 "city": "-"
             },
             "treatment": "",
@@ -4029,7 +4029,7 @@
                 "path": "-"
             },
             "location": {
-                "region": "S\u00f6rmland Region",
+                "region": "S\u00f6dermanland County",
                 "city": "-"
             },
             "treatment": "",
@@ -4045,7 +4045,7 @@
                 "path": "Italy"
             },
             "location": {
-                "region": "Norrbotten Region",
+                "region": "Norrbotten County",
                 "city": "-"
             },
             "treatment": "",
@@ -4061,7 +4061,7 @@
                 "path": ""
             },
             "location": {
-                "region": "V\u00e4stra G\u00f6taland Region",
+                "region": "V\u00e4stra G\u00f6taland County",
                 "city": "Kung\u00e4lv"
             },
             "treatment": "",
@@ -4077,7 +4077,7 @@
                 "path": "N. Italy, related to each other"
             },
             "location": {
-                "region": "V\u00e4sterbotten",
+                "region": "V\u00e4sterbotten County",
                 "city": "-"
             },
             "treatment": "",
@@ -4093,7 +4093,7 @@
                 "path": "N. Italy, related to each other"
             },
             "location": {
-                "region": "V\u00e4sterbotten",
+                "region": "V\u00e4sterbotten County",
                 "city": "-"
             },
             "treatment": "",
@@ -4109,7 +4109,7 @@
                 "path": "N. Italy, related to each other"
             },
             "location": {
-                "region": "V\u00e4sterbotten",
+                "region": "V\u00e4sterbotten County",
                 "city": "-"
             },
             "treatment": "",
@@ -4125,7 +4125,7 @@
                 "path": "N. Italy"
             },
             "location": {
-                "region": "V\u00e4sterbotten",
+                "region": "V\u00e4sterbotten County",
                 "city": "-"
             },
             "treatment": "",
@@ -4141,7 +4141,7 @@
                 "path": "N. Italy"
             },
             "location": {
-                "region": "V\u00e4sterbotten",
+                "region": "V\u00e4sterbotten County",
                 "city": "-"
             },
             "treatment": "",
@@ -4173,7 +4173,7 @@
                 "path": "-"
             },
             "location": {
-                "region": "Sk\u00e5ne Region",
+                "region": "Sk\u00e5ne County",
                 "city": "-"
             },
             "treatment": "",
@@ -4189,7 +4189,7 @@
                 "path": "-"
             },
             "location": {
-                "region": "Sk\u00e5ne Region",
+                "region": "Sk\u00e5ne County",
                 "city": "-"
             },
             "treatment": "",
@@ -4205,7 +4205,7 @@
                 "path": "-"
             },
             "location": {
-                "region": "Sk\u00e5ne Region",
+                "region": "Sk\u00e5ne County",
                 "city": "-"
             },
             "treatment": "",
@@ -4221,7 +4221,23 @@
                 "path": "-"
             },
             "location": {
-                "region": "Halland Region",
+                "region": "Halland County",
+                "city": "-"
+            },
+            "treatment": "",
+            "sex": "",
+            "age": ""
+        },
+        {
+            "no": "265",
+            "date": "2020-03-10",
+            "status": "unknown",
+            "origin": {
+                "type": false,
+                "path": "N. Italy"
+            },
+            "location": {
+                "region": "\u00d6rebro County",
                 "city": "-"
             },
             "treatment": "",
@@ -4614,7 +4630,7 @@
             }
         },
         "\u00d6rebro": {
-            "total": 4,
+            "total": 5,
             "logs": {
                 "2020-03-04": {
                     "total": 1,
@@ -4630,6 +4646,14 @@
                     "recovered-clinically": 0,
                     "intensive-care": 0,
                     "unknown": 3,
+                    "deceased": 0
+                },
+                "2020-03-10": {
+                    "total": 1,
+                    "recovered-fully": 0,
+                    "recovered-clinically": 0,
+                    "intensive-care": 0,
+                    "unknown": 1,
                     "deceased": 0
                 }
             }
@@ -4676,7 +4700,7 @@
                 }
             }
         },
-        "S\u00f6rmland": {
+        "S\u00f6dermanland": {
             "total": 1,
             "logs": {
                 "2020-03-09": {
@@ -4744,14 +4768,14 @@
         "2020-03-07": 24,
         "2020-03-08": 42,
         "2020-03-09": 57,
-        "2020-03-10": 4
+        "2020-03-10": 5
     },
     "summary": {
-        "confirmed": 264,
+        "confirmed": 265,
         "recovered-fully": 0,
         "recovered-clinically": 1,
         "intensive-care": 0,
-        "unknown": 263,
+        "unknown": 264,
         "deceased": 0
     }
 }
