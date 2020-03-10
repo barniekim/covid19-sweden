@@ -1,7 +1,7 @@
 {
     "updated": {
-        "datetime": "2020-03-10 5PM(CET)",
-        "timestamp": 1583856006
+        "datetime": "2020-03-10 6PM(CET)",
+        "timestamp": 1583859606
     },
     "cases": [
         {
@@ -5466,7 +5466,7 @@
             "status": "unknown",
             "origin": {
                 "type": false,
-                "path": "-"
+                "path": "N. Italy"
             },
             "location": {
                 "region": "S\u00f6rmland County",
@@ -5482,7 +5482,7 @@
             "status": "unknown",
             "origin": {
                 "type": false,
-                "path": "-"
+                "path": "N. Italy, connected to 4 cases in other regions in Sweden"
             },
             "location": {
                 "region": "J\u00e4mtland County",
@@ -5498,7 +5498,7 @@
             "status": "unknown",
             "origin": {
                 "type": false,
-                "path": "-"
+                "path": "Italy, related to each other"
             },
             "location": {
                 "region": "V\u00e4sternorrland County",
@@ -5514,7 +5514,7 @@
             "status": "unknown",
             "origin": {
                 "type": false,
-                "path": "-"
+                "path": "Italy, related to each other"
             },
             "location": {
                 "region": "V\u00e4sternorrland County",
@@ -5530,10 +5530,26 @@
             "status": "unknown",
             "origin": {
                 "type": false,
-                "path": "-"
+                "path": "Italy, related to each other"
             },
             "location": {
                 "region": "V\u00e4sternorrland County",
+                "city": "-"
+            },
+            "treatment": "",
+            "sex": "",
+            "age": ""
+        },
+        {
+            "no": "347",
+            "date": "2020-03-10",
+            "status": "unknown",
+            "origin": {
+                "type": false,
+                "path": "N. Italy"
+            },
+            "location": {
+                "region": "S\u00f6rmland County",
                 "city": "-"
             },
             "treatment": "",
@@ -6078,14 +6094,14 @@
             }
         },
         "S\u00f6rmland": {
-            "total": 1,
+            "total": 2,
             "logs": {
                 "2020-03-10": {
-                    "total": 1,
+                    "total": 2,
                     "recovered-fully": 0,
                     "recovered-clinically": 0,
                     "intensive-care": 0,
-                    "unknown": 1,
+                    "unknown": 2,
                     "deceased": 0
                 }
             }
@@ -6132,14 +6148,14 @@
         "2020-03-07": 24,
         "2020-03-08": 42,
         "2020-03-09": 57,
-        "2020-03-10": 86
+        "2020-03-10": 87
     },
     "summary": {
-        "confirmed": 346,
+        "confirmed": 347,
         "recovered-fully": 0,
         "recovered-clinically": 1,
         "intensive-care": 0,
-        "unknown": 345,
+        "unknown": 346,
         "deceased": 0
     }
 }
