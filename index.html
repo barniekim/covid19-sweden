@@ -20,10 +20,10 @@
 			<span class="sub header" id="last-updated"></span>
 		</div>
 		<div class="ui basic label">
-			<a href="https://github.com/hisbarnabas/covid19-sweden" target="_blank"><i class="github icon"></i> Github</a>
+			<a href="https://github.com/hisbarnabas/covid19-sweden" target="_blank"><i class="github icon"></i> <span class="computer only">Github</span></a>
 		</div>
 		<div class="ui basic label">
-			<a href="https://en.wikipedia.org/wiki/2020_coronavirus_outbreak_in_Sweden" target="_blank"><i class="wikipedia w icon"></i> Covid-19</a>
+			<a href="https://en.wikipedia.org/wiki/2020_coronavirus_outbreak_in_Sweden" target="_blank"><i class="wikipedia w icon"></i> <span class="computer only">Covid-19</span></a>
 		</div>
 
 		<h2 class="ui header">
@@ -93,6 +93,17 @@
 	<style>
 		#graph-country svg {
 			width: 100% !important;
+		}
+		/* Mobile */
+		@media only screen and (max-width: 767px) {
+			[class*="mobile hidden"],
+			[class*="tablet only"]:not(.mobile),
+			[class*="computer only"]:not(.mobile),
+			[class*="large monitor only"]:not(.mobile),
+			[class*="widescreen monitor only"]:not(.mobile),
+			[class*="or lower hidden"] {
+				display: none !important;
+			}
 		}
 	</style>
 
