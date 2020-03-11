@@ -1,7 +1,7 @@
 {
     "updated": {
         "datetime": "2020-03-11 8PM(CET)",
-        "timestamp": 1583955905
+        "timestamp": 1583956206
     },
     "cases": [
         {
@@ -389,16 +389,16 @@
             "age": ""
         },
         {
-            "no": "29",
-            "date": "1970-01-01",
+            "no": "1",
+            "date": "2020-02-29",
             "status": "unknown",
             "origin": {
                 "type": false,
-                "path": "Stockholm"
+                "path": "Case 6"
             },
             "location": {
-                "region": "Unspecified",
-                "city": "Stockholm County"
+                "region": "Stockholm",
+                "city": "Stockholm"
             },
             "treatment": "",
             "sex": "",
@@ -1285,16 +1285,16 @@
             "age": ""
         },
         {
-            "no": "4",
-            "date": "1970-01-01",
+            "no": "1",
+            "date": "2020-03-04",
             "status": "unknown",
             "origin": {
                 "type": false,
-                "path": "-"
+                "path": "Iran"
             },
             "location": {
-                "region": "Unspecified",
-                "city": "Stockholm County"
+                "region": "Stockholm",
+                "city": "-"
             },
             "treatment": "",
             "sex": "",
@@ -1317,16 +1317,16 @@
             "age": ""
         },
         {
-            "no": "5",
-            "date": "1970-01-01",
+            "no": "1",
+            "date": "2020-03-05",
             "status": "unknown",
             "origin": {
                 "type": false,
-                "path": "Bor\u00e5s"
+                "path": "N. Italy"
             },
             "location": {
-                "region": "Unspecified",
-                "city": "V\u00e4stra G\u00f6taland County"
+                "region": "V\u00e4stra G\u00f6taland",
+                "city": "Bor\u00e5s"
             },
             "treatment": "",
             "sex": "",
@@ -1445,16 +1445,16 @@
             "age": ""
         },
         {
-            "no": "5",
-            "date": "1970-01-01",
+            "no": "7",
+            "date": "2020-03-05",
             "status": "unknown",
             "origin": {
                 "type": false,
-                "path": "-"
+                "path": "N. Italy"
             },
             "location": {
-                "region": "Unspecified",
-                "city": "Sk\u00e5ne County"
+                "region": "Sk\u00e5ne",
+                "city": "-"
             },
             "treatment": "",
             "sex": "",
@@ -1493,16 +1493,16 @@
             "age": ""
         },
         {
-            "no": "5",
-            "date": "1970-01-01",
+            "no": "2",
+            "date": "2020-03-05",
             "status": "unknown",
             "origin": {
                 "type": false,
-                "path": "Karlstad area"
+                "path": "Case 34\/35"
             },
             "location": {
-                "region": "Unspecified",
-                "city": "V\u00e4rmland County"
+                "region": "V\u00e4rmland",
+                "city": "Karlstad area"
             },
             "treatment": "",
             "sex": "",
@@ -1525,16 +1525,16 @@
             "age": ""
         },
         {
-            "no": "5",
-            "date": "1970-01-01",
+            "no": "1",
+            "date": "2020-03-05",
             "status": "unknown",
             "origin": {
                 "type": false,
-                "path": "Karlstad area"
+                "path": "N. Italy"
             },
             "location": {
-                "region": "Unspecified",
-                "city": "V\u00e4rmland County"
+                "region": "V\u00e4rmland",
+                "city": "Karlstad area"
             },
             "treatment": "",
             "sex": "",
@@ -1557,16 +1557,16 @@
             "age": ""
         },
         {
-            "no": "5",
-            "date": "1970-01-01",
+            "no": "1",
+            "date": "2020-03-05",
             "status": "unknown",
             "origin": {
                 "type": false,
-                "path": "-"
+                "path": "N. Italy"
             },
             "location": {
-                "region": "Unspecified",
-                "city": "G\u00e4vleborg County"
+                "region": "G\u00e4vleborg",
+                "city": "-"
             },
             "treatment": "",
             "sex": "",
@@ -1797,16 +1797,16 @@
             "age": ""
         },
         {
-            "no": "5",
-            "date": "1970-01-01",
+            "no": "14",
+            "date": "2020-03-05",
             "status": "unknown",
             "origin": {
                 "type": false,
-                "path": "-"
+                "path": "N. Italy"
             },
             "location": {
-                "region": "Unspecified",
-                "city": "Stockholm County"
+                "region": "Stockholm",
+                "city": "-"
             },
             "treatment": "",
             "sex": "",
@@ -2037,16 +2037,16 @@
             "age": ""
         },
         {
-            "no": "5",
-            "date": "1970-01-01",
+            "no": "14",
+            "date": "2020-03-05",
             "status": "unknown",
             "origin": {
                 "type": false,
-                "path": "-"
+                "path": "No case specific information"
             },
             "location": {
-                "region": "Unspecified",
-                "city": "Stockholm County"
+                "region": "Stockholm",
+                "city": "-"
             },
             "treatment": "",
             "sex": "",
@@ -2085,16 +2085,16 @@
             "age": ""
         },
         {
-            "no": "5",
-            "date": "1970-01-01",
+            "no": "2",
+            "date": "2020-03-05",
             "status": "unknown",
             "origin": {
                 "type": false,
-                "path": "-"
+                "path": "N. Italy"
             },
             "location": {
-                "region": "Unspecified",
-                "city": "Uppsala County"
+                "region": "Uppsala",
+                "city": "-"
             },
             "treatment": "",
             "sex": "",
@@ -2117,16 +2117,16 @@
             "age": ""
         },
         {
-            "no": "6",
-            "date": "1970-01-01",
+            "no": "1",
+            "date": "2020-03-06",
             "status": "unknown",
             "origin": {
                 "type": false,
-                "path": "-"
+                "path": "N. Italy"
             },
             "location": {
-                "region": "Unspecified",
-                "city": "V\u00e4stra G\u00f6taland County"
+                "region": "V\u00e4stra G\u00f6taland",
+                "city": "-"
             },
             "treatment": "",
             "sex": "",
@@ -2149,16 +2149,16 @@
             "age": ""
         },
         {
-            "no": "6",
-            "date": "1970-01-01",
+            "no": "1",
+            "date": "2020-03-06",
             "status": "unknown",
             "origin": {
                 "type": false,
-                "path": "-"
+                "path": "Iran"
             },
             "location": {
-                "region": "Unspecified",
-                "city": "V\u00e4stra G\u00f6taland County"
+                "region": "V\u00e4stra G\u00f6taland",
+                "city": "-"
             },
             "treatment": "",
             "sex": "",
@@ -2245,16 +2245,16 @@
             "age": ""
         },
         {
-            "no": "6",
-            "date": "1970-01-01",
+            "no": "5",
+            "date": "2020-03-06",
             "status": "unknown",
             "origin": {
                 "type": false,
-                "path": "-"
+                "path": "N. Italy"
             },
             "location": {
-                "region": "Unspecified",
-                "city": "Sk\u00e5ne County"
+                "region": "Sk\u00e5ne",
+                "city": "-"
             },
             "treatment": "",
             "sex": "",
@@ -2373,16 +2373,16 @@
             "age": ""
         },
         {
-            "no": "6",
-            "date": "1970-01-01",
+            "no": "7",
+            "date": "2020-03-06",
             "status": "unknown",
             "origin": {
                 "type": false,
-                "path": "Karlstad area"
+                "path": "N. Italy and case 34-35"
             },
             "location": {
-                "region": "Unspecified",
-                "city": "V\u00e4rmland County"
+                "region": "V\u00e4rmland",
+                "city": "Karlstad area"
             },
             "treatment": "",
             "sex": "",
@@ -2405,16 +2405,16 @@
             "age": ""
         },
         {
-            "no": "6",
-            "date": "1970-01-01",
+            "no": "1",
+            "date": "2020-03-06",
             "status": "unknown",
             "origin": {
                 "type": false,
-                "path": "Karlstad area"
+                "path": ""
             },
             "location": {
-                "region": "Unspecified",
-                "city": "V\u00e4rmland County"
+                "region": "V\u00e4rmland",
+                "city": "Karlstad area"
             },
             "treatment": "",
             "sex": "",
@@ -2437,16 +2437,16 @@
             "age": ""
         },
         {
-            "no": "6",
-            "date": "1970-01-01",
+            "no": "1",
+            "date": "2020-03-06",
             "status": "unknown",
             "origin": {
                 "type": false,
-                "path": "-"
+                "path": "Related to case 93-94"
             },
             "location": {
-                "region": "Unspecified",
-                "city": "Uppsala County"
+                "region": "Uppsala",
+                "city": "-"
             },
             "treatment": "",
             "sex": "",
@@ -2469,16 +2469,16 @@
             "age": ""
         },
         {
-            "no": "6",
-            "date": "1970-01-01",
+            "no": "1",
+            "date": "2020-03-06",
             "status": "unknown",
             "origin": {
                 "type": false,
-                "path": "-"
+                "path": "N. Italy"
             },
             "location": {
-                "region": "Unspecified",
-                "city": "J\u00f6nk\u00f6ping County"
+                "region": "J\u00f6nk\u00f6ping",
+                "city": "-"
             },
             "treatment": "",
             "sex": "",
@@ -2517,16 +2517,16 @@
             "age": ""
         },
         {
-            "no": "6",
-            "date": "1970-01-01",
+            "no": "2",
+            "date": "2020-03-06",
             "status": "unknown",
             "origin": {
                 "type": false,
-                "path": "-"
+                "path": "N. Italy"
             },
             "location": {
-                "region": "Unspecified",
-                "city": "J\u00f6nk\u00f6ping County"
+                "region": "J\u00f6nk\u00f6ping",
+                "city": "-"
             },
             "treatment": "",
             "sex": "",
@@ -2549,16 +2549,16 @@
             "age": ""
         },
         {
-            "no": "6",
-            "date": "1970-01-01",
+            "no": "1",
+            "date": "2020-03-06",
             "status": "unknown",
             "origin": {
                 "type": false,
-                "path": "-"
+                "path": "Another region in Sweden"
             },
             "location": {
-                "region": "Unspecified",
-                "city": "J\u00f6nk\u00f6ping County"
+                "region": "J\u00f6nk\u00f6ping",
+                "city": "-"
             },
             "treatment": "",
             "sex": "",
@@ -2581,16 +2581,16 @@
             "age": ""
         },
         {
-            "no": "6",
-            "date": "1970-01-01",
+            "no": "1",
+            "date": "2020-03-06",
             "status": "unknown",
             "origin": {
                 "type": false,
-                "path": "-"
+                "path": "Another region in Sweden. Related to case 114."
             },
             "location": {
-                "region": "Unspecified",
-                "city": "J\u00f6nk\u00f6ping County"
+                "region": "J\u00f6nk\u00f6ping",
+                "city": "-"
             },
             "treatment": "",
             "sex": "",
@@ -2933,16 +2933,16 @@
             "age": ""
         },
         {
-            "no": "6",
-            "date": "1970-01-01",
+            "no": "21",
+            "date": "2020-03-06",
             "status": "unknown",
             "origin": {
                 "type": false,
-                "path": "-"
+                "path": "No case specific information"
             },
             "location": {
-                "region": "Unspecified",
-                "city": "Stockholm County"
+                "region": "Stockholm",
+                "city": "-"
             },
             "treatment": "",
             "sex": "",
@@ -2965,16 +2965,16 @@
             "age": ""
         },
         {
-            "no": "6",
-            "date": "1970-01-01",
+            "no": "1",
+            "date": "2020-03-06",
             "status": "unknown",
             "origin": {
                 "type": false,
-                "path": "-"
+                "path": "N. Italy (same region as case 64)"
             },
             "location": {
-                "region": "Unspecified",
-                "city": "G\u00e4vleborg County"
+                "region": "G\u00e4vleborg",
+                "city": "-"
             },
             "treatment": "",
             "sex": "",
@@ -3029,16 +3029,16 @@
             "age": ""
         },
         {
-            "no": "7",
-            "date": "1970-01-01",
+            "no": "3",
+            "date": "2020-03-07",
             "status": "unknown",
             "origin": {
                 "type": false,
                 "path": "-"
             },
             "location": {
-                "region": "Unspecified",
-                "city": "Sk\u00e5ne County"
+                "region": "Sk\u00e5ne",
+                "city": "-"
             },
             "treatment": "",
             "sex": "",
@@ -3061,16 +3061,16 @@
             "age": ""
         },
         {
-            "no": "7",
-            "date": "1970-01-01",
+            "no": "1",
+            "date": "2020-03-07",
             "status": "unknown",
             "origin": {
                 "type": false,
-                "path": "-"
+                "path": "Europe but not Italy"
             },
             "location": {
-                "region": "Unspecified",
-                "city": "Stockholm County"
+                "region": "Stockholm",
+                "city": "-"
             },
             "treatment": "",
             "sex": "",
@@ -3397,16 +3397,16 @@
             "age": ""
         },
         {
-            "no": "7",
-            "date": "1970-01-01",
+            "no": "21",
+            "date": "2020-03-07",
             "status": "unknown",
             "origin": {
                 "type": false,
                 "path": "-"
             },
             "location": {
-                "region": "Unspecified",
-                "city": "Stockholm County"
+                "region": "Stockholm",
+                "city": "-"
             },
             "treatment": "",
             "sex": "",
@@ -3429,16 +3429,16 @@
             "age": ""
         },
         {
-            "no": "8",
-            "date": "1970-01-01",
+            "no": "1",
+            "date": "2020-03-08",
             "status": "unknown",
             "origin": {
                 "type": false,
-                "path": "Uppsala"
+                "path": "N. Italy"
             },
             "location": {
-                "region": "Unspecified",
-                "city": "Uppsala County"
+                "region": "Uppsala",
+                "city": "Uppsala"
             },
             "treatment": "",
             "sex": "",
@@ -3525,16 +3525,16 @@
             "age": ""
         },
         {
-            "no": "8",
-            "date": "1970-01-01",
+            "no": "5",
+            "date": "2020-03-08",
             "status": "unknown",
             "origin": {
                 "type": false,
                 "path": "-"
             },
             "location": {
-                "region": "Unspecified",
-                "city": "Sk\u00e5ne County"
+                "region": "Sk\u00e5ne",
+                "city": "-"
             },
             "treatment": "",
             "sex": "",
@@ -3733,16 +3733,16 @@
             "age": ""
         },
         {
-            "no": "8",
-            "date": "1970-01-01",
+            "no": "12",
+            "date": "2020-03-08",
             "status": "unknown",
             "origin": {
                 "type": false,
                 "path": "-"
             },
             "location": {
-                "region": "Unspecified",
-                "city": "V\u00e4stra G\u00f6taland County"
+                "region": "V\u00e4stra G\u00f6taland",
+                "city": "-"
             },
             "treatment": "",
             "sex": "",
@@ -3861,16 +3861,16 @@
             "age": ""
         },
         {
-            "no": "8",
-            "date": "1970-01-01",
+            "no": "7",
+            "date": "2020-03-08",
             "status": "unknown",
             "origin": {
                 "type": false,
-                "path": "Karlstad area"
+                "path": "N. Italy and case 34-35"
             },
             "location": {
-                "region": "Unspecified",
-                "city": "V\u00e4rmland County"
+                "region": "V\u00e4rmland",
+                "city": "Karlstad area"
             },
             "treatment": "",
             "sex": "",
@@ -3893,16 +3893,16 @@
             "age": ""
         },
         {
-            "no": "8",
-            "date": "1970-01-01",
+            "no": "1",
+            "date": "2020-03-08",
             "status": "unknown",
             "origin": {
                 "type": false,
-                "path": "-"
+                "path": "United States"
             },
             "location": {
-                "region": "Unspecified",
-                "city": "\u00d6rebro County"
+                "region": "\u00d6rebro",
+                "city": "-"
             },
             "treatment": "",
             "sex": "",
@@ -3925,16 +3925,16 @@
             "age": ""
         },
         {
-            "no": "8",
-            "date": "1970-01-01",
+            "no": "1",
+            "date": "2020-03-08",
             "status": "unknown",
             "origin": {
                 "type": false,
-                "path": "-"
+                "path": "Related to case 187"
             },
             "location": {
-                "region": "Unspecified",
-                "city": "\u00d6rebro County"
+                "region": "\u00d6rebro",
+                "city": "-"
             },
             "treatment": "",
             "sex": "",
@@ -3957,16 +3957,16 @@
             "age": ""
         },
         {
-            "no": "8",
-            "date": "1970-01-01",
+            "no": "1",
+            "date": "2020-03-08",
             "status": "unknown",
             "origin": {
                 "type": false,
-                "path": "-"
+                "path": "Related to case 187"
             },
             "location": {
-                "region": "Unspecified",
-                "city": "\u00d6rebro County"
+                "region": "\u00d6rebro",
+                "city": "-"
             },
             "treatment": "",
             "sex": "",
@@ -4197,16 +4197,16 @@
             "age": ""
         },
         {
-            "no": "8",
-            "date": "1970-01-01",
+            "no": "14",
+            "date": "2020-03-08",
             "status": "unknown",
             "origin": {
                 "type": false,
                 "path": "-"
             },
             "location": {
-                "region": "Unspecified",
-                "city": "Stockholm County"
+                "region": "Stockholm",
+                "city": "-"
             },
             "treatment": "",
             "sex": "",
@@ -4229,16 +4229,16 @@
             "age": ""
         },
         {
-            "no": "9",
-            "date": "1970-01-01",
+            "no": "1",
+            "date": "2020-03-09",
             "status": "unknown",
             "origin": {
                 "type": false,
-                "path": "Kungsbacka Municipality"
+                "path": "N. Italy"
             },
             "location": {
-                "region": "Unspecified",
-                "city": "Halland County"
+                "region": "Halland",
+                "city": "Kungsbacka Municipality"
             },
             "treatment": "",
             "sex": "",
@@ -4261,16 +4261,16 @@
             "age": ""
         },
         {
-            "no": "9",
-            "date": "1970-01-01",
+            "no": "1",
+            "date": "2020-03-09",
             "status": "unknown",
             "origin": {
                 "type": false,
-                "path": "Karlstad area"
+                "path": "An earlier V\u00e4rmland case from bus tour to N. Italy"
             },
             "location": {
-                "region": "Unspecified",
-                "city": "V\u00e4rmland County"
+                "region": "V\u00e4rmland",
+                "city": "Karlstad area"
             },
             "treatment": "",
             "sex": "",
@@ -4341,16 +4341,16 @@
             "age": ""
         },
         {
-            "no": "9",
-            "date": "1970-01-01",
+            "no": "4",
+            "date": "2020-03-09",
             "status": "unknown",
             "origin": {
                 "type": false,
-                "path": "Gothenburg area"
+                "path": "-"
             },
             "location": {
-                "region": "Unspecified",
-                "city": "V\u00e4stra G\u00f6taland County"
+                "region": "V\u00e4stra G\u00f6taland",
+                "city": "Gothenburg area"
             },
             "treatment": "",
             "sex": "",
@@ -4389,16 +4389,16 @@
             "age": ""
         },
         {
-            "no": "9",
-            "date": "1970-01-01",
+            "no": "2",
+            "date": "2020-03-09",
             "status": "unknown",
             "origin": {
                 "type": false,
-                "path": "Sk\u00f6vde area"
+                "path": "Abroad"
             },
             "location": {
-                "region": "Unspecified",
-                "city": "V\u00e4stra G\u00f6taland County"
+                "region": "V\u00e4stra G\u00f6taland",
+                "city": "Sk\u00f6vde area"
             },
             "treatment": "",
             "sex": "",
@@ -4917,16 +4917,16 @@
             "age": ""
         },
         {
-            "no": "9",
-            "date": "1970-01-01",
+            "no": "32",
+            "date": "2020-03-09",
             "status": "unknown",
             "origin": {
                 "type": false,
                 "path": "-"
             },
             "location": {
-                "region": "Unspecified",
-                "city": "Stockholm County"
+                "region": "Stockholm",
+                "city": "-"
             },
             "treatment": "",
             "sex": "",
@@ -4965,16 +4965,16 @@
             "age": ""
         },
         {
-            "no": "9",
-            "date": "1970-01-01",
+            "no": "2",
+            "date": "2020-03-09",
             "status": "unknown",
             "origin": {
                 "type": false,
-                "path": "-"
+                "path": "N. Italy, travelled together"
             },
             "location": {
-                "region": "Unspecified",
-                "city": "J\u00f6nk\u00f6ping County"
+                "region": "J\u00f6nk\u00f6ping",
+                "city": "-"
             },
             "treatment": "",
             "sex": "",
@@ -4997,16 +4997,16 @@
             "age": ""
         },
         {
-            "no": "9",
-            "date": "1970-01-01",
+            "no": "1",
+            "date": "2020-03-09",
             "status": "unknown",
             "origin": {
                 "type": false,
-                "path": "-"
+                "path": "N. Italy"
             },
             "location": {
-                "region": "Unspecified",
-                "city": "Uppsala County"
+                "region": "Uppsala",
+                "city": "-"
             },
             "treatment": "",
             "sex": "",
@@ -5029,16 +5029,16 @@
             "age": ""
         },
         {
-            "no": "9",
-            "date": "1970-01-01",
+            "no": "1",
+            "date": "2020-03-09",
             "status": "unknown",
             "origin": {
                 "type": false,
-                "path": "-"
+                "path": "N. Italy"
             },
             "location": {
-                "region": "Unspecified",
-                "city": "Uppsala County"
+                "region": "Uppsala",
+                "city": "-"
             },
             "treatment": "",
             "sex": "",
@@ -5061,16 +5061,16 @@
             "age": ""
         },
         {
-            "no": "9",
-            "date": "1970-01-01",
+            "no": "1",
+            "date": "2020-03-09",
             "status": "unknown",
             "origin": {
                 "type": false,
-                "path": "Kungsbacka Municipality"
+                "path": "Case 204"
             },
             "location": {
-                "region": "Unspecified",
-                "city": "Halland"
+                "region": "Halland",
+                "city": "Kungsbacka Municipality"
             },
             "treatment": "",
             "sex": "",
@@ -5125,16 +5125,16 @@
             "age": ""
         },
         {
-            "no": "9",
-            "date": "1970-01-01",
+            "no": "3",
+            "date": "2020-03-09",
             "status": "unknown",
             "origin": {
                 "type": false,
-                "path": "Kungsbacka, Varberg or Laholm"
+                "path": "Italy"
             },
             "location": {
-                "region": "Unspecified",
-                "city": "Halland County"
+                "region": "Halland",
+                "city": "Kungsbacka, Varberg or Laholm"
             },
             "treatment": "",
             "sex": "",
@@ -5157,16 +5157,16 @@
             "age": ""
         },
         {
-            "no": "9",
-            "date": "1970-01-01",
+            "no": "1",
+            "date": "2020-03-09",
             "status": "unknown",
             "origin": {
                 "type": false,
-                "path": "-"
+                "path": "N. Italy"
             },
             "location": {
-                "region": "Unspecified",
-                "city": "S\u00f6dermanland County"
+                "region": "S\u00f6dermanland",
+                "city": "-"
             },
             "treatment": "",
             "sex": "",
@@ -5189,16 +5189,16 @@
             "age": ""
         },
         {
-            "no": "9",
-            "date": "1970-01-01",
+            "no": "1",
+            "date": "2020-03-09",
             "status": "unknown",
             "origin": {
                 "type": false,
-                "path": "-"
+                "path": "N. Italy"
             },
             "location": {
-                "region": "Unspecified",
-                "city": "Norrbotten County"
+                "region": "Norrbotten",
+                "city": "-"
             },
             "treatment": "",
             "sex": "",
@@ -5221,16 +5221,16 @@
             "age": ""
         },
         {
-            "no": "9",
-            "date": "1970-01-01",
+            "no": "1",
+            "date": "2020-03-09",
             "status": "unknown",
             "origin": {
                 "type": false,
-                "path": "Kung\u00e4lv"
+                "path": ""
             },
             "location": {
-                "region": "Unspecified",
-                "city": "V\u00e4stra G\u00f6taland County"
+                "region": "V\u00e4stra G\u00f6taland",
+                "city": "Kung\u00e4lv"
             },
             "treatment": "",
             "sex": "",
@@ -5285,16 +5285,16 @@
             "age": ""
         },
         {
-            "no": "9",
-            "date": "1970-01-01",
+            "no": "3",
+            "date": "2020-03-09",
             "status": "unknown",
             "origin": {
                 "type": false,
-                "path": "-"
+                "path": "N. Italy, related to each other"
             },
             "location": {
-                "region": "Unspecified",
-                "city": "V\u00e4sterbotten County"
+                "region": "V\u00e4sterbotten",
+                "city": "-"
             },
             "treatment": "",
             "sex": "",
@@ -5333,16 +5333,16 @@
             "age": ""
         },
         {
-            "no": "9",
-            "date": "1970-01-01",
+            "no": "2",
+            "date": "2020-03-09",
             "status": "unknown",
             "origin": {
                 "type": false,
-                "path": "-"
+                "path": "N. Italy"
             },
             "location": {
-                "region": "Unspecified",
-                "city": "V\u00e4sterbotten County"
+                "region": "V\u00e4sterbotten",
+                "city": "-"
             },
             "treatment": "",
             "sex": "",
@@ -5365,16 +5365,16 @@
             "age": ""
         },
         {
-            "no": "9",
-            "date": "1970-01-01",
+            "no": "1",
+            "date": "2020-03-09",
             "status": "unknown",
             "origin": {
                 "type": false,
-                "path": "Eastern parts of county"
+                "path": "N. Italy"
             },
             "location": {
-                "region": "Unspecified",
-                "city": "\u00d6sterg\u00f6tland County"
+                "region": "\u00d6sterg\u00f6tland",
+                "city": "Eastern parts of county"
             },
             "treatment": "",
             "sex": "",
@@ -5429,16 +5429,16 @@
             "age": ""
         },
         {
-            "no": "10",
-            "date": "1970-01-01",
+            "no": "3",
+            "date": "2020-03-10",
             "status": "unknown",
             "origin": {
                 "type": false,
-                "path": "-"
+                "path": "N. Italy"
             },
             "location": {
-                "region": "Unspecified",
-                "city": "Sk\u00e5ne County"
+                "region": "Sk\u00e5ne",
+                "city": "-"
             },
             "treatment": "",
             "sex": "",
@@ -5461,16 +5461,16 @@
             "age": ""
         },
         {
-            "no": "10",
-            "date": "1970-01-01",
+            "no": "1",
+            "date": "2020-03-10",
             "status": "unknown",
             "origin": {
                 "type": false,
-                "path": "Kungsbacka, Varberg or Laholm"
+                "path": "-"
             },
             "location": {
-                "region": "Unspecified",
-                "city": "Halland County"
+                "region": "Halland",
+                "city": "Kungsbacka, Varberg or Laholm"
             },
             "treatment": "",
             "sex": "",
@@ -5493,16 +5493,16 @@
             "age": ""
         },
         {
-            "no": "10",
-            "date": "1970-01-01",
+            "no": "1",
+            "date": "2020-03-10",
             "status": "unknown",
             "origin": {
                 "type": false,
-                "path": "-"
+                "path": "N. Italy, related to three Stockholm cases"
             },
             "location": {
-                "region": "Unspecified",
-                "city": "\u00d6rebro County"
+                "region": "\u00d6rebro",
+                "city": "-"
             },
             "treatment": "",
             "sex": "",
@@ -6469,16 +6469,16 @@
             "age": ""
         },
         {
-            "no": "10",
-            "date": "1970-01-01",
+            "no": "60",
+            "date": "2020-03-10",
             "status": "unknown",
             "origin": {
                 "type": false,
                 "path": "-"
             },
             "location": {
-                "region": "Unspecified",
-                "city": "Stockholm County"
+                "region": "Stockholm",
+                "city": "-"
             },
             "treatment": "",
             "sex": "",
@@ -6501,16 +6501,16 @@
             "age": ""
         },
         {
-            "no": "10",
-            "date": "1970-01-01",
+            "no": "1",
+            "date": "2020-03-10",
             "status": "unknown",
             "origin": {
                 "type": false,
-                "path": "-"
+                "path": "An earlier V\u00e4rmland case from bus tour to N. Italy"
             },
             "location": {
-                "region": "Unspecified",
-                "city": "V\u00e4rmland County"
+                "region": "V\u00e4rmland",
+                "city": "-"
             },
             "treatment": "",
             "sex": "",
@@ -6757,16 +6757,16 @@
             "age": ""
         },
         {
-            "no": "10",
-            "date": "1970-01-01",
+            "no": "15",
+            "date": "2020-03-10",
             "status": "unknown",
             "origin": {
                 "type": false,
-                "path": "4 from Norra \u00c4lvsborg area,\n6 from Gothenburg area,\n2 from Skaraborg area, 3 from S\u00f6dra \u00c4lvsborg area"
+                "path": "Abroad"
             },
             "location": {
-                "region": "Unspecified",
-                "city": "V\u00e4stra G\u00f6taland County"
+                "region": "V\u00e4stra G\u00f6taland",
+                "city": "4 from Norra \u00c4lvsborg area,\n6 from Gothenburg area,\n2 from Skaraborg area, 3 from S\u00f6dra \u00c4lvsborg area"
             },
             "treatment": "",
             "sex": "",
@@ -6789,16 +6789,16 @@
             "age": ""
         },
         {
-            "no": "10",
-            "date": "1970-01-01",
+            "no": "1",
+            "date": "2020-03-10",
             "status": "unknown",
             "origin": {
                 "type": false,
-                "path": "-"
+                "path": "N. Italy"
             },
             "location": {
-                "region": "Unspecified",
-                "city": "S\u00f6rmland County"
+                "region": "S\u00f6dermanland",
+                "city": "-"
             },
             "treatment": "",
             "sex": "",
@@ -6821,16 +6821,16 @@
             "age": ""
         },
         {
-            "no": "10",
-            "date": "1970-01-01",
+            "no": "1",
+            "date": "2020-03-10",
             "status": "unknown",
             "origin": {
                 "type": false,
-                "path": "-"
+                "path": "N. Italy, connected to 4 cases in other regions in Sweden"
             },
             "location": {
-                "region": "Unspecified",
-                "city": "J\u00e4mtland County"
+                "region": "J\u00e4mtland",
+                "city": "-"
             },
             "treatment": "",
             "sex": "",
@@ -6885,16 +6885,16 @@
             "age": ""
         },
         {
-            "no": "10",
-            "date": "1970-01-01",
+            "no": "3",
+            "date": "2020-03-10",
             "status": "unknown",
             "origin": {
                 "type": false,
-                "path": "-"
+                "path": "Italy, related to each other"
             },
             "location": {
-                "region": "Unspecified",
-                "city": "V\u00e4sternorrland County"
+                "region": "V\u00e4sternorrland",
+                "city": "-"
             },
             "treatment": "",
             "sex": "",
@@ -6949,16 +6949,16 @@
             "age": ""
         },
         {
-            "no": "10",
-            "date": "1970-01-01",
+            "no": "3",
+            "date": "2020-03-10",
             "status": "unknown",
             "origin": {
                 "type": false,
-                "path": "Kungsbacka, Varberg or Laholm"
+                "path": "-"
             },
             "location": {
-                "region": "Unspecified",
-                "city": "Halland County"
+                "region": "Halland",
+                "city": "Kungsbacka, Varberg or Laholm"
             },
             "treatment": "",
             "sex": "",
@@ -6981,16 +6981,16 @@
             "age": ""
         },
         {
-            "no": "10",
-            "date": "1970-01-01",
+            "no": "1",
+            "date": "2020-03-10",
             "status": "unknown",
             "origin": {
                 "type": false,
-                "path": "-"
+                "path": "N. Italy, related to case 253"
             },
             "location": {
-                "region": "Unspecified",
-                "city": "Norrbotten County"
+                "region": "Norrbotten",
+                "city": "-"
             },
             "treatment": "",
             "sex": "",
@@ -7013,16 +7013,16 @@
             "age": ""
         },
         {
-            "no": "10",
-            "date": "1970-01-01",
+            "no": "1",
+            "date": "2020-03-10",
             "status": "unknown",
             "origin": {
                 "type": false,
-                "path": "-"
+                "path": "Austria"
             },
             "location": {
-                "region": "Unspecified",
-                "city": "Kalmar County"
+                "region": "Kalmar",
+                "city": "-"
             },
             "treatment": "",
             "sex": "",
@@ -7077,16 +7077,16 @@
             "age": ""
         },
         {
-            "no": "10",
-            "date": "1970-01-01",
+            "no": "3",
+            "date": "2020-03-10",
             "status": "unknown",
             "origin": {
                 "type": false,
-                "path": "-"
+                "path": "Italy, related to and travelled with case 344-346"
             },
             "location": {
-                "region": "Unspecified",
-                "city": "V\u00e4sternorrland County"
+                "region": "V\u00e4sternorrland",
+                "city": "-"
             },
             "treatment": "",
             "sex": "",
@@ -7109,16 +7109,16 @@
             "age": ""
         },
         {
-            "no": "10",
-            "date": "1970-01-01",
+            "no": "1",
+            "date": "2020-03-10",
             "status": "unknown",
             "origin": {
                 "type": false,
-                "path": "Another county, visiting Kronoberg"
+                "path": "A case in another region"
             },
             "location": {
-                "region": "Unspecified",
-                "city": "Kronoberg County"
+                "region": "Kronoberg",
+                "city": "Another county, visiting Kronoberg"
             },
             "treatment": "",
             "sex": "",
@@ -7141,16 +7141,16 @@
             "age": ""
         },
         {
-            "no": "10",
-            "date": "1970-01-01",
+            "no": "1",
+            "date": "2020-03-10",
             "status": "unknown",
             "origin": {
                 "type": false,
-                "path": "-"
+                "path": "Austria"
             },
             "location": {
-                "region": "Unspecified",
-                "city": "Kalmar County"
+                "region": "Kalmar",
+                "city": "-"
             },
             "treatment": "",
             "sex": "",
@@ -7717,16 +7717,16 @@
             "age": ""
         },
         {
-            "no": "11",
-            "date": "1970-01-01",
+            "no": "35",
+            "date": "2020-03-11",
             "status": "unknown",
             "origin": {
                 "type": false,
                 "path": "-"
             },
             "location": {
-                "region": "Unspecified",
-                "city": "Sk\u00e5ne_County"
+                "region": "Sk\u00e5ne",
+                "city": "-"
             },
             "treatment": "",
             "sex": "",
@@ -7736,20 +7736,20 @@
     "origins": [],
     "regions": {
         "Unspecified": {
-            "total": 456,
+            "total": 391,
             "logs": {
                 "1970-01-01": {
-                    "total": 456,
+                    "total": 391,
                     "recovered-fully": 0,
                     "recovered-clinically": 1,
                     "intensive-care": 0,
-                    "unknown": 455,
+                    "unknown": 390,
                     "deceased": 0
                 }
             }
         },
         "J\u00f6nk\u00f6ping": {
-            "total": 3,
+            "total": 8,
             "logs": {
                 "2020-01-31": {
                     "total": 1,
@@ -7774,11 +7774,27 @@
                     "intensive-care": 0,
                     "unknown": 1,
                     "deceased": 0
+                },
+                "2020-03-06": {
+                    "total": 4,
+                    "recovered-fully": 0,
+                    "recovered-clinically": 0,
+                    "intensive-care": 0,
+                    "unknown": 4,
+                    "deceased": 0
+                },
+                "2020-03-09": {
+                    "total": 1,
+                    "recovered-fully": 0,
+                    "recovered-clinically": 0,
+                    "intensive-care": 0,
+                    "unknown": 1,
+                    "deceased": 0
                 }
             }
         },
         "V\u00e4stra G\u00f6taland": {
-            "total": 8,
+            "total": 16,
             "logs": {
                 "2020-02-26": {
                     "total": 1,
@@ -7827,11 +7843,51 @@
                     "intensive-care": 0,
                     "unknown": 2,
                     "deceased": 0
+                },
+                "2020-03-05": {
+                    "total": 1,
+                    "recovered-fully": 0,
+                    "recovered-clinically": 0,
+                    "intensive-care": 0,
+                    "unknown": 1,
+                    "deceased": 0
+                },
+                "2020-03-06": {
+                    "total": 2,
+                    "recovered-fully": 0,
+                    "recovered-clinically": 0,
+                    "intensive-care": 0,
+                    "unknown": 2,
+                    "deceased": 0
+                },
+                "2020-03-08": {
+                    "total": 1,
+                    "recovered-fully": 0,
+                    "recovered-clinically": 0,
+                    "intensive-care": 0,
+                    "unknown": 1,
+                    "deceased": 0
+                },
+                "2020-03-09": {
+                    "total": 3,
+                    "recovered-fully": 0,
+                    "recovered-clinically": 0,
+                    "intensive-care": 0,
+                    "unknown": 3,
+                    "deceased": 0
+                },
+                "2020-03-10": {
+                    "total": 1,
+                    "recovered-fully": 0,
+                    "recovered-clinically": 0,
+                    "intensive-care": 0,
+                    "unknown": 1,
+                    "deceased": 0
                 }
             }
         },
         "Stockholm": {
-            "total": 10,
+            "total": 20,
             "logs": {
                 "2020-02-27": {
                     "total": 1,
@@ -7847,6 +7903,14 @@
                     "recovered-clinically": 0,
                     "intensive-care": 0,
                     "unknown": 2,
+                    "deceased": 0
+                },
+                "2020-02-29": {
+                    "total": 1,
+                    "recovered-fully": 0,
+                    "recovered-clinically": 0,
+                    "intensive-care": 0,
+                    "unknown": 1,
                     "deceased": 0
                 },
                 "2020-03-02": {
@@ -7866,6 +7930,54 @@
                     "deceased": 0
                 },
                 "2020-03-04": {
+                    "total": 2,
+                    "recovered-fully": 0,
+                    "recovered-clinically": 0,
+                    "intensive-care": 0,
+                    "unknown": 2,
+                    "deceased": 0
+                },
+                "2020-03-05": {
+                    "total": 2,
+                    "recovered-fully": 0,
+                    "recovered-clinically": 0,
+                    "intensive-care": 0,
+                    "unknown": 2,
+                    "deceased": 0
+                },
+                "2020-03-06": {
+                    "total": 1,
+                    "recovered-fully": 0,
+                    "recovered-clinically": 0,
+                    "intensive-care": 0,
+                    "unknown": 1,
+                    "deceased": 0
+                },
+                "2020-03-07": {
+                    "total": 2,
+                    "recovered-fully": 0,
+                    "recovered-clinically": 0,
+                    "intensive-care": 0,
+                    "unknown": 2,
+                    "deceased": 0
+                },
+                "2020-03-08": {
+                    "total": 1,
+                    "recovered-fully": 0,
+                    "recovered-clinically": 0,
+                    "intensive-care": 0,
+                    "unknown": 1,
+                    "deceased": 0
+                },
+                "2020-03-09": {
+                    "total": 1,
+                    "recovered-fully": 0,
+                    "recovered-clinically": 0,
+                    "intensive-care": 0,
+                    "unknown": 1,
+                    "deceased": 0
+                },
+                "2020-03-10": {
                     "total": 1,
                     "recovered-fully": 0,
                     "recovered-clinically": 0,
@@ -7876,7 +7988,7 @@
             }
         },
         "Uppsala": {
-            "total": 2,
+            "total": 7,
             "logs": {
                 "2020-02-27": {
                     "total": 1,
@@ -7893,11 +8005,43 @@
                     "intensive-care": 0,
                     "unknown": 1,
                     "deceased": 0
+                },
+                "2020-03-05": {
+                    "total": 1,
+                    "recovered-fully": 0,
+                    "recovered-clinically": 0,
+                    "intensive-care": 0,
+                    "unknown": 1,
+                    "deceased": 0
+                },
+                "2020-03-06": {
+                    "total": 1,
+                    "recovered-fully": 0,
+                    "recovered-clinically": 0,
+                    "intensive-care": 0,
+                    "unknown": 1,
+                    "deceased": 0
+                },
+                "2020-03-08": {
+                    "total": 1,
+                    "recovered-fully": 0,
+                    "recovered-clinically": 0,
+                    "intensive-care": 0,
+                    "unknown": 1,
+                    "deceased": 0
+                },
+                "2020-03-09": {
+                    "total": 2,
+                    "recovered-fully": 0,
+                    "recovered-clinically": 0,
+                    "intensive-care": 0,
+                    "unknown": 2,
+                    "deceased": 0
                 }
             }
         },
         "Sk\u00e5ne": {
-            "total": 2,
+            "total": 8,
             "logs": {
                 "2020-03-03": {
                     "total": 1,
@@ -7914,13 +8058,101 @@
                     "intensive-care": 0,
                     "unknown": 1,
                     "deceased": 0
+                },
+                "2020-03-05": {
+                    "total": 1,
+                    "recovered-fully": 0,
+                    "recovered-clinically": 0,
+                    "intensive-care": 0,
+                    "unknown": 1,
+                    "deceased": 0
+                },
+                "2020-03-06": {
+                    "total": 1,
+                    "recovered-fully": 0,
+                    "recovered-clinically": 0,
+                    "intensive-care": 0,
+                    "unknown": 1,
+                    "deceased": 0
+                },
+                "2020-03-07": {
+                    "total": 1,
+                    "recovered-fully": 0,
+                    "recovered-clinically": 0,
+                    "intensive-care": 0,
+                    "unknown": 1,
+                    "deceased": 0
+                },
+                "2020-03-08": {
+                    "total": 1,
+                    "recovered-fully": 0,
+                    "recovered-clinically": 0,
+                    "intensive-care": 0,
+                    "unknown": 1,
+                    "deceased": 0
+                },
+                "2020-03-10": {
+                    "total": 1,
+                    "recovered-fully": 0,
+                    "recovered-clinically": 0,
+                    "intensive-care": 0,
+                    "unknown": 1,
+                    "deceased": 0
+                },
+                "2020-03-11": {
+                    "total": 1,
+                    "recovered-fully": 0,
+                    "recovered-clinically": 0,
+                    "intensive-care": 0,
+                    "unknown": 1,
+                    "deceased": 0
                 }
             }
         },
         "V\u00e4rmland": {
-            "total": 1,
+            "total": 8,
             "logs": {
                 "2020-03-04": {
+                    "total": 1,
+                    "recovered-fully": 0,
+                    "recovered-clinically": 0,
+                    "intensive-care": 0,
+                    "unknown": 1,
+                    "deceased": 0
+                },
+                "2020-03-05": {
+                    "total": 2,
+                    "recovered-fully": 0,
+                    "recovered-clinically": 0,
+                    "intensive-care": 0,
+                    "unknown": 2,
+                    "deceased": 0
+                },
+                "2020-03-06": {
+                    "total": 2,
+                    "recovered-fully": 0,
+                    "recovered-clinically": 0,
+                    "intensive-care": 0,
+                    "unknown": 2,
+                    "deceased": 0
+                },
+                "2020-03-08": {
+                    "total": 1,
+                    "recovered-fully": 0,
+                    "recovered-clinically": 0,
+                    "intensive-care": 0,
+                    "unknown": 1,
+                    "deceased": 0
+                },
+                "2020-03-09": {
+                    "total": 1,
+                    "recovered-fully": 0,
+                    "recovered-clinically": 0,
+                    "intensive-care": 0,
+                    "unknown": 1,
+                    "deceased": 0
+                },
+                "2020-03-10": {
                     "total": 1,
                     "recovered-fully": 0,
                     "recovered-clinically": 0,
@@ -7931,9 +8163,187 @@
             }
         },
         "\u00d6rebro": {
-            "total": 1,
+            "total": 5,
             "logs": {
                 "2020-03-04": {
+                    "total": 1,
+                    "recovered-fully": 0,
+                    "recovered-clinically": 0,
+                    "intensive-care": 0,
+                    "unknown": 1,
+                    "deceased": 0
+                },
+                "2020-03-08": {
+                    "total": 3,
+                    "recovered-fully": 0,
+                    "recovered-clinically": 0,
+                    "intensive-care": 0,
+                    "unknown": 3,
+                    "deceased": 0
+                },
+                "2020-03-10": {
+                    "total": 1,
+                    "recovered-fully": 0,
+                    "recovered-clinically": 0,
+                    "intensive-care": 0,
+                    "unknown": 1,
+                    "deceased": 0
+                }
+            }
+        },
+        "G\u00e4vleborg": {
+            "total": 2,
+            "logs": {
+                "2020-03-05": {
+                    "total": 1,
+                    "recovered-fully": 0,
+                    "recovered-clinically": 0,
+                    "intensive-care": 0,
+                    "unknown": 1,
+                    "deceased": 0
+                },
+                "2020-03-06": {
+                    "total": 1,
+                    "recovered-fully": 0,
+                    "recovered-clinically": 0,
+                    "intensive-care": 0,
+                    "unknown": 1,
+                    "deceased": 0
+                }
+            }
+        },
+        "Halland": {
+            "total": 5,
+            "logs": {
+                "2020-03-09": {
+                    "total": 3,
+                    "recovered-fully": 0,
+                    "recovered-clinically": 0,
+                    "intensive-care": 0,
+                    "unknown": 3,
+                    "deceased": 0
+                },
+                "2020-03-10": {
+                    "total": 2,
+                    "recovered-fully": 0,
+                    "recovered-clinically": 0,
+                    "intensive-care": 0,
+                    "unknown": 2,
+                    "deceased": 0
+                }
+            }
+        },
+        "S\u00f6dermanland": {
+            "total": 2,
+            "logs": {
+                "2020-03-09": {
+                    "total": 1,
+                    "recovered-fully": 0,
+                    "recovered-clinically": 0,
+                    "intensive-care": 0,
+                    "unknown": 1,
+                    "deceased": 0
+                },
+                "2020-03-10": {
+                    "total": 1,
+                    "recovered-fully": 0,
+                    "recovered-clinically": 0,
+                    "intensive-care": 0,
+                    "unknown": 1,
+                    "deceased": 0
+                }
+            }
+        },
+        "Norrbotten": {
+            "total": 2,
+            "logs": {
+                "2020-03-09": {
+                    "total": 1,
+                    "recovered-fully": 0,
+                    "recovered-clinically": 0,
+                    "intensive-care": 0,
+                    "unknown": 1,
+                    "deceased": 0
+                },
+                "2020-03-10": {
+                    "total": 1,
+                    "recovered-fully": 0,
+                    "recovered-clinically": 0,
+                    "intensive-care": 0,
+                    "unknown": 1,
+                    "deceased": 0
+                }
+            }
+        },
+        "V\u00e4sterbotten": {
+            "total": 2,
+            "logs": {
+                "2020-03-09": {
+                    "total": 2,
+                    "recovered-fully": 0,
+                    "recovered-clinically": 0,
+                    "intensive-care": 0,
+                    "unknown": 2,
+                    "deceased": 0
+                }
+            }
+        },
+        "\u00d6sterg\u00f6tland": {
+            "total": 1,
+            "logs": {
+                "2020-03-09": {
+                    "total": 1,
+                    "recovered-fully": 0,
+                    "recovered-clinically": 0,
+                    "intensive-care": 0,
+                    "unknown": 1,
+                    "deceased": 0
+                }
+            }
+        },
+        "J\u00e4mtland": {
+            "total": 1,
+            "logs": {
+                "2020-03-10": {
+                    "total": 1,
+                    "recovered-fully": 0,
+                    "recovered-clinically": 0,
+                    "intensive-care": 0,
+                    "unknown": 1,
+                    "deceased": 0
+                }
+            }
+        },
+        "V\u00e4sternorrland": {
+            "total": 2,
+            "logs": {
+                "2020-03-10": {
+                    "total": 2,
+                    "recovered-fully": 0,
+                    "recovered-clinically": 0,
+                    "intensive-care": 0,
+                    "unknown": 2,
+                    "deceased": 0
+                }
+            }
+        },
+        "Kalmar": {
+            "total": 2,
+            "logs": {
+                "2020-03-10": {
+                    "total": 2,
+                    "recovered-fully": 0,
+                    "recovered-clinically": 0,
+                    "intensive-care": 0,
+                    "unknown": 2,
+                    "deceased": 0
+                }
+            }
+        },
+        "Kronoberg": {
+            "total": 1,
+            "logs": {
+                "2020-03-10": {
                     "total": 1,
                     "recovered-fully": 0,
                     "recovered-clinically": 0,
@@ -7946,12 +8356,12 @@
     },
     "dates": {
         "1970-01-01": {
-            "total": 456,
+            "total": 391,
             "status": {
                 "recovered-fully": 0,
                 "recovered-clinically": 1,
                 "intensive-care": 0,
-                "unknown": 455,
+                "unknown": 390,
                 "deceased": 0
             }
         },
@@ -7996,12 +8406,12 @@
             }
         },
         "2020-02-29": {
-            "total": 1,
+            "total": 2,
             "status": {
                 "recovered-fully": 0,
                 "recovered-clinically": 0,
                 "intensive-care": 0,
-                "unknown": 1,
+                "unknown": 2,
                 "deceased": 0
             }
         },
@@ -8036,12 +8446,82 @@
             }
         },
         "2020-03-04": {
-            "total": 6,
+            "total": 7,
             "status": {
                 "recovered-fully": 0,
                 "recovered-clinically": 0,
                 "intensive-care": 0,
-                "unknown": 6,
+                "unknown": 7,
+                "deceased": 0
+            }
+        },
+        "2020-03-05": {
+            "total": 8,
+            "status": {
+                "recovered-fully": 0,
+                "recovered-clinically": 0,
+                "intensive-care": 0,
+                "unknown": 8,
+                "deceased": 0
+            }
+        },
+        "2020-03-06": {
+            "total": 12,
+            "status": {
+                "recovered-fully": 0,
+                "recovered-clinically": 0,
+                "intensive-care": 0,
+                "unknown": 12,
+                "deceased": 0
+            }
+        },
+        "2020-03-07": {
+            "total": 3,
+            "status": {
+                "recovered-fully": 0,
+                "recovered-clinically": 0,
+                "intensive-care": 0,
+                "unknown": 3,
+                "deceased": 0
+            }
+        },
+        "2020-03-08": {
+            "total": 8,
+            "status": {
+                "recovered-fully": 0,
+                "recovered-clinically": 0,
+                "intensive-care": 0,
+                "unknown": 8,
+                "deceased": 0
+            }
+        },
+        "2020-03-09": {
+            "total": 16,
+            "status": {
+                "recovered-fully": 0,
+                "recovered-clinically": 0,
+                "intensive-care": 0,
+                "unknown": 16,
+                "deceased": 0
+            }
+        },
+        "2020-03-10": {
+            "total": 15,
+            "status": {
+                "recovered-fully": 0,
+                "recovered-clinically": 0,
+                "intensive-care": 0,
+                "unknown": 15,
+                "deceased": 0
+            }
+        },
+        "2020-03-11": {
+            "total": 1,
+            "status": {
+                "recovered-fully": 0,
+                "recovered-clinically": 0,
+                "intensive-care": 0,
+                "unknown": 1,
                 "deceased": 0
             }
         }
