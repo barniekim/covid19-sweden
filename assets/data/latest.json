@@ -1,7 +1,7 @@
 {
     "updated": {
         "datetime": "2020-03-11 6PM(CET)",
-        "timestamp": 1583947805
+        "timestamp": 1583949310
     },
     "cases": [
         {
@@ -7037,6 +7037,6 @@
         "recovered-clinically": 1,
         "intensive-care": 0,
         "unknown": 390,
-        "deceased": 0
+        "deceased": 1
     }
 }
