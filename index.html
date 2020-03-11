@@ -19,20 +19,19 @@
 			<i class="sync alternate icon"></i>
 			<span class="sub header" id="last-updated"></span>
 		</div>
+
 		<div class="ui basic label">
 			<a href="https://github.com/hisbarnabas/covid19-sweden" target="_blank"><i class="github icon"></i> <span class="computer only">Github</span></a>
 		</div>
 		<div class="ui basic label">
 			<a href="https://en.wikipedia.org/wiki/2020_coronavirus_outbreak_in_Sweden" target="_blank"><i class="wikipedia w icon"></i> <span class="computer only">Covid-19</span></a>
 		</div>
-
 		<div class="ui basic image label">
 			<a href="https://www.krisinformation.se/en/hazards-and-risks/disasters-and-incidents/2020/official-information-on-the-new-coronavirus" target="_blank">
 				<img src="https://www.krisinformation.se/assets/img/logo/favicon/apple-icon-180x180.png" />
 				<span class="computer only">Official Info.</span>
 			</a>
 		</div>
-		
 
 		<h2 class="ui header">
 			Covid-19 Update for Sweden
@@ -119,14 +118,50 @@
 	</style>
 
 	<script type="text/javascript">
-	$( document ).ready( function () {
-
-		$.getJSON( 'assets/data/latest.json', function( json ) {
+	var updateData = function() {
+		$.getJSON( 'assets/data/latest.json', function ( json ) {
 
 			var data_by_dates = json[ 'dates' ];
 			var data_by_regions = json[ 'regions' ];
 
 			var googleChartsLoaded = false;
+
+			var graphOptionsCommon = {
+				curveType: 'function',
+				orientation: 'horizontal',
+				lineWidth: 1,
+				pointSize: 5,
+				pointsVisible: true,
+				legend: {
+					position: 'top',
+					maxLines: 2,
+				},
+				hAxis: {
+					format: 'M/d',
+				},
+				vAxis: {
+					minValue: 0,
+					viewWindow: {
+						min: 0
+					}
+				},
+				series: {
+					0: {
+						color: '#B0B0B0' // Grey
+					},
+					1: {
+						color: '#000000' // Black
+					},
+					2: {
+						color: '#21ba45', // Green
+					},
+					3: {
+						color: '#db2828', // Red
+					}
+				},
+				chartArea: { top: 50, right: 20, bottom: 30, left: 50, width: "100%", height: "100%" },
+				height: 400
+			};
 
 			/**
 			 * Draw a line-chart with the country-wide stats
@@ -169,47 +204,12 @@
 					tickDates.push( new Date( d ) );
 				}
 
-				var options = {
-					curveType: 'function',
-					orientation: 'horizontal',
-					lineWidth: 1,
-					pointSize: 5,
-					pointsVisible: true,
-					legend: {
-						position: 'top',
-						maxLines: 2,
-					},
-					hAxis: {
-						format: 'M/d',
-						ticks: tickDates,
-						minValue: startDate,
-						viewWindow: {
-							min: startDate
-						}
-					},
-					vAxis: {
-						minValue: 0,
-						viewWindow: {
-							min: 0
-						}
-					},
-					series: {
-						0: {
-							color: '#B0B0B0' // Grey
-						},
-						1: {
-							color: '#000000' // Black
-						},
-						2: {
-							color: '#21ba45', // Green
-						},
-						3: {
-							color: '#db2828', // Red
-						}
-					},
-					chartArea: { top: 50, right: 20, bottom: 30, left: 50, width: "100%", height: "100%" },
-					height: 400
-				};
+				var options = graphOptionsCommon;
+				var options_hAxis = options.hAxis;
+				options_hAxis.ticks = tickDates;
+				options_hAxis.minValue = startDate;
+				options_hAxis.viewWindow = { min: startDate };
+				options.hAxis = options_hAxis;
 
 				var chart = new google.visualization.LineChart( document.getElementById( 'graph-country' ) );
 				chart.draw( data, options );
@@ -228,7 +228,11 @@
 				}
 
 				var region = $( '#dropdown-region-selected' ).val();
-				var data_region = data_by_regions[ region ]['logs'];
+				if ( ! region ) {
+					return;
+				}
+
+				var data_region = data_by_regions[ region ][ 'logs' ];
 
 				var data = new google.visualization.DataTable();
 				data.addColumn( 'date', 'Date' );
@@ -264,59 +268,27 @@
 					tickDates.push( new Date( d ) );
 				}
 
-				var options = {
-					curveType: 'function',
-					orientation: 'horizontal',
-					lineWidth: 1,
-					pointSize: 5,
-					pointsVisible: true,
-					legend: {
-						position: 'top',
-						maxLines: 2,
-					},
-					hAxis: {
-						format: 'M/d',
-						ticks: tickDates,
-						minValue: startDate,
-						viewWindow: {
-							min: startDate
-						}
-					},
-					vAxis: {
-						minValue: 0,
-						viewWindow: {
-							min: 0
-						}
-					},
-					series: {
-						0: {
-							color: '#B0B0B0' // Grey
-						},
-						1: {
-							color: '#000000' // Black
-						},
-						2: {
-							color: '#21ba45', // Green
-						},
-						3: {
-							color: '#db2828', // Red
-						}
-					},
-					chartArea: { top: 50, right: 20, bottom: 30, left: 50, width: "100%", height: "100%" },
-					height: 400
-				};
+				var options = graphOptionsCommon;
+				var options_hAxis = options.hAxis;
+				options_hAxis.ticks = tickDates;
+				options_hAxis.minValue = startDate;
+				options_hAxis.viewWindow = { min: startDate };
+				options.hAxis = options_hAxis;
 
 				var chart = new google.visualization.LineChart( document.getElementById( 'graph-region' ) );
 				chart.draw( data, options );
-
 			};
 
 			/**
 			 * Draw a table for the region
 			 */
-			var drawTableRegion = function(){
+			var drawTableRegion = function () {
 
 				var region = $( '#dropdown-region-selected' ).val();
+				if ( ! region ) {
+					return;
+				}
+
 				var data_region = data_by_regions[ region ][ 'logs' ];
 
 				var _total = { confirmed: 0, deceased: 0 };
@@ -328,9 +300,9 @@
 					_total[ 'deceased' ] += _log[ 'deceased' ];
 					$( '#table-region-stats tbody' ).append(
 						'<tr>' +
-							'<td>' + _date + '</td>' +
-							'<td class="right aligned">' + _log[ 'total' ] + '</td>' +
-							'<td class="right aligned">' + _log[ 'deceased' ] + '</td>' +
+						'<td>' + _date + '</td>' +
+						'<td class="right aligned">' + _log[ 'total' ] + '</td>' +
+						'<td class="right aligned">' + _log[ 'deceased' ] + '</td>' +
 						'</tr>'
 					);
 				} );
@@ -341,7 +313,7 @@
 			}
 
 			// Last updated.
-			$( '#last-updated' ).text( json['updated']['datetime'] );
+			$( '#last-updated' ).text( json[ 'updated' ][ 'datetime' ] );
 
 			// Country-wide stats.
 			var summary = json[ 'summary' ];
@@ -353,7 +325,7 @@
 			var region_keys = Object.keys( data_by_regions );
 			var region_dropdown_items = [];
 			var default_region = 'Stockholm';
-			region_keys.forEach( function( value ) {
+			region_keys.forEach( function ( value ) {
 				region_dropdown_items.push( {
 					name: value,
 					value: value,
@@ -382,7 +354,13 @@
 			google.charts.load( 'current', { 'packages': [ 'corechart' ] } );
 			google.charts.setOnLoadCallback( drawGraphCountry );
 		} );
+	};
 
+	$( document ).ready( function () {
+		updateData();
+
+		// auto-refresh the data in every 5 minutes
+		setInterval( updateData, 1000 * 60 * 5 );
 	} );
 	</script>
 
