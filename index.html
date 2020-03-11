@@ -9,7 +9,7 @@
 	<script src="https://code.jquery.com/jquery-3.4.1.min.js"
 		integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous"></script>
 	<script src="https://cdn.jsdelivr.net/npm/semantic-ui@2.4.2/dist/semantic.min.js"></script>
-	<script src="https://d3js.org/d3.v4.min.js"></script>
+	<script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
 </head>
 
 <body>
@@ -45,21 +45,9 @@
 					<div class="label">Deceased</div>
 				</div>
 			</div>
-			<!--
-			<div class="ui two column stackable grid">
-				<div class="middle aligned row">
-					<div class="four wide column">
-						<img id="img-sweden" class="ui small centered image" src="assets/images/sweden.svg" />
-					</div>
-					<div class="centered twelve wide column">
-						<div id="graph-country"></div>
-					</div>
-				</div>
-			</div>
-			-->
 		</div>
 
-		<div class="ui hidden divider"></div>
+		<div id="graph-country"></div>
 
 		<h3 class="ui header">by Region (Län)</h3>
 		<div id="dropdown-region" class="ui search selection dropdown">
@@ -163,61 +151,78 @@
 						$( '#table-region-stats tfoot th[aria-type=deceased]' ).text( _total[ 'deceased' ] );
 					}
 				} );
+
+			// ----------------------------------------------------------
+			// graph (Google Charts): country-wide
+			// ----------------------------------------------------------
+			google.charts.load('current', {'packages':['corechart']});
+			google.charts.setOnLoadCallback( function () {
+
+				var data = new google.visualization.DataTable();
+				data.addColumn( 'date', 'Date' );
+				data.addColumn( 'number', 'Confirmed (New)' );
+				data.addColumn( 'number', 'Confirmed (Accumulated)' );
+				data.addColumn( 'number', 'Recovered (Accumulated)' );
+				data.addColumn( 'number', 'Deceased (Accumulated)' );
+
+				var data_by_dates = json['dates'];
+				var accumulated_confirmed = 0;
+				var accumulated_recovered = 0;
+				var accumulated_deceased = 0;
+				Object.keys( data_by_dates ).forEach( function( date, idx ) {
+					var _tmp = date.split( '-' );
+					var _date = new Date( parseInt( _tmp[0] ), parseInt( _tmp[1] ) - 1, parseInt( _tmp[2] ) );
+					var _values = data_by_dates[ date ];
+					var _daily_confirmed = parseInt( _values[ 'total' ] );
+					var _daily_recovered = parseInt( _values[ 'status' ][ 'recovered-fully' ] ) + parseInt( _values[ 'status' ][ 'recovered-clinically' ] );
+					var _daily_deceased = parseInt( _values[ 'status' ][ 'deceased' ] );
+					accumulated_confirmed += _daily_confirmed;
+					accumulated_recovered += _daily_recovered;
+					accumulated_deceased += _daily_deceased;
+					data.addRow( [ _date, _daily_confirmed, accumulated_confirmed, accumulated_recovered, accumulated_deceased ] );
+				} );
+
+				var options = {
+					curveType: 'function',
+					orientation: 'horizontal',
+					lineWidth: 1,
+					pointSize: 5,
+					pointsVisible: true,
+					legend: {
+						position: 'top',
+						maxLines: 2,
+					},
+					hAxis: {
+						format: 'M/d'
+					},
+					vAxis: {
+						minValue: 0,
+						viewWindow: {
+							min: 0
+						}
+					},
+					series: {
+						0: {
+							color: '#B0B0B0' // Grey
+						},
+						1: {
+							color: '#000000' // Black
+						},
+						2: {
+							color: '#21ba45', // Green
+						},
+						3: {
+							color: '#db2828', // Red
+						}
+					},
+					chartArea: { top: 50, right: 20, bottom: 30, left: 50, width: "100%", height: "100%" },
+					height: 400
+				};
+
+				var chart = new google.visualization.LineChart( document.getElementById( 'graph-country' ) );
+				chart.draw( data, options );
+			} );
 		} );
-
-		// ----------------------------------------------------------
-		// graph: country-wide
-		// ----------------------------------------------------------
-		// set the dimensions and margins of the graph
-		// var margin = { top: 10, right: 30, bottom: 30, left: 60 },
-		// 	width = 350 - margin.left - margin.right,
-		// 	height = 350 - margin.top - margin.bottom;
-
-		// // append the svg object to the body of the page
-		// var svg = d3.select( "#graph-country" )
-		// 			.append( "svg" )
-		// 				.attr( "width", width + margin.left + margin.right )
-		// 				.attr( "height", height + margin.top + margin.bottom )
-		// 			.append( "g" )
-		// 				.attr( "transform", "translate(" + margin.left + "," + margin.top + ")" );
-
-		// // Read the data
-		// d3.csv( "https://raw.githubusercontent.com/holtzy/data_to_viz/master/Example_dataset/3_TwoNumOrdered_comma.csv",
-
-		// 	// When reading the csv, I must format variables:
-		// 	function ( d ) {
-		// 		return { date: d3.timeParse( "%Y-%m-%d" )( d.date ), value: d.value }
-		// 	},
-
-		// 	// Now I can use this dataset:
-		// 	function ( data ) {
-
-		// 		// Add X axis --> it is a date format
-		// 		var x = d3.scaleTime()
-		// 			.domain( d3.extent( data, function ( d ) { return d.date; } ) )
-		// 			.range( [ 0, width ] );
-		// 		svg.append( "g" )
-		// 			.attr( "transform", "translate(0," + height + ")" )
-		// 			.call( d3.axisBottom( x ) );
-
-		// 		// Add Y axis
-		// 		var y = d3.scaleLinear()
-		// 			.domain( [ 0, d3.max( data, function ( d ) { return +d.value; } ) ] )
-		// 			.range( [ height, 0 ] );
-		// 		svg.append( "g" )
-		// 			.call( d3.axisLeft( y ) );
-
-		// 		// Add the line
-		// 		svg.append( "path" )
-		// 			.datum( data )
-		// 				.attr( "fill", "none" )
-		// 				.attr( "stroke", "steelblue" )
-		// 				.attr( "stroke-width", 1.5 )
-		// 				.attr( "d", d3.line()
-		// 					.x( function ( d ) { return x( d.date ) } )
-		// 					.y( function ( d ) { return y( d.value ) } )
-		// 				)
-		// 	} );
 
 	} );
 	</script>
