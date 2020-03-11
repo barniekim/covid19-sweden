@@ -42,9 +42,9 @@
 		<div class="ui message">
 			<p>This site crawls new data in every 30 minutes. Due to the rapid increasement of infections, the total confirmed cases represents the latest update though the numbers for each case might be delayed by the Wikipedia contributors.</p>
 		</div>
-		
+
 		<div class="ui segment">
-			<div class="ui small three statistics">
+			<div class="ui tiny four statistics">
 				<div class="statistic">
 					<div id="stat-country-confirmed" class="value">0</div>
 					<div class="label">Confirmed</div>
@@ -52,6 +52,10 @@
 				<div class="green statistic">
 					<div id="stat-country-recovered" class="value">0</div>
 					<div class="label">Recovered</div>
+				</div>
+				<div class="orange statistic">
+					<div id="stat-country-severe" class="value">0</div>
+					<div class="label">Severe</div>
 				</div>
 				<div class="red statistic">
 					<div id="stat-country-deceased" class="value">0</div>
@@ -83,7 +87,6 @@
 							<tr>
 								<th>Date</th>
 								<th>Confirmed</th>
-								<th>Deceased</th>
 							</tr>
 						</thead>
 						<tbody></tbody>
@@ -91,7 +94,6 @@
 							<tr>
 								<th>Total</th>
 								<th aria-type="confirmed" class="right aligned">0</th>
-								<th aria-type="deceased" class="right aligned">0</th>
 							</tr>
 						</tfoot>
 					</table>
@@ -183,23 +185,14 @@
 				data.addColumn( 'date', 'Date' );
 				data.addColumn( 'number', 'Confirmed (New)' );
 				data.addColumn( 'number', 'Confirmed (Accumulated)' );
-				data.addColumn( 'number', 'Recovered (Accumulated)' );
-				data.addColumn( 'number', 'Deceased (Accumulated)' );
 
 				var accumulated_confirmed = 0;
-				var accumulated_recovered = 0;
-				var accumulated_deceased = 0;
 				Object.keys( data_by_dates ).forEach( function ( date, idx ) {
 					var _tmp = date.split( '-' );
 					var _date = new Date( parseInt( _tmp[ 0 ] ), parseInt( _tmp[ 1 ] ) - 1, parseInt( _tmp[ 2 ] ) );
-					var _values = data_by_dates[ date ];
-					var _daily_confirmed = parseInt( _values[ 'total' ] );
-					var _daily_recovered = parseInt( _values[ 'status' ][ 'recovered-fully' ] ) + parseInt( _values[ 'status' ][ 'recovered-clinically' ] );
-					var _daily_deceased = parseInt( _values[ 'status' ][ 'deceased' ] );
+					var _daily_confirmed = data_by_dates[ date ];
 					accumulated_confirmed += _daily_confirmed;
-					accumulated_recovered += _daily_recovered;
-					accumulated_deceased += _daily_deceased;
-					data.addRow( [ _date, _daily_confirmed, accumulated_confirmed, accumulated_recovered, accumulated_deceased ] );
+					data.addRow( [ _date, _daily_confirmed, accumulated_confirmed ] );
 				} );
 
 				/**
@@ -247,8 +240,6 @@
 				data.addColumn( 'date', 'Date' );
 				data.addColumn( 'number', 'Confirmed (New)' );
 				data.addColumn( 'number', 'Confirmed (Accumulated)' );
-				data.addColumn( 'number', 'Recovered (Accumulated)' );
-				data.addColumn( 'number', 'Deceased (Accumulated)' );
 
 				var accumulated_confirmed = 0;
 				var accumulated_recovered = 0;
@@ -256,14 +247,9 @@
 				Object.keys( data_region ).forEach( function ( date, idx ) {
 					var _tmp = date.split( '-' );
 					var _date = new Date( parseInt( _tmp[ 0 ] ), parseInt( _tmp[ 1 ] ) - 1, parseInt( _tmp[ 2 ] ) );
-					var _values = data_region[ date ];
-					var _daily_confirmed = parseInt( _values[ 'total' ] );
-					var _daily_recovered = parseInt( _values[ 'recovered-fully' ] ) + parseInt( _values[ 'recovered-clinically' ] );
-					var _daily_deceased = parseInt( _values[ 'deceased' ] );
+					var _daily_confirmed = data_region[ date ];
 					accumulated_confirmed += _daily_confirmed;
-					accumulated_recovered += _daily_recovered;
-					accumulated_deceased += _daily_deceased;
-					data.addRow( [ _date, _daily_confirmed, accumulated_confirmed, accumulated_recovered, accumulated_deceased ] );
+					data.addRow( [ _date, _daily_confirmed, accumulated_confirmed ] );
 				} );
 
 				/**
@@ -300,25 +286,21 @@
 
 				var data_region = data_by_regions[ region ][ 'logs' ];
 
-				var _total = { confirmed: 0, deceased: 0 };
+				var _total = { confirmed: 0 };
 				var _dates = Object.keys( data_region );
 
 				_dates.forEach( function ( _date ) {
-					var _log = data_region[ _date ];
-					_total[ 'confirmed' ] += _log[ 'total' ];
-					_total[ 'deceased' ] += _log[ 'deceased' ];
+					var _confirmed = data_region[ _date ];
+					_total[ 'confirmed' ] += _confirmed;
 					$( '#table-region-stats tbody' ).append(
 						'<tr>' +
 						'<td>' + _date + '</td>' +
-						'<td class="right aligned">' + _log[ 'total' ] + '</td>' +
-						'<td class="right aligned">' + _log[ 'deceased' ] + '</td>' +
+						'<td class="right aligned">' + _confirmed + '</td>' +
 						'</tr>'
 					);
 				} );
 
 				$( '#table-region-stats tfoot th[aria-type=confirmed]' ).text( _total[ 'confirmed' ] );
-				$( '#table-region-stats tfoot th[aria-type=deceased]' ).text( _total[ 'deceased' ] );
-
 			}
 
 			// Last updated.
@@ -326,9 +308,9 @@
 
 			// Country-wide stats.
 			var summary = json[ 'summary' ];
-			$( '#stat-country-confirmed' ).text( summary[ 'confirmed' ] );
-			$( '#stat-country-recovered' ).text( summary[ 'recovered-fully' ] + summary[ 'recovered-clinically' ] );
-			$( '#stat-country-deceased' ).text( summary[ 'deceased' ] );
+			[ 'confirmed', 'recovered', 'severe', 'deceased' ].forEach( function( key, idx ) {
+				$( '#stat-country-' + key ).text( summary[ key ] );
+			} );
 
 			// Regional stats.
 			var region_keys = Object.keys( data_by_regions );
