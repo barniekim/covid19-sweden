@@ -49,34 +49,39 @@
 
 		<div id="graph-country"></div>
 
-		<h3 class="ui header">by Region (Län)</h3>
-		<div id="dropdown-region" class="ui search selection dropdown">
-			<input type="hidden" name="country">
-			<div class="default text">Select Country</div>
-			<i class="dropdown icon"></i>
-			<div class="menu"></div>
+		<div class="ui segment">
+			<h3 class="ui header">by Region (Län)</h3>
+			<div id="dropdown-region" class="ui search selection dropdown">
+				<input type="hidden" name="country">
+				<div class="default text">Select Country</div>
+				<i class="dropdown icon"></i>
+				<div class="menu"></div>
+			</div>
+			
+			<table id="table-region-stats" class="ui stackable compact table">
+				<thead>
+					<tr>
+						<th>Date</th>
+						<th>Confirmed</th>
+						<th>Deceased</th>
+					</tr>
+				</thead>
+				<tbody></tbody>
+				<tfoot>
+					<tr>
+						<th>Total</th>
+						<th aria-type="confirmed">0</th>
+						<th aria-type="deceased">0</th>
+					</tr>
+				</tfoot>
+			</table>
+			
+			<div id="graph-region"></div>
 		</div>
 
-		<table id="table-region-stats" class="ui stackable compact table">
-			<thead>
-				<tr>
-					<th>Date</th>
-					<th>Confirmed</th>
-					<th>Deceased</th>
-				</tr>
-			</thead>
-			<tbody></tbody>
-			<tfoot>
-				<tr>
-					<th>Total</th>
-					<th aria-type="confirmed">0</th>
-					<th aria-type="deceased">0</th>
-				</tr>
-			</tfoot>
-		</table>
-
-		<div id="graph-region"></div>
 	</div>
+
+	<div class="ui hidden divider"></div>
 
 	<style>
 		#graph-country svg {
@@ -99,64 +104,19 @@
 	$( document ).ready( function () {
 
 		$.getJSON( 'assets/data/latest.json', function( json ) {
-			
-			// Last updated.
-			$( '#last-updated' ).text( json['updated']['datetime'] );
 
-			// Country-wide stats.
-			var summary = json[ 'summary' ];
-			$( '#stat-country-confirmed' ).text( summary[ 'confirmed' ] );
-			$( '#stat-country-recovered' ).text( summary[ 'recovered-fully' ] + summary[ 'recovered-clinically' ] );
-			$( '#stat-country-deceased' ).text( summary[ 'deceased' ] );
+			var data_by_dates = json[ 'dates' ];
+			var data_by_regions = json[ 'regions' ];
 
-			// Regional stats.
-			var regions = json[ 'regions' ];
-			var region_keys = Object.keys( regions );
-			var region_dropdown_items = [];
-			var default_region = 'Stockholm';
-			region_keys.forEach( function( value ) {
-				region_dropdown_items.push( {
-					name: value,
-					value: value,
-					selected: ( value == default_region )
-				} );
-			} );
-			// dropdown: region
-			$( '#dropdown-region' )
-				.dropdown( {
-					values: region_dropdown_items,
-					onChange: function ( value, text, item ) {
 
-						// table: region
-						$( '#table-region-stats tbody' ).empty();
+			var googleChartsLoaded = false;
 
-						var _total = { confirmed: 0, deceased: 0};
-						var _logs  = regions[ value ]['logs'];
-						var _dates = Object.keys( _logs );
+			/**
+			 * Draw a line-chart with the country-wide stats
+			 */
+			var drawGraphCountry = function () {
 
-						_dates.forEach( function( _date ) {
-							var _log = _logs[ _date ];
-							_total[ 'confirmed' ] += _log[ 'total' ];
-							_total[ 'deceased' ] += _log[ 'deceased' ];
-							$( '#table-region-stats tbody' ).append(
-								'<tr>' +
-									'<td>' + _date +'</td>' +
-									'<td>' + _log[ 'total' ] + '</td>' +
-									'<td>' + _log[ 'deceased' ] + '</td>' +
-								'</tr>'
-							);
-						} );
-
-						$( '#table-region-stats tfoot th[aria-type=confirmed]' ).text( _total[ 'confirmed' ] );
-						$( '#table-region-stats tfoot th[aria-type=deceased]' ).text( _total[ 'deceased' ] );
-					}
-				} );
-
-			// ----------------------------------------------------------
-			// graph (Google Charts): country-wide
-			// ----------------------------------------------------------
-			google.charts.load('current', {'packages':['corechart']});
-			google.charts.setOnLoadCallback( function () {
+				googleChartsLoaded = true;
 
 				var data = new google.visualization.DataTable();
 				data.addColumn( 'date', 'Date' );
@@ -165,13 +125,12 @@
 				data.addColumn( 'number', 'Recovered (Accumulated)' );
 				data.addColumn( 'number', 'Deceased (Accumulated)' );
 
-				var data_by_dates = json['dates'];
 				var accumulated_confirmed = 0;
 				var accumulated_recovered = 0;
 				var accumulated_deceased = 0;
-				Object.keys( data_by_dates ).forEach( function( date, idx ) {
+				Object.keys( data_by_dates ).forEach( function ( date, idx ) {
 					var _tmp = date.split( '-' );
-					var _date = new Date( parseInt( _tmp[0] ), parseInt( _tmp[1] ) - 1, parseInt( _tmp[2] ) );
+					var _date = new Date( parseInt( _tmp[ 0 ] ), parseInt( _tmp[ 1 ] ) - 1, parseInt( _tmp[ 2 ] ) );
 					var _values = data_by_dates[ date ];
 					var _daily_confirmed = parseInt( _values[ 'total' ] );
 					var _daily_recovered = parseInt( _values[ 'status' ][ 'recovered-fully' ] ) + parseInt( _values[ 'status' ][ 'recovered-clinically' ] );
@@ -237,7 +196,159 @@
 
 				var chart = new google.visualization.LineChart( document.getElementById( 'graph-country' ) );
 				chart.draw( data, options );
+
+				// call to draw regional graph as well.
+				drawGraphRegion();
+			};
+
+			/**
+			 * Draw a line-chart with the regional stats
+			 */
+			var drawGraphRegion = function () {
+
+				if ( !googleChartsLoaded ) {
+					return;
+				}
+
+				var data = new google.visualization.DataTable();
+				data.addColumn( 'date', 'Date' );
+				data.addColumn( 'number', 'Confirmed (New)' );
+				data.addColumn( 'number', 'Confirmed (Accumulated)' );
+				data.addColumn( 'number', 'Recovered (Accumulated)' );
+				data.addColumn( 'number', 'Deceased (Accumulated)' );
+
+				var accumulated_confirmed = 0;
+				var accumulated_recovered = 0;
+				var accumulated_deceased = 0;
+				Object.keys( data_by_dates ).forEach( function ( date, idx ) {
+					var _tmp = date.split( '-' );
+					var _date = new Date( parseInt( _tmp[ 0 ] ), parseInt( _tmp[ 1 ] ) - 1, parseInt( _tmp[ 2 ] ) );
+					var _values = data_by_dates[ date ];
+					var _daily_confirmed = parseInt( _values[ 'total' ] );
+					var _daily_recovered = parseInt( _values[ 'status' ][ 'recovered-fully' ] ) + parseInt( _values[ 'status' ][ 'recovered-clinically' ] );
+					var _daily_deceased = parseInt( _values[ 'status' ][ 'deceased' ] );
+					accumulated_confirmed += _daily_confirmed;
+					accumulated_recovered += _daily_recovered;
+					accumulated_deceased += _daily_deceased;
+					data.addRow( [ _date, _daily_confirmed, accumulated_confirmed, accumulated_recovered, accumulated_deceased ] );
+				} );
+
+				/**
+				 * Makes sense to cut out the date before Feb 26, 2020,
+				 * for it spreads out rapidly since then.
+				 */
+				var startDate = new Date( 2020, 1, 26 );
+				var now = new Date();
+				var tickDates = [];
+				for ( var d = new Date( startDate ); d <= now; d.setDate( d.getDate() + 1 ) ) {
+					tickDates.push( new Date( d ) );
+				}
+
+				var options = {
+					curveType: 'function',
+					orientation: 'horizontal',
+					lineWidth: 1,
+					pointSize: 5,
+					pointsVisible: true,
+					legend: {
+						position: 'top',
+						maxLines: 2,
+					},
+					hAxis: {
+						format: 'M/d',
+						ticks: tickDates,
+						minValue: startDate,
+						viewWindow: {
+							min: startDate
+						}
+					},
+					vAxis: {
+						minValue: 0,
+						viewWindow: {
+							min: 0
+						}
+					},
+					series: {
+						0: {
+							color: '#B0B0B0' // Grey
+						},
+						1: {
+							color: '#000000' // Black
+						},
+						2: {
+							color: '#21ba45', // Green
+						},
+						3: {
+							color: '#db2828', // Red
+						}
+					},
+					chartArea: { top: 50, right: 20, bottom: 30, left: 50, width: "100%", height: "100%" },
+					height: 400
+				};
+
+				var chart = new google.visualization.LineChart( document.getElementById( 'graph-region' ) );
+				chart.draw( data, options );
+
+			};
+
+			// Last updated.
+			$( '#last-updated' ).text( json['updated']['datetime'] );
+
+			// Country-wide stats.
+			var summary = json[ 'summary' ];
+			$( '#stat-country-confirmed' ).text( summary[ 'confirmed' ] );
+			$( '#stat-country-recovered' ).text( summary[ 'recovered-fully' ] + summary[ 'recovered-clinically' ] );
+			$( '#stat-country-deceased' ).text( summary[ 'deceased' ] );
+
+			// Regional stats.
+			var region_keys = Object.keys( data_by_regions );
+			var region_dropdown_items = [];
+			var default_region = 'Stockholm';
+			region_keys.forEach( function( value ) {
+				region_dropdown_items.push( {
+					name: value,
+					value: value,
+					selected: ( value == default_region )
+				} );
 			} );
+
+			// dropdown: region
+			$( '#dropdown-region' )
+				.dropdown( {
+					values: region_dropdown_items,
+					onChange: function ( value, text, item ) {
+
+						// table: region
+						$( '#table-region-stats tbody' ).empty();
+
+						var _total = { confirmed: 0, deceased: 0};
+						var _logs  = data_by_regions[ value ]['logs'];
+						var _dates = Object.keys( _logs );
+
+						_dates.forEach( function( _date ) {
+							var _log = _logs[ _date ];
+							_total[ 'confirmed' ] += _log[ 'total' ];
+							_total[ 'deceased' ] += _log[ 'deceased' ];
+							$( '#table-region-stats tbody' ).append(
+								'<tr>' +
+									'<td>' + _date +'</td>' +
+									'<td>' + _log[ 'total' ] + '</td>' +
+									'<td>' + _log[ 'deceased' ] + '</td>' +
+								'</tr>'
+							);
+						} );
+
+						$( '#table-region-stats tfoot th[aria-type=confirmed]' ).text( _total[ 'confirmed' ] );
+						$( '#table-region-stats tfoot th[aria-type=deceased]' ).text( _total[ 'deceased' ] );
+
+						// draw the graph
+						drawGraphRegion();
+					}
+				} );
+
+			// Google Charts
+			google.charts.load( 'current', { 'packages': [ 'corechart' ] } );
+			google.charts.setOnLoadCallback( drawGraphCountry );
 		} );
 
 	} );
