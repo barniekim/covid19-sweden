@@ -50,33 +50,43 @@
 		</div>
 
 		<div class="ui segment">
-			<h3 class="ui header">by Region (Län)</h3>
+			<h3 class="ui header">
+				Stats by Region (Län)
+			</h3>
+
 			<div id="dropdown-region" class="ui search selection dropdown">
-				<input type="hidden" name="country">
-				<div class="default text">Select Country</div>
+				<input type="hidden" id="dropdown-region-selected" name="region">
+				<div class="default text">Select Region (Län)</div>
 				<i class="dropdown icon"></i>
 				<div class="menu"></div>
 			</div>
+
+			<div class="ui hidden divider"></div>
 			
-			<table id="table-region-stats" class="ui compact unstackable table">
-				<thead>
-					<tr>
-						<th>Date</th>
-						<th>Confirmed</th>
-						<th>Deceased</th>
-					</tr>
-				</thead>
-				<tbody></tbody>
-				<tfoot>
-					<tr>
-						<th>Total</th>
-						<th aria-type="confirmed">0</th>
-						<th aria-type="deceased">0</th>
-					</tr>
-				</tfoot>
-			</table>
-			
-			<div id="graph-region"></div>
+			<div class="ui stackable two column grid">
+				<div class="column">
+					<table id="table-region-stats" class="ui compact unstackable table">
+						<thead>
+							<tr>
+								<th>Date</th>
+								<th>Confirmed</th>
+								<th>Deceased</th>
+							</tr>
+						</thead>
+						<tbody></tbody>
+						<tfoot>
+							<tr>
+								<th>Total</th>
+								<th aria-type="confirmed">0</th>
+								<th aria-type="deceased">0</th>
+							</tr>
+						</tfoot>
+					</table>
+				</div>
+				<div class="column">
+					<div id="graph-region"></div>
+				</div>
+			</div>
 		</div>
 
 	</div>
@@ -107,7 +117,6 @@
 
 			var data_by_dates = json[ 'dates' ];
 			var data_by_regions = json[ 'regions' ];
-
 
 			var googleChartsLoaded = false;
 
@@ -206,9 +215,12 @@
 			 */
 			var drawGraphRegion = function () {
 
-				if ( !googleChartsLoaded ) {
+				if ( ! googleChartsLoaded ) {
 					return;
 				}
+
+				var region = $( '#dropdown-region-selected' ).val();
+				var data_region = data_by_regions[ region ]['logs'];
 
 				var data = new google.visualization.DataTable();
 				data.addColumn( 'date', 'Date' );
@@ -220,13 +232,13 @@
 				var accumulated_confirmed = 0;
 				var accumulated_recovered = 0;
 				var accumulated_deceased = 0;
-				Object.keys( data_by_dates ).forEach( function ( date, idx ) {
+				Object.keys( data_region ).forEach( function ( date, idx ) {
 					var _tmp = date.split( '-' );
 					var _date = new Date( parseInt( _tmp[ 0 ] ), parseInt( _tmp[ 1 ] ) - 1, parseInt( _tmp[ 2 ] ) );
-					var _values = data_by_dates[ date ];
+					var _values = data_region[ date ];
 					var _daily_confirmed = parseInt( _values[ 'total' ] );
-					var _daily_recovered = parseInt( _values[ 'status' ][ 'recovered-fully' ] ) + parseInt( _values[ 'status' ][ 'recovered-clinically' ] );
-					var _daily_deceased = parseInt( _values[ 'status' ][ 'deceased' ] );
+					var _daily_recovered = parseInt( _values[ 'recovered-fully' ] ) + parseInt( _values[ 'recovered-clinically' ] );
+					var _daily_deceased = parseInt( _values[ 'deceased' ] );
 					accumulated_confirmed += _daily_confirmed;
 					accumulated_recovered += _daily_recovered;
 					accumulated_deceased += _daily_deceased;
@@ -291,6 +303,35 @@
 
 			};
 
+			/**
+			 * Draw a table for the region
+			 */
+			var drawTableRegion = function(){
+
+				var region = $( '#dropdown-region-selected' ).val();
+				var data_region = data_by_regions[ region ][ 'logs' ];
+
+				var _total = { confirmed: 0, deceased: 0 };
+				var _dates = Object.keys( data_region );
+
+				_dates.forEach( function ( _date ) {
+					var _log = data_region[ _date ];
+					_total[ 'confirmed' ] += _log[ 'total' ];
+					_total[ 'deceased' ] += _log[ 'deceased' ];
+					$( '#table-region-stats tbody' ).append(
+						'<tr>' +
+						'<td>' + _date + '</td>' +
+						'<td class="right aligned">' + _log[ 'total' ] + '</td>' +
+						'<td class="right aligned">' + _log[ 'deceased' ] + '</td>' +
+						'</tr>'
+					);
+				} );
+
+				$( '#table-region-stats tfoot th[aria-type=confirmed]' ).text( _total[ 'confirmed' ] );
+				$( '#table-region-stats tfoot th[aria-type=deceased]' ).text( _total[ 'deceased' ] );
+
+			}
+
 			// Last updated.
 			$( '#last-updated' ).text( json['updated']['datetime'] );
 
@@ -321,25 +362,8 @@
 						// table: region
 						$( '#table-region-stats tbody' ).empty();
 
-						var _total = { confirmed: 0, deceased: 0};
-						var _logs  = data_by_regions[ value ]['logs'];
-						var _dates = Object.keys( _logs );
-
-						_dates.forEach( function( _date ) {
-							var _log = _logs[ _date ];
-							_total[ 'confirmed' ] += _log[ 'total' ];
-							_total[ 'deceased' ] += _log[ 'deceased' ];
-							$( '#table-region-stats tbody' ).append(
-								'<tr>' +
-									'<td>' + _date +'</td>' +
-									'<td>' + _log[ 'total' ] + '</td>' +
-									'<td>' + _log[ 'deceased' ] + '</td>' +
-								'</tr>'
-							);
-						} );
-
-						$( '#table-region-stats tfoot th[aria-type=confirmed]' ).text( _total[ 'confirmed' ] );
-						$( '#table-region-stats tfoot th[aria-type=deceased]' ).text( _total[ 'deceased' ] );
+						// draw the table
+						drawTableRegion();
 
 						// draw the graph
 						drawGraphRegion();
