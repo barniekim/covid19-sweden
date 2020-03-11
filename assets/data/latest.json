@@ -1,7 +1,7 @@
 {
     "updated": {
-        "datetime": "2020-03-11 5PM(CET)",
-        "timestamp": 1583944206
+        "datetime": "2020-03-11 6PM(CET)",
+        "timestamp": 1583946006
     },
     "cases": [
         {
@@ -7032,7 +7032,7 @@
         }
     },
     "summary": {
-        "confirmed": 486,
+        "confirmed": 497,
         "recovered-fully": 0,
         "recovered-clinically": 1,
         "intensive-care": 0,
