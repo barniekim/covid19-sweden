@@ -77,8 +77,8 @@
 						<tfoot>
 							<tr>
 								<th>Total</th>
-								<th aria-type="confirmed">0</th>
-								<th aria-type="deceased">0</th>
+								<th aria-type="confirmed" class="right aligned">0</th>
+								<th aria-type="deceased" class="right aligned">0</th>
 							</tr>
 						</tfoot>
 					</table>
@@ -320,9 +320,9 @@
 					_total[ 'deceased' ] += _log[ 'deceased' ];
 					$( '#table-region-stats tbody' ).append(
 						'<tr>' +
-						'<td>' + _date + '</td>' +
-						'<td class="right aligned">' + _log[ 'total' ] + '</td>' +
-						'<td class="right aligned">' + _log[ 'deceased' ] + '</td>' +
+							'<td>' + _date + '</td>' +
+							'<td class="right aligned">' + _log[ 'total' ] + '</td>' +
+							'<td class="right aligned">' + _log[ 'deceased' ] + '</td>' +
 						'</tr>'
 					);
 				} );
