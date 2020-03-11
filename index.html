@@ -193,7 +193,15 @@
 						maxLines: 2,
 					},
 					hAxis: {
-						format: 'M/d'
+						format: 'M/d',
+						/**
+						 * Makes sense to cut out the date before Feb 26, 2020,
+						 * for it spreads out rapidly since then.
+						 */
+						minValue: new Date( 2020, 1, 26 ),
+						viewWindow: {
+							min: new Date( 2020, 1, 26 )
+						}
 					},
 					vAxis: {
 						minValue: 0,
