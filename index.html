@@ -182,6 +182,17 @@
 					data.addRow( [ _date, _daily_confirmed, accumulated_confirmed, accumulated_recovered, accumulated_deceased ] );
 				} );
 
+				/**
+				 * Makes sense to cut out the date before Feb 26, 2020,
+				 * for it spreads out rapidly since then.
+				 */
+				var startDate = new Date( 2020, 1, 26 );
+				var now = new Date();
+				var tickDates = [];
+				for ( var d = new Date( startDate ); d <= now; d.setDate( d.getDate() + 1 ) ) {
+					tickDates.push( new Date( d ) );
+				}
+
 				var options = {
 					curveType: 'function',
 					orientation: 'horizontal',
@@ -194,13 +205,10 @@
 					},
 					hAxis: {
 						format: 'M/d',
-						/**
-						 * Makes sense to cut out the date before Feb 26, 2020,
-						 * for it spreads out rapidly since then.
-						 */
-						minValue: new Date( 2020, 1, 26 ),
+						ticks: tickDates,
+						minValue: startDate,
 						viewWindow: {
-							min: new Date( 2020, 1, 26 )
+							min: startDate
 						}
 					},
 					vAxis: {
