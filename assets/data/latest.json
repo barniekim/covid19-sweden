@@ -1,7 +1,7 @@
 {
     "updated": {
         "datetime": "2020-03-11 8PM(CET)",
-        "timestamp": 1583956206
+        "timestamp": 1583956505
     },
     "cases": [
         {
@@ -7722,7 +7722,7 @@
             "status": "unknown",
             "origin": {
                 "type": false,
-                "path": "-"
+                "path": "Italy and Austria"
             },
             "location": {
                 "region": "Sk\u00e5ne",
