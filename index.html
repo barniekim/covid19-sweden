@@ -209,7 +209,7 @@
 				var data = new google.visualization.DataTable();
 				data.addColumn( 'date', 'Date' );
 				data.addColumn( 'number', 'Confirmed (New)' );
-				data.addColumn( 'number', 'Confirmed (Accumulated)' );
+				data.addColumn( 'number', 'Confirmed (Total)' );
 
 				var accumulated_confirmed = 0;
 				Object.keys( data_by_dates ).forEach( function ( date, idx ) {
@@ -264,7 +264,7 @@
 				var data = new google.visualization.DataTable();
 				data.addColumn( 'date', 'Date' );
 				data.addColumn( 'number', 'Confirmed (New)' );
-				data.addColumn( 'number', 'Confirmed (Accumulated)' );
+				data.addColumn( 'number', 'Confirmed (Total)' );
 
 				var accumulated_confirmed = 0;
 				var accumulated_recovered = 0;
