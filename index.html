@@ -38,7 +38,6 @@
 			</a>
 		</div>
 
-
 		<h2 class="ui header">
 			Covid-19 Update for Sweden
 		</h2>
@@ -67,7 +66,14 @@
 				</div>
 			</div>
 			<div class="ui divider"></div>
-			<div id="graph-country"></div>
+
+			<div class="ui stackable two column grid">
+				<div class="ten wide column">
+					<div id="graph-line-country"></div>
+				</div>
+				<div class="six wide column">
+					<div id="graph-bar-regions"></div>
+				</div>
 		</div>
 
 		<div class="ui segment">
@@ -103,7 +109,7 @@
 					</div>
 				</div>
 				<div class="ten wide column">
-					<div id="graph-region"></div>
+					<div id="graph-line-region"></div>
 				</div>
 			</div>
 		</div>
@@ -119,7 +125,7 @@
 		:root {
 			--color-red: #db2828;
 		}
-		#graph-country svg {
+		#graph-line-country svg {
 			width: 100% !important;
 		}
 		/* Mobile */
@@ -143,6 +149,7 @@
 	</style>
 
 	<script type="text/javascript">
+	var colors = { grey: '#b0b0b0', black: '#000000', green: '#21ba45', red: '#db2828' };
 	var dataURL = 'https://raw.githubusercontent.com/hisbarnabas/covid19-sweden/master/assets/data/latest.json';
 	var updateData = function() {
 		$.getJSON( dataURL, function ( json ) {
@@ -152,41 +159,32 @@
 
 			var googleChartsLoaded = false;
 
-			var graphOptionsCommon = {
-				curveType: 'function',
+			var graphLineOptionsCommon = {
 				orientation: 'horizontal',
-				lineWidth: 1,
-				pointSize: 5,
+				lineWidth: 2,
+				pointSize: 6,
 				pointsVisible: true,
-				legend: {
-					position: 'top',
-					maxLines: 2,
-				},
-				hAxis: {
-					format: 'M/d',
-				},
+				legend: { position: 'top' },
+				hAxis: { format: 'M/d' },
 				vAxis: {
 					minValue: 0,
-					viewWindow: {
-						min: 0
-					}
+					viewWindow: { min: 0 }
 				},
 				series: {
-					0: {
-						color: '#B0B0B0' // Grey
-					},
-					1: {
-						color: '#000000' // Black
-					},
-					2: {
-						color: '#21ba45', // Green
-					},
-					3: {
-						color: '#db2828', // Red
-					}
+					0: { color: colors.grey },
+					1: { color: colors.black }
 				},
 				chartArea: { top: 50, right: 20, bottom: 30, left: 50, width: "100%", height: "100%" },
 				height: 400
+			};
+
+			var graphBarOptionsCommon = {
+				height: 400,
+				chartArea: { top: 10, right: 20, bottom: 20, left: 90, width: "100%", height: "100%" },
+				bar: { groupWidth: '70%' },
+				legend: { position: 'none' },
+				bars: 'horizontal',
+				colors: [ colors.black ]
 			};
 
 			/**
@@ -199,7 +197,7 @@
 				var data = new google.visualization.DataTable();
 				data.addColumn( 'date', 'Date' );
 				data.addColumn( 'number', 'Confirmed (New)' );
-				data.addColumn( 'number', 'Confirmed (Accumulated)' );
+				data.addColumn( 'number', 'Confirmed (Total)' );
 
 				var accumulated_confirmed = 0;
 				Object.keys( data_by_dates ).forEach( function ( date, idx ) {
@@ -221,14 +219,14 @@
 					tickDates.push( new Date( d ) );
 				}
 
-				var options = graphOptionsCommon;
+				var options = graphLineOptionsCommon;
 				var options_hAxis = options.hAxis;
 				options_hAxis.ticks = tickDates;
 				options_hAxis.minValue = startDate;
 				options_hAxis.viewWindow = { min: startDate };
 				options.hAxis = options_hAxis;
 
-				var chart = new google.visualization.LineChart( document.getElementById( 'graph-country' ) );
+				var chart = new google.visualization.LineChart( document.getElementById( 'graph-line-country' ) );
 				chart.draw( data, options );
 
 				// call to draw regional graph as well.
@@ -254,7 +252,7 @@
 				var data = new google.visualization.DataTable();
 				data.addColumn( 'date', 'Date' );
 				data.addColumn( 'number', 'Confirmed (New)' );
-				data.addColumn( 'number', 'Confirmed (Accumulated)' );
+				data.addColumn( 'number', 'Confirmed (Total)' );
 
 				var accumulated_confirmed = 0;
 				var accumulated_recovered = 0;
@@ -278,14 +276,14 @@
 					tickDates.push( new Date( d ) );
 				}
 
-				var options = graphOptionsCommon;
+				var options = graphLineOptionsCommon;
 				var options_hAxis = options.hAxis;
 				options_hAxis.ticks = tickDates;
 				options_hAxis.minValue = startDate;
 				options_hAxis.viewWindow = { min: startDate };
 				options.hAxis = options_hAxis;
 
-				var chart = new google.visualization.LineChart( document.getElementById( 'graph-region' ) );
+				var chart = new google.visualization.LineChart( document.getElementById( 'graph-line-region' ) );
 				chart.draw( data, options );
 			};
 
@@ -361,8 +359,24 @@
 				} );
 
 			// Google Charts
-			google.charts.load( 'current', { 'packages': [ 'corechart' ] } );
+			google.charts.load( 'current', { 'packages': [ 'bar', 'corechart' ] } );
 			google.charts.setOnLoadCallback( drawGraphCountry );
+			google.charts.setOnLoadCallback( function(){
+
+				// data_by_regions
+				var data_by_regions_table = [
+					[ 'Region', 'Confirmed (Total)' ]
+				];
+				region_keys.forEach( function( region ) {
+					var _confirmed_total = data_by_regions[ region ]['total'];
+					data_by_regions_table.push( [ region, _confirmed_total ] );
+				} );
+
+				var data = google.visualization.arrayToDataTable( data_by_regions_table );
+				var options = graphBarOptionsCommon;
+				var chart = new google.charts.Bar( document.getElementById( "graph-bar-regions" ) );
+				chart.draw( data, options );
+			});
 		} );
 	};
 
