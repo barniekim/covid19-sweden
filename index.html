@@ -150,13 +150,21 @@
 	</style>
 
 	<script type="text/javascript">
-	var colors = { grey: '#b0b0b0', black: '#000000', green: '#21ba45', red: '#db2828' };
+	var colors = {
+		grey:  '#b0b0b0',
+		black: '#000000',
+		green: '#21ba45',
+		red:   '#db2828'
+	};
+
 	var dataURL = 'https://raw.githubusercontent.com/hisbarnabas/covid19-sweden/master/assets/data/latest.json';
+
 	var updateData = function() {
 		$.getJSON( dataURL, function ( json ) {
 
-			var data_by_dates = json[ 'dates' ];
+			var data_by_dates   = json[ 'dates' ];
 			var data_by_regions = json[ 'regions' ];
+			var status_list     = [ 'confirmed', 'recovered', 'severe', 'deceased' ];
 
 			var googleChartsLoaded = false;
 
@@ -202,7 +210,7 @@
 			/**
 			 * Draw a line-chart with the country-wide stats
 			 */
-			var drawGraphCountry = function () {
+			var drawGraphCountry = function() {
 
 				googleChartsLoaded = true;
 
@@ -241,8 +249,33 @@
 				var chart = new google.visualization.LineChart( document.getElementById( 'graph-line-country' ) );
 				chart.draw( data, options );
 
-				// call to draw regional graph as well.
+				// call to draw regional graphs as well.
 				drawGraphRegion();
+				drawBarGraphRegions();
+			};
+
+			/**
+			 * Draw a bar-graph with the regional data.
+			 */
+			var drawBarGraphRegions = function() {
+
+				// data_by_regions
+				var data_by_regions_table = [
+					[ 'Region', 'Confirmed', { role: 'annotation' }, { role: 'style' } ]
+				];
+				region_keys.forEach( function ( region ) {
+					var _confirmed_total = data_by_regions[ region ][ 'total' ];
+					data_by_regions_table.push( [ region, _confirmed_total, _confirmed_total, colors.black ] );
+				} );
+
+				var data = google.visualization.arrayToDataTable( data_by_regions_table );
+				var view = new google.visualization.DataView( data );
+
+				var options = graphBarOptionsCommon;
+				var chart = new google.visualization.BarChart( document.getElementById( "graph-bar-regions" ) );
+				chart.draw( view, options );
+
+				console.log( data_by_regions_table );
 			};
 
 			/**
@@ -337,7 +370,7 @@
 
 			// Country-wide stats.
 			var summary = json[ 'summary' ];
-			[ 'confirmed', 'recovered', 'severe', 'deceased' ].forEach( function( key, idx ) {
+			status_list.forEach( function( key, idx ) {
 				$( '#stat-country-' + key ).text( summary[ key ] );
 			} );
 
@@ -373,26 +406,6 @@
 			// Google Charts
 			google.charts.load( 'current', { 'packages': [ 'corechart' ] } );
 			google.charts.setOnLoadCallback( drawGraphCountry );
-			google.charts.setOnLoadCallback( function(){
-
-				// data_by_regions
-				var data_by_regions_table = [
-					[ 'Region', 'Confirmed', { role: 'annotation' } , { role: 'style' } ]
-				];
-				region_keys.forEach( function( region ) {
-					var _confirmed_total = data_by_regions[ region ]['total'];
-					data_by_regions_table.push( [ region, _confirmed_total, _confirmed_total, colors.black ] );
-				} );
-
-				var data = google.visualization.arrayToDataTable( data_by_regions_table );
-				var view = new google.visualization.DataView( data );
-
-				var options = graphBarOptionsCommon;
-				var chart = new google.visualization.BarChart( document.getElementById( "graph-bar-regions" ) );
-				chart.draw( view, options );
-
-				console.log( data_by_regions_table );
-			});
 		} );
 	};
 
