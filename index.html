@@ -133,8 +133,9 @@
 	</style>
 
 	<script type="text/javascript">
+	var dataURL = 'https://raw.githubusercontent.com/hisbarnabas/covid19-sweden/master/assets/data/latest.json';
 	var updateData = function() {
-		$.getJSON( 'assets/data/latest.json', function ( json ) {
+		$.getJSON( dataURL, function ( json ) {
 
 			var data_by_dates = json[ 'dates' ];
 			var data_by_regions = json[ 'regions' ];
