@@ -1,6 +1,6 @@
 # Covid-19 Daily Update for Sweden
 
-The daily update webpage displaying the latest number of Covid-19 infected/recovered/deceased people in Sweden.
+The daily update webpage displaying the latest number of Covid-19 infected/recovered/deceased people in Sweden. Feel free to share this URL with your family and friends since that is the main purpose serving this site.
 
 Website URL: http://covid19-sweden.rala.life
 
