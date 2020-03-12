@@ -85,24 +85,24 @@
 			<div class="ui hidden divider"></div>
 			
 			<div class="ui stackable two column grid">
-				<div class="column">
+				<div class="six wide column">
+					<div class="table-scrollable">
 					<table id="table-region-stats" class="ui compact unstackable table">
 						<thead>
 							<tr>
 								<th>Date</th>
-								<th>Confirmed</th>
+								<th class="right aligned">Confirmed</th>
 							</tr>
-						</thead>
-						<tbody></tbody>
-						<tfoot>
 							<tr>
 								<th>Total</th>
 								<th aria-type="confirmed" class="right aligned">0</th>
 							</tr>
-						</tfoot>
+						</thead>
+						<tbody></tbody>
 					</table>
+					</div>
 				</div>
-				<div class="column">
+				<div class="ten wide column">
 					<div id="graph-region"></div>
 				</div>
 			</div>
@@ -116,6 +116,9 @@
 	<p>&nbsp;</p>>
 
 	<style>
+		:root {
+			--color-red: #db2828;
+		}
 		#graph-country svg {
 			width: 100% !important;
 		}
@@ -129,6 +132,13 @@
 			[class*="or lower hidden"] {
 				display: none !important;
 			}
+		}
+		.table-scrollable {
+			max-height: 400px;
+			overflow-y: scroll;
+		}
+		table tr.first-row {
+			font-weight: bold;
 		}
 	</style>
 
@@ -294,18 +304,22 @@
 				var _total = { confirmed: 0 };
 				var _dates = Object.keys( data_region );
 
+				_dates.reverse();
+
+				var idx = 0;
 				_dates.forEach( function ( _date ) {
 					var _confirmed = data_region[ _date ];
 					_total[ 'confirmed' ] += _confirmed;
 					$( '#table-region-stats tbody' ).append(
-						'<tr>' +
-						'<td>' + _date + '</td>' +
-						'<td class="right aligned">' + _confirmed + '</td>' +
+						'<tr ' + ( idx === 0 ? 'class="first-row"' : '' ) + '>' +
+							'<td>' + _date + '</td>' +
+							'<td class="right aligned">' + _confirmed + '</td>' +
 						'</tr>'
 					);
+					idx++;
 				} );
 
-				$( '#table-region-stats tfoot th[aria-type=confirmed]' ).text( _total[ 'confirmed' ] );
+				$( '#table-region-stats thead th[aria-type=confirmed]' ).text( _total[ 'confirmed' ] );
 			}
 
 			// Last updated.
