@@ -10,7 +10,12 @@ Array
     [2] =>  style="border-bottom:hidden"
 
 ! style="text-align: left; width:20em;" rowspan="2"|County&nbsp;&nbsp;–&nbsp;&nbsp;(''<nowiki/>'län''')
-! colspan="1"| Jan. || colspan="1" | February || colspan="14" | March || colspan="1" rowspan="2" | Total
+! colspan="1"| Jan. || colspan="1" | February || colspan="14" | March 
+!
+!
+!
+!
+! || colspan="1" rowspan="2" | Total
 
 
     [3] => 
@@ -31,121 +36,242 @@ Array
 ! data-sort-type="number"|12.<sup>‡</sup>
 ! data-sort-type="number"|13.
 !14.
+!15
+!16
+!17
+!18
+!19
 
     [4] => 
 | style="text-align:left" |{{Flagicon|Blekinge}}&nbsp;[[Blekinge län|Blekinge]]
 |—|| — || — || — || — || — || — || — || — || — || — || — || 1 || 5 || 2 || —
-|'''8'''
+|—
+|2
+|1
+|—
+|—
+|11
 
     [5] => 
 | style="text-align:left" |{{Flagicon|Dalarna}}&nbsp;[[Dalarnas län|Dalarna]]
 |—|| — || — || — || — || — || — || — || — || — || — || — || 1 || 3 || — || —
-|'''4'''
+|—
+|2
+|—
+|2
+|—
+|8
 
     [6] => 
 | style="text-align:left" |{{Flagicon|Gotland}}&nbsp;[[Gotlands län|Gotland]]
 |—|| — || — || — || — || — || — || — || — || — || — || — || — || 2 || — || —
-|'''2'''
+|—
+|—
+|—
+|2
+|—
+|4
 
     [7] => 
 | style="text-align:left" |{{Flagicon|Gävleborg}}&nbsp;[[Gävleborgs län|Gävleborg]]
 |—|| — || — || — || — || — || 1 || 1 || — || — || — || — || 1 || 2 || — || 1
-|'''6'''
+|1
+|1
+|1
+|4
+|—
+|13
 
     [8] => 
 | style="text-align:left" |{{Flagicon|Halland}}&nbsp;[[Hallands län|Halland]]
 |—|| — || — || — || — || — || — || — || — || — || 5 || 4 || 7 || 15 || 9 || —
-|'''40'''
+|—
+|3
+|1
+|5
+|—
+|49
 
     [9] => 
 | style="text-align:left" |{{Flagicon|Jämtland}}&nbsp;[[Jämtlands län|Jämtland]]
 |—|| — || — || — || — || — || — || — || — || — || — || 1 || 4 || 3 || 3 || 3
-|'''14'''
+|2
+|5
+|1
+|2
+|—
+|24
 
     [10] => 
 | style="text-align:left" |{{Flagicon|Jönköping}}&nbsp;[[Jönköpings län|Jönköping]]
 |1|| 1 || — || — || 1 || — || — || 5 || — || — || 2 || — || 3 || 13 || — || 12
-|'''38'''
+|—
+|4
+|1
+|1
+|—
+|44
 
     [11] => 
 | style="text-align:left" |{{Flagicon|Kalmar}}&nbsp;[[Kalmar län|Kalmar]]
 |—|| — || — || — || — || — || — || — || — || — || — || 2 || — || 2 || 1 || —
-|'''5'''
+|2
+|—
+|—
+|1
+|—
+|8
 
     [12] => 
 | style="text-align:left" |{{Flagicon|Kronoberg}}&nbsp;[[Kronobergs län|Kronoberg]]
 |—|| — || — || — || — || — || — || — || — || — || — || 1 || 7 || 2 || 2 || —
-|'''12'''
+|1
+|3
+|2
+|—
+|—
+|18
 
     [13] => 
 | style="text-align:left" |{{Flagicon|Norrbotten}}&nbsp;[[Norrbottens län|Norrbotten]]
 |—|| — || — || — || — || — || — || — || — || — || — || 2 || 3 || 1 || — || 2
-|'''8'''
+|—
+|—
+|2
+|—
+|2
+|12
 
     [14] => 
 | style="text-align:left" |{{Flagicon|Skåne}}&nbsp;[[Skåne län|Skåne]]
 |—|| — || — || — || 1 || 1 || 7 || 5 || 3 || 5 || — || 3 || 35 || 38 || 31 || 44
-|'''173'''
+|22
+|9
+|3
+|—
+|7
+|214
 
     [15] => 
 | style="text-align:left" |{{Flagicon|Stockholms län}}&nbsp;[[Stockholms län|Stockholm]]
 |—|| 4 || — || 1 || 10 || 16 || 28 || 21'''<sup>*</sup>''' || 21 || 14 || 32 || 60 || 26'''<sup>**</sup>''' || 34 || 42 || 33
-|'''342'''
+|18
+|18
+|33
+|36
+|—
+|447
 
     [16] => 
 | style="text-align:left" |{{Flagicon|Södermanland}}&nbsp;[[Södermanlands län|Södermanland]]
 |—|| — || — || — || — || — || — || — || — || — || 1 || 1 || 5 || 4 || 6 || 8
-|'''25'''
+|3
+|5
+|—
+|4
+|—
+|37
 
     [17] => 
 | style="text-align:left" |{{Flagicon|Uppsala län}}&nbsp;[[Uppsala län|Uppsala]]
 |—|| 2 || — || — || — || — || 2 || 1 || — || 1 || 2 || — || 3 || 14 || — || 1
-|'''26'''
+|2
+|8
+|—
+|6
+|—
+|42
 
     [18] => 
 | style="text-align:left" |{{Flagicon|Värmland}}&nbsp;[[Värmlands län|Värmland]]
 |–|| – || – || – || – || 2 || 3 || 8 || — || 7 || 1 || 1 || 2 || 3 || 3 || —
-|'''30'''
+|—
+|1
+|3
+|—
+|—
+|34
 
     [19] => 
 | style="text-align:left" |{{Flagicon|Västerbotten}}&nbsp;[[Västerbottens län|Västerbotten]]
 |—|| — || — || — || — || — || — || — || — || — || 5 || — || 3 || — || 1 || 2
-|'''11'''
+|2
+|—
+|5
+|1
+|1
+|20
 
     [20] => 
 | style="text-align:left" |{{Flagicon|Västernorrland}}&nbsp;[[Västernorrlands län|Västernorrland]]
 |—|| — || — || — || — || — || — || — || — || — || — || 6 || — || 3 || 1 || —
-|'''10'''
+|—
+|1
+|1
+|—
+|1
+|13
 
     [21] => 
 | style="text-align:left" |{{Flagicon|Västmanland}}&nbsp;[[Västmanlands län|Västmanland]]
 |—|| — || — || — || — || — || — || — || — || — || — || — || 4 || 1 || 3 || —
-|'''8'''
+|3
+|—
+|1
+|2
+|—
+|14
 
     [22] => 
 | style="text-align:left" |{{Flagicon|Västra Götaland}}&nbsp;[[Västra Götaland County|Västra&nbsp;Götaland]]
 |—|| 5 || 1 || — || 3 || 2 || 1 || 2 || — || 12 || 7 || 15 || 37 || 31 || 18 || 21
-|'''155'''
+|4
+|17
+|3
+|20
+|—
+|199
 
     [23] => 
 | style="text-align:left" |{{Flagicon|Örebro}}&nbsp;[[Örebro län|Örebro]]
 |—|| — || — || — || — || 1 || — || — || — || 3 || — || 1 || 2 || 1 || — || 5
-|'''13'''
+|4
+|2
+|10
+|—
+|—
+|29
 
     [24] => 
 | style="text-align:left" |{{Flagicon|Östergötland}}&nbsp;[[Östergötlands län|Östergötland]]
 |—|| — || — || — || — || — || — || — || — || — || 1 || — || — || 10 || 6 || 5
-|'''22'''
+|5
+|8
+|7
+|13
+|33
+|88
 
     [25] => 
 ! style="text-align:left" data-sort-value="ZZZ" | New cases
-!1 || 12 || 1 || 1 || 15 || 22 || 42 || 43'''<sup>*</sup>''' || 24 || 42 || 56 || 97 || 144'''<sup>**</sup>''' || 187'''<sup>‡</sup>''' || 128 || 147
+!1 || 12 || 1 || 1 || 15 || 22 || 42 || 43'''<sup>*</sup>''' || 24 || 42 || 56 || 97 || 144'''<sup>**</sup>''' || 187'''<sup>‡</sup>''' || 128 || 137
+!69
+!89
+!75
+!99
+!44
 !
 
     [26] => 
 
 ! style="text-align:left" data-sort-value="ZZZ" | Total Infections
-!1|| 13 || 14 || 15 || 30 || 52 || 94 || 137'''<sup>*</sup>''' || 161 || 203 || 259 || 356 || 500'''<sup>**</sup>'''|| 687'''<sup>‡</sup>''' || 815 || colspan="2" | 962
+!1|| 13 || 14 || 15 || 30 || 52 || 94 || 137'''<sup>*</sup>''' || 161 || 203 || 259 || 356 || 500'''<sup>**</sup>'''|| 687'''<sup>‡</sup>''' || 815 || 952
+!1021
+!1110
+!1185
+!1284
+!1328
+!1328
 
     [27] => 
 |}
