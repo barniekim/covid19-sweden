@@ -1,694 +1,154 @@
 Array
 (
-    [0] => {| class="wikitable mw-collapsible" style="float:left; text-align:center;" width="100%"
-|+ style="font-size:11pt;" |{{nowrap|New COVID-19 cases in Sweden by county ({{navbar|2019–20 coronavirus pandemic data/Sweden medical cases|mini=1|nodiv=1}})}}
-! rowspan="2" |Date
-! colspan="21" |County
-! colspan="2" |Cases{{refn|Reported, confirmed cases. Actual case numbers may be higher.|group=lower-alpha}}
-! rowspan="2" |Difference
-! rowspan="2" |Source(s)
+    [0] => {| class="wikitable sortable mw-collapsible" style="text-align:right"
 
-    [1] => 
-!{{Flagicon|Stockholms län}}<br>[[Stockholms län|AB]]
-!{{Flagicon|Västerbotten}}<br>[[Västerbottens län|AC]]
-!{{Flagicon|Norrbotten}}<br>[[Norrbottens län|BD]]
-!{{Flagicon|Uppsala län}}<br>[[Uppsala län|C]]
-!{{Flagicon|Södermanland}}<br>[[Södermanlands län|D]]
-!{{Flagicon|Östergötland}}<br>[[Östergötlands län|E]]
-!{{Flagicon|Jönköping}}<br>[[Jönköpings län|F]]
-!{{Flagicon|Kronoberg}}<br>[[Kronobergs län|G]]
-!{{Flagicon|Kalmar}}<br>[[Kalmar län|H]]
-!{{Flagicon|Gotland}}<br>[[Gotlands län|I]]
-!{{Flagicon|Blekinge}}<br>[[Blekinge län|K]]
-!{{Flagicon|Skåne}}<br>[[Skåne län|M]]
-!{{Flagicon|Halland}}<br>[[Hallands län|N]]
-!{{Flagicon|Västra Götaland}}<br>[[Västra Götaland County|O]]
-!{{Flagicon|Värmland}}<br>[[Värmlands län|S]]
-!{{Flagicon|Örebro}}<br>[[Örebro län|T]]
-!{{Flagicon|Västmanland}}<br>[[Västmanlands län|U]]
-!{{Flagicon|Dalarna}}<br>[[Dalarnas län|W]]
-!{{Flagicon|Gävleborg}}<br>[[Gävleborgs län|X]]
-!{{Flagicon|Västernorrland}}<br>[[Västernorrlands län|Y]]
-!{{Flagicon|Jämtland}}<br>[[Jämtlands län|Z]]
-!New
-!Total
+|+{{nowrap|Confirmed cases in Sweden by region ({{navbar|2019–20 coronavirus pandemic data/Sweden medical cases|mini=1|nodiv=1}})}}
 
-    [2] => 
-|2020-01-31
-|
-|
-|
-|
-|
-|
-|1
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|'''1'''
-|'''1'''
-|—
-|<ref>{{Cite web|url=https://www.folkhalsomyndigheten.se/nyheter-och-press/nyhetsarkiv/2020/januari/bekraftat-fall-av-nytt-coronavirus-i-sverige/|title=Bekraftat fall av nytt coronavirus i Sverige|last=|first=|date=31 January 2020|website=Folkhälsomyndigheten|language=sv|url-status=live|archive-url=|archive-date=|access-date=17 March 2020}}</ref>
+    [1] =>  style="border-bottom:hidden"
+
+
+    [2] =>  style="border-bottom:hidden"
+
+! style="text-align: left; width:20em;" rowspan="2"|County&nbsp;&nbsp;–&nbsp;&nbsp;(''<nowiki/>'län''')
+! colspan="1"| Jan. || colspan="1" | February || colspan="14" | March || colspan="1" rowspan="2" | Total
+
 
     [3] => 
-|2020-02-26
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|1
-|
-|
-|
-|
-|
-|
-|
-|'''1'''
-|'''2'''
-| +100%
-|<ref>{{Cite web|url=https://www.folkhalsomyndigheten.se/nyheter-och-press/nyhetsarkiv/2020/februari/nytt-bekraftat-fall-av-covid-19/|title=Nytt bekräftat fall av covid-19|last=|first=|date=26 February 2020|website=Folkhälsomyndigheten|language=sv|url-status=live|archive-url=|archive-date=|access-date=17 March 2020}}</ref>
+
+! 31.
+! data-sort-type="number" |26-29.
+! data-sort-type="number"|1.
+! data-sort-type="number"|2.
+! data-sort-type="number"|3.
+! data-sort-type="number"|4.
+! data-sort-type="number"|5.
+! data-sort-type="number"|6.
+! data-sort-type="number"|7.
+! data-sort-type="number"|8.
+! data-sort-type="number"|9.
+! data-sort-type="number"|10.
+! data-sort-type="number"|11.
+! data-sort-type="number"|12.<sup>‡</sup>
+! data-sort-type="number"|13.
+!14.
 
     [4] => 
-|2020-02-27
-|1
-|
-|
-|1
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|3
-|
-|
-|
-|
-|
-|
-|
-|'''5'''
-|'''7'''
-| +250%
-|<ref>{{Cite web|url=https://www.folkhalsomyndigheten.se/nyheter-och-press/nyhetsarkiv/2020/februari/inbjudan-till-presstraff-ytterligare-fall-av-covid-19-i-flera-regioner2/|title=Inbjudan till pressträff: Ytterligare fall av covid-19 i flera regioner|last=|first=|date=27 February 2020|website=Folkhälsomyndigheten|language=sv|url-status=live|archive-url=|archive-date=|access-date=17 March 2020}}</ref>
+| style="text-align:left" |{{Flagicon|Blekinge}}&nbsp;[[Blekinge län|Blekinge]]
+|—|| — || — || — || — || — || — || — || — || — || — || — || 1 || 5 || 2 || —
+|'''8'''
 
     [5] => 
-|2020-02-28
-|2
-|
-|
-|1
-|
-|
-|1
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
+| style="text-align:left" |{{Flagicon|Dalarna}}&nbsp;[[Dalarnas län|Dalarna]]
+|—|| — || — || — || — || — || — || — || — || — || — || — || 1 || 3 || — || —
 |'''4'''
-|'''11'''
-| +57%
-|<ref>{{Cite web|url=https://www.kristianstadsbladet.se/nyheter/coronasmittad-akte-tag-resenarer-sparas/|title=Fyra nya fall av coronavirus i Sverige|last=Grönvik|first=Jonas|date=28 February 2020|website=Kristianstadsbladet|language=sv-SE|url-status=live|archive-url=|archive-date=|access-date=17 March 2020}}</ref>
 
     [6] => 
-|2020-02-29
-|1
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|1
-|
-|
-|
-|
-|
-|
-|
+| style="text-align:left" |{{Flagicon|Gotland}}&nbsp;[[Gotlands län|Gotland]]
+|—|| — || — || — || — || — || — || — || — || — || — || — || — || 2 || — || —
 |'''2'''
-|'''13'''
-| +18%
-| rowspan="18" |<ref>{{Cite web|url=https://www.coronakartan.se/|title=Tidslinje|last=|first=|date=|website=Coronakartan|language=sv|url-status=live|archive-url=|archive-date=|access-date=17 March 2020}}</ref>{{Self-published inline|date=March 2020}}
 
     [7] => 
-|2020-03-01
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|1
-|
-|
-|
-|
-|
-|
-|
-|'''1'''
-|'''14'''
-| +8%
+| style="text-align:left" |{{Flagicon|Gävleborg}}&nbsp;[[Gävleborgs län|Gävleborg]]
+|—|| — || — || — || — || — || 1 || 1 || — || — || — || — || 1 || 2 || — || 1
+|'''6'''
 
     [8] => 
-|2020-03-02
-|1
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|'''1'''
-|'''15'''
-| +7%
+| style="text-align:left" |{{Flagicon|Halland}}&nbsp;[[Hallands län|Halland]]
+|—|| — || — || — || — || — || — || — || — || — || 5 || 4 || 7 || 15 || 9 || —
+|'''40'''
 
     [9] => 
-|2020-03-03
-|10
-|
-|
-|
-|
-|
-|1
-|
-|
-|
-|
-|1
-|
-|3
-|
-|
-|
-|
-|
-|
-|
-|'''15'''
-|'''30'''
-| +100%
+| style="text-align:left" |{{Flagicon|Jämtland}}&nbsp;[[Jämtlands län|Jämtland]]
+|—|| — || — || — || — || — || — || — || — || — || — || 1 || 4 || 3 || 3 || 3
+|'''14'''
 
     [10] => 
-|2020-03-04
-|16
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|1
-|
-|2
-|2
-|1
-|
-|
-|
-|
-|
-|'''22'''
-|'''52'''
-| +73%
+| style="text-align:left" |{{Flagicon|Jönköping}}&nbsp;[[Jönköpings län|Jönköping]]
+|1|| 1 || — || — || 1 || — || — || 5 || — || — || 2 || — || 3 || 13 || — || 12
+|'''38'''
 
     [11] => 
-|2020-03-05
-|28
-|
-|
-|2
-|
-|
-|
-|
-|
-|
-|
-|7
-|
-|1
-|3
-|
-|
-|
-|1
-|
-|
-|'''42'''
-|'''94'''
-| +81%
+| style="text-align:left" |{{Flagicon|Kalmar}}&nbsp;[[Kalmar län|Kalmar]]
+|—|| — || — || — || — || — || — || — || — || — || — || 2 || — || 2 || 1 || —
+|'''5'''
 
     [12] => 
-|2020-03-06{{Refn|From 6 March 2020 onwards, Stockholm County reported its cases after 24 hours.{{citation needed|date=March 2020}}|group=lower-alpha}}
-|21
-|
-|
-|1
-|
-|
-|5
-|
-|
-|
-|
-|5
-|
-|2
-|8
-|
-|
-|
-|1
-|
-|
-|'''43'''
-|'''137'''
-| +46%
+| style="text-align:left" |{{Flagicon|Kronoberg}}&nbsp;[[Kronobergs län|Kronoberg]]
+|—|| — || — || — || — || — || — || — || — || — || — || 1 || 7 || 2 || 2 || —
+|'''12'''
 
     [13] => 
-|2020-03-07
-|21
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|3
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|'''24'''
-|'''161'''
-| +18%
+| style="text-align:left" |{{Flagicon|Norrbotten}}&nbsp;[[Norrbottens län|Norrbotten]]
+|—|| — || — || — || — || — || — || — || — || — || — || 2 || 3 || 1 || — || 2
+|'''8'''
 
     [14] => 
-|2020-03-08
-|14
-|
-|
-|1
-|
-|
-|
-|
-|
-|
-|
-|5
-|
-|12
-|7
-|3
-|
-|
-|
-|
-|
-|'''42'''
-|'''203'''
-| +26%
+| style="text-align:left" |{{Flagicon|Skåne}}&nbsp;[[Skåne län|Skåne]]
+|—|| — || — || — || 1 || 1 || 7 || 5 || 3 || 5 || — || 3 || 35 || 38 || 31 || 44
+|'''173'''
 
     [15] => 
-|2020-03-09
-|32
-|5
-|
-|
-|1
-|1
-|2
-|
-|
-|
-|
-|
-|5
-|7
-|1
-|
-|
-|
-|
-|
-|
-|'''54'''
-|'''257'''
-| +27%
+| style="text-align:left" |{{Flagicon|Stockholms län}}&nbsp;[[Stockholms län|Stockholm]]
+|—|| 4 || — || 1 || 10 || 16 || 28 || 21'''<sup>*</sup>''' || 21 || 14 || 32 || 60 || 26'''<sup>**</sup>''' || 34 || 42 || 33
+|'''342'''
 
     [16] => 
-|2020-03-10
-|60
-|
-|2
-|
-|1
-|
-|
-|1
-|2
-|
-|
-|3
-|4
-|15
-|1
-|1
-|
-|
-|
-|6
-|1
-|'''97'''
-|'''354'''
-| +38%
+| style="text-align:left" |{{Flagicon|Södermanland}}&nbsp;[[Södermanlands län|Södermanland]]
+|—|| — || — || — || — || — || — || — || — || — || 1 || 1 || 5 || 4 || 6 || 8
+|'''25'''
 
     [17] => 
-|2020-03-11{{Refn|Stockholm County decided to only test hospitalized patients from risk groups and healthcare personnel with symptoms from 11 March 2020 onwards.<ref>{{Cite news|last=Almgren|first=Jan|url=https://www.svd.se/uppmaningen-kom-inte-in-for-provtagning|title=Uppmaningen: Kom inte in för provtagning|date=12 March 2020|work=Svenska Dagbladet|access-date=17 March 2020|url-status=live|language=sv|issn=1101-2412}}</ref>|group=lower-alpha}}
-|26
-|3
-|3
-|3
-|5
-|
-|3
-|7
-|
-|
-|1
-|35
-|7
-|37
-|2
-|2
-|4
-|1
-|1
-|
-|4
-|'''144'''
-|'''498'''
-| +41%
+| style="text-align:left" |{{Flagicon|Uppsala län}}&nbsp;[[Uppsala län|Uppsala]]
+|—|| 2 || — || — || — || — || 2 || 1 || — || 1 || 2 || — || 3 || 14 || — || 1
+|'''26'''
 
     [18] => 
-|2020-03-12{{Refn|The [[Public Health Agency of Sweden]] decided to only test hospitalized patients from risk groups and healthcare personnel with symptoms from 12 March 2020 onwards.<ref>{{Cite web|url=https://www.aftonbladet.se/a/70GQRV|title=Nya strategin - slutar räkna exakta antalet coronafall|last=Karlsson|first=Pär|date=13 March 2020|website=[[Aftonbladet]]|language=sv|url-status=live|archive-url=|archive-date=|access-date=17 March 2020}}</ref> This means that the number of reported cases does not reflect the actual number of infected persons.|group=lower-alpha}}
-|34
-|
-|1
-|14
-|4
-|10
-|13
-|2
-|2
-|2
-|5
-|38
-|15
-|31
-|3
-|1
-|1
-|3
-|2
-|3
-|3
-|'''187'''
-|'''685'''
-| +38%
+| style="text-align:left" |{{Flagicon|Värmland}}&nbsp;[[Värmlands län|Värmland]]
+|–|| – || – || – || – || 2 || 3 || 8 || — || 7 || 1 || 1 || 2 || 3 || 3 || —
+|'''30'''
 
     [19] => 
-|2020-03-13
-|42
-|1
-|
-|
-|6
-|6
-|
-|2
-|1
-|
-|2
-|33
-|9
-|18
-|3
-|
-|
-|
-|
-|1
-|3
-|'''127'''
-|'''812'''
-| +19%
+| style="text-align:left" |{{Flagicon|Västerbotten}}&nbsp;[[Västerbottens län|Västerbotten]]
+|—|| — || — || — || — || — || — || — || — || — || 5 || — || 3 || — || 1 || 2
+|'''11'''
 
     [20] => 
-|2020-03-14
-|33
-|2
-|2
-|11
-|8
-|5
-|12
-|
-|
-|
-|
-|44
-|
-|21
-|
-|1
-|6
-|
-|1
-|1
-|3
-|'''150'''
-|'''962'''
-| +18%
+| style="text-align:left" |{{Flagicon|Västernorrland}}&nbsp;[[Västernorrlands län|Västernorrland]]
+|—|| — || — || — || — || — || — || — || — || — || — || 6 || — || 3 || 1 || —
+|'''10'''
 
     [21] => 
-|2020-03-15
-|18
-|2
-|
-|2
-|3
-|5
-|
-|1
-|2
-|
-|
-|22
-|
-|4
-|
-|4
-|3
-|
-|1
-|
-|2
-|'''69'''
-|'''1031'''
-| +7%
+| style="text-align:left" |{{Flagicon|Västmanland}}&nbsp;[[Västmanlands län|Västmanland]]
+|—|| — || — || — || — || — || — || — || — || — || — || — || 4 || 1 || 3 || —
+|'''8'''
 
     [22] => 
-|2020-03-16
-|18
-|
-|
-|8
-|5
-|8
-|4
-|3
-|
-|
-|2
-|9
-|3
-|17
-|1
-|2
-|
-|2
-|1
-|1
-|5
-|'''89'''
-|'''1120'''
-| +9%
+| style="text-align:left" |{{Flagicon|Västra Götaland}}&nbsp;[[Västra Götaland County|Västra&nbsp;Götaland]]
+|—|| 5 || 1 || — || 3 || 2 || 1 || 2 || — || 12 || 7 || 15 || 37 || 31 || 18 || 21
+|'''155'''
 
     [23] => 
-|2020-03-17
-|33
-|5
-|2
-|
-|
-|7
-|1
-|
-|
-|
-|1
-|3
-|1
-|3
-|3
-|10
-|1
-|
-|1
-|1
-|1
-|'''73'''
-|'''1193'''
-|  +7%
+| style="text-align:left" |{{Flagicon|Örebro}}&nbsp;[[Örebro län|Örebro]]
+|—|| — || — || — || — || 1 || — || — || — || 3 || — || 1 || 2 || 1 || — || 5
+|'''13'''
 
     [24] => 
-!Total
-!411
-!18
-!10
-!44
-!33
-!42
-!42
-!16
-!7
-!2
-!11
-!209
-!44
-!179
-!34
-!25
-!15
-!6
-!9
-!13
-!22
-! colspan="2" |1193
-!—
-!<ref>{{Cite web|url=https://www.coronakartan.se/|title=Coronakartan|last=|first=|date=|website=Coronakartan|language=sv|url-status=live|archive-url=|archive-date=|access-date=17 March 2020}}</ref>{{Self-published inline|date=March 2020}}
+| style="text-align:left" |{{Flagicon|Östergötland}}&nbsp;[[Östergötlands län|Östergötland]]
+|—|| — || — || — || — || — || — || — || — || — || 1 || — || — || 10 || 6 || 5
+|'''22'''
 
     [25] => 
-!'''Deaths'''
-!5
-!–
-!–
-!–
-!1
-!–
-!–
-!–
-!–
-!–
-!–
-!–
-!–
-!1
-!–
-!–
-!–
-!–
-!–
-!–
-!–
-! colspan="2" |7
-!—
-!<ref>{{Cite web|url=https://www.coronakartan.se/tabell/|title=Antal bekräftade fall per region|last=|first=|date=|website=Coronakartan|language=sv|url-status=live|archive-url=|archive-date=|access-date=17 March 2020}}</ref>{{Self-published inline|date=March 2020}}
+! style="text-align:left" data-sort-value="ZZZ" | New cases
+!1 || 12 || 1 || 1 || 15 || 22 || 42 || 43'''<sup>*</sup>''' || 24 || 42 || 56 || 97 || 144'''<sup>**</sup>''' || 187'''<sup>‡</sup>''' || 128 || 147
+!
 
     [26] => 
-| colspan="26" style="text-align:left;" |'''Notes'''{{reflist|group=lower-alpha}}
+
+! style="text-align:left" data-sort-value="ZZZ" | Total Infections
+!1|| 13 || 14 || 15 || 30 || 52 || 94 || 137'''<sup>*</sup>''' || 161 || 203 || 259 || 356 || 500'''<sup>**</sup>'''|| 687'''<sup>‡</sup>''' || 815 || colspan="2" | 962
+
+    [27] => 
 |}
 
-{{clear}}
+<center style="small; italic">'''*''' — Stockholm shifted to reporting cases after 24 hours</br>'''**''' Stockholm testing strategy shifted to only elderly, severely ill, and healthcare personnel</br>'''‡''' — National testing strategy shifted to only elderly, severely ill, and healthcare personnel</center>
 )
