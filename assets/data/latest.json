@@ -1,13 +1,13 @@
 {
     "updated": {
-        "datetime": "2020-03-19 19:30 (CET)",
-        "timestamp": 1584642608
+        "datetime": "2020-03-19 19:35 (CET)",
+        "timestamp": 1584642906
     },
     "summary": {
         "confirmed": 1439,
         "recovered": 16,
         "deceased": 11,
-        "severe": 30
+        "severe": 35
     },
     "regions": {
         "J\u00f6nk\u00f6ping": {
