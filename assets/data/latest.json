@@ -1,14 +1,14 @@
 {
     "updated": {
-        "datetime": "2020-03-19 09:05 (CET)",
-        "timestamp": 1584605105
+        "datetime": "2020-03-19 09:10 (CET)",
+        "timestamp": 1584605406
     },
     "summary": {
         "confirmed": 1279,
         "recovered": 16,
         "deceased": 10,
         "suspected": 0,
-        "severe": 12
+        "severe": 30
     },
     "regions": {
         "Stockholm": {
