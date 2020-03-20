@@ -3,45 +3,45 @@ Array
     [0] => {| class="wikitable mw-collapsible" style="float:left; text-align:center; font-size:85%"
 |+ style="font-size:11pt;" |{{nowrap|New COVID-19 cases in Sweden by county ({{navbar|2019–20 coronavirus pandemic data/Sweden medical cases|mini=1|nodiv=1}})}}
 ! rowspan="2" |Date
-! colspan="21" |County
+! colspan="21" |'''County'''
 ! colspan="2" |Cases{{refn|Reported, confirmed cases. Actual case numbers may be higher.|group=lower-alpha}}
 ! rowspan="2" |Difference
 ! rowspan="2" |Source(s)
 
     [1] => 
-!!{{vert header|[[Jönköpings län|Jönköping]]}}
-!!{{vert header|[[Västra Götalands län|Västra Götaland]]}}
-!!{{vert header|[[Stockholms län|Stockholm]]}}
-!!{{vert header|[[Uppsala län|Uppsala]]}}
-!!{{vert header|[[Skåne län|Skåne]]}}
-!!{{vert header|[[Värmlands län|Värmland]]}}
-!!{{vert header|[[Örebro län|Örebro]]}}
-!!{{vert header|[[Gävleborgs län|Gävleborg]]}}
-!!{{vert header|[[Västerbottens län|Västerbotten]]}}
-!!{{vert header|[[Hallands län|Halland]]}}
-!!{{vert header|[[Södermanlands län|Södermanland]]}}
-!!{{vert header|[[Östergötlands län|Östergötland]]}}
-!!{{vert header|[[Västernorrlands län|Västernorrland]]}}
-!!{{vert header|[[Kalmar län|Kalmar]]}}
-!!{{vert header|[[Norrbottens län|Norrbotten]]}}
-!!{{vert header|[[Kronobergs län|Kronoberg]]}}
-!!{{vert header|[[Jämtlands län|Jämtland]]}}
-!!{{vert header|[[Västmanlands län|Västmanland]]}}
 !!{{vert header|[[Blekinge län|Blekinge]]}}
 !!{{vert header|[[Dalarnas län|Dalarna]]}}
 !!{{vert header|[[Gotlands län|Gotland]]}}
+!!{{vert header|[[Gävleborgs län|Gävleborg]]}}
+!!{{vert header|[[Hallands län|Halland]]}}
+!!{{vert header|[[Jämtlands län|Jämtland]]}}
+!!{{vert header|[[Jönköpings län|Jönköping]]}}
+!!{{vert header|[[Kalmar län|Kalmar]]}}
+!!{{vert header|[[Kronobergs län|Kronoberg]]}}
+!!{{vert header|[[Norrbottens län|Norrbotten]]}}
+!!{{vert header|[[Skåne län|Skåne]]}}
+!!{{vert header|[[Stockholms län|Stockholm]]}}
+!!{{vert header|[[Södermanlands län|Södermanland]]}}
+!!{{vert header|[[Uppsala län|Uppsala]]}}
+!!{{vert header|[[Värmlands län|Värmland]]}}
+!!{{vert header|[[Västerbottens län|Västerbotten]]}}
+!!{{vert header|[[Västernorrlands län|Västernorrland]]}}
+!!{{vert header|[[Västmanlands län|Västmanland]]}}
+!!{{vert header|[[Västra Götalands län|Västra Götaland]]}}
+!!{{vert header|[[Örebro län|Örebro]]}}
+!!{{vert header|[[Östergötlands län|Östergötland]]}}
 !New
 !Total
 
     [2] => 
 |2020-01-31
+|
+|
+|
+|
+|
+|
 |1
-|
-|
-|
-|
-|
-|
 |
 |
 |
@@ -64,24 +64,24 @@ Array
     [3] => 
 |2020-02-26
 |
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
 |1
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
 |
 |
 |1
@@ -92,24 +92,24 @@ Array
     [4] => 
 |2020-02-27
 |
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|1
+|
+|1
+|
+|
+|
+|
 |3
-|1
-|1
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
 |
 |
 |5
@@ -119,20 +119,20 @@ Array
 
     [5] => 
 |2020-02-28
+|
+|
+|
+|
+|
+|
 |1
+|
+|
+|
 |
 |2
+|
 |1
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
 |
 |
 |
@@ -148,24 +148,24 @@ Array
     [6] => 
 |2020-02-29
 |
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
 |1
+|
+|
+|
+|
+|
+|
 |1
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
 |
 |
 |2
@@ -176,24 +176,24 @@ Array
     [7] => 
 |2020-03-01
 |
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
 |1
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
 |
 |
 |1
@@ -204,16 +204,16 @@ Array
 |2020-03-02
 |
 |
+|
+|
+|
+|
+|
+|
+|
+|
+|
 |1
-|
-|
-|
-|
-|
-|
-|
-|
-|
 |
 |
 |
@@ -229,25 +229,25 @@ Array
 
     [9] => 
 |2020-03-03
+|
+|
+|
+|
+|
+|
 |1
-|3
+|
+|
+|
+|1
 |10
 |
-|1
 |
 |
 |
 |
 |
-|
-|
-|
-|
-|
-|
-|
-|
-|
+|3
 |
 |
 |15
@@ -257,25 +257,25 @@ Array
     [10] => 
 |2020-03-04
 |
-|2
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|1
 |16
 |
-|1
+|
+|2
+|
+|
+|
 |2
 |1
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
 |
 |22
 |52
@@ -284,24 +284,24 @@ Array
     [11] => 
 |2020-03-05
 |
+|
+|
 |1
-|28
-|2
+|
+|
+|
+|
+|
+|
 |7
+|28
+|
+|2
 |3
 |
+|
+|
 |1
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
 |
 |
 |42
@@ -310,25 +310,25 @@ Array
 
     [12] => 
 |2020-03-06{{Refn|From 6 March 2020 onwards, Stockholm County reported its cases after 24 hours.{{citation needed|date=March 2020}}|group=lower-alpha}}
-|5
-|2
-|21
+|
+|
+|
 |1
+|
+|
 |5
+|
+|
+|
+|5
+|21
+|
+|1
 |8
 |
-|1
 |
 |
-|
-|
-|
-|
-|
-|
-|
-|
-|
+|2
 |
 |
 |43
@@ -339,16 +339,16 @@ Array
 |2020-03-07
 |
 |
-|21
+|
+|
+|
+|
+|
+|
+|
 |
 |3
-|
-|
-|
-|
-|
-|
-|
+|21
 |
 |
 |
@@ -365,25 +365,25 @@ Array
     [14] => 
 |2020-03-08
 |
-|12
-|14
-|1
+|
+|
+|
+|
+|
+|
+|
+|
+|
 |5
+|14
+|
+|1
 |7
+|
+|
+|
+|12
 |3
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
 |
 |42
 |203
@@ -391,27 +391,27 @@ Array
 
     [15] => 
 |2020-03-09
+|
+|
+|
+|
+|5
+|
 |2
-|7
+|
+|
+|
+|
 |32
-|
-|
 |1
 |
-|
+|1
 |5
-|5
+|
+|
+|7
+|
 |1
-|1
-|
-|
-|
-|
-|
-|
-|
-|
-|
 |54
 |257
 | +27%
@@ -419,25 +419,25 @@ Array
     [16] => 
 |2020-03-10
 |
-|15
-|60
 |
-|3
-|1
-|1
 |
 |
 |4
 |1
 |
+|2
+|1
+|2
+|3
+|60
+|1
+|
+|1
+|
 |6
-|2
-|2
+|
+|15
 |1
-|1
-|
-|
-|
 |
 |97
 |354
@@ -445,26 +445,26 @@ Array
 
     [17] => 
 |2020-03-11{{Refn|Stockholm County decided to only test hospitalized patients from risk groups and healthcare personnel with symptoms from 11 March 2020 onwards.<ref>{{Cite news|last=Almgren|first=Jan|url=https://www.svd.se/uppmaningen-kom-inte-in-for-provtagning|title=Uppmaningen: Kom inte in för provtagning|date=12 March 2020|work=Svenska Dagbladet|access-date=17 March 2020|url-status=live|language=sv|issn=1101-2412}}</ref>|group=lower-alpha}}
+|1
+|1
+|
+|1
+|7
+|4
 |3
-|37
-|26
+|
+|7
 |3
 |35
-|2
-|2
-|1
-|3
-|7
+|26
 |5
-|
-|
-|
 |3
-|7
+|2
+|3
+|
 |4
-|4
-|1
-|1
+|37
+|2
 |
 |144
 |498
@@ -472,81 +472,81 @@ Array
 
     [18] => 
 |2020-03-12{{Refn|The [[Public Health Agency of Sweden]] decided to only test hospitalized patients from risk groups and healthcare personnel with symptoms from 12 March 2020 onwards.<ref>{{Cite web|url=https://www.aftonbladet.se/a/70GQRV|title=Nya strategin - slutar räkna exakta antalet coronafall|last=Karlsson|first=Pär|date=13 March 2020|website=[[Aftonbladet]]|language=sv|url-status=live|archive-url=|archive-date=|access-date=17 March 2020}}</ref>|group=lower-alpha}}
-|13
-|31
-|34
-|14
-|38
-|3
-|1
-|2
-|
-|15
-|4
-|10
-|3
-|2
-|1
-|2
-|3
-|1
 |5
 |3
 |2
+|2
+|15
+|3
+|13
+|2
+|2
+|1
+|38
+|34
+|4
+|14
+|3
+|
+|3
+|1
+|31
+|1
+|10
 |187
 |685
 | +38%
 
     [19] => 
 |2020-03-13
+|2
 |
-|18
-|42
+|
+|
+|9
+|3
+|
+|1
+|2
 |
 |33
-|3
-|
-|
-|1
-|9
+|42
 |6
-|6
-|1
-|1
 |
-|2
 |3
+|1
+|1
 |
-|2
+|18
 |
-|
+|6
 |127
 |812
 | +19%
 
     [20] => 
 |2020-03-14
-|12
-|21
-|33
-|11
-|44
+|
+|
 |
 |1
-|1
-|2
-|
-|8
-|5
-|1
-|
-|2
 |
 |3
+|12
+|
+|
+|2
+|44
+|33
+|8
+|11
+|
+|2
+|1
 |6
-|
-|
-|
+|21
+|1
+|5
 |150
 |962
 | +18%
@@ -554,53 +554,53 @@ Array
     [21] => 
 |2020-03-15
 |
-|4
-|18
+|
+|
+|1
+|
 |2
+|
+|2
+|1
+|
 |22
+|18
+|3
+|2
 |
+|2
+|
+|3
 |4
-|1
-|2
-|
-|3
+|4
 |5
-|
-|2
-|
-|1
-|2
-|3
-|
-|
-|
 |69
 |1,031
 | +7%
 
     [22] => 
 |2020-03-16
+|2
+|2
+|
+|1
+|3
+|5
 |4
-|17
-|18
-|8
+|
+|3
+|
 |9
-|1
-|2
-|1
-|
-|3
+|18
 |5
 |8
 |1
 |
+|1
 |
-|3
-|5
-|
+|17
 |2
-|2
-|
+|8
 |89
 |1,120
 | +9%
@@ -608,80 +608,80 @@ Array
     [23] => 
 |2020-03-17
 |1
+|
+|
+|1
+|1
+|1
+|1
+|
+|2
+|2
 |3
 |33
 |
+|
 |3
-|3
-|10
-|1
 |5
 |1
-|
+|1
+|3
+|10
 |7
-|1
-|
-|2
-|2
-|1
-|1
-|1
-|
-|
 |75
 |1,193
 | +7%
 
     [24] => 
 |2020-03-18
+|
+|2
+|2
+|4
+|5
+|2
 |1
-|20
+|1
+|
+|
+|
 |36
+|4
 |6
 |
-|
-|
-|4
 |1
-|5
-|4
+|
+|2
+|20
+|
 |13
-|
-|1
-|
-|
-|2
-|2
-|
-|2
-|2
 |99
 |1,294
 | +8%
 
     [25] => 
 !Total
-!44
-!199
-!447
-!50
-!209
-!34
-!25
-!13
-!19
-!49
-!37
-!55
-!13
-!8
-!10
-!18
-!24
-!17
 !11
 !8
 !4
+!13
+!49
+!24
+!44
+!8
+!18
+!10
+!209
+!447
+!37
+!50
+!34
+!19
+!13
+!17
+!199
+!25
+!55
 ! colspan="2" |1,294
 !—
 !
