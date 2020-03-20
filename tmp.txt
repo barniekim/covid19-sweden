@@ -9,27 +9,27 @@ Array
 ! rowspan="2" |Source(s)
 
     [1] => 
-!!{{vert header|[[Blekinge län|Blekinge]]}}
-!!{{vert header|[[Dalarnas län|Dalarna]]}}
-!!{{vert header|[[Gotlands län|Gotland]]}}
-!!{{vert header|[[Gävleborgs län|Gävleborg]]}}
-!!{{vert header|[[Hallands län|Halland]]}}
-!!{{vert header|[[Jämtlands län|Jämtland]]}}
-!!{{vert header|[[Jönköpings län|Jönköping]]}}
-!!{{vert header|[[Kalmar län|Kalmar]]}}
-!!{{vert header|[[Kronobergs län|Kronoberg]]}}
-!!{{vert header|[[Norrbottens län|Norrbotten]]}}
-!!{{vert header|[[Skåne län|Skåne]]}}
-!!{{vert header|[[Stockholms län|Stockholm]]}}
-!!{{vert header|[[Södermanlands län|Södermanland]]}}
-!!{{vert header|[[Uppsala län|Uppsala]]}}
-!!{{vert header|[[Värmlands län|Värmland]]}}
-!!{{vert header|[[Västerbottens län|Västerbotten]]}}
-!!{{vert header|[[Västernorrlands län|Västernorrland]]}}
-!!{{vert header|[[Västmanlands län|Västmanland]]}}
-!!{{vert header|[[Västra Götalands län|Västra Götaland]]}}
-!!{{vert header|[[Örebro län|Örebro]]}}
-!!{{vert header|[[Östergötlands län|Östergötland]]}}
+!!{{vert header|[[Blekinge län|Blekinge]]}}<br>{{Flagicon|Blekinge}}
+!!{{vert header|[[Dalarnas län|Dalarna]]}}<br>{{Flagicon|Dalarna}}
+!!{{vert header|[[Gotlands län|Gotland]]}}<br>{{Flagicon|Gotland}}
+!!{{vert header|[[Gävleborgs län|Gävleborg]]}}<br>{{Flagicon|Gävleborg}}
+!!{{vert header|[[Hallands län|Halland]]}}<br>{{Flagicon|Halland}}
+!!{{vert header|[[Jämtlands län|Jämtland]]}}<br>{{Flagicon|Jämtland}}
+!!{{vert header|[[Jönköpings län|Jönköping]]}}<br>{{Flagicon|Jönköping}}
+!!{{vert header|[[Kalmar län|Kalmar]]}}<br>{{Flagicon|Kalmar}}
+!!{{vert header|[[Kronobergs län|Kronoberg]]}}<br>{{Flagicon|Kronoberg}}
+!!{{vert header|[[Norrbottens län|Norrbotten]]}}<br>{{Flagicon|Norrbotten}}
+!!{{vert header|[[Skåne län|Skåne]]}}<br>{{Flagicon|Skåne}}
+!!{{vert header|[[Stockholms län|Stockholm]]}}<br>{{Flagicon|Stockholms län}}
+!!{{vert header|[[Södermanlands län|Södermanland]]}}<br>{{Flagicon|Södermanland}}
+!!{{vert header|[[Uppsala län|Uppsala]]}}<br>{{Flagicon|Uppsala län}}
+!!{{vert header|[[Värmlands län|Värmland]]}}<br>{{Flagicon|Värmland}}
+!!{{vert header|[[Västerbottens län|Västerbotten]]}}<br>{{Flagicon|Västerbotten}}
+!!{{vert header|[[Västernorrlands län|Västernorrland]]}}<br>{{Flagicon|Västernorrland}}
+!!{{vert header|[[Västmanlands län|Västmanland]]}}<br>{{Flagicon|Västmanland}}
+!!{{vert header|[[Västra Götalands län|Västra Götaland]]}}<br>{{Flagicon|Västra Götaland}}
+!!{{vert header|[[Örebro län|Örebro]]}}<br>{{Flagicon|Örebro}}
+!!{{vert header|[[Östergötlands län|Östergötland]]}}<br>{{Flagicon|Östergötland}}
 !New
 !Total
 
