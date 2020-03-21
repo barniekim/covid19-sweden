@@ -34,27 +34,27 @@ Array
 ! rowspan="2" |Total
 
     [2] => 
-!{{Flagicon|Blekinge län}}
-!{{Flagicon|Dalarnas län}}
-!{{Flagicon|Gotlands län}}
-!{{Flagicon|Gävleborg}}
-!{{Flagicon|Hallands län}}
-!{{Flagicon|Jämtlands län}}
-!{{Flagicon|Jönköping}}
-!{{Flagicon|Kalmar}}
-!{{Flagicon|Kronoberg}}
-!{{Flagicon|Norrbottens län}}
-!{{Flagicon|Skåne}}
-!{{Flagicon|Stockholms län}}
-!{{Flagicon|Södermanlands län}}
-!{{Flagicon|Uppsala län}}
-!{{Flagicon|Värmlands län}}
-!{{Flagicon|Västerbottens län}}
-!{{Flagicon|Västernorrland}}
-!{{Flagicon|Västmanlands län}}
-!{{Flagicon|Västra Götaland}}
-!{{Flagicon|Örebro}}
-!{{Flagicon|Östergötlands län}}
+!{{Flagicon|Blekinge län|COA}}
+!{{Flagicon|Dalarnas län|COA}}
+!{{Flagicon|Gotlands län|COA}}
+!{{Flagicon|Gävleborg|COA}}
+!{{Flagicon|Hallands län|COA}}
+!{{Flagicon|Jämtlands län|COA}}
+!{{Flagicon|Jönköping|COA}}
+!{{Flagicon|Kalmar|COA}}
+!{{Flagicon|Kronoberg|COA}}
+!{{Flagicon|Norrbottens län|COA}}
+!{{Flagicon|Skåne|COA}}
+!{{Flagicon|Stockholms län|COA}}
+!{{Flagicon|Södermanlands län|COA}}
+!{{Flagicon|Uppsala län|COA}}
+!{{Flagicon|Värmlands län|COA}}
+!{{Flagicon|Västerbottens län|COA}}
+!{{Flagicon|Västernorrland|COA}}
+!{{Flagicon|Västmanlands län|COA}}
+!{{Flagicon|Västra Götaland|COA}}
+!{{Flagicon|Örebro|COA}}
+!{{Flagicon|Östergötlands län|COA}}
 
     [3] => 
 |2020-01-31
