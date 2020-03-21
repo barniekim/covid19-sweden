@@ -171,7 +171,7 @@ Array
 |2
 |13
 | +18%
-| rowspan="19" |<ref>{{Cite web|url=https://www.coronakartan.se/tidslinje/|title=Tidslinje|last=|first=|date=|website=Coronakartan|language=sv|url-status=live|archive-url=|archive-date=|access-date=17 March 2020}}</ref>
+| rowspan="21" |<ref>{{Cite web|url=https://www.coronakartan.se/tidslinje/|title=Tidslinje|last=|first=|date=|website=Coronakartan|language=sv|url-status=live|archive-url=|archive-date=|access-date=17 March 2020}}</ref>
 
     [7] => 
 |2020-03-01
@@ -685,7 +685,6 @@ Array
 |133
 |1427
 |
-|
 
     [26] => 
 |2020-03-20
@@ -712,7 +711,6 @@ Array
 |33
 |207
 |1634
-|
 |
 
     [27] => 
@@ -745,28 +743,28 @@ Array
 
     [28] => 
 !Total
-!11
-!8
-!4
-!13
-!49
-!24
-!44
-!8
-!18
-!10
-!209
-!447
-!37
-!50
-!34
-!19
-!13
+!12
+!15
+!5
 !17
-!199
-!25
-!55
-! colspan="2" |1,294
+!54
+!31
+!48
+!9
+!20
+!17
+!220
+!607
+!43
+!56
+!36
+!27
+!15
+!20
+!228
+!33
+!121
+! colspan="2" |1,634
 !—
 !
 
