@@ -1,10 +1,10 @@
 {
     "updated": {
-        "datetime": "2020-03-22 00:45 (CET)",
-        "timestamp": 1584834307
+        "datetime": "2020-03-22 00:50 (CET)",
+        "timestamp": 1584834608
     },
     "summary": {
-        "confirmed": 1764,
+        "confirmed": 1770,
         "recovered": 16,
         "deceased": 20,
         "severe": 61
