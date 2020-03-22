@@ -64,8 +64,8 @@ Array
 |
 |
 |9
+| 
 | -1
-|
 | -2
 | -1
 |
@@ -77,10 +77,10 @@ Array
 |
 |1
 |
-|1
+|
 | -9
 |
-|14
+|12
 |—
 |<ref name=":0" />
 
@@ -108,7 +108,7 @@ Array
 |
 |
 |1
-|15
+|13
 |—
 |<ref name=":0">{{Cite web|url=https://www.folkhalsomyndigheten.se/nyheter-och-press/nyhetsarkiv/2020/januari/bekraftat-fall-av-nytt-coronavirus-i-sverige/|title=Bekraftat fall av nytt coronavirus i Sverige|last=|first=|date=31 January 2020|website=Folkhälsomyndigheten|language=sv|url-status=live|archive-url=|archive-date=|access-date=17 March 2020}}</ref>
 
@@ -136,7 +136,7 @@ Array
 |
 |
 |1
-|16
+|14
 |  +100%
 |<ref>{{Cite web|url=https://www.folkhalsomyndigheten.se/nyheter-och-press/nyhetsarkiv/2020/februari/nytt-bekraftat-fall-av-covid-19/|title=Nytt bekräftat fall av covid-19|last=|first=|date=26 February 2020|website=Folkhälsomyndigheten|language=sv|url-status=live|archive-url=|archive-date=|access-date=17 March 2020}}</ref>
 
@@ -164,7 +164,7 @@ Array
 |
 |
 |5
-|21
+|19
 |  +250%
 |<ref>{{Cite web|url=https://www.folkhalsomyndigheten.se/nyheter-och-press/nyhetsarkiv/2020/februari/inbjudan-till-presstraff-ytterligare-fall-av-covid-19-i-flera-regioner2/|title=Inbjudan till pressträff: Ytterligare fall av covid-19 i flera regioner|last=|first=|date=27 February 2020|website=Folkhälsomyndigheten|language=sv|url-status=live|archive-url=|archive-date=|access-date=17 March 2020}}</ref>
 
@@ -192,7 +192,7 @@ Array
 |
 |
 |4
-|25
+|23
 |  +57%
 |<ref>{{Cite web|url=https://www.kristianstadsbladet.se/nyheter/coronasmittad-akte-tag-resenarer-sparas/|title=Fyra nya fall av coronavirus i Sverige|last=Grönvik|first=Jonas|date=28 February 2020|website=Kristianstadsbladet|language=sv-SE|url-status=live|archive-url=|archive-date=|access-date=17 March 2020}}</ref>
 
@@ -220,7 +220,7 @@ Array
 |
 |
 |2
-|27
+|25
 |  +18%
 | rowspan="23" |<ref>{{Cite web|url=https://www.coronakartan.se/tidslinje/|title=Tidslinje|last=|first=|date=|website=Coronakartan|language=sv|url-status=live|archive-url=|archive-date=|access-date=17 March 2020}}</ref>
 
@@ -248,7 +248,7 @@ Array
 |
 |
 |1
-|28
+|26
 |  +8%
 
     [10] => 
@@ -275,7 +275,7 @@ Array
 |
 |
 |1
-|29
+|27
 |  +7%
 
     [11] => 
@@ -302,7 +302,7 @@ Array
 |
 |
 |15
-|44
+|42
 |  +100%
 
     [12] => 
@@ -329,7 +329,7 @@ Array
 |1
 |
 |22
-|66
+|64
 |  +73%
 
     [13] => 
@@ -356,7 +356,7 @@ Array
 |
 |
 |42
-|108
+|106
 |  +81%
 
     [14] => 
@@ -383,7 +383,7 @@ Array
 |
 |
 |43
-|151
+|149
 |  +46%
 
     [15] => 
@@ -410,7 +410,7 @@ Array
 |
 |
 |24
-|175
+|173
 |  +18%
 
     [16] => 
@@ -437,7 +437,7 @@ Array
 |3
 |
 |42
-|217
+|215
 |  +26%
 
     [17] => 
@@ -464,7 +464,7 @@ Array
 |
 |1
 |54
-|271
+|269
 |  +27%
 
     [18] => 
@@ -491,7 +491,7 @@ Array
 |1
 |
 |97
-|368
+|366
 |  +38%
 
     [19] => 
@@ -518,7 +518,7 @@ Array
 |2
 |
 |144
-|512
+|510
 |  +41%
 
     [20] => 
@@ -545,7 +545,7 @@ Array
 |1
 |10
 |187
-|699
+|697
 |  +38%
 
     [21] => 
@@ -572,7 +572,7 @@ Array
 |
 |6
 |127
-|826
+|824
 |  +19%
 
     [22] => 
@@ -599,7 +599,7 @@ Array
 |1
 |5
 |150
-|976
+|974
 |  +18%
 
     [23] => 
@@ -626,7 +626,7 @@ Array
 |4
 |5
 |69
-|1,045
+|1043
 |  +7%
 
     [24] => 
@@ -653,7 +653,7 @@ Array
 |2
 |8
 |89
-|1,134
+|1132
 |  +9%
 
     [25] => 
@@ -680,7 +680,7 @@ Array
 |10
 |7
 |75
-|1,207
+|1207
 |  +7%
 
     [26] => 
@@ -707,7 +707,7 @@ Array
 |
 |13
 |99
-|1,308
+|1306
 |  +8%
 
     [27] => 
@@ -734,7 +734,7 @@ Array
 |2
 |33
 |133
-|1,441
+|1439
 |<nowiki>+10%</nowiki>
 
     [28] => 
@@ -761,7 +761,7 @@ Array
 |6
 |33
 |207
-|1,648
+|1646
 |<nowiki>+14%</nowiki>
 
     [29] => 
@@ -788,7 +788,7 @@ Array
 |8
 |17
 |115
-|1,763
+|1761
 |  +6%
 
     [30] => 
@@ -800,7 +800,7 @@ Array
 |3
 |
 |4
-|
+|1
 |
 |
 |5
@@ -810,12 +810,12 @@ Array
 |2
 |
 |
-|
+|1
 |8
 |1
 |8
-|143
-|1,906
+|145
+|1906
 |
 
     [31] => 
@@ -841,7 +841,7 @@ Array
 !250
 !42
 !137
-! colspan="2" |1,906
+! colspan="2" |1906
 !—
 |<ref name=":0" />
 
