@@ -57,6 +57,34 @@ Array
 !{{Flagicon|Östergötlands län|COA}}
 
     [3] => 
+|—
+|
+|
+|
+|
+|
+|9
+| -1
+|
+| -2
+| -1
+|
+| -1
+|
+|17
+|
+|
+|
+|1
+|
+|1
+| -9
+|
+|14
+|—
+|<ref name=":0" />
+
+    [4] => 
 |2020-01-31
 |
 |
@@ -80,11 +108,11 @@ Array
 |
 |
 |1
-|1
+|15
 |—
-|<ref>{{Cite web|url=https://www.folkhalsomyndigheten.se/nyheter-och-press/nyhetsarkiv/2020/januari/bekraftat-fall-av-nytt-coronavirus-i-sverige/|title=Bekraftat fall av nytt coronavirus i Sverige|last=|first=|date=31 January 2020|website=Folkhälsomyndigheten|language=sv|url-status=live|archive-url=|archive-date=|access-date=17 March 2020}}</ref>
+|<ref name=":0">{{Cite web|url=https://www.folkhalsomyndigheten.se/nyheter-och-press/nyhetsarkiv/2020/januari/bekraftat-fall-av-nytt-coronavirus-i-sverige/|title=Bekraftat fall av nytt coronavirus i Sverige|last=|first=|date=31 January 2020|website=Folkhälsomyndigheten|language=sv|url-status=live|archive-url=|archive-date=|access-date=17 March 2020}}</ref>
 
-    [4] => 
+    [5] => 
 |2020-02-26
 |
 |
@@ -108,11 +136,11 @@ Array
 |
 |
 |1
-|2
-| +100%
+|16
+|  +100%
 |<ref>{{Cite web|url=https://www.folkhalsomyndigheten.se/nyheter-och-press/nyhetsarkiv/2020/februari/nytt-bekraftat-fall-av-covid-19/|title=Nytt bekräftat fall av covid-19|last=|first=|date=26 February 2020|website=Folkhälsomyndigheten|language=sv|url-status=live|archive-url=|archive-date=|access-date=17 March 2020}}</ref>
 
-    [5] => 
+    [6] => 
 |2020-02-27
 |
 |
@@ -136,11 +164,11 @@ Array
 |
 |
 |5
-|7
-| +250%
+|21
+|  +250%
 |<ref>{{Cite web|url=https://www.folkhalsomyndigheten.se/nyheter-och-press/nyhetsarkiv/2020/februari/inbjudan-till-presstraff-ytterligare-fall-av-covid-19-i-flera-regioner2/|title=Inbjudan till pressträff: Ytterligare fall av covid-19 i flera regioner|last=|first=|date=27 February 2020|website=Folkhälsomyndigheten|language=sv|url-status=live|archive-url=|archive-date=|access-date=17 March 2020}}</ref>
 
-    [6] => 
+    [7] => 
 |2020-02-28
 |
 |
@@ -164,11 +192,11 @@ Array
 |
 |
 |4
-|11
-| +57%
+|25
+|  +57%
 |<ref>{{Cite web|url=https://www.kristianstadsbladet.se/nyheter/coronasmittad-akte-tag-resenarer-sparas/|title=Fyra nya fall av coronavirus i Sverige|last=Grönvik|first=Jonas|date=28 February 2020|website=Kristianstadsbladet|language=sv-SE|url-status=live|archive-url=|archive-date=|access-date=17 March 2020}}</ref>
 
-    [7] => 
+    [8] => 
 |2020-02-29
 |
 |
@@ -192,11 +220,11 @@ Array
 |
 |
 |2
-|13
-| +18%
-| rowspan="22" |<ref>{{Cite web|url=https://www.coronakartan.se/tidslinje/|title=Tidslinje|last=|first=|date=|website=Coronakartan|language=sv|url-status=live|archive-url=|archive-date=|access-date=17 March 2020}}</ref>
+|27
+|  +18%
+| rowspan="23" |<ref>{{Cite web|url=https://www.coronakartan.se/tidslinje/|title=Tidslinje|last=|first=|date=|website=Coronakartan|language=sv|url-status=live|archive-url=|archive-date=|access-date=17 March 2020}}</ref>
 
-    [8] => 
+    [9] => 
 |2020-03-01
 |
 |
@@ -220,10 +248,10 @@ Array
 |
 |
 |1
-|14
-| +8%
+|28
+|  +8%
 
-    [9] => 
+    [10] => 
 |2020-03-02
 |
 |
@@ -247,10 +275,10 @@ Array
 |
 |
 |1
-|15
-| +7%
+|29
+|  +7%
 
-    [10] => 
+    [11] => 
 |2020-03-03
 |
 |
@@ -274,10 +302,10 @@ Array
 |
 |
 |15
-|30
-| +100%
+|44
+|  +100%
 
-    [11] => 
+    [12] => 
 |2020-03-04
 |
 |
@@ -301,10 +329,10 @@ Array
 |1
 |
 |22
-|52
-| +73%
+|66
+|  +73%
 
-    [12] => 
+    [13] => 
 |2020-03-05
 |
 |
@@ -328,10 +356,10 @@ Array
 |
 |
 |42
-|94
-| +81%
+|108
+|  +81%
 
-    [13] => 
+    [14] => 
 |2020-03-06{{Refn|From 6 March 2020 onwards, Stockholm County reported its cases after 24 hours.{{citation needed|date=March 2020}}|group=lower-alpha}}
 |
 |
@@ -355,10 +383,10 @@ Array
 |
 |
 |43
-|137
-| +46%
+|151
+|  +46%
 
-    [14] => 
+    [15] => 
 |2020-03-07
 |
 |
@@ -382,10 +410,10 @@ Array
 |
 |
 |24
-|161
-| +18%
+|175
+|  +18%
 
-    [15] => 
+    [16] => 
 |2020-03-08
 |
 |
@@ -409,10 +437,10 @@ Array
 |3
 |
 |42
-|203
-| +26%
+|217
+|  +26%
 
-    [16] => 
+    [17] => 
 |2020-03-09
 |
 |
@@ -436,10 +464,10 @@ Array
 |
 |1
 |54
-|257
-| +27%
+|271
+|  +27%
 
-    [17] => 
+    [18] => 
 |2020-03-10
 |
 |
@@ -463,10 +491,10 @@ Array
 |1
 |
 |97
-|354
-| +38%
+|368
+|  +38%
 
-    [18] => 
+    [19] => 
 |2020-03-11{{Refn|Stockholm County decided to only test hospitalized patients from risk groups and healthcare personnel with symptoms from 11 March 2020 onwards.<ref>{{Cite news|last=Almgren|first=Jan|url=https://www.svd.se/uppmaningen-kom-inte-in-for-provtagning|title=Uppmaningen: Kom inte in för provtagning|date=12 March 2020|work=Svenska Dagbladet|access-date=17 March 2020|url-status=live|language=sv|issn=1101-2412}}</ref>|group=lower-alpha}}
 |1
 |1
@@ -490,10 +518,10 @@ Array
 |2
 |
 |144
-|498
-| +41%
+|512
+|  +41%
 
-    [19] => 
+    [20] => 
 |2020-03-12{{Refn|The [[Public Health Agency of Sweden]] decided to only test hospitalized patients from risk groups and healthcare personnel with symptoms from 12 March 2020 onwards.<ref>{{Cite web|url=https://www.aftonbladet.se/a/70GQRV|title=Nya strategin - slutar räkna exakta antalet coronafall|last=Karlsson|first=Pär|date=13 March 2020|website=[[Aftonbladet]]|language=sv|url-status=live|archive-url=|archive-date=|access-date=17 March 2020}}</ref>|group=lower-alpha}}
 |5
 |3
@@ -517,10 +545,10 @@ Array
 |1
 |10
 |187
-|685
-| +38%
+|699
+|  +38%
 
-    [20] => 
+    [21] => 
 |2020-03-13
 |2
 |
@@ -544,10 +572,10 @@ Array
 |
 |6
 |127
-|812
-| +19%
+|826
+|  +19%
 
-    [21] => 
+    [22] => 
 |2020-03-14
 |
 |
@@ -571,10 +599,10 @@ Array
 |1
 |5
 |150
-|962
-| +18%
+|976
+|  +18%
 
-    [22] => 
+    [23] => 
 |2020-03-15
 |
 |
@@ -598,10 +626,10 @@ Array
 |4
 |5
 |69
-|1,031
-| +7%
+|1,045
+|  +7%
 
-    [23] => 
+    [24] => 
 |2020-03-16
 |2
 |2
@@ -625,10 +653,10 @@ Array
 |2
 |8
 |89
-|1,120
-| +9%
+|1,134
+|  +9%
 
-    [24] => 
+    [25] => 
 |2020-03-17
 |1
 |
@@ -652,10 +680,10 @@ Array
 |10
 |7
 |75
-|1,193
-| +7%
+|1,207
+|  +7%
 
-    [25] => 
+    [26] => 
 |2020-03-18
 |
 |2
@@ -679,10 +707,10 @@ Array
 |
 |13
 |99
-|1,294
-| +8%
+|1,308
+|  +8%
 
-    [26] => 
+    [27] => 
 |2020-03-19
 |
 |5
@@ -706,10 +734,10 @@ Array
 |2
 |33
 |133
-|1,427
+|1,441
 |<nowiki>+10%</nowiki>
 
-    [27] => 
+    [28] => 
 |2020-03-20
 |1
 |2
@@ -733,10 +761,10 @@ Array
 |6
 |33
 |207
-|1,634
+|1,648
 |<nowiki>+14%</nowiki>
 
-    [28] => 
+    [29] => 
 |2020-03-21
 |
 |1
@@ -760,37 +788,64 @@ Array
 |8
 |17
 |115
-|1,749
-| +6%
+|1,763
+|  +6%
 
-    [29] => 
+    [30] => 
+|2020-03-22
+|
+|
+|
+|4
+|3
+|
+|4
+|
+|
+|
+|5
+|99
+|6
+|3
+|2
+|
+|
+|
+|8
+|1
+|8
+|143
+|1,906
+|
+
+    [31] => 
 !Total
 !12
 !16
 !5
-!20
+!24
+!58
+!40
 !55
-!31
-!52
 !11
-!20
-!17
-!223
-!662
-!47
-!57
-!37
+!18
+!16
+!228
+!760
+!53
+!77
+!39
 !29
 !15
-!20
-!242
-!41
-!138
-! colspan="2" |1,749
+!21
+!250
+!42
+!137
+! colspan="2" |1,906
 !—
-!
+|<ref name=":0" />
 
-    [30] => 
+    [32] => 
 | colspan="26" style="text-align:left;" |'''Notes'''{{reflist|group=lower-alpha}}
 |}
 )
