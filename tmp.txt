@@ -791,6 +791,34 @@ Array
 |<nowiki>+8%</nowiki>
 
     [30] => 
+|2020-03-23
+|
+|1
+|
+|
+|1
+|9
+|1
+|1
+|
+|1
+|3
+|56
+|11
+|5
+|
+|1
+|
+|2
+|4
+|
+|14
+|110
+|2,004
+| +6%
+| rowspan="3" |<ref>{{Cite web|url=https://www.folkhalsomyndigheten.se/smittskydd-beredskap/utbrott/aktuella-utbrott/covid-19/aktuellt-epidemiologiskt-lage/|title=Antal fall av covid-19|last=|first=|date=|website=[[Public Health Agency of Sweden|Folkhälsomyndigheten]]|language=sv|trans-title=Number of cases of covid-19|url-status=live|archive-url=|archive-date=|access-date=22 March 2020}}</ref>
+
+    [31] => 
 |''Unknown''
 |
 |
@@ -812,38 +840,37 @@ Array
 |
 |
 |
-|
-| colspan="2" |''+21''
+| -9
+| colspan="2" |''+12''
 |—
-| rowspan="2" |<ref>{{Cite web|url=https://www.regionostergotland.se/Halsa-och-vard/aktuellt-om-coronaviruset/|title=Aktuellt om coronaviruset|last=|first=|date=|website=Region Östergötland|language=sv|trans-title=Latest news on the coronavirus|url-status=live|archive-url=|archive-date=|access-date=22 March 2020}}</ref><ref>{{Cite web|url=https://www.folkhalsomyndigheten.se/smittskydd-beredskap/utbrott/aktuella-utbrott/covid-19/aktuellt-epidemiologiskt-lage/|title=Antal fall av covid-19|last=|first=|date=|website=[[Public Health Agency of Sweden|Folkhälsomyndigheten]]|language=sv|trans-title=Number of cases of covid-19|url-status=live|archive-url=|archive-date=|access-date=22 March 2020}}</ref>
-
-    [31] => 
-!Total
-!12
-!16
-!5
-!24
-!58
-!40
-!55
-!11
-!18
-!16
-!228
-!760
-!53
-!77
-!39
-!29
-!15
-!21
-!250
-!42
-!146
-! colspan="2" |1,915
-!—
 
     [32] => 
+!Total
+!12
+!17
+!5
+!24
+!59
+!49
+!56
+!12
+!18
+!17
+!231
+!816
+!64
+!82
+!39
+!30
+!15
+!23
+!254
+!42
+!151
+! colspan="2" |2,016
+!—
+
+    [33] => 
 | colspan="26" style="text-align:left;" |'''Notes'''{{reflist|group=lower-alpha}}
 |}
 )
