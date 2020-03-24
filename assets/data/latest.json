@@ -1,13 +1,13 @@
 {
     "updated": {
-        "datetime": "2020-03-24 12:00 (CET)",
-        "timestamp": 1585047608
+        "datetime": "2020-03-24 12:05 (CET)",
+        "timestamp": 1585047907
     },
     "summary": {
         "confirmed": 2059,
         "recovered": 16,
         "deceased": 33,
-        "severe": 111
+        "severe": 115
     },
     "regions": {
         "Blekinge": {
