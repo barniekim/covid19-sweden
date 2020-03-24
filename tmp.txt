@@ -194,7 +194,7 @@ Array
 |2
 |13
 |  +18%
-| rowspan="24" |<ref>{{Cite web|url=https://www.coronakartan.se/tidslinje/|title=Tidslinje|last=|first=|date=|website=Coronakartan|language=sv|trans-title=Timeline|url-status=live|archive-url=|archive-date=|access-date=17 March 2020}}</ref>{{Better source|date=March 2020}}
+| rowspan="24" |<ref name=statistics>{{cite web|url=https://www.folkhalsomyndigheten.se/smittskydd-beredskap/utbrott/aktuella-utbrott/covid-19/aktuellt-epidemiologiskt-lage/|title=Antal fall av Covid-19 — Folkhälsomyndigheten (updaterd dayily)|website=Public Health Agency of Sweden|language=sv|accessdate=13 March 2020}}. For previous versions of this article, see [https://web.archive.org/web/*/https://www.folkhalsomyndigheten.se/smittskydd-beredskap/utbrott/aktuella-utbrott/covid-19/aktuellt-epidemiologiskt-lage/]</ref><ref>{{Cite web|url=https://www.coronakartan.se/tidslinje/|title=Tidslinje|last=|first=|date=|website=Coronakartan|language=sv|trans-title=Timeline|url-status=live|archive-url=|archive-date=|access-date=17 March 2020}}</ref>
 
     [8] => 
 |2020-03-01
