@@ -194,7 +194,7 @@ Array
 |2
 |13
 |  +18%
-| rowspan="23" |<ref>{{Cite web|url=https://www.coronakartan.se/tidslinje/|title=Tidslinje|last=|first=|date=|website=Coronakartan|language=sv|trans-title=Timeline|url-status=live|archive-url=|archive-date=|access-date=17 March 2020}}</ref>
+| rowspan="23" |<ref>{{Cite web|url=https://www.coronakartan.se/tidslinje/|title=Tidslinje|last=|first=|date=|website=Coronakartan|language=sv|trans-title=Timeline|url-status=live|archive-url=|archive-date=|access-date=17 March 2020}}</ref>{{Better source|date=March 2020}}
 
     [8] => 
 |2020-03-01
