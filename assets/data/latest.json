@@ -1,12 +1,12 @@
 {
     "updated": {
-        "datetime": "2020-03-24 22:25 (CET)",
-        "timestamp": 1585085106
+        "datetime": "2020-03-24 22:30 (CET)",
+        "timestamp": 1585085407
     },
     "summary": {
         "confirmed": 2286,
         "recovered": 16,
-        "deceased": 33,
+        "deceased": 40,
         "severe": 136
     },
     "regions": {
