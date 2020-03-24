@@ -194,7 +194,7 @@ Array
 |2
 |13
 |  +18%
-| rowspan="21" |<ref>{{Cite web|url=https://www.coronakartan.se/tidslinje/|title=Tidslinje|last=|first=|date=|website=Coronakartan|language=sv|trans-title=Timeline|url-status=live|archive-url=|archive-date=|access-date=17 March 2020}}</ref>{{Better source|date=March 2020|Differs from https://web.archive.org/web/*/https://www.folkhalsomyndigheten.se/smittskydd-beredskap/utbrott/aktuella-utbrott/covid-19/aktuellt-epidemiologiskt-lage/}}
+| rowspan="10" |<ref>{{Cite web|url=https://www.coronakartan.se/tidslinje/|title=Tidslinje|last=|first=|date=|website=Coronakartan|language=sv|trans-title=Timeline|url-status=live|archive-url=|archive-date=|access-date=17 March 2020}}</ref>{{Better source|date=March 2020|Differs from https://web.archive.org/web/*/https://www.folkhalsomyndigheten.se/smittskydd-beredskap/utbrott/aktuella-utbrott/covid-19/aktuellt-epidemiologiskt-lage/}}
 
     [8] => 
 |2020-03-01
@@ -440,329 +440,329 @@ Array
 |  +27%
 
     [17] => 
+|Difference
+|
+|
+|
+|
+|4
+|
+|
+|
+|
+|
+|
+|
+|1
+| -3
+|
+|5
+|
+|
+|1
+|
+|1
+|
+| -9
+|
+| rowspan="17" |<ref>{{Cite web|url=https://www.folkhalsomyndigheten.se/smittskydd-beredskap/utbrott/aktuella-utbrott/covid-19/aktuellt-epidemiologiskt-lage/|title=Antal fall av covid-19|last=|first=|date=|website=[[Public Health Agency of Sweden|Folkhälsomyndigheten]]|language=sv|trans-title=Number of cases of covid-19|url-status=live|archive-url=|archive-date=|access-date=22 March 2020}} For historical versions of this page, see [https://web.archive.org/web/*/https://www.folkhalsomyndigheten.se/smittskydd-beredskap/utbrott/aktuella-utbrott/covid-19/aktuellt-epidemiologiskt-lage/ Wayback machine].</ref>
+
+    [18] => 
 |2020-03-10
 |
 |
 |
 |
-|4
-|1
+|5
 |
-|2
-|1
-|2
+|
+|
+|
+|
 |3
 |60
 |1
+| -1
+| -3
 |
-|1
 |
-|6
 |
-|15
-|1
+|13
 |
-|97
-|354
-|  +38%
-
-    [18] => 
-|2020-03-11{{Refn|Stockholm County decided to only test hospitalized patients from risk groups and healthcare personnel with symptoms from 11 March 2020 onwards.<ref>{{Cite news|last=Almgren|first=Jan|url=https://www.svd.se/uppmaningen-kom-inte-in-for-provtagning|title=Uppmaningen: Kom inte in för provtagning|date=12 March 2020|work=Svenska Dagbladet|trans-title=Appeal: Do not come in for testing|access-date=17 March 2020|url-status=live|language=sv|issn=1101-2412}}</ref>|group=lower-alpha}}
-|1
-|1
 |
-|1
-|7
-|4
-|3
-|
-|7
-|3
-|35
-|26
-|5
-|3
-|2
-|3
-|
-|4
-|37
-|2
-|
-|144
-|498
-|  +41%
+|78
+|326
+| 24%
 
     [19] => 
-|2020-03-12{{Refn|The [[Public Health Agency of Sweden]] decided to only test hospitalized patients from risk groups and healthcare personnel with symptoms from 12 March 2020 onwards.<ref>{{Cite web|url=https://www.aftonbladet.se/a/70GQRV|title=Nya strategin – slutar räkna exakta antalet coronafall|last=Karlsson|first=Pär|date=13 March 2020|website=[[Aftonbladet]]|language=sv|trans-title=The new strategy – stops counting the exact number of corona cases|url-status=live|archive-url=|archive-date=|access-date=17 March 2020}}</ref>|group=lower-alpha}}
-|5
-|3
-|2
-|2
-|15
-|3
-|13
-|2
-|2
+|2020-03-11{{Refn|Stockholm County decided to only test hospitalized patients from risk groups and healthcare personnel with symptoms from 11 March 2020 onwards.<ref>{{Cite news|last=Almgren|first=Jan|url=https://www.svd.se/uppmaningen-kom-inte-in-for-provtagning|title=Uppmaningen: Kom inte in för provtagning|date=12 March 2020|work=Svenska Dagbladet|trans-title=Appeal: Do not come in for testing|access-date=17 March 2020|url-status=live|language=sv|issn=1101-2412}}</ref>|group=lower-alpha}}
 |1
-|38
-|34
-|4
-|14
-|3
+|
+|
 |
 |3
 |1
-|31
+|3
+|2
 |1
-|10
-|187
-|685
-|  +38%
+|2
+|35
+|28
+|
+|4
+|1
+|8
+|6
+|
+|40
+|
+|
+|135
+|461
+| 29%
 
     [20] => 
-|2020-03-13
-|2
-|
-|
-|
-|9
-|3
-|
+|2020-03-12{{Refn|The [[Public Health Agency of Sweden]] decided to only test hospitalized patients from risk groups and healthcare personnel with symptoms from 12 March 2020 onwards.<ref>{{Cite web|url=https://www.aftonbladet.se/a/70GQRV|title=Nya strategin – slutar räkna exakta antalet coronafall|last=Karlsson|first=Pär|date=13 March 2020|website=[[Aftonbladet]]|language=sv|trans-title=The new strategy – stops counting the exact number of corona cases|url-status=live|archive-url=|archive-date=|access-date=17 March 2020}}</ref>|group=lower-alpha}}
+|5
 |1
 |2
-|
-|33
-|42
-|6
-|
+|1
+|10
+|2
+|13
+|1
+|7
 |3
-|1
-|1
-|
-|18
-|
+|37
+|32
 |6
-|127
-|812
-|  +19%
+|3
+|3
+|
+|
+|
+|31
+|1
+|1
+|159
+|620
+| 26%
 
     [21] => 
-|2020-03-14
+|2020-03-13
+|2
+|2
 |
+|2
+|14
+|2
+|7
+|2
+|2
 |
-|
-|1
-|
+|31
+|41
 |3
-|12
-|
-|
-|2
-|44
-|33
-|8
-|11
-|
-|2
+|10
+|7
 |1
-|6
-|21
-|1
+|4
 |5
-|150
-|962
-|  +18%
+|18
+|2
+|
+|155
+|775
+| 20%
 
     [22] => 
+|2020-03-14
+|
+|1
+|
+|1
+|7
+|6
+|5
+|
+|2
+|
+|42
+|33
+|6
+|11
+|1
+|
+|1
+|
+|21
+|2
+|10
+|149
+|924
+| 16%
+
+    [23] => 
 |2020-03-15
 |
 |
 |
 |1
 |
-|2
+|
 |
 |2
 |1
-|
-|22
+|1
+|27
 |18
-|3
+|1
 |2
 |
-|2
+|4
 |
-|3
+|
 |4
-|4
-|5
-|69
-|1,031
-|  +7%
+|
+|7
+|68
+|992
+| 7%
 
-    [23] => 
+    [24] => 
 |2020-03-16
-|2
-|2
+|1
+|
 |
 |1
-|3
-|5
+|2
+|8
 |4
 |
-|3
+|2
 |
-|9
+|4
 |18
-|5
-|8
+|
+|
 |1
 |
 |1
 |
 |17
-|2
+|
 |8
-|89
-|1,120
-|  +9%
-
-    [24] => 
-|2020-03-17
-|1
-|
-|
-|1
-|1
-|1
-|1
-|
-|2
-|2
-|3
-|33
-|
-|
-|3
-|5
-|1
-|1
-|3
-|10
-|7
-|75
-|1,195
-|  +7%
+|67
+|1059
+| 6%
 
     [25] => 
-|2020-03-18
+|2020-03-17
+|2
 |
-|2
-|2
-|4
-|5
-|2
+|
 |1
 |1
+|3
+|1
 |
 |
-|
-|36
-|4
+|2
 |6
+|33
+|16
+|5
+|3
+|5
 |
-|1
-|
-|2
-|20
-|
+|11
+|3
+|3
 |13
-|99
-|1,294
-|  +8%
+|108
+|1167
+| 9%
 
     [26] => 
+|2020-03-18
+|
+|4
+|1
+|4
+|3
+|
+|1
+|
+|1
+| -1
+|2
+|36
+|4
+|9
+|
+|1
+|1
+|2
+|20
+|11
+|13
+|112
+|1279
+| 9%
+
+    [27] => 
 |2020-03-19
 |
-|5
+|
+|
+|2
+|2
+|2
+|2
 |
 |2
 |1
-|3
-|2
-|1
-|2
-|3
 |7
 |55
 |1
-|
+|15
 |2
 |4
 |1
-|1
+|
 |8
-|2
-|33
-|133
-|1,427
-|<nowiki>+10%</nowiki>
-
-    [27] => 
-|Difference
-|
-| -5
-| -1
-| -2
-| -4
-| -5
-| -2
-| -2
-| -4
-| -6
-| -7
-| -56
-| -1
-|2
-| -2
-| -4
-| -1
-|
-| -8
-| -4
-|  -36
-|  -148
-|1,279
-|—
+|4
+|36
+|144
+|1423
+|10%
 
     [28] => 
 |2020-03-20
 |1
 |3
 |2
-|4
-|5
-|5
-|4
+|2
+|3
+|3
 |2
 |2
-|2
-|11
-|160
-|6
-|21
-|2
-|8
-|2
+|
 |1
-|29
-|10
-|64
-|344
-|1,623
-|  +6%
-| rowspan="6" |<ref>{{Cite web|url=https://www.folkhalsomyndigheten.se/smittskydd-beredskap/utbrott/aktuella-utbrott/covid-19/aktuellt-epidemiologiskt-lage/|title=Antal fall av covid-19|last=|first=|date=|website=[[Public Health Agency of Sweden|Folkhälsomyndigheten]]|language=sv|trans-title=Number of cases of covid-19|url-status=live|archive-url=|archive-date=|access-date=22 March 2020}} For historical versions of this page, see [https://web.archive.org/web/*/https://www.folkhalsomyndigheten.se/smittskydd-beredskap/utbrott/aktuella-utbrott/covid-19/aktuellt-epidemiologiskt-lage/ Wayback machine].</ref>
+|4
+|105
+|5
+|6
+|
+|4
+|1
+|1
+|21
+|6
+|28
+|200
+|1623
+| 12%
 
     [29] => 
 |2020-03-21
@@ -786,10 +786,10 @@ Array
 |2
 |14
 |8
-|1
+|10
 |123
-|1,746
-|
+|1746
+|7%
 
     [30] => 
 |2020-03-22
@@ -815,8 +815,8 @@ Array
 |1
 |11
 |160
-|1,906
-| +6%
+|1906
+| 8%
 
     [31] => 
 |2020-03-23
@@ -842,8 +842,8 @@ Array
 |
 |14
 |110
-|2,016
-| +6%
+|2016
+| 5%
 
     [32] => 
 |2020-03-24
@@ -869,8 +869,8 @@ Array
 |6
 |30
 |256
-|2,272
-| +11%
+|2272
+| 11%
 
     [33] => 
 !Total
