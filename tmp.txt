@@ -465,7 +465,7 @@ Array
 |78
 |326
 | 24%
-| rowspan="17" |<ref>{{Cite web|url=https://www.folkhalsomyndigheten.se/smittskydd-beredskap/utbrott/aktuella-utbrott/covid-19/aktuellt-epidemiologiskt-lage/|title=Antal fall av covid-19|last=|first=|date=|website=[[Public Health Agency of Sweden|Folkhälsomyndigheten]]|language=sv|trans-title=Number of cases of covid-19|url-status=live|archive-url=|archive-date=|access-date=22 March 2020}} For historical versions of this page, see [https://web.archive.org/web/*/https://www.folkhalsomyndigheten.se/smittskydd-beredskap/utbrott/aktuella-utbrott/covid-19/aktuellt-epidemiologiskt-lage/ Wayback machine].</ref>
+| rowspan="18" |<ref>{{Cite web|url=https://www.folkhalsomyndigheten.se/smittskydd-beredskap/utbrott/aktuella-utbrott/covid-19/aktuellt-epidemiologiskt-lage/|title=Antal fall av covid-19|last=|first=|date=|website=[[Public Health Agency of Sweden|Folkhälsomyndigheten]]|language=sv|trans-title=Number of cases of covid-19|url-status=live|archive-url=|archive-date=|access-date=22 March 2020}} For historical versions of this page, see [https://web.archive.org/web/*/https://www.folkhalsomyndigheten.se/smittskydd-beredskap/utbrott/aktuella-utbrott/covid-19/aktuellt-epidemiologiskt-lage/ Wayback machine].</ref>
 
     [18] => 
 |2020-03-11{{Refn|Stockholm County decided to only test hospitalized patients from risk groups and healthcare personnel with symptoms from 11 March 2020 onwards.<ref>{{Cite news|last=Almgren|first=Jan|url=https://www.svd.se/uppmaningen-kom-inte-in-for-provtagning|title=Uppmaningen: Kom inte in för provtagning|date=12 March 2020|work=Svenska Dagbladet|trans-title=Appeal: Do not come in for testing|access-date=17 March 2020|url-status=live|language=sv|issn=1101-2412}}</ref>|group=lower-alpha}}
@@ -899,30 +899,29 @@ Array
 !—
 
     [34] => 
-!Deads
-!
-!1
-!
-!
-!
-!
-!
-!
-!
-!
-!3
-!21
-!8
-!3
-!1
-!
-!
-!
-!1
-!
-!4
-! colspan="2" |42
-!
+|Deads
+|
+|1
+|
+|
+|
+|
+|
+|
+|
+|
+|3
+|21
+|8
+|3
+|1
+|
+|
+|
+|1
+|
+|4
+| colspan="2" |42
 |
 
     [35] => 
