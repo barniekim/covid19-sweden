@@ -19,7 +19,7 @@ Array
 !!{{vert header|[[Kalmar County|Kalmar]]}}
 !!{{vert header|[[Kronoberg County|Kronoberg]]}}
 !!{{vert header|[[Norrbotten County|Norrbotten]]}}
-!!{{vert header|[[Skåne County|Skåne]]}}
+!!{{vert header|[[Skåne County|Scania]]}}
 !!{{vert header|[[Stockholm County|Stockholm]]}}
 !!{{vert header|[[Södermanland County|Södermanland]]}}
 !!{{vert header|[[Uppsala County|Uppsala]]}}
