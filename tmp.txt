@@ -465,7 +465,7 @@ Array
 |78
 |326
 | 24%
-| rowspan="16" |<ref>{{Cite web|url=https://www.folkhalsomyndigheten.se/smittskydd-beredskap/utbrott/aktuella-utbrott/covid-19/aktuellt-epidemiologiskt-lage/|title=Antal fall av covid-19|last=|first=|date=|website=[[Public Health Agency of Sweden|Folkhälsomyndigheten]]|language=sv|trans-title=Number of cases of covid-19|url-status=live|archive-url=|archive-date=|access-date=22 March 2020}} For historical versions of this page, see [https://web.archive.org/web/*/https://www.folkhalsomyndigheten.se/smittskydd-beredskap/utbrott/aktuella-utbrott/covid-19/aktuellt-epidemiologiskt-lage/ Wayback machine].</ref>
+| rowspan="17" |<ref>{{Cite web|url=https://www.folkhalsomyndigheten.se/smittskydd-beredskap/utbrott/aktuella-utbrott/covid-19/aktuellt-epidemiologiskt-lage/|title=Antal fall av covid-19|last=|first=|date=|website=[[Public Health Agency of Sweden|Folkhälsomyndigheten]]|language=sv|trans-title=Number of cases of covid-19|url-status=live|archive-url=|archive-date=|access-date=22 March 2020}} For historical versions of this page, see [https://web.archive.org/web/*/https://www.folkhalsomyndigheten.se/smittskydd-beredskap/utbrott/aktuella-utbrott/covid-19/aktuellt-epidemiologiskt-lage/ Wayback machine].</ref>
 
     [18] => 
 |2020-03-11{{Refn|Stockholm County decided to only test hospitalized patients from risk groups and healthcare personnel with symptoms from 11 March 2020 onwards.<ref>{{Cite news|last=Almgren|first=Jan|url=https://www.svd.se/uppmaningen-kom-inte-in-for-provtagning|title=Uppmaningen: Kom inte in för provtagning|date=12 March 2020|work=Svenska Dagbladet|trans-title=Appeal: Do not come in for testing|access-date=17 March 2020|url-status=live|language=sv|issn=1101-2412}}</ref>|group=lower-alpha}}
@@ -846,32 +846,59 @@ Array
 | 11%
 
     [32] => 
-!Total
-!12
-!30
-!5
-!27
-!63
-!55
-!59
-!15
-!18
-!25
-!238
-!959
-!66
-!93
-!42
-!30
-!17
-!24
-!265
-!48
-!181
-! colspan="2" |2,272
-!—
+|2020-03-25
+|
+|10
+|
+|5
+|3
+|4
+|6
+|2
+|1
+|5
+|8
+|111
+|19
+|9
+|3
+|3
+|2
+|5
+|10
+|10
+|22
+|238
+|2510
+|9%
 
     [33] => 
+!Total
+!12
+!40
+!5
+!32
+!66
+!59
+!65
+!17
+!19
+!30
+!246
+!1070
+!85
+!102
+!45
+!33
+!19
+!29
+!275
+!58
+!203
+! colspan="2" |2510
+!—
+
+    [34] => 
 | colspan="26" style="text-align:left;" |'''Notes'''{{reflist|group=lower-alpha}}
 |}
 )
