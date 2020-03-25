@@ -4,8 +4,7 @@ Array
 |+ style="font-size:11pt;" |{{nowrap|New COVID-19 cases in Sweden by county ({{navbar|2019–20 coronavirus pandemic data/Sweden medical cases|mini=1|nodiv=1}})}}
 ! rowspan="3" |Date
 ! colspan="21" |'''County'''
-! colspan="2" |Cases{{refn|Reported, confirmed cases. Actual case numbers may be higher.|group=lower-alpha}}
-! rowspan="3" |Difference
+! colspan="3" |Cases{{refn|Reported, confirmed cases. Actual case numbers may be higher.|group=lower-alpha}}
 ! rowspan="3" |Source(s)
 
     [1] => 
@@ -32,6 +31,7 @@ Array
 !!{{vert header|[[Östergötland County|Oestergoetland]]}}
 ! rowspan="2" |New
 ! rowspan="2" |Total
+! rowspan="2" |Difference
 
     [2] => 
 !{{Flagicon|Blekinge län|COA}}
@@ -899,6 +899,33 @@ Array
 !—
 
     [34] => 
+!Deads
+!
+!1
+!
+!
+!
+!
+!
+!
+!
+!
+!3
+!21
+!8
+!3
+!1
+!
+!
+!
+!1
+!
+!4
+! colspan="2" |42
+!
+|
+
+    [35] => 
 | colspan="26" style="text-align:left;" |'''Notes'''{{reflist|group=lower-alpha}}
 |}
 )
