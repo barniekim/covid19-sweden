@@ -12,24 +12,24 @@ Array
 !!{{vert header|[[Blekinge County|Blekinge]]}}
 !!{{vert header|[[Dalarna County|Dalarna]]}}
 !!{{vert header|[[Gotland County|Gotland]]}}
-!!{{vert header|[[Gävleborg County|Gävleborg]]}}
+!!{{vert header|[[Gävleborg County|Gaevleborg]]}}
 !!{{vert header|[[Halland County|Halland]]}}
-!!{{vert header|[[Jämtland County|Jämtland]]}}
-!!{{vert header|[[Jönköping County|Jönköping]]}}
-!!{{vert header|[[Kalmar County|Kalmar]]}}
+!!{{vert header|[[Jämtland County|Jaemtland]]}}
+!!{{vert header|[[Jönköping County|Joenkoeping]]}}
+!!{{vert header|[[Kalmar County|Calmar]]}}
 !!{{vert header|[[Kronoberg County|Kronoberg]]}}
 !!{{vert header|[[Norrbotten County|Norrbotten]]}}
 !!{{vert header|[[Skåne County|Scania]]}}
 !!{{vert header|[[Stockholm County|Stockholm]]}}
-!!{{vert header|[[Södermanland County|Södermanland]]}}
+!!{{vert header|[[Södermanland County|Soedermanland]]}}
 !!{{vert header|[[Uppsala County|Uppsala]]}}
-!!{{vert header|[[Värmland County|Värmland]]}}
-!!{{vert header|[[Västerbotten County|Västerbotten]]}}
-!!{{vert header|[[Västernorrland County|Västernorrland]]}}
-!!{{vert header|[[Västmanland County|Västmanland]]}}
-!!{{vert header|[[Västra Götaland County|Västra Götaland]]}}
-!!{{vert header|[[Örebro County|Örebro]]}}
-!!{{vert header|[[Östergötland County|Östergötland]]}}
+!!{{vert header|[[Värmland County|Vaermland]]}}
+!!{{vert header|[[Västerbotten County|Vaesterbotten]]}}
+!!{{vert header|[[Västernorrland County|Vaesternorrland]]}}
+!!{{vert header|[[Västmanland County|Vaestmanland]]}}
+!!{{vert header|[[Västra Götaland County|Vaestra Goetaland]]}}
+!!{{vert header|[[Örebro County|Oerebro]]}}
+!!{{vert header|[[Östergötland County|Oestergoetland]]}}
 ! rowspan="2" |New
 ! rowspan="2" |Total
 
