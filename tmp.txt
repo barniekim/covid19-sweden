@@ -109,7 +109,7 @@ Array
 |
 |1
 |2
-|  +100%
+| +100%
 |<ref>{{Cite web|url=https://www.folkhalsomyndigheten.se/nyheter-och-press/nyhetsarkiv/2020/februari/nytt-bekraftat-fall-av-covid-19/|title=Nytt bekräftat fall av covid-19|last=|first=|date=26 February 2020|website=[[Public Health Agency of Sweden|Folkhälsomyndigheten]]|language=sv|trans-title=New confirmed case of covid-19|url-status=live|archive-url=|archive-date=|access-date=17 March 2020}}</ref>
 
     [5] => 
@@ -137,7 +137,7 @@ Array
 |
 |5
 |7
-|  +250%
+| +250%
 |<ref>{{Cite web|url=https://www.folkhalsomyndigheten.se/nyheter-och-press/nyhetsarkiv/2020/februari/inbjudan-till-presstraff-ytterligare-fall-av-covid-19-i-flera-regioner2/|title=Inbjudan till pressträff: Ytterligare fall av covid-19 i flera regioner|last=|first=|date=27 February 2020|website=[[Public Health Agency of Sweden|Folkhälsomyndigheten]]|language=sv|trans-title=Invitation to press conference: More cases of covid-19 in multiple regions|url-status=live|archive-url=|archive-date=|access-date=17 March 2020}}</ref>
 
     [6] => 
@@ -165,7 +165,7 @@ Array
 |
 |4
 |11
-|  +57%
+| +57%
 |<ref>{{Cite web|url=https://www.kristianstadsbladet.se/nyheter/coronasmittad-akte-tag-resenarer-sparas/|title=Fyra nya fall av coronavirus i Sverige|last=Grönvik|first=Jonas|date=28 February 2020|website=Kristianstadsbladet|language=sv-SE|trans-title=Four new cases of coronavirus in Sweden|url-status=live|archive-url=|archive-date=|access-date=17 March 2020}}</ref>
 
     [7] => 
@@ -193,8 +193,8 @@ Array
 |
 |2
 |13
-|  +18%
-| rowspan="10" |<ref>{{Cite web|url=https://www.coronakartan.se/tidslinje/|title=Tidslinje|last=|first=|date=|website=Coronakartan|language=sv|trans-title=Timeline|url-status=live|archive-url=|archive-date=|access-date=17 March 2020}}</ref>{{Better source|date=March 2020|Differs from https://web.archive.org/web/*/https://www.folkhalsomyndigheten.se/smittskydd-beredskap/utbrott/aktuella-utbrott/covid-19/aktuellt-epidemiologiskt-lage/}}
+| +18%
+| rowspan="10" |<ref>{{Cite web|url=https://www.coronakartan.se/tidslinje/|title=Tidslinje|last=|first=|date=|website=Coronakartan|language=sv|trans-title=Timeline|url-status=live|archive-url=|archive-date=|access-date=17 March 2020}}</ref>
 
     [8] => 
 |2020-03-01
@@ -221,7 +221,7 @@ Array
 |
 |1
 |14
-|  +8%
+| +8%
 
     [9] => 
 |2020-03-02
@@ -248,7 +248,7 @@ Array
 |
 |1
 |15
-|  +7%
+| +7%
 
     [10] => 
 |2020-03-03
@@ -275,7 +275,7 @@ Array
 |
 |15
 |30
-|  +100%
+| +100%
 
     [11] => 
 |2020-03-04
@@ -302,7 +302,7 @@ Array
 |
 |22
 |52
-|  +73%
+| +73%
 
     [12] => 
 |2020-03-05
@@ -329,7 +329,7 @@ Array
 |
 |42
 |94
-|  +81%
+| +81%
 
     [13] => 
 |2020-03-06{{Refn|From 6 March 2020 onwards, Stockholm County reported its cases after 24 hours.{{citation needed|date=March 2020}}|group=lower-alpha}}
@@ -356,7 +356,7 @@ Array
 |
 |43
 |137
-|  +46%
+| +46%
 
     [14] => 
 |2020-03-07
@@ -383,7 +383,7 @@ Array
 |
 |24
 |161
-|  +18%
+| +18%
 
     [15] => 
 |2020-03-08
@@ -410,7 +410,7 @@ Array
 |
 |42
 |203
-|  +26%
+| +26%
 
     [16] => 
 |2020-03-09
@@ -437,7 +437,7 @@ Array
 |
 |45
 |248
-| 18%
+| +22%
 
     [17] => 
 |2020-03-10
@@ -464,7 +464,7 @@ Array
 |
 |78
 |326
-| 24%
+| +31%
 | rowspan="18" |<ref>{{Cite web|url=https://www.folkhalsomyndigheten.se/smittskydd-beredskap/utbrott/aktuella-utbrott/covid-19/aktuellt-epidemiologiskt-lage/|title=Antal fall av covid-19|last=|first=|date=|website=[[Public Health Agency of Sweden|Folkhälsomyndigheten]]|language=sv|trans-title=Number of cases of covid-19|url-status=live|archive-url=|archive-date=|access-date=22 March 2020}} For historical versions of this page, see [https://web.archive.org/web/*/https://www.folkhalsomyndigheten.se/smittskydd-beredskap/utbrott/aktuella-utbrott/covid-19/aktuellt-epidemiologiskt-lage/ Wayback machine].</ref>
 
     [18] => 
@@ -492,7 +492,7 @@ Array
 |
 |135
 |461
-| 29%
+| +41%
 
     [19] => 
 |2020-03-12{{Refn|The [[Public Health Agency of Sweden]] decided to only test hospitalized patients from risk groups and healthcare personnel with symptoms from 12 March 2020 onwards.<ref>{{Cite web|url=https://www.aftonbladet.se/a/70GQRV|title=Nya strategin – slutar räkna exakta antalet coronafall|last=Karlsson|first=Pär|date=13 March 2020|website=[[Aftonbladet]]|language=sv|trans-title=The new strategy – stops counting the exact number of corona cases|url-status=live|archive-url=|archive-date=|access-date=17 March 2020}}</ref>|group=lower-alpha}}
@@ -519,7 +519,7 @@ Array
 |1
 |159
 |620
-| 26%
+| +34%
 
     [20] => 
 |2020-03-13
@@ -546,7 +546,7 @@ Array
 |
 |155
 |775
-| 20%
+| +25%
 
     [21] => 
 |2020-03-14
@@ -573,7 +573,7 @@ Array
 |10
 |149
 |924
-| 16%
+| +19%
 
     [22] => 
 |2020-03-15
@@ -600,7 +600,7 @@ Array
 |7
 |68
 |992
-| 7%
+| +7%
 
     [23] => 
 |2020-03-16
@@ -626,8 +626,8 @@ Array
 |
 |8
 |67
-|1059
-| 6%
+|1,059
+| +7%
 
     [24] => 
 |2020-03-17
@@ -653,8 +653,8 @@ Array
 |3
 |13
 |108
-|1167
-| 9%
+|1,167
+| +10%
 
     [25] => 
 |2020-03-18
@@ -680,8 +680,8 @@ Array
 |11
 |13
 |112
-|1279
-| 9%
+|1,279
+| +10%
 
     [26] => 
 |2020-03-19
@@ -707,8 +707,8 @@ Array
 |4
 |36
 |144
-|1423
-|10%
+|1,423
+| +11%
 
     [27] => 
 |2020-03-20
@@ -734,8 +734,8 @@ Array
 |6
 |28
 |200
-|1623
-| 12%
+|1,623
+| +14%
 
     [28] => 
 |2020-03-21
@@ -761,8 +761,8 @@ Array
 |8
 |10
 |123
-|1746
-|7%
+|1,746
+| +8%
 
     [29] => 
 |2020-03-22
@@ -788,8 +788,8 @@ Array
 |1
 |11
 |160
-|1906
-| 8%
+|1,906
+| +9%
 
     [30] => 
 |2020-03-23
@@ -815,8 +815,8 @@ Array
 |
 |14
 |110
-|2016
-| 5%
+|2,016
+| +6%
 
     [31] => 
 |2020-03-24
@@ -842,8 +842,8 @@ Array
 |6
 |30
 |256
-|2272
-| 11%
+|2,272
+| +13%
 
     [32] => 
 |2020-03-25
@@ -869,8 +869,8 @@ Array
 |10
 |22
 |238
-|2510
-|9%
+|2,510
+| +10%
 
     [33] => 
 !Total
@@ -885,7 +885,7 @@ Array
 !19
 !30
 !246
-!1070
+!1,070
 !85
 !102
 !45
@@ -895,34 +895,34 @@ Array
 !275
 !58
 !203
-! colspan="2" |2510
+! colspan="2" |2,510
 !—
 
     [34] => 
-|Deads
-|
-|1
-|
-|
-|
-|
-|
-|
-|
-|
-|3
-|21
-|8
-|3
-|1
-|
-|
-|
-|1
-|
-|4
-| colspan="2" |42
-|
+!Deaths
+!
+!1
+!
+!
+!
+!
+!
+!
+!
+!
+!3
+!21
+!8
+!3
+!1
+!
+!
+!
+!1
+!
+!4
+! colspan="2" |42
+!—
 
     [35] => 
 | colspan="26" style="text-align:left;" |'''Notes'''{{reflist|group=lower-alpha}}
