@@ -465,7 +465,7 @@ Array
 |78
 |326
 | +31%
-| rowspan="18" |<ref>{{Cite web|url=https://www.folkhalsomyndigheten.se/smittskydd-beredskap/utbrott/aktuella-utbrott/covid-19/aktuellt-epidemiologiskt-lage/|title=Antal fall av covid-19|last=|first=|date=|website=[[Public Health Agency of Sweden|Folkhälsomyndigheten]]|language=sv|trans-title=Number of cases of covid-19|url-status=live|archive-url=|archive-date=|access-date=22 March 2020}} For historical versions of this page, see [https://web.archive.org/web/*/https://www.folkhalsomyndigheten.se/smittskydd-beredskap/utbrott/aktuella-utbrott/covid-19/aktuellt-epidemiologiskt-lage/ Wayback machine].</ref>
+| rowspan="19" |<ref>{{Cite web|url=https://www.folkhalsomyndigheten.se/smittskydd-beredskap/utbrott/aktuella-utbrott/covid-19/aktuellt-epidemiologiskt-lage/|title=Antal fall av covid-19|last=|first=|date=|website=[[Public Health Agency of Sweden|Folkhälsomyndigheten]]|language=sv|trans-title=Number of cases of covid-19|url-status=live|archive-url=|archive-date=|access-date=22 March 2020}} For historical versions of this page, see [https://web.archive.org/web/*/https://www.folkhalsomyndigheten.se/smittskydd-beredskap/utbrott/aktuella-utbrott/covid-19/aktuellt-epidemiologiskt-lage/ Wayback machine].</ref>
 
     [18] => 
 |2020-03-11{{Refn|Stockholm County decided to only test hospitalized patients from risk groups and healthcare personnel with symptoms from 11 March 2020 onwards.<ref>{{Cite news|last=Almgren|first=Jan|url=https://www.svd.se/uppmaningen-kom-inte-in-for-provtagning|title=Uppmaningen: Kom inte in för provtagning|date=12 March 2020|work=Svenska Dagbladet|trans-title=Appeal: Do not come in for testing|access-date=17 March 2020|url-status=live|language=sv|issn=1101-2412}}</ref>|group=lower-alpha}}
@@ -873,32 +873,59 @@ Array
 | +10%
 
     [33] => 
+|2020-03-26
+|3
+|12
+|
+|7
+|4
+|1
+|5
+|2
+|1
+|5
+|10
+|146
+|29
+|15
+|
+|4
+|2
+|2
+|22
+|8
+|18
+|296
+|2,806
+| +12%
+
+    [34] => 
 !Total
-!12
-!40
+!15
+!52
 !5
-!32
-!66
-!59
-!65
-!17
+!39
+!70
+!60
+!70
 !19
-!30
-!246
-!1,070
-!85
-!102
+!20
+!35
+!256
+!1,216
+!114
+!117
 !45
-!33
-!19
-!29
-!275
-!58
-!203
+!37
+!21
+!31
+!297
+!66
+!221
 ! colspan="2" |2,510
 !—
 
-    [34] => 
+    [35] => 
 !Deaths
 !
 !1
@@ -906,13 +933,13 @@ Array
 !
 !
 !
-!
+!2
 !
 !
 !
 !3
-!21
-!8
+!42
+!9
 !3
 !1
 !
@@ -921,10 +948,10 @@ Array
 !1
 !
 !4
-! colspan="2" |42
-!—
+! colspan="2" |66
+!+24
 
-    [35] => 
+    [36] => 
 | colspan="26" style="text-align:left;" |'''Notes'''{{reflist|group=lower-alpha}}
 |}
 )
