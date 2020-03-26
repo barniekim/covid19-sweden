@@ -948,8 +948,9 @@ Array
 !1
 !
 !4
-! colspan="2" |66
 !+24
+!66
+!+57%
 
     [36] => 
 | colspan="26" style="text-align:left;" |'''Notes'''{{reflist|group=lower-alpha}}
