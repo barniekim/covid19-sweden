@@ -10,25 +10,25 @@ Array
     [1] => 
 !!{{vert header|[[Blekinge County|Blekinge]]}}
 !!{{vert header|[[Dalarna County|Dalarna]]}}
-!!{{vert header|[[Gotland County|Gotland]]}}
 !!{{vert header|[[Gävleborg County|Gävleborg]]}}
+!!{{vert header|[[Gotland County|Gotland]]}}
 !!{{vert header|[[Halland County|Halland]]}}
 !!{{vert header|[[Jämtland County|Jämtland]]}}
 !!{{vert header|[[Jönköping County|Jönköping]]}}
 !!{{vert header|[[Kalmar County|Kalmar]]}}
 !!{{vert header|[[Kronoberg County|Kronoberg]]}}
 !!{{vert header|[[Norrbotten County|Norrbotten]]}}
+!!{{vert header|[[Örebro County|Örebro]]}}
+!!{{vert header|[[Östergötland County|Östergötland]]}}
 !!{{vert header|[[Skåne County|Skåne]]}}
-!!{{vert header|[[Stockholm County|Stockholm]]}}
 !!{{vert header|[[Södermanland County|Södermanland]]}}
+!!{{vert header|[[Stockholm County|Stockholm]]}}
 !!{{vert header|[[Uppsala County|Uppsala]]}}
 !!{{vert header|[[Värmland County|Värmland]]}}
 !!{{vert header|[[Västerbotten County|Västerbotten]]}}
 !!{{vert header|[[Västernorrland County|Västernorrland]]}}
 !!{{vert header|[[Västmanland County|Västmanland]]}}
 !!{{vert header|[[Västra Götaland County|Västra Götaland]]}}
-!!{{vert header|[[Örebro County|Örebro]]}}
-!!{{vert header|[[Östergötland County|Östergötland]]}}
 ! rowspan="2" |New
 ! rowspan="2" |Total
 ! rowspan="2" |Difference
@@ -36,25 +36,25 @@ Array
     [2] => 
 !{{Flagicon|Blekinge län|COA}}
 !{{Flagicon|Dalarnas län|COA}}
-!{{Flagicon|Gotlands län|COA}}
 !{{Flagicon|Gävleborg|COA}}
+!{{Flagicon|Gotlands län|COA}}
 !{{Flagicon|Hallands län|COA}}
 !{{Flagicon|Jämtlands län|COA}}
 !{{Flagicon|Jönköping|COA}}
 !{{Flagicon|Kalmar|COA}}
 !{{Flagicon|Kronoberg|COA}}
 !{{Flagicon|Norrbottens län|COA}}
+!{{Flagicon|Örebro|COA}}
+!{{Flagicon|Östergötlands län|COA}}
 !{{Flagicon|Skåne|COA}}
-!{{Flagicon|Stockholms län|COA}}
 !{{Flagicon|Södermanlands län|COA}}
+!{{Flagicon|Stockholms län|COA}}
 !{{Flagicon|Uppsala län|COA}}
 !{{Flagicon|Värmlands län|COA}}
 !{{Flagicon|Västerbottens län|COA}}
 !{{Flagicon|Västernorrland|COA}}
 !{{Flagicon|Västmanlands län|COA}}
 !{{Flagicon|Västra Götaland|COA}}
-!{{Flagicon|Örebro|COA}}
-!{{Flagicon|Östergötlands län|COA}}
 
     [3] => 
 |2020-01-31
@@ -104,9 +104,9 @@ Array
 |
 |
 |
+|
+|
 |1
-|
-|
 |1
 |2
 | +100%
@@ -125,16 +125,16 @@ Array
 |
 |
 |
-|1
 |
+|
+|
+|1
 |1
 |
 |
 |
 |
 |3
-|
-|
 |5
 |7
 | +250%
@@ -153,11 +153,11 @@ Array
 |
 |
 |
+|
+|
+|
 |2
-|
 |1
-|
-|
 |
 |
 |
@@ -181,16 +181,16 @@ Array
 |
 |
 |
-|1
-|
-|
-|
 |
 |
 |
 |1
 |
 |
+|
+|
+|
+|1
 |2
 |13
 | +18%
@@ -216,9 +216,9 @@ Array
 |
 |
 |
+|
+|
 |1
-|
-|
 |1
 |14
 | +8%
@@ -236,10 +236,10 @@ Array
 |
 |
 |
+|
+|
+|
 |1
-|
-|
-|
 |
 |
 |
@@ -262,17 +262,17 @@ Array
 |
 |
 |
+|
+|
 |1
+|
 |10
 |
 |
 |
 |
 |
-|
 |3
-|
-|
 |15
 |30
 | +100%
@@ -290,16 +290,16 @@ Array
 |
 |
 |1
-|16
 |
-|
-|2
-|
-|
-|
-|2
 |1
 |
+|16
+|
+|2
+|
+|
+|
+|2
 |22
 |52
 | +73%
@@ -308,8 +308,10 @@ Array
 |2020-03-05
 |
 |
-|
 |1
+|
+|
+|
 |
 |
 |
@@ -317,16 +319,14 @@ Array
 |
 |
 |7
-|28
 |
+|28
 |2
 |3
 |
 |
 |
 |1
-|
-|
 |42
 |94
 | +81%
@@ -335,25 +335,25 @@ Array
 |2020-03-06{{Refn|From 6 March 2020 onwards, Stockholm County reported its cases after 24 hours.{{citation needed|date=March 2020}}|group=lower-alpha}}
 |
 |
-|
 |1
 |
 |
-|5
-|
-|
 |
 |5
+|
+|
+|
+|
+|
+|5
+|
 |21
-|
 |1
 |8
 |
 |
 |
 |2
-|
-|
 |43
 |137
 | +46%
@@ -370,11 +370,11 @@ Array
 |
 |
 |
+|
+|
 |3
+|
 |21
-|
-|
-|
 |
 |
 |
@@ -397,17 +397,17 @@ Array
 |
 |
 |
-|5
-|14
+|3
 |
+|5
+|
+|14
 |1
 |7
 |
 |
 |
 |12
-|3
-|
 |42
 |203
 | +26%
@@ -425,16 +425,16 @@ Array
 |
 |
 |
-|32
 |
+|
+|
+|32
 |3
 |1
 |
 |
 |
 |6
-|
-|
 |45
 |248
 | +22%
@@ -451,21 +451,21 @@ Array
 |
 |
 |
+|
+|
 |3
-|60
 |1
+|60
 |  -1
 |  -3
 |
 |
 |
 |13
-|
-|
 |78
 |326
 | +31%
-| rowspan="19" |<ref>{{Cite web|url=https://www.folkhalsomyndigheten.se/smittskydd-beredskap/utbrott/aktuella-utbrott/covid-19/aktuellt-epidemiologiskt-lage/|title=Antal fall av covid-19|last=|first=|date=|website=[[Public Health Agency of Sweden|Folkhälsomyndigheten]]|language=sv|trans-title=Number of cases of covid-19|url-status=live|archive-url=|archive-date=|access-date=22 March 2020}} For historical versions of this page, see [https://web.archive.org/web/*/https://www.folkhalsomyndigheten.se/smittskydd-beredskap/utbrott/aktuella-utbrott/covid-19/aktuellt-epidemiologiskt-lage/ Wayback machine].</ref>
+| rowspan="20" |<ref>{{Cite web|url=https://www.folkhalsomyndigheten.se/smittskydd-beredskap/utbrott/aktuella-utbrott/covid-19/aktuellt-epidemiologiskt-lage/|title=Antal fall av covid-19|last=|first=|date=|website=[[Public Health Agency of Sweden|Folkhälsomyndigheten]]|language=sv|trans-title=Number of cases of covid-19|url-status=live|archive-url=|archive-date=|access-date=22 March 2020}} For historical versions of this page, see [https://web.archive.org/web/*/https://www.folkhalsomyndigheten.se/smittskydd-beredskap/utbrott/aktuella-utbrott/covid-19/aktuellt-epidemiologiskt-lage/ Wayback machine].</ref>
 
     [18] => 
 |2020-03-11{{Refn|Stockholm County decided to only test hospitalized patients from risk groups and healthcare personnel with symptoms from 11 March 2020 onwards.<ref>{{Cite news|last=Almgren|first=Jan|url=https://www.svd.se/uppmaningen-kom-inte-in-for-provtagning|title=Uppmaningen: Kom inte in för provtagning|date=12 March 2020|work=Svenska Dagbladet|trans-title=Appeal: Do not come in for testing|access-date=17 March 2020|url-status=live|language=sv|issn=1101-2412}}</ref>|group=lower-alpha}}
@@ -479,17 +479,17 @@ Array
 |2
 |1
 |2
-|35
-|28
 |
+|
+|35
+|
+|28
 |4
 |1
 |8
 |6
 |
 |40
-|
-|
 |135
 |461
 | +41%
@@ -498,25 +498,25 @@ Array
 |2020-03-12{{Refn|The [[Public Health Agency of Sweden]] decided to only test hospitalized patients from risk groups and healthcare personnel with symptoms from 12 March 2020 onwards.<ref>{{Cite web|url=https://www.aftonbladet.se/a/70GQRV|title=Nya strategin – slutar räkna exakta antalet coronafall|last=Karlsson|first=Pär|date=13 March 2020|website=[[Aftonbladet]]|language=sv|trans-title=The new strategy – stops counting the exact number of corona cases|url-status=live|archive-url=|archive-date=|access-date=17 March 2020}}</ref>|group=lower-alpha}}
 |5
 |1
-|2
 |1
+|2
 |10
 |2
 |13
 |1
 |7
 |3
+|1
+|1
 |37
-|32
 |6
+|32
 |3
 |3
 |
 |
 |
 |31
-|1
-|1
 |159
 |620
 | +34%
@@ -525,25 +525,25 @@ Array
 |2020-03-13
 |2
 |2
-|
 |2
+|
 |14
 |2
 |7
 |2
 |2
 |
+|2
+|
 |31
-|41
 |3
+|41
 |10
 |7
 |1
 |4
 |5
 |18
-|2
-|
 |155
 |775
 | +25%
@@ -552,25 +552,25 @@ Array
 |2020-03-14
 |
 |1
-|
 |1
+|
 |7
 |6
 |5
 |
 |2
 |
+|2
+|10
 |42
-|33
 |6
+|33
 |11
 |1
 |
 |1
 |
 |21
-|2
-|10
 |149
 |924
 | +19%
@@ -579,25 +579,25 @@ Array
 |2020-03-15
 |
 |
-|
 |1
+|
 |
 |
 |
 |2
 |1
 |1
-|27
-|18
-|1
-|2
-|
-|4
-|
-|
-|4
 |
 |7
+|27
+|1
+|18
+|2
+|
+|4
+|
+|
+|4
 |68
 |992
 | +7%
@@ -606,25 +606,25 @@ Array
 |2020-03-16
 |1
 |
-|
 |1
+|
 |2
 |8
 |4
 |
 |2
 |
-|4
-|18
 |
+|8
+|4
+|
+|18
 |
 |1
 |
 |1
 |
 |17
-|
-|8
 |67
 |1,059
 | +7%
@@ -633,25 +633,25 @@ Array
 |2020-03-17
 |2
 |
-|
 |1
+|
 |1
 |3
 |1
 |
 |
 |2
+|3
+|13
 |6
-|33
 |16
+|33
 |5
 |3
 |5
 |
 |11
 |3
-|3
-|13
 |108
 |1,167
 | +10%
@@ -660,25 +660,25 @@ Array
 |2020-03-18
 |
 |4
-|1
 |4
+|1
 |3
 |
 |1
 |
 |1
 | -1
+|11
+|13
 |2
-|36
 |4
+|36
 |9
 |
 |1
 |1
 |2
 |20
-|11
-|13
 |112
 |1,279
 | +10%
@@ -687,25 +687,25 @@ Array
 |2020-03-19
 |
 |
-|
 |2
+|
 |2
 |2
 |2
 |
 |2
 |1
+|4
+|36
 |7
-|55
 |1
+|55
 |15
 |2
 |4
 |1
 |
 |8
-|4
-|36
 |144
 |1,423
 | +11%
@@ -722,17 +722,17 @@ Array
 |2
 |
 |1
+|6
+|28
 |4
-|105
 |5
+|105
 |6
 |
 |4
 |1
 |1
 |21
-|6
-|28
 |200
 |1,623
 | +14%
@@ -741,25 +741,25 @@ Array
 |2020-03-21
 |
 |5
-|
 |3
+|
 |4
 |3
 |3
 |1
 |
 |4
+|8
+|10
 |3
-|55
 |4
+|55
 |1
 |1
 |2
 |
 |2
 |14
-|8
-|10
 |123
 |1,746
 | +8%
@@ -768,25 +768,25 @@ Array
 |2020-03-22
 |
 |
-|
 |4
+|
 |3
 |10
 |4
 |1
 |
 |3
+|1
+|11
 |5
-|99
 |6
+|99
 |3
 |2
 |
 |
 |
 |8
-|1
-|11
 |160
 |1,906
 | +9%
@@ -803,17 +803,17 @@ Array
 |1
 |
 |1
+|
+|14
 |3
-|56
 |11
+|56
 |5
 |
 |1
 |
 |2
 |4
-|
-|14
 |110
 |2,016
 | +6%
@@ -822,25 +822,25 @@ Array
 |2020-03-24
 |
 |13
-|
 |3
+|
 |4
 |6
 |3
 |3
 |
 |8
+|6
+|30
 |7
-|143
 |2
+|143
 |11
 |3
 |
 |2
 |1
 |11
-|6
-|30
 |256
 |2,272
 | +13%
@@ -849,25 +849,25 @@ Array
 |2020-03-25
 |
 |10
-|
 |5
+|
 |3
 |4
 |6
 |2
 |1
 |5
+|10
+|22
 |8
-|111
 |19
+|111
 |9
 |3
 |3
 |2
 |5
 |10
-|10
-|22
 |238
 |2,510
 | +10%
@@ -876,83 +876,110 @@ Array
 |2020-03-26
 |3
 |12
-|
 |7
+|
 |4
 |1
 |5
 |2
 |1
 |5
+|8
+|18
 |10
-|146
 |29
+|146
 |15
 |
 |4
 |2
 |2
 |22
-|8
-|18
 |296
 |2,806
 | +12%
 
     [34] => 
-!Total
-!15
-!52
-!5
-!39
-!70
-!60
-!70
-!19
-!20
-!35
-!256
-!1,216
-!114
-!117
-!45
-!37
-!21
-!31
-!297
-!66
-!221
-! colspan="2" |2,806
-!—
+|2020-03-27
+|
+|9
+|5
+|4
+|8
+|8
+|9
+|6
+|2
+|4
+|2
+|23
+|7
+|12
+|95
+|12
+|
+|3
+|4
+|7
+|20
+|238
+|3,046
+| +8%
 
     [35] => 
+!Total
+!15
+!61
+!44
+!9
+!78
+!68
+!79
+!25
+!22
+!39
+!68
+!244
+!263
+!126
+!1,311
+!129
+!45
+!40
+!25
+!38
+!317
+! colspan="2" |3,046
+!—
+
+    [36] => 
 !Deaths
-!
-!1
-!
-!
-!
 !
 !2
 !
 !
-!
-!3
-!42
-!9
-!3
 !1
 !
-!
+!2
+!1
 !
 !1
 !
 !4
-!+24
-!66
-!+57%
+!4
+!9
+!60
+!3
+!1
+!
+!
+!
+!4
+!+26
+!92
+!+39%
 
-    [36] => 
+    [37] => 
 | colspan="26" style="text-align:left;" |'''Notes'''{{reflist|group=lower-alpha}}
 |}
 )
