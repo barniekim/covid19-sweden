@@ -79,8 +79,8 @@ Array
 |
 |
 |
-|1
-|1
+!1
+!1
 |—
 |<ref>{{Cite web|url=https://www.folkhalsomyndigheten.se/nyheter-och-press/nyhetsarkiv/2020/januari/bekraftat-fall-av-nytt-coronavirus-i-sverige/|title=Bekräftat fall i Jönköping av nya coronaviruset (2019-nCoV)|last=|first=|date=31 January 2020|website=[[Public Health Agency of Sweden|Folkhälsomyndigheten]]|language=sv|trans-title=Confirmed case in Jönköping of new coronavirus (2019-nCoV)|url-status=live|archive-url=|archive-date=|access-date=17 March 2020}}</ref>
 
@@ -107,8 +107,8 @@ Array
 |1
 |
 |
-|1
-|2
+!1
+!2
 | +100%
 |<ref>{{Cite web|url=https://www.folkhalsomyndigheten.se/nyheter-och-press/nyhetsarkiv/2020/februari/nytt-bekraftat-fall-av-covid-19/|title=Nytt bekräftat fall av covid-19|last=|first=|date=26 February 2020|website=[[Public Health Agency of Sweden|Folkhälsomyndigheten]]|language=sv|trans-title=New confirmed case of covid-19|url-status=live|archive-url=|archive-date=|access-date=17 March 2020}}</ref>
 
@@ -135,8 +135,8 @@ Array
 |3
 |
 |
-|5
-|7
+!5
+!7
 | +250%
 |<ref>{{Cite web|url=https://www.folkhalsomyndigheten.se/nyheter-och-press/nyhetsarkiv/2020/februari/inbjudan-till-presstraff-ytterligare-fall-av-covid-19-i-flera-regioner2/|title=Inbjudan till pressträff: Ytterligare fall av covid-19 i flera regioner|last=|first=|date=27 February 2020|website=[[Public Health Agency of Sweden|Folkhälsomyndigheten]]|language=sv|trans-title=Invitation to press conference: More cases of covid-19 in multiple regions|url-status=live|archive-url=|archive-date=|access-date=17 March 2020}}</ref>
 
@@ -163,8 +163,8 @@ Array
 |
 |
 |
-|4
-|11
+!4
+!11
 | +57%
 |<ref>{{Cite web|url=https://www.kristianstadsbladet.se/nyheter/coronasmittad-akte-tag-resenarer-sparas/|title=Fyra nya fall av coronavirus i Sverige|last=Grönvik|first=Jonas|date=28 February 2020|website=Kristianstadsbladet|language=sv-SE|trans-title=Four new cases of coronavirus in Sweden|url-status=live|archive-url=|archive-date=|access-date=17 March 2020}}</ref>
 
@@ -191,8 +191,8 @@ Array
 |1
 |
 |
-|2
-|13
+!2
+!13
 | +18%
 | rowspan="10" |<ref>{{Cite web|url=https://www.coronakartan.se/tidslinje/|title=Tidslinje|last=|first=|date=|website=Coronakartan|language=sv|trans-title=Timeline|url-status=live|archive-url=|archive-date=|access-date=17 March 2020}}</ref>
 
@@ -219,8 +219,8 @@ Array
 |1
 |
 |
-|1
-|14
+!1
+!14
 | +8%
 
     [9] => 
@@ -246,8 +246,8 @@ Array
 |
 |
 |
-|1
-|15
+!1
+!15
 | +7%
 
     [10] => 
@@ -273,8 +273,8 @@ Array
 |3
 |
 |
-|15
-|30
+!15
+!30
 | +100%
 
     [11] => 
@@ -300,8 +300,8 @@ Array
 |2
 |1
 |
-|22
-|52
+!22
+!52
 | +73%
 
     [12] => 
@@ -327,8 +327,8 @@ Array
 |1
 |
 |
-|42
-|94
+!42
+!94
 | +81%
 
     [13] => 
@@ -354,8 +354,8 @@ Array
 |2
 |
 |
-|43
-|137
+!43
+!137
 | +46%
 
     [14] => 
@@ -381,8 +381,8 @@ Array
 |
 |
 |
-|24
-|161
+!24
+!161
 | +18%
 
     [15] => 
@@ -408,8 +408,8 @@ Array
 |12
 |3
 |
-|42
-|203
+!42
+!203
 | +26%
 
     [16] => 
@@ -435,8 +435,8 @@ Array
 |6
 |
 |
-|45
-|248
+!45
+!248
 | +22%
 
     [17] => 
@@ -462,8 +462,8 @@ Array
 |13
 |
 |
-|78
-|326
+!78
+!326
 | +31%
 | rowspan="22" |<ref>{{Cite web|url=https://www.folkhalsomyndigheten.se/smittskydd-beredskap/utbrott/aktuella-utbrott/covid-19/aktuellt-epidemiologiskt-lage/|title=Antal fall av covid-19|last=|first=|date=|website=[[Public Health Agency of Sweden|Folkhälsomyndigheten]]|language=sv|trans-title=Number of cases of covid-19|url-status=live|archive-url=|archive-date=|access-date=22 March 2020}} For historical versions of this page, see [https://web.archive.org/web/*/https://www.folkhalsomyndigheten.se/smittskydd-beredskap/utbrott/aktuella-utbrott/covid-19/aktuellt-epidemiologiskt-lage/ Wayback machine].</ref>
 
@@ -490,8 +490,8 @@ Array
 |40
 |
 |
-|135
-|461
+!135
+!461
 | +41%
 
     [19] => 
@@ -517,8 +517,8 @@ Array
 |31
 |1
 |1
-|159
-|620
+!159
+!620
 | +34%
 
     [20] => 
@@ -544,8 +544,8 @@ Array
 |18
 |2
 |
-|155
-|775
+!155
+!775
 | +25%
 
     [21] => 
@@ -571,8 +571,8 @@ Array
 |21
 |2
 |10
-|149
-|924
+!149
+!924
 | +19%
 
     [22] => 
@@ -598,8 +598,8 @@ Array
 |4
 |
 |7
-|68
-|992
+!68
+!992
 | +7%
 
     [23] => 
@@ -625,8 +625,8 @@ Array
 |17
 |
 |8
-|67
-|1,059
+!67
+!1,059
 | +7%
 
     [24] => 
@@ -652,8 +652,8 @@ Array
 |3
 |3
 |13
-|108
-|1,167
+!108
+!1,167
 | +10%
 
     [25] => 
@@ -679,8 +679,8 @@ Array
 |20
 |11
 |13
-|112
-|1,279
+!112
+!1,279
 | +10%
 
     [26] => 
@@ -706,8 +706,8 @@ Array
 |8
 |4
 |36
-|144
-|1,423
+!144
+!1,423
 | +11%
 
     [27] => 
@@ -733,8 +733,8 @@ Array
 |21
 |6
 |28
-|200
-|1,623
+!200
+!1,623
 | +14%
 
     [28] => 
@@ -760,8 +760,8 @@ Array
 |14
 |8
 |10
-|123
-|1,746
+!123
+!1,746
 | +8%
 
     [29] => 
@@ -787,8 +787,8 @@ Array
 |8
 |1
 |11
-|160
-|1,906
+!160
+!1,906
 | +9%
 
     [30] => 
@@ -814,8 +814,8 @@ Array
 |4
 |
 |14
-|110
-|2,016
+!110
+!2,016
 | +6%
 
     [31] => 
@@ -841,8 +841,8 @@ Array
 |11
 |6
 |30
-|256
-|2,272
+!256
+!2,272
 | +13%
 
     [32] => 
@@ -868,8 +868,8 @@ Array
 |10
 |10
 |22
-|238
-|2,510
+!238
+!2,510
 | +10%
 
     [33] => 
@@ -895,8 +895,8 @@ Array
 |22
 |8
 |18
-|296
-|2,806
+!296
+!2,806
 | +12%
 
     [34] => 
@@ -922,8 +922,8 @@ Array
 |20
 |2
 |23
-|238
-|3,046
+!238
+!3,046
 | +8%
 
     [35] => 
@@ -949,8 +949,8 @@ Array
 |13
 |7
 |28
-|401
-|3,447
+!401
+!3,447
 | +13%
 
     [36] => 
@@ -976,8 +976,8 @@ Array
 |21
 |2
 |39
-|253
-|3,700
+!253
+!3,700
 | +7%
 
     [37] => 
