@@ -1034,6 +1034,34 @@ Array
 !+8%
 
     [39] => 
+!I.C.U
+!1
+!10
+!
+!5
+!3
+!
+!10
+!1
+!
+!14
+!17
+!143
+!28
+!11
+!4
+!5
+!4
+!10
+!41
+!8
+!19
+!
+!334
+!
+|<ref>{{Cite web|url=https://portal.icuregswe.org/siri/report/kumulativ-corona|title=SIR {{!}} Influensaportalen|website=portal.icuregswe.org|access-date=2020-03-29}}</ref>
+
+    [40] => 
 | colspan="26" style="text-align:left;" |'''Notes'''{{reflist|group=lower-alpha}}
 |}
 )
