@@ -1036,30 +1036,30 @@ Array
     [39] => 
 !Hospitalized
 !1
-!10
+!8
 !
-!5
+!4
 !3
 !
 !10
 !1
 !
-!14
-!17
-!143
-!28
-!11
+!7
+!13
+!119
+!26
+!10
 !4
 !5
-!4
+!3
 !10
-!41
-!8
+!26
+!7
 !19
 !
-!334
+!276
 !
-|<ref>{{Cite web|url=https://portal.icuregswe.org/siri/report/kumulativ-corona|title=SIR {{!}} Influensaportalen|website=portal.icuregswe.org|access-date=2020-03-29}}</ref>
+|<ref>{{Cite web|url=https://portal.icuregswe.org/siri/report/inrapp-corona|title=SIR {{!}} Influensaportalen|last=|first=|date=|website=portal.icuregswe.org|url-status=live|archive-url=|archive-date=|access-date=2020-03-29}}</ref>
 
     [40] => 
 | colspan="26" style="text-align:left;" |'''Notes'''{{reflist|group=lower-alpha}}
