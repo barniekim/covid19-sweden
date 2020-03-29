@@ -465,7 +465,7 @@ Array
 |78
 |326
 | +31%
-| rowspan="21" |<ref>{{Cite web|url=https://www.folkhalsomyndigheten.se/smittskydd-beredskap/utbrott/aktuella-utbrott/covid-19/aktuellt-epidemiologiskt-lage/|title=Antal fall av covid-19|last=|first=|date=|website=[[Public Health Agency of Sweden|Folkhälsomyndigheten]]|language=sv|trans-title=Number of cases of covid-19|url-status=live|archive-url=|archive-date=|access-date=22 March 2020}} For historical versions of this page, see [https://web.archive.org/web/*/https://www.folkhalsomyndigheten.se/smittskydd-beredskap/utbrott/aktuella-utbrott/covid-19/aktuellt-epidemiologiskt-lage/ Wayback machine].</ref>
+| rowspan="22" |<ref>{{Cite web|url=https://www.folkhalsomyndigheten.se/smittskydd-beredskap/utbrott/aktuella-utbrott/covid-19/aktuellt-epidemiologiskt-lage/|title=Antal fall av covid-19|last=|first=|date=|website=[[Public Health Agency of Sweden|Folkhälsomyndigheten]]|language=sv|trans-title=Number of cases of covid-19|url-status=live|archive-url=|archive-date=|access-date=22 March 2020}} For historical versions of this page, see [https://web.archive.org/web/*/https://www.folkhalsomyndigheten.se/smittskydd-beredskap/utbrott/aktuella-utbrott/covid-19/aktuellt-epidemiologiskt-lage/ Wayback machine].</ref>
 
     [18] => 
 |2020-03-11{{Refn|Stockholm County decided to only test hospitalized patients from risk groups and healthcare personnel with symptoms from 11 March 2020 onwards.<ref>{{Cite news|last=Almgren|first=Jan|url=https://www.svd.se/uppmaningen-kom-inte-in-for-provtagning|title=Uppmaningen: Kom inte in för provtagning|date=12 March 2020|work=Svenska Dagbladet|trans-title=Appeal: Do not come in for testing|access-date=17 March 2020|url-status=live|language=sv|issn=1101-2412}}</ref>|group=lower-alpha}}
@@ -954,32 +954,59 @@ Array
 | +13%
 
     [36] => 
-!Total
-!15
-!76
-!11
-!53
-!81
-!71
-!94
-!28
-!23
-!42
-!271
-!1,538
-!159
-!149
-!46
-!42
-!25
-!46
-!330
-!75
-!272
-! colspan="2" |3,447
-!—
+|2020-03-29
+|2
+|6
+|
+|13
+|6
+|6
+|9
+|2
+|4
+|2
+|4
+|119
+|1
+|7
+|2
+|5
+|2
+|1
+|21
+|2
+|39
+|253
+|3,700
+| +7%
 
     [37] => 
+!Total
+!17
+!82
+!11
+!66
+!87
+!77
+!103
+!30
+!27
+!44
+!275
+!1,657
+!160
+!156
+!48
+!47
+!27
+!47
+!351
+!77
+!311
+! colspan="2" |3,700
+!—
+
+    [38] => 
 !Deaths
 !
 !4
@@ -987,12 +1014,12 @@ Array
 !
 !1
 !
-!3
+!6
 !1
 !
 !1
-!6
-!63
+!7
+!67
 !11
 !3
 !1
@@ -1002,11 +1029,11 @@ Array
 !4
 !
 !4
-!+10
-!102
-!+10%
+!+8
+!110
+!+8%
 
-    [38] => 
+    [39] => 
 | colspan="26" style="text-align:left;" |'''Notes'''{{reflist|group=lower-alpha}}
 |}
 )
