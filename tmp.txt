@@ -465,7 +465,7 @@ Array
 !78
 !326
 | +31%
-| rowspan="23" |<ref>{{Cite web|url=https://www.folkhalsomyndigheten.se/smittskydd-beredskap/utbrott/aktuella-utbrott/covid-19/aktuellt-epidemiologiskt-lage/|title=Antal fall av covid-19|last=|first=|date=|website=[[Public Health Agency of Sweden|Folkhälsomyndigheten]]|language=sv|trans-title=Number of cases of covid-19|url-status=live|archive-url=|archive-date=|access-date=22 March 2020}} For historical versions of this page, see [https://web.archive.org/web/*/https://www.folkhalsomyndigheten.se/smittskydd-beredskap/utbrott/aktuella-utbrott/covid-19/aktuellt-epidemiologiskt-lage/ Wayback machine].</ref>
+| rowspan="24" |<ref>{{Cite web|url=https://www.folkhalsomyndigheten.se/smittskydd-beredskap/utbrott/aktuella-utbrott/covid-19/aktuellt-epidemiologiskt-lage/|title=Antal fall av covid-19|last=|first=|date=|website=[[Public Health Agency of Sweden|Folkhälsomyndigheten]]|language=sv|trans-title=Number of cases of covid-19|url-status=live|archive-url=|archive-date=|access-date=22 March 2020}} For historical versions of this page, see [https://web.archive.org/web/*/https://www.folkhalsomyndigheten.se/smittskydd-beredskap/utbrott/aktuella-utbrott/covid-19/aktuellt-epidemiologiskt-lage/ Wayback machine].</ref>
 
     [18] => 
 |2020-03-11{{Refn|Stockholm County decided to only test hospitalized patients from risk groups and healthcare personnel with symptoms from 11 March 2020 onwards.<ref>{{Cite news|last=Almgren|first=Jan|url=https://www.svd.se/uppmaningen-kom-inte-in-for-provtagning|title=Uppmaningen: Kom inte in för provtagning|date=12 March 2020|work=Svenska Dagbladet|trans-title=Appeal: Do not come in for testing|access-date=17 March 2020|url-status=live|language=sv|issn=1101-2412}}</ref>|group=lower-alpha}}
@@ -1008,113 +1008,112 @@ Array
 | +9%
 
     [38] => 
-!Total
-!20
-!82
-!11
-!75
-!89
-!77
-!109
-!31
-!30
-!47
-!279
-!1,806
-!203
-!160
-!49
-!48
-!31
-!70
-!372
-!86
-!353
-! colspan="2" |4,028
-!—
+|2020-03-31
+|1
+|15
+|
+|11
+|7
+|4
+|17
+|3
+|4
+|4
+|4
+|173
+|36
+|23
+|1
+|7
+|15
+|9
+|27
+|23
+|23
+!407
+!4,435
+| +10%
 
     [39] => 
+!Total
+!21
+!97
+!11
+!86
+!96
+!81
+!126
+!34
+!34
+!51
+!283
+!1,979
+!239
+!183
+!50
+!55
+!46
+!79
+!399
+!109
+!376
+! colspan="2" |4,435
+!—
+
+    [40] => 
 !Deaths
 !
+!9
+!
+!2
 !7
 !
+!9
 !1
-!6
 !
+!1
 !8
-!1
-!
-!1
-!7
-!88
-!12
-!3
+!103
+!18
+!6
 !1
 !
 !
 !2
-!4
-!
-!5
-!+36
-!146
-!+33%
-
-    [40] => 
-!Hospitalized
-!1
-!8
-!
 !6
-!3
 !1
-!10
-!1
-!
-!8
-!13
-!132
-!30
-!11
-!4
-!5
-!3
-!10
-!36
-!9
-!24
-!+39
-!315{{Dubious-inline|date=March 2020}}
-!+14%
-|<ref>{{Cite web|url=https://portal.icuregswe.org/siri/report/inrapp-corona|title=SIR {{!}} Influensaportalen|last=|first=|date=|website=portal.icuregswe.org|url-status=live|archive-url=|archive-date=|access-date=2020-03-29}}</ref>
+!6
+!+34
+!180
+!+23%
 
     [41] => 
 ![[Intensive care medicine|ICU-care]]
+!1
+!9
 !
+!8
+!6
+!1
+!11
+!2
 !
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!306
-!
-|
+!9
+!14
+!164
+!40
+!14
+!4
+!5
+!3
+!10
+!40
+!9
+!27
+!+62
+!377
+!+20%
+|<ref>{{Cite web|url=https://portal.icuregswe.org/siri/report/inrapp-corona|title=SIR {{!}} Influensaportalen|last=|first=|date=|website=portal.icuregswe.org|url-status=live|archive-url=|archive-date=|access-date=2020-03-29}}</ref>
 
     [42] => 
 | colspan="26" style="text-align:left;" |'''Notes'''{{reflist|group=lower-alpha}}
