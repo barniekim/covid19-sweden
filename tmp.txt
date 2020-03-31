@@ -1084,11 +1084,39 @@ Array
 !9
 !24
 !+39
-!315
+!315{{Dubious-inline|date=March 2020}}
 !+14%
 |<ref>{{Cite web|url=https://portal.icuregswe.org/siri/report/inrapp-corona|title=SIR {{!}} Influensaportalen|last=|first=|date=|website=portal.icuregswe.org|url-status=live|archive-url=|archive-date=|access-date=2020-03-29}}</ref>
 
     [41] => 
+![[Intensive care medicine|ICU-care]]
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!306
+!
+|
+
+    [42] => 
 | colspan="26" style="text-align:left;" |'''Notes'''{{reflist|group=lower-alpha}}
 |}
 )
