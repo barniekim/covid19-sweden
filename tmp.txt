@@ -1140,7 +1140,7 @@ Array
 |23.29%
 
     [39] => 
-|2020-04-01 {{refn|Till 11:30 Swedish time.|group=lower-alpha}}
+|2020-04-01 {{refn|Till 11:30 UTC+2. Some delay may be present in the reporting, thus the numbers should be read with caution. <ref>{{cite web |title=Bekräftade fall i Sverige — Folkhälsomyndigheten |url=https://www.folkhalsomyndigheten.se/smittskydd-beredskap/utbrott/aktuella-utbrott/covid-19/aktuellt-epidemiologiskt-lage/ |website=www.folkhalsomyndigheten.se |accessdate=1 April 2020 |language=sv}}</ref>|group=lower-alpha}}
 |
 |
 |
