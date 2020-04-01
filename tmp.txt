@@ -4,9 +4,8 @@ Array
 |+ style="font-size:11pt;" |{{nowrap|New COVID-19 cases in Sweden by county ({{navbar|2019–20 coronavirus pandemic data/Sweden medical cases|mini=1|nodiv=1}})}}
 ! rowspan="3" |Date
 ! colspan="21" |'''County'''
-! colspan="3" |Cases{{refn|Reported, confirmed cases. Actual case numbers may be higher.|group=lower-alpha}}
+! colspan="3" |Cases{{refn|Reported, confirmed cases. Actual case numbers may be higher.|group=lower-alpha}}<ref>{{Cite web|url=http://www.folkhalsomyndigheten.se/smittskydd-beredskap/utbrott/aktuella-utbrott/covid-19/aktuellt-epidemiologiskt-lage/|title=Bekräftade fall i Sverige — Folkhälsomyndigheten|website=www.folkhalsomyndigheten.se|language=sv|access-date=2020-04-01}}</ref>
 ! colspan="2" |Deaths{{refn|From 2020-03-25 the data source is older versions of this table. For 2020-03-11 -- 2020-03-19 data is consistent across different sources.|group=lower-alpha}}
-! rowspan="3" !{{vert header|Source(s)}}
 
     [1] => 
 !!{{vert header|[[Blekinge County|Blekinge]]}}
@@ -60,7 +59,7 @@ Array
 !{{Flagicon|Östergötlands län|COA}}
 
     [3] => 
-|2020-01-31
+|2020-02-04
 |
 |
 |
@@ -84,10 +83,9 @@ Array
 |
 !1
 !1
-|—
 |
 |
-|<ref>{{Cite web|url=https://www.folkhalsomyndigheten.se/nyheter-och-press/nyhetsarkiv/2020/januari/bekraftat-fall-av-nytt-coronavirus-i-sverige/|title=Bekräftat fall i Jönköping av nya coronaviruset (2019-nCoV)|last=|first=|date=31 January 2020|website=[[Public Health Agency of Sweden|Folkhälsomyndigheten]]|language=sv|trans-title=Confirmed case in Jönköping of new coronavirus (2019-nCoV)|url-status=live|archive-url=|archive-date=|access-date=17 March 2020}}</ref>
+|
 
     [4] => 
 |2020-02-26
@@ -114,10 +112,9 @@ Array
 |
 !1
 !2
-| +100%
+|100.00%
 |
 |
-|<ref>{{Cite web|url=https://www.folkhalsomyndigheten.se/nyheter-och-press/nyhetsarkiv/2020/februari/nytt-bekraftat-fall-av-covid-19/|title=Nytt bekräftat fall av covid-19|last=|first=|date=26 February 2020|website=[[Public Health Agency of Sweden|Folkhälsomyndigheten]]|language=sv|trans-title=New confirmed case of covid-19|url-status=live|archive-url=|archive-date=|access-date=17 March 2020}}</ref>
 
     [5] => 
 |2020-02-27
@@ -134,20 +131,19 @@ Array
 |
 |1
 |
-|1
 |
 |
 |
 |
-|3
 |
 |
-!5
-!7
-| +250%
 |
 |
-|<ref>{{Cite web|url=https://www.folkhalsomyndigheten.se/nyheter-och-press/nyhetsarkiv/2020/februari/inbjudan-till-presstraff-ytterligare-fall-av-covid-19-i-flera-regioner2/|title=Inbjudan till pressträff: Ytterligare fall av covid-19 i flera regioner|last=|first=|date=27 February 2020|website=[[Public Health Agency of Sweden|Folkhälsomyndigheten]]|language=sv|trans-title=Invitation to press conference: More cases of covid-19 in multiple regions|url-status=live|archive-url=|archive-date=|access-date=17 March 2020}}</ref>
+!1
+!3
+|50.00%
+|
+|
 
     [6] => 
 |2020-02-28
@@ -164,20 +160,19 @@ Array
 |
 |2
 |
-|1
+|2
 |
 |
 |
 |
+|3
 |
 |
-|
-!4
+!8
 !11
-| +57%
+|266.67%
 |
 |
-|<ref>{{Cite web|url=https://www.kristianstadsbladet.se/nyheter/coronasmittad-akte-tag-resenarer-sparas/|title=Fyra nya fall av coronavirus i Sverige|last=Grönvik|first=Jonas|date=28 February 2020|website=Kristianstadsbladet|language=sv-SE|trans-title=Four new cases of coronavirus in Sweden|url-status=live|archive-url=|archive-date=|access-date=17 March 2020}}</ref>
 
     [7] => 
 |2020-02-29
@@ -199,15 +194,14 @@ Array
 |
 |
 |
-|1
+|2
 |
 |
-!2
-!13
-| +18%
+!3
+!14
+| 27.27%
 |
 |
-| rowspan="10" |<ref>{{Cite web|url=https://www.coronakartan.se/tidslinje/|title=Tidslinje|last=|first=|date=|website=Coronakartan|language=sv|trans-title=Timeline|url-status=live|archive-url=|archive-date=|access-date=17 March 2020}}</ref>
 
     [8] => 
 |2020-03-01
@@ -229,12 +223,12 @@ Array
 |
 |
 |
-|1
 |
 |
-!1
+|
+!
 !14
-| +8%
+| 0.00%
 |
 |
 
@@ -250,7 +244,7 @@ Array
 |
 |
 |
-|
+|1
 |1
 |
 |
@@ -258,12 +252,12 @@ Array
 |
 |
 |
+|3
 |
 |
-|
-!1
-!15
-| +7%
+!5
+!19
+| 35.71%
 |
 |
 
@@ -275,7 +269,7 @@ Array
 |
 |
 |
-|1
+|
 |
 |
 |
@@ -287,12 +281,12 @@ Array
 |
 |
 |
-|3
+|2
 |
 |
-!15
-!30
-| +100%
+!13
+!32
+| 68.42%
 |
 |
 
@@ -308,20 +302,20 @@ Array
 |
 |
 |
+|7
+|21
+|
+|
+|
+|
+|
+|
 |1
-|16
 |
 |
-|2
-|
-|
-|
-|2
-|1
-|
-!22
-!52
-| +73%
+!29
+!61
+| 90.63%
 |
 |
 
@@ -330,27 +324,27 @@ Array
 |
 |
 |
-|1
 |
 |
 |
 |
 |
 |
-|7
-|28
+|
+|
+|22
 |
 |2
-|3
+|
 |
 |
 |
 |1
 |
 |
-!42
-!94
-| +81%
+!25
+!86
+| 40.98%
 |
 |
 
@@ -359,27 +353,27 @@ Array
 |
 |
 |
-|1
-|
-|
-|5
-|
-|
-|
-|5
-|21
-|
-|1
-|8
-|
-|
-|
 |2
 |
 |
-!43
-!137
-| +46%
+|
+|
+|
+|
+|8
+|36
+|
+|1
+|11
+|
+|
+|
+|1
+|1
+|
+!60
+!146
+| 69.77%
 |
 |
 
@@ -395,20 +389,20 @@ Array
 |
 |
 |
-|3
+|5
 |21
 |
+|1
 |
 |
 |
 |
+|5
+|1
 |
-|
-|
-|
-!24
-!161
-| +18%
+!33
+!179
+| 22.60%
 |
 |
 
@@ -418,26 +412,26 @@ Array
 |
 |
 |
+|1
+|
+|2
 |
 |
 |
 |
-|
-|
-|5
-|14
+|29
 |
 |1
-|7
 |
 |
 |
-|12
-|3
 |
-!42
-!203
-| +26%
+|11
+|2
+|
+!46
+!225
+| 25.70%
 |
 |
 
@@ -447,697 +441,725 @@ Array
 |
 |
 |
-|1
-|
-|2
-|
-|
-|
-|
-|32
-|
-|3
-|1
-|
-|
+|4
 |
 |6
 |
 |
-!45
-!248
-| +22%
+|1
+|3
+|64
+|1
+|
+|7
+|
+|
+|
+|15
+|
+|
+!101
+!326
+| 44.89%
 |
 |
 
     [17] => 
 |2020-03-10
-|
-|
-|
-|
-|5
-|
-|
-|
-|
-|
-|3
-|60
 |1
-|  -1
-|  -3
 |
 |
+|
+|1
+|
+|
+|1
+|1
+|
+|34
+|26
+|
+| 4
+| 3
+|8
+|6
 |
 |13
 |
 |
-!78
-!326
-| +31%
+!98
+!424
+| 30.06%
 |
 |
-| rowspan="24" |<ref>{{Cite web|url=https://www.folkhalsomyndigheten.se/smittskydd-beredskap/utbrott/aktuella-utbrott/covid-19/aktuellt-epidemiologiskt-lage/|title=Antal fall av covid-19|last=|first=|date=|website=[[Public Health Agency of Sweden|Folkhälsomyndigheten]]|language=sv|trans-title=Number of cases of covid-19|url-status=live|archive-url=|archive-date=|access-date=22 March 2020}} For historical versions of this page, see [https://web.archive.org/web/*/https://www.folkhalsomyndigheten.se/smittskydd-beredskap/utbrott/aktuella-utbrott/covid-19/aktuellt-epidemiologiskt-lage/ Wayback machine].</ref>
 
     [18] => 
 |2020-03-11{{Refn|Stockholm County decided to only test hospitalized patients from risk groups and healthcare personnel with symptoms from 11 March 2020 onwards.<ref>{{Cite news|last=Almgren|first=Jan|url=https://www.svd.se/uppmaningen-kom-inte-in-for-provtagning|title=Uppmaningen: Kom inte in för provtagning|date=12 March 2020|work=Svenska Dagbladet|trans-title=Appeal: Do not come in for testing|access-date=17 March 2020|url-status=live|language=sv|issn=1101-2412}}</ref>|group=lower-alpha}}
-|1
-|
-|
-|
-|3
-|1
-|3
-|2
-|1
-|2
-|35
-|28
-|
-|4
-|1
-|8
 |6
+|1
+|2
+|1
+|16
+|3
+|16
+|2
+|7
+|4
+|37
+|32
+|6
+|4
+|2
 |
-|40
 |
 |
-!135
-!461
-| +41%
+|57
+|
+|
+!196
+!620
+| 46.23%
 !1
 !1
 
     [19] => 
 |2020-03-12{{Refn|The [[Public Health Agency of Sweden]] decided to only test hospitalized patients from risk groups and healthcare personnel with symptoms from 12 March 2020 onwards.<ref>{{Cite web|url=https://www.aftonbladet.se/a/70GQRV|title=Nya strategin – slutar räkna exakta antalet coronafall|last=Karlsson|first=Pär|date=13 March 2020|website=[[Aftonbladet]]|language=sv|trans-title=The new strategy – stops counting the exact number of corona cases|url-status=live|archive-url=|archive-date=|access-date=17 March 2020}}</ref>|group=lower-alpha}}
+|2
+|3
+|
+|2
+|9
 |5
-|1
-|2
-|1
-|10
-|2
-|13
-|1
 |7
-|3
-|37
+|2
+|2
+|
 |32
-|6
+|42
 |3
+|11
+|4
+|1
 |3
 |
-|
-|
-|31
+|19
+|3
 |1
-|1
-!159
-!620
-| +34%
+!151
+!771
+| 24.35%
 !
 !1
 
     [20] => 
 |2020-03-13
-|2
-|2
 |
-|2
-|14
-|2
-|7
-|2
-|2
-|
-|31
-|41
-|3
-|10
-|7
 |1
-|4
-|5
-|18
-|2
 |
-!155
-!775
-| +25%
+|1
+|9
+|3
+|4
+|
+|3
+|1
+|42
+|31
+|6
+|10
+|3
+|
+|2
+|5
+|19
+|2
+|10
+!152
+!923
+| 19.71%
 !
 !1
 
     [21] => 
 |2020-03-14
 |
-|1
+|
 |
 |1
-|7
-|6
+|
+|3
+|
+|2
+|1
+|
+|25
+|18
+|1
+|4
+|1
+|3
+|
+|
 |5
 |
-|2
-|
-|42
-|33
-|6
-|11
-|1
-|
-|1
-|
-|21
-|2
-|10
-!149
-!924
-| +19%
+|7
+!71
+!994
+| 7.69%
 !1
 !2
 
     [22] => 
 |2020-03-15
-|
-|
-|
 |1
 |
 |
 |
 |2
-|1
-|1
-|27
-|18
-|1
-|2
-|
-|4
-|
-|
-|4
-|
 |7
-!68
-!992
-| +7%
+|4
+|
+|1
+|
+|4
+|17
+|4
+|
+|1
+|1
+|
+|
+|18
+|
+|9
+!69
+!1,063
+| 6.94%
 !1
 !3
 
     [23] => 
 |2020-03-16
-|1
 |
 |
-|1
-|2
-|8
-|4
 |
 |2
-|
-|4
-|18
-|
-|
 |1
-|
 |1
+|2
 |
-|17
+|
+|
+|3
+|34
+|12
+|2
+|2
+|2
+|1
+|7
+|6
 |
 |8
-!67
-!1,059
-| +7%
+!83
+!1,146
+| 7.81%
 !4
 !7
 
     [24] => 
 |2020-03-17
-|2
-|
-|2
-|1
 |1
 |3
 |1
+|4
+|3
 |
+|1
 |
-|2
+|1
+|1
 |6
-|33
-|16
+|35
 |5
-|3
 |5
-|
-|11
-|3
-|3
+|1
+|4
+|1
+|6
 |13
-!108
-!1,167
-| +10%
+|16
+|13
+!120
+!1,266
+| 10.47%
 !1
 !8
 
     [25] => 
 |2020-03-18
-|
-|4
 |1
+|2
+|1
+|2
+|2
 |4
+|2
+|1
+|1
+| 
+|8
+|58
+|
+|17
+|1
 |3
-|
 |1
 |
-|1
-| -1
-|2
-|36
-|4
-|9
-|
-|1
-|1
-|2
-|20
-|11
-|13
-!112
-!1,279
-| +10%
+|10
+|3
+|28
+!145
+!1,411
+| 11.45%
 !2
 !10
 
     [26] => 
 |2020-03-19
 |
-|
-|
 |2
-|2
-|2
-|2
+|1
 |
 |2
 |1
-|7
-|55
-|1
-|15
 |2
-|4
 |1
+|1
+|1
+|2
+|66
+|5
+|5
 |
-|8
-|4
-|36
-!144
-!1,423
-| +11%
+|2
+|
+|1
+|14
+|9
+|28
+!143
+!1,554
+| 10.13%
 !1
 !11
 
     [27] => 
 |2020-03-20
-|1
-|3
-|2
-|2
-|3
-|3
-|2
-|2
 |
-|1
-|4
-|105
 |5
-|6
 |
+|5
+|5
+|3
+|3
+|1
+|
+|5
+|5
+|84
 |4
 |1
-|1
-|21
-|6
-|28
-!200
-!1,623
-| +14%
+|2
+|5
+|
+|2
+|23
+|5
+|22
+!180
+!1,734
+| 11.58%
 !missing data
 !missing data
 
     [28] => 
 |2020-03-21
 |
-|5
 |
-|3
-|4
-|3
-|3
-|1
 |
 |4
 |3
-|55
-|4
-|1
-|1
-|2
-|
-|2
 |14
+|4
+|1
+|
+|3
+|5
+|71
+|6
+|2
+|1
+|
+|
+|
 |8
-|10
-!123
-!1,746
-| +8%
+|
+|12
+!134
+!1,868
+| 7.73%
 !missing data
 !missing data
 
     [29] => 
 |2020-03-22
 |
-|
-|
-|4
-|3
-|10
-|4
-|1
-|
-|3
 |5
-|99
-|6
-|3
-|2
 |
 |
-|
-|8
 |1
+|9
+|1
+|1
+|
+|3
+|3
+|59
 |11
-!160
-!1,906
-| +9%
+|5
+|1
+|1
+|
+|
+|4
+|
+|13
+!117
+!1,985
+| 6.26%
 !missing data
 !missing data
 
     [30] => 
 |2020-03-23
 |
-|1
-|
-|
-|1
 |9
-|1
-|1
 |
-|1
 |3
-|56
-|11
-|5
-|
-|1
-|
-|2
 |4
 |
-|14
-!110
-!2,016
-| +6%
+|2
+|3
+|
+|5
+|7
+|100
+|2
+|7
+|2
+|
+|2
+|3
+|9
+|6
+|18
+!182
+!2,167
+| 9.17%
 !missing data
 !missing data
 
     [31] => 
 |2020-03-24
 |
-|13
+|9
 |
-|3
+|5
+|
 |4
-|6
-|3
-|3
-|
-|8
-|7
-|143
-|2
-|11
-|3
-|
-|2
+|5
 |1
-|11
+|2
 |6
+|5
+|105
+|14
+|11
+|3
+|3
+|2
+|4
+|10
+|11
 |30
-!256
-!2,272
-| +13%
+!230
+!2,397
+| 10.61%
 !missing data
 !missing data
 
     [32] => 
 |2020-03-25
-|
-|10
-|
-|5
 |3
-|4
-|6
+|13
+|1
+|7
+|7
+|2
+|7
 |2
 |1
 |5
-|8
-|111
-|19
-|9
-|3
-|3
+|13
+|154
+|37
+|15
+|
+|4
 |2
-|5
-|10
-|10
-|22
-!238
-!2,510
-| +10%
+|3
+|19
+|8
+|11
+!314
+!2,711
+| 13.10%
 !missing data
 !42
 
     [33] => 
 |2020-03-26
+|
+|8
+|4
+|5
+|8
+|7
+|9
+|6
+|2
 |3
+|7
+|132
+|16
 |12
 |
-|7
-|4
-|1
+|3
+|3
 |5
-|2
-|1
-|5
-|10
-|146
+|20
+|6
 |29
-|15
-|
-|4
-|2
-|2
-|22
-|8
-|18
-!296
-!2,806
-| +12%
+!285
+!2,996
+| 10.51%
 !24
 !66
 
     [34] => 
 |2020-03-27
-|
-|9
-|4
-|5
-|8
-|8
-|9
-|6
 |2
-|4
-|7
-|95
-|12
-|12
-|
+|15
+|1
+|9
 |3
+|3
+|15
+|5
 |4
-|7
+|4
+|10
+|176
+|26
 |20
+|1
 |2
-|23
-!238
-!3,046
-| +8%
+|2
+|11
+|18
+|6
+|33
+!366
+!3,362
+| 12.22%
 !26
 !92
 
     [35] => 
 |2020-03-28
 |
-|15
-|2
-|9
-|3
-|3
-|15
-|3
-|1
-|3
-|8
-|227
-|33
-|20
-|1
-|2
+|6
 |
+|12
+|6
 |8
-|13
+|9
+|1
+|2
+|4
+|2
+|146
+|9
 |7
-|28
-!401
-!3,447
-| +13%
+|2
+|5
+|2
+|3
+|25
+|7
+|43
+!299
+!3,661
+| 8.89%
 !10
 !102
 
     [36] => 
 |2020-03-29
-|2
-|6
+|4
+|10
 |
-|13
-|6
-|6
+|11
+|2
+|2
+|8
+|1
+|4
+|2
+|3
+|150
+|4
+|11
+|1
+|1
 |9
-|2
-|4
-|2
-|4
-|119
-|1
-|7
-|2
-|5
-|2
-|1
-|21
-|2
-|39
-!253
-!3,700
-| +7%
+|
+|15
+|3
+|40
+!281
+!3,942
+| 7.68%
 !8
 !110
 
     [37] => 
 |2020-03-30
-|3
-|
 |
 |9
+|
+|10
+|5
 |2
-|
+|15
+|3
+|1
+|5
+|5
+|167
+|60
+|22
+|1
+|7
 |6
-|1
-|3
-|3
-|4
-|149
-|43
-|4
-|1
-|1
-|4
 |23
-|21
-|9
-|42
-!328
-!4,028
-| +9%
+|27
+|17
+|27
+!412
+!4,354
+| 10.45%
 !36
 !146
 
     [38] => 
 |2020-03-31
 |1
-|15
-|
-|11
-|7
-|4
 |17
-|3
-|4
-|4
-|4
-|173
-|36
-|23
-|1
+|
+|14
 |7
-|15
-|9
-|27
-|23
-|23
-!407
-!4,435
-| +10%
+|1
+|16
+|2
+|5
+|6
+|7
+|210
+|28
+|12
+|
+|8
+|13
+|10
+|29
+|11
+|48
+!445
+!4,799
+| 10.22%
 !34
 !180
 
     [39] => 
+|2020-04-01 11:30
+|
+|
+|
+|1
+|
+|
+|
+|2
+|
+|
+|1
+|103
+|16
+|
+|
+|
+|
+|5
+|1
+|
+|19
+!148
+!4,947
+|3.08%
+!
+!
+
+    [40] => 
 !Total
-!21
-!97
+!22
+!118
 !11
-!86
-!96
-!81
-!126
-!34
-!34
-!51
-!283
-!1,979
-!239
-!183
+!100
+!101
+!82
+!142
+!36
+!39
+!59
+!290
+!2,121
+!260
+!194
 !50
+!63
 !55
-!46
-!79
-!399
-!109
-!376
-! colspan="2" |4,435
+!83
+!426
+!117
+!430
+! colspan="2" |4,947
 !—
 |
 |
 
-    [40] => 
+    [41] => 
 !Deaths
 !
 !9
@@ -1166,7 +1188,7 @@ Array
 |
 |
 
-    [41] => 
+    [42] => 
 ![[Intensive care medicine|ICU-care]]
 !1
 !9
@@ -1194,9 +1216,8 @@ Array
 !+20%
 |
 |
-|<ref>{{Cite web|url=https://portal.icuregswe.org/siri/report/inrapp-corona|title=SIR {{!}} Influensaportalen|last=|first=|date=|website=portal.icuregswe.org|url-status=live|archive-url=|archive-date=|access-date=2020-03-29}}</ref>
 
-    [42] => 
-| colspan="28" style="text-align:left;" |'''Notes'''{{reflist|group=lower-alpha}}
+    [43] => 
+| colspan="27" style="text-align:left;" |'''Notes'''{{reflist|group=lower-alpha}}
 |}
 )
