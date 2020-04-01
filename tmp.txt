@@ -5,7 +5,7 @@ Array
 ! rowspan="3" |Date
 ! colspan="21" |'''County'''
 ! colspan="3" |Cases{{refn|Reported, confirmed cases. Actual case numbers may be higher.|group=lower-alpha}}<ref>{{Cite web|url=http://www.folkhalsomyndigheten.se/smittskydd-beredskap/utbrott/aktuella-utbrott/covid-19/aktuellt-epidemiologiskt-lage/|title=Bekräftade fall i Sverige — Folkhälsomyndigheten|website=www.folkhalsomyndigheten.se|language=sv|access-date=2020-04-01}}</ref>
-! colspan="3" |Deaths{{refn|From 2020-03-31 the source is the daily reports from Folkhälsomyndigheten, released at 14:00.<br/> For 2020-03-25 --2020-03-30 the data source is older versions of this table, probably based on the daily reports released by Folkhälsomyndigheten.<br/> For 2020-03-11 -- 2020-03-19 data is consistent across different sources.<br/> For 2020-03-20 -- 2020-03-24 the number of deaths differs between sources and the number of deaths is reported as "missing data".|group=lower-alpha}}
+! colspan="3" |Deaths{{refn|From the daily reports from Folkhälsomyndigheten, released at 14:00.|group=lower-alpha}}
 
     [1] => 
 !!{{vert header|[[Blekinge County|Blekinge]]}}
