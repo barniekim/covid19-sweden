@@ -1103,7 +1103,7 @@ Array
 !180
 
     [39] => 
-|2020-04-01 11:30
+|2020-04-01 {{refn|Till 11:30 Swedish time.|group=lower-alpha}}
 |
 |
 |
@@ -1156,8 +1156,7 @@ Array
 !430
 ! colspan="2" |4,947
 !—
-|
-|
+! colspan="2" rowspan="2" |239
 
     [41] => 
 !Deaths
@@ -1185,8 +1184,6 @@ Array
 !+59
 !239
 !+33%
-|
-|
 
     [42] => 
 ![[Intensive care medicine|ICU-care]] <ref>{{Cite web|url=https://portal.icuregswe.org/siri/report/inrapp-corona|title=SIR {{!}} Influensaportalen|website=portal.icuregswe.org|access-date=2020-04-01}}</ref>
@@ -1214,8 +1211,7 @@ Array
 !+38
 !415
 !+10%
-|
-|
+| colspan="2" |
 
     [43] => 
 | colspan="27" style="text-align:left;" |'''Notes'''{{reflist|group=lower-alpha}}
