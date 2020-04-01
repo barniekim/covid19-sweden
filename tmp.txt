@@ -5,6 +5,7 @@ Array
 ! rowspan="3" |Date
 ! colspan="21" |'''County'''
 ! colspan="3" |Cases{{refn|Reported, confirmed cases. Actual case numbers may be higher.|group=lower-alpha}}
+! colspan="2" |Deaths
 ! rowspan="3" !{{vert header|Source(s)}}
 
     [1] => 
@@ -32,6 +33,8 @@ Array
 ! rowspan="2" |New
 ! rowspan="2" |Total
 ! rowspan="2" |{{abbr|Diff.|Difference}}
+! rowspan="2" |New
+! rowspan="2" |Total
 
     [2] => 
 !{{Flagicon|Blekinge län|COA}}
@@ -82,6 +85,8 @@ Array
 !1
 !1
 |—
+|
+|
 |<ref>{{Cite web|url=https://www.folkhalsomyndigheten.se/nyheter-och-press/nyhetsarkiv/2020/januari/bekraftat-fall-av-nytt-coronavirus-i-sverige/|title=Bekräftat fall i Jönköping av nya coronaviruset (2019-nCoV)|last=|first=|date=31 January 2020|website=[[Public Health Agency of Sweden|Folkhälsomyndigheten]]|language=sv|trans-title=Confirmed case in Jönköping of new coronavirus (2019-nCoV)|url-status=live|archive-url=|archive-date=|access-date=17 March 2020}}</ref>
 
     [4] => 
@@ -110,6 +115,8 @@ Array
 !1
 !2
 | +100%
+|
+|
 |<ref>{{Cite web|url=https://www.folkhalsomyndigheten.se/nyheter-och-press/nyhetsarkiv/2020/februari/nytt-bekraftat-fall-av-covid-19/|title=Nytt bekräftat fall av covid-19|last=|first=|date=26 February 2020|website=[[Public Health Agency of Sweden|Folkhälsomyndigheten]]|language=sv|trans-title=New confirmed case of covid-19|url-status=live|archive-url=|archive-date=|access-date=17 March 2020}}</ref>
 
     [5] => 
@@ -138,6 +145,8 @@ Array
 !5
 !7
 | +250%
+|
+|
 |<ref>{{Cite web|url=https://www.folkhalsomyndigheten.se/nyheter-och-press/nyhetsarkiv/2020/februari/inbjudan-till-presstraff-ytterligare-fall-av-covid-19-i-flera-regioner2/|title=Inbjudan till pressträff: Ytterligare fall av covid-19 i flera regioner|last=|first=|date=27 February 2020|website=[[Public Health Agency of Sweden|Folkhälsomyndigheten]]|language=sv|trans-title=Invitation to press conference: More cases of covid-19 in multiple regions|url-status=live|archive-url=|archive-date=|access-date=17 March 2020}}</ref>
 
     [6] => 
@@ -166,6 +175,8 @@ Array
 !4
 !11
 | +57%
+|
+|
 |<ref>{{Cite web|url=https://www.kristianstadsbladet.se/nyheter/coronasmittad-akte-tag-resenarer-sparas/|title=Fyra nya fall av coronavirus i Sverige|last=Grönvik|first=Jonas|date=28 February 2020|website=Kristianstadsbladet|language=sv-SE|trans-title=Four new cases of coronavirus in Sweden|url-status=live|archive-url=|archive-date=|access-date=17 March 2020}}</ref>
 
     [7] => 
@@ -194,6 +205,8 @@ Array
 !2
 !13
 | +18%
+|
+|
 | rowspan="10" |<ref>{{Cite web|url=https://www.coronakartan.se/tidslinje/|title=Tidslinje|last=|first=|date=|website=Coronakartan|language=sv|trans-title=Timeline|url-status=live|archive-url=|archive-date=|access-date=17 March 2020}}</ref>
 
     [8] => 
@@ -222,6 +235,8 @@ Array
 !1
 !14
 | +8%
+|
+|
 
     [9] => 
 |2020-03-02
@@ -249,6 +264,8 @@ Array
 !1
 !15
 | +7%
+|
+|
 
     [10] => 
 |2020-03-03
@@ -276,6 +293,8 @@ Array
 !15
 !30
 | +100%
+|
+|
 
     [11] => 
 |2020-03-04
@@ -303,6 +322,8 @@ Array
 !22
 !52
 | +73%
+|
+|
 
     [12] => 
 |2020-03-05
@@ -330,6 +351,8 @@ Array
 !42
 !94
 | +81%
+|
+|
 
     [13] => 
 |2020-03-06{{Refn|From 6 March 2020 onwards, Stockholm County reported its cases after 24 hours.{{citation needed|date=March 2020}}|group=lower-alpha}}
@@ -357,6 +380,8 @@ Array
 !43
 !137
 | +46%
+|
+|
 
     [14] => 
 |2020-03-07
@@ -384,6 +409,8 @@ Array
 !24
 !161
 | +18%
+|
+|
 
     [15] => 
 |2020-03-08
@@ -411,6 +438,8 @@ Array
 !42
 !203
 | +26%
+|
+|
 
     [16] => 
 |2020-03-09
@@ -438,6 +467,8 @@ Array
 !45
 !248
 | +22%
+|
+|
 
     [17] => 
 |2020-03-10
@@ -465,6 +496,8 @@ Array
 !78
 !326
 | +31%
+|
+|
 | rowspan="24" |<ref>{{Cite web|url=https://www.folkhalsomyndigheten.se/smittskydd-beredskap/utbrott/aktuella-utbrott/covid-19/aktuellt-epidemiologiskt-lage/|title=Antal fall av covid-19|last=|first=|date=|website=[[Public Health Agency of Sweden|Folkhälsomyndigheten]]|language=sv|trans-title=Number of cases of covid-19|url-status=live|archive-url=|archive-date=|access-date=22 March 2020}} For historical versions of this page, see [https://web.archive.org/web/*/https://www.folkhalsomyndigheten.se/smittskydd-beredskap/utbrott/aktuella-utbrott/covid-19/aktuellt-epidemiologiskt-lage/ Wayback machine].</ref>
 
     [18] => 
@@ -493,6 +526,8 @@ Array
 !135
 !461
 | +41%
+!1
+!1
 
     [19] => 
 |2020-03-12{{Refn|The [[Public Health Agency of Sweden]] decided to only test hospitalized patients from risk groups and healthcare personnel with symptoms from 12 March 2020 onwards.<ref>{{Cite web|url=https://www.aftonbladet.se/a/70GQRV|title=Nya strategin – slutar räkna exakta antalet coronafall|last=Karlsson|first=Pär|date=13 March 2020|website=[[Aftonbladet]]|language=sv|trans-title=The new strategy – stops counting the exact number of corona cases|url-status=live|archive-url=|archive-date=|access-date=17 March 2020}}</ref>|group=lower-alpha}}
@@ -520,6 +555,8 @@ Array
 !159
 !620
 | +34%
+!
+!1
 
     [20] => 
 |2020-03-13
@@ -547,6 +584,8 @@ Array
 !155
 !775
 | +25%
+!
+!1
 
     [21] => 
 |2020-03-14
@@ -574,6 +613,8 @@ Array
 !149
 !924
 | +19%
+!1
+!2
 
     [22] => 
 |2020-03-15
@@ -601,6 +642,8 @@ Array
 !68
 !992
 | +7%
+!1
+!3
 
     [23] => 
 |2020-03-16
@@ -628,12 +671,14 @@ Array
 !67
 !1,059
 | +7%
+!4
+!7
 
     [24] => 
 |2020-03-17
 |2
 |
-|
+|2
 |1
 |1
 |3
@@ -655,6 +700,8 @@ Array
 !108
 !1,167
 | +10%
+!1
+!8
 
     [25] => 
 |2020-03-18
@@ -682,6 +729,8 @@ Array
 !112
 !1,279
 | +10%
+!2
+!10
 
     [26] => 
 |2020-03-19
@@ -709,6 +758,8 @@ Array
 !144
 !1,423
 | +11%
+!1
+!11
 
     [27] => 
 |2020-03-20
@@ -736,6 +787,8 @@ Array
 !200
 !1,623
 | +14%
+!missing data
+!missing data
 
     [28] => 
 |2020-03-21
@@ -763,6 +816,8 @@ Array
 !123
 !1,746
 | +8%
+!missing data
+!missing data
 
     [29] => 
 |2020-03-22
@@ -790,6 +845,8 @@ Array
 !160
 !1,906
 | +9%
+!missing data
+!missing data
 
     [30] => 
 |2020-03-23
@@ -817,6 +874,8 @@ Array
 !110
 !2,016
 | +6%
+!missing data
+!missing data
 
     [31] => 
 |2020-03-24
@@ -844,6 +903,8 @@ Array
 !256
 !2,272
 | +13%
+!missing data
+!missing data
 
     [32] => 
 |2020-03-25
@@ -871,6 +932,8 @@ Array
 !238
 !2,510
 | +10%
+!missing data
+!42
 
     [33] => 
 |2020-03-26
@@ -898,6 +961,8 @@ Array
 !296
 !2,806
 | +12%
+!24
+!66
 
     [34] => 
 |2020-03-27
@@ -925,6 +990,8 @@ Array
 !238
 !3,046
 | +8%
+!26
+!92
 
     [35] => 
 |2020-03-28
@@ -952,6 +1019,8 @@ Array
 !401
 !3,447
 | +13%
+!10
+!102
 
     [36] => 
 |2020-03-29
@@ -979,6 +1048,8 @@ Array
 !253
 !3,700
 | +7%
+!8
+!110
 
     [37] => 
 |2020-03-30
@@ -1006,6 +1077,8 @@ Array
 !328
 !4,028
 | +9%
+!36
+!146
 
     [38] => 
 |2020-03-31
@@ -1033,6 +1106,8 @@ Array
 !407
 !4,435
 | +10%
+!34
+!180
 
     [39] => 
 !Total
@@ -1059,6 +1134,8 @@ Array
 !376
 ! colspan="2" |4,435
 !—
+|
+|
 
     [40] => 
 !Deaths
@@ -1086,6 +1163,8 @@ Array
 !+34
 !180
 !+23%
+|
+|
 
     [41] => 
 ![[Intensive care medicine|ICU-care]]
@@ -1113,9 +1192,11 @@ Array
 !+62
 !377
 !+20%
+|
+|
 |<ref>{{Cite web|url=https://portal.icuregswe.org/siri/report/inrapp-corona|title=SIR {{!}} Influensaportalen|last=|first=|date=|website=portal.icuregswe.org|url-status=live|archive-url=|archive-date=|access-date=2020-03-29}}</ref>
 
     [42] => 
-| colspan="26" style="text-align:left;" |'''Notes'''{{reflist|group=lower-alpha}}
+| colspan="28" style="text-align:left;" |'''Notes'''{{reflist|group=lower-alpha}}
 |}
 )
