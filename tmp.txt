@@ -1111,7 +1111,7 @@ Array
 |1
 |5
 |5
-|167
+|168
 |60
 |22
 |1
@@ -1121,7 +1121,7 @@ Array
 |27
 |17
 |27
-!412
+!413
 !4,354
 | 10.45%
 !36
@@ -1134,8 +1134,8 @@ Array
     [38] => 
 |2020-03-31
 |1
-|17
-|
+|22
+|1
 |14
 |7
 |1
@@ -1144,9 +1144,9 @@ Array
 |5
 |6
 |7
-|210
-|28
-|12
+|209
+|49
+|15
 |
 |8
 |13
@@ -1154,7 +1154,7 @@ Array
 |29
 |11
 |48
-!445
+!474
 !4,799
 | 10.22%
 !34
@@ -1163,28 +1163,28 @@ Array
 
     [39] => 
 |2020-04-01 {{refn|Till 11:30 UTC+2. Some delay may be present in the reporting, thus the numbers should be read with caution. <ref>{{cite web |title=Bekräftade fall i Sverige — Folkhälsomyndigheten |url=https://www.folkhalsomyndigheten.se/smittskydd-beredskap/utbrott/aktuella-utbrott/covid-19/aktuellt-epidemiologiskt-lage/ |website=www.folkhalsomyndigheten.se |accessdate=1 April 2020 |language=sv}}</ref>|group=lower-alpha}}
+|5
+|11
 |
+|31
+|4
 |
-|
-|1
-|
-|
-|
-|2
-|
-|
-|1
-|103
-|16
-|
-|
-|
-|
+|13
 |5
 |1
-|
-|19
-!148
+|5
+|8
+|206
+|48
+|24
+|2
+|5
+|2
+|10
+|28
+|4
+|49
+!461
 !4,947
 |3.08%
 !59
@@ -1192,6 +1192,39 @@ Array
 |32.78%
 
     [40] => 
+|2020-04-02
+|
+|
+|
+|
+|
+|
+|
+|1
+|
+|2
+|
+|113
+|6
+|
+|
+|
+|
+|16
+|3
+|
+|35
+!
+!
+|
+!
+!
+|
+!
+!
+|
+
+    [41] => 
 !Total
 !22
 !118
@@ -1218,7 +1251,7 @@ Array
 ! colspan="3" rowspan="2" |239
 ! colspan="3" rowspan="2" |36,900
 
-    [41] => 
+    [42] => 
 !Deaths
 !1
 !9
@@ -1245,7 +1278,7 @@ Array
 !239
 !+33%
 
-    [42] => 
+    [43] => 
 ![[Intensive care medicine|ICU-care]] <ref>{{Cite web|url=https://portal.icuregswe.org/siri/report/inrapp-corona|title=SIR {{!}} Influensaportalen|website=portal.icuregswe.org|access-date=2020-04-01}}</ref>
 !1
 !9
@@ -1274,7 +1307,7 @@ Array
 | colspan="3" |
 | colspan="3" |
 
-    [43] => 
+    [44] => 
 | colspan="31" style="text-align:left;" |'''Notes'''{{reflist|group=lower-alpha}}
 |}
 )
