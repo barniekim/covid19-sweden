@@ -4,9 +4,9 @@ Array
 |+ style="font-size:11pt;" |{{nowrap|New COVID-19 cases in Sweden by county ({{navbar|2019–20 coronavirus pandemic data/Sweden medical cases|mini=1|nodiv=1}})}}
 ! rowspan="3" |Date
 ! colspan="21" |'''County'''
-! colspan="3" |Cases{{refn|Reported, confirmed cases. Actual case numbers may be higher.|group=lower-alpha}}<ref name=":0">{{Cite web|url=http://www.folkhalsomyndigheten.se/smittskydd-beredskap/utbrott/aktuella-utbrott/covid-19/aktuellt-epidemiologiskt-lage/|title=Bekräftade fall i Sverige — Folkhälsomyndigheten|website=www.folkhalsomyndigheten.se|language=sv|access-date=2020-04-01}}</ref>
+! colspan="3" |Cases{{refn|Reported, confirmed cases. Actual case numbers may be higher.|group=lower-alpha}}<ref name="FHM_Official_stats">{{Cite web|url=https://experience.arcgis.com/experience/09f821667ce64bf7be6f9f87457ed9aa|title=Antal fall av covid-19 i Sverige - data uppdateras dagligen kl 11.30|last=|first=|date=2020-03-30|website=Public Health Agency of Sweden — Official statistics at arcgis|publisher=[[Public Health Agency of Sweden]] (Folkhälsomyndigheten)|url-status=live|archive-url=|archive-date=|access-date=2020-03-30|layurl=https://www.folkhalsomyndigheten.se/smittskydd-beredskap/utbrott/aktuella-utbrott/covid-19/aktuellt-epidemiologiskt-lage/|laysource=Antal fall av covid-19 — Statistik – antal fall covid-19|language=Swedish|quote="Data updated daily at 11:30 [CET]"}}</ref>
 ! colspan="3" |Deaths{{refn|From the daily reports released by Folkhälsomyndigheten at 14:00 UTC+2.|group=lower-alpha}}
-! colspan="3" |Analysed samples <ref name=":0" />
+! colspan="3" |Analysed samples <ref name=":FHM_Aktuellt läge">{{Cite web|url=http://www.folkhalsomyndigheten.se/smittskydd-beredskap/utbrott/aktuella-utbrott/covid-19/aktuellt-epidemiologiskt-lage/|title=Bekräftade fall i Sverige — Folkhälsomyndigheten|website=www.folkhalsomyndigheten.se|language=sv|access-date=2020-04-01}}</ref>
 
     [1] => 
 !!{{vert header|[[Blekinge County|Blekinge]]}}
