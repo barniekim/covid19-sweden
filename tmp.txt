@@ -4,8 +4,9 @@ Array
 |+ style="font-size:11pt;" |{{nowrap|New COVID-19 cases in Sweden by county ({{navbar|2019–20 coronavirus pandemic data/Sweden medical cases|mini=1|nodiv=1}})}}
 ! rowspan="3" |Date
 ! colspan="21" |'''County'''
-! colspan="3" |Cases{{refn|Reported, confirmed cases. Actual case numbers may be higher.|group=lower-alpha}}<ref>{{Cite web|url=http://www.folkhalsomyndigheten.se/smittskydd-beredskap/utbrott/aktuella-utbrott/covid-19/aktuellt-epidemiologiskt-lage/|title=Bekräftade fall i Sverige — Folkhälsomyndigheten|website=www.folkhalsomyndigheten.se|language=sv|access-date=2020-04-01}}</ref>
+! colspan="3" |Cases{{refn|Reported, confirmed cases. Actual case numbers may be higher.|group=lower-alpha}}<ref name=":0">{{Cite web|url=http://www.folkhalsomyndigheten.se/smittskydd-beredskap/utbrott/aktuella-utbrott/covid-19/aktuellt-epidemiologiskt-lage/|title=Bekräftade fall i Sverige — Folkhälsomyndigheten|website=www.folkhalsomyndigheten.se|language=sv|access-date=2020-04-01}}</ref>
 ! colspan="3" |Deaths{{refn|From the daily reports from Folkhälsomyndigheten, released at 14:00.|group=lower-alpha}}
+! colspan="3" |Analysed samples <ref name=":0" />
 
     [1] => 
 !!{{vert header|[[Blekinge County|Blekinge]]}}
@@ -35,6 +36,9 @@ Array
 ! rowspan="2" |New
 ! rowspan="2" |Total
 ! rowspan="2" |{{abbr|Diff.|Difference}}
+! rowspan="2" |New
+! rowspan="2" |Total
+! rowspan="2" |Week
 
     [2] => 
 !{{Flagicon|Blekinge län|COA}}
@@ -88,6 +92,9 @@ Array
 !
 !
 |
+! rowspan="6" |1,000
+! rowspan="6" |1,000
+| rowspan="6" |9
 
     [4] => 
 |2020-02-26
@@ -268,6 +275,9 @@ Array
 !
 !
 |
+! rowspan="7" |4,300
+! rowspan="7" |5,300
+| rowspan="7" |10
 
     [10] => 
 |2020-03-03
@@ -478,6 +488,9 @@ Array
 !
 !
 |
+! rowspan="7" |9,000
+! rowspan="7" |14,300
+| rowspan="7" |11
 
     [17] => 
 |2020-03-10
@@ -688,6 +701,9 @@ Array
 !4
 !7
 |133.33%
+! rowspan="7" |10,300
+! rowspan="7" |24,600
+| rowspan="7" |12
 
     [24] => 
 |2020-03-17
@@ -898,6 +914,9 @@ Array
 !4
 !25
 |19.05%
+! rowspan="7" |12,300
+! rowspan="7" |36,900
+| rowspan="7" |13
 
     [31] => 
 |2020-03-24
@@ -1108,6 +1127,9 @@ Array
 !36
 !146
 |32.73%
+! rowspan="3" |
+! rowspan="3" |
+| rowspan="3" |14
 
     [38] => 
 |2020-03-31
@@ -1192,9 +1214,9 @@ Array
 !426
 !117
 !430
-! colspan="2" |4,947
-!—
+! colspan="3" |4,947
 ! colspan="3" rowspan="2" |239
+! colspan="3" rowspan="2" |36,900
 
     [41] => 
 !Deaths
@@ -1249,10 +1271,10 @@ Array
 !+38
 !415
 !+10%
-! colspan="3" |
+| colspan="3" |
+| colspan="3" |
 
     [43] => 
-| colspan="27" style="text-align:left;" |'''Notes'''{{reflist|group=lower-alpha}}
-|
+| colspan="31" style="text-align:left;" |'''Notes'''{{reflist|group=lower-alpha}}
 |}
 )
