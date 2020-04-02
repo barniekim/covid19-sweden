@@ -1127,9 +1127,9 @@ Array
 !36
 !146
 |32.73%
-! rowspan="3" |
-! rowspan="3" |
-| rowspan="3" |14
+! rowspan="4" |
+! rowspan="4" |
+| rowspan="4" |14
 
     [38] => 
 |2020-03-31
@@ -1220,12 +1220,36 @@ Array
 !43
 !282
 |17.99%
-!
-!
-|
 
     [41] => 
-!Total
+! County
+!{{Flagicon|Blekinge län|COA}}
+!{{Flagicon|Dalarnas län|COA}}
+!{{Flagicon|Gotlands län|COA}}
+!{{Flagicon|Gävleborg|COA}}
+!{{Flagicon|Hallands län|COA}}
+!{{Flagicon|Jämtlands län|COA}}
+!{{Flagicon|Jönköping|COA}}
+!{{Flagicon|Kalmar|COA}}
+!{{Flagicon|Kronoberg|COA}}
+!{{Flagicon|Norrbottens län|COA}}
+!{{Flagicon|Skåne|COA}}
+!{{Flagicon|Stockholms län|COA}}
+!{{Flagicon|Södermanlands län|COA}}
+!{{Flagicon|Uppsala län|COA}}
+!{{Flagicon|Värmlands län|COA}}
+!{{Flagicon|Västerbottens län|COA}}
+!{{Flagicon|Västernorrland|COA}}
+!{{Flagicon|Västmanlands län|COA}}
+!{{Flagicon|Västra Götaland|COA}}
+!{{Flagicon|Örebro|COA}}
+!{{Flagicon|Östergötlands län|COA}}
+! colspan="3" rowspan="3" |5,466
+! colspan="3" rowspan="3" |282
+! colspan="3" rowspan="3" |36,900
+
+    [42] => 
+!Total cases
 !27
 !134
 !12
@@ -1247,12 +1271,9 @@ Array
 !457
 !121
 !514
-! colspan="3" |5,466
-! colspan="3" rowspan="2" |282
-! colspan="3" rowspan="2" |36,900
 
-    [42] => 
-!Deaths{{refn|From the daily reports released by Folkhälsomyndigheten at 14:00 UTC+2.|group=lower-alpha}}
+    [43] => 
+!Total deaths{{refn|From the daily reports released by Folkhälsomyndigheten at 14:00 UTC+2.|group=lower-alpha}}
 !1
 !13
 !
@@ -1274,11 +1295,8 @@ Array
 !9
 !1
 !8
-!+43
-!282
-!+18%
 
-    [43] => 
+    [44] => 
 ![[Intensive care medicine|ICU-care]] <ref>{{Cite web|url=https://portal.icuregswe.org/siri/report/inrapp-corona|title=SIR {{!}} Influensaportalen|website=portal.icuregswe.org|access-date=2020-04-01}}</ref>
 !1
 !10
@@ -1307,7 +1325,7 @@ Array
 | colspan="3" |
 | colspan="3" |
 
-    [44] => 
+    [45] => 
 | colspan="31" style="text-align:left;" |'''Notes'''{{reflist|group=lower-alpha}}
 |}
 )
