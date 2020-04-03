@@ -1192,36 +1192,69 @@ Array
 |33%
 
     [40] => 
-|2020-04-02{{efn|name=FHM_daily}}
+|2020-04-02
 |
+|4
 |
-|
-|
-|
-|
-|
-|1
-|
+|17
+|9
 |2
+|32
+|5
+|5
+|7
+|8
+|216
+|34
+|25
 |
-|113
-|6
-|
-|
-|
-|
-|16
-|3
-|
-|35
-!176
-!5,466
-|3%
+|12
+|1
+|18
+|48
+|28
+|71
+!542
+!5857
+|10%
 !43
 !282
 |18%
 
     [41] => 
+|2020-04-03{{efn|name=FHM_daily}}
+|
+|1
+|
+|
+|
+|
+|
+|
+|
+|2
+|5
+|120
+|34
+|
+|
+|
+|
+|22
+|7
+|15
+|15
+!221
+!6078
+|
+!51
+!333
+|18%
+!
+!
+|
+
+    [42] => 
 ! County
 !{{Flagicon|Blekinge län|COA}}
 !{{Flagicon|Dalarnas län|COA}}
@@ -1248,87 +1281,87 @@ Array
 ! colspan="3" |Deaths
 ! colspan="3" |Analysed samples
 
-    [42] => 
+    [43] => 
 !Total cases
 !27
-!134
+!147
 !12
-!131
-!105
-!82
-!155
-!42
-!40
-!66
-!298
-!2,439
-!335
-!222
-!52
-!68
-!57
-!109
-!457
-!121
-!514
-! colspan="3" rowspan="2" |5,466
-! colspan="3" rowspan="2" |282
+!147
+!114
+!84
+!187
+!46
+!45
+!73
+!311
+!2662
+!398
+!247
+!53
+!80
+!58
+!134
+!509
+!166
+!578
+! colspan="3" rowspan="2" |6078
+! colspan="3" rowspan="2" |333
 ! colspan="3" rowspan="2" |36,900
 
-    [43] => 
+    [44] => 
 !Total deaths{{efn|name=FHM_daily}}
 !1
-!13
+!14
 !
 !4
 !8
 !
+!13
+!1
+!
+!1
 !11
-!1
-!
-!1
-!8
-!178
-!27
-!7
-!1
-!
-!2
-!2
+!204
+!35
 !9
 !1
-!8
-
-    [44] => 
-![[Intensive care medicine|ICU-care]]<ref>{{Cite web|url=https://portal.icuregswe.org/siri/report/inrapp-corona|title=SIR {{!}} Influensaportalen|website=portal.icuregswe.org|access-date=2020-04-01}}</ref>
-!1
-!10
-!1
-!11
-!10
-!1
-!13
+!
 !2
+!4
+!14
+!1
+!10
+
+    [45] => 
+![[Intensive care medicine|ICU-care]]<ref>{{Cite web|url=https://portal.icuregswe.org/siri/report/inrapp-corona|title=SIR {{!}} Influensaportalen|website=portal.icuregswe.org|access-date=2020-04-01}}</ref>
+!2
+!10
+!1
+!12
+!10
+!2
+!16
+!3
 !
 !10
-!18
-!198
-!41
-!16
+!19
+!215
+!43
+!23
 !4
-!6
-!4
+!9
+!5
 !12
 !50
 !12
-!29
-!+34
-!449
-!+8%
+!35
+!+44
+!493
+!+10%
 | colspan="3" |
 | colspan="3" |
 
-    [45] => 
+    [46] => 
 | colspan="31" style="text-align:left;" |'''Notes'''{{reflist|group=lower-alpha}}
 |}
 )
