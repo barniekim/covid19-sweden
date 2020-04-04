@@ -239,7 +239,7 @@ Array
 |
 |
 |
-!0
+!
 !14
 | 0%
 !
@@ -1389,6 +1389,35 @@ Array
 | colspan="3" |
 
     [47] => 
+!Per 100k {{Abbr|pop|Population}}{{efn|name=FHM_daily}}
+!19
+!57
+!20
+!57
+!38
+!66
+!55
+!19
+!24
+!30
+!23
+!120
+!139
+!71
+!19
+!36
+!25
+!50
+!31
+!55
+!126
+!
+!51
+!
+| colspan="3" |
+| colspan="3" |
+
+    [48] => 
 | colspan="31" style="text-align:left;" |'''Notes'''{{reflist|group=lower-alpha}}
 |}
 )
