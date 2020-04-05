@@ -1492,9 +1492,9 @@ Array
 !561
 !172
 !644
-! colspan="3" rowspan="2" |6830
-! colspan="3" rowspan="2" |
-! colspan="3" rowspan="2" |
+! colspan="3"  |6830 
+! colspan="3"  |
+! colspan="3"  |
 ! colspan="3" rowspan="2" |36,900
 
     [46] => 
