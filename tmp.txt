@@ -1389,7 +1389,7 @@ Array
 | colspan="3" |
 
     [47] => 
-!{{Abbr|Per 100k pop|Cases per 100,000 county population}}{{efn|name=FHM_daily}}
+!{{Abbr|Cases per 100k|Cases per 100,000 county population}}{{efn|name=FHM_daily}}
 !19
 !57
 !20
