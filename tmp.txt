@@ -36,7 +36,7 @@ Array
 ! rowspan="2" |{{abbr|Diff.|Difference}}
 ! rowspan="2" |New
 ! rowspan="2" |Total
-! rowspan="2" |{{abbr|Diff.|Difference}}
+! rowspan="2" |{{abbr|Diff.|Difference}}{{Refn|Not including cases with unknown time of death.|group=lower-alpha}}
 ! rowspan="2" |New
 ! rowspan="2" |Total
 ! rowspan="2" |{{abbr|Diff.|Difference}}
@@ -1400,7 +1400,7 @@ Array
 |1%
 !1+15
 !373
-|4%
+|0%
 !6
 !520
 |1%
@@ -1464,26 +1464,26 @@ Array
     [45] => 
 !Total deaths{{efn|name=FHM_daily}}
 !1
-!14
+!16
 !
 !4
-!8
+!9
 !
 !13
 !1
 !
 !1
 !11
-!204
-!35
+!255
+!45
 !9
 !1
 !
 !2
 !4
-!14
+!18
 !1
-!10
+!12
 
     [46] => 
 ![[Intensive care medicine|ICU-care]]<ref>{{Cite web|url=https://portal.icuregswe.org/siri/report/inrapp-corona|title=SIR {{!}} Influensaportalen|website=portal.icuregswe.org|access-date=2020-04-01}}</ref>
