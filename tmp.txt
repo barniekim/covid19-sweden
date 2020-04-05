@@ -1554,34 +1554,6 @@ Array
 ! colspan="3" |
 
     [48] => 
-!{{Abbr|Dead per 100k|Dead per 100,000 county population 2020-04-05 at 12.00 CET}}{{efn|name=FHM_daily}}
-!9.4
-!26.4
-!18.4
-!18.4
-!24.3
-!54.3
-!25.9
-!11.4
-!11.4
-!16.8
-!19.7
-!64.7
-!53.4
-!38.8
-!16.3
-!15.5
-!10.2
-!16.7
-!19.1
-!24.6
-!58.4
-! colspan="3" | 
-! colspan="3" | 33.4 
-! colspan="3" |
-! colspan="3" |
-
-    [49] => 
 ![[Intensive care medicine|ICU-care]]{{Refn|Source [https://portal.icuregswe.org/siri/report/inrapp-corona "Svenska Intensivvårdsregistret"]|group=lower-alpha}}<ref>{{Cite web|url=https://portal.icuregswe.org/siri/report/inrapp-corona|title=SIR {{!}} Influensaportalen|website=portal.icuregswe.org|access-date=2020-04-01}}</ref>
 !2
 !11
@@ -1611,7 +1583,7 @@ Array
 !+4%
 ! colspan="3" |
 
-    [50] => 
+    [49] => 
 | colspan="34" style="text-align:left;" |'''Notes'''{{reflist|group=lower-alpha}}
 |}
 )
