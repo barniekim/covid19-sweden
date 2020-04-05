@@ -1602,8 +1602,8 @@ Array
 !19.1
 !24.6
 !58.4
-! colspan="3" | 33.4
-| colspan="3" |
+! colspan="3" | 
+| colspan="3" | 33.4
 | colspan="3" |
 | colspan="3" |
 
