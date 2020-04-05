@@ -1236,9 +1236,9 @@ Array
 !31
 !373
 |9%
-! rowspan="6" |
-! rowspan="6" |
-| rowspan="6" |14
+! rowspan="7" |
+! rowspan="7" |
+| rowspan="7" |14
 
     [38] => 
 |2020-03-31
@@ -1437,9 +1437,6 @@ Array
 !3
 !541
 |1%
-!
-!
-|
 
     [44] => 
 ! County
@@ -1493,8 +1490,8 @@ Array
 !172
 !644
 ! colspan="3"  |6830 
-! colspan="3"  |
-! colspan="3"  |
+! colspan="3" rowspan="2" |
+! colspan="3" rowspan="3" |
 ! colspan="3" rowspan="2" |36,900
 
     [46] => 
@@ -1521,9 +1518,6 @@ Array
 !56
 !138
 ! colspan="3" | 66.1
-! colspan="3" |
-! colspan="3" |
-! colspan="3" |
 
     [47] => 
 !Total deaths{{efn|name=FHM_daily}}
@@ -1548,10 +1542,9 @@ Array
 !18
 !1
 !12
-! colspan="3" | 
+! colspan="3" rowspan="2" | 
 ! colspan="3" | 401 
-! colspan="3" |
-! colspan="3" |
+! colspan="3" rowspan="2" |
 
     [48] => 
 ![[Intensive care medicine|ICU-care]]{{Refn|Source [https://portal.icuregswe.org/siri/report/inrapp-corona "Svenska Intensivvårdsregistret"]|group=lower-alpha}}<ref>{{Cite web|url=https://portal.icuregswe.org/siri/report/inrapp-corona|title=SIR {{!}} Influensaportalen|website=portal.icuregswe.org|access-date=2020-04-01}}</ref>
@@ -1577,11 +1570,9 @@ Array
 !16
 !36
 ! colspan="3" |
-! colspan="3" |
 !+23
 !556
 !+4%
-! colspan="3" |
 
     [49] => 
 | colspan="34" style="text-align:left;" |'''Notes'''{{reflist|group=lower-alpha}}
