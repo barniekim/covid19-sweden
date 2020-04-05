@@ -1522,7 +1522,7 @@ Array
 !12
 
     [47] => 
-![[Intensive care medicine|ICU-care]]<ref>{{Cite web|url=https://portal.icuregswe.org/siri/report/inrapp-corona|title=SIR {{!}} Influensaportalen|website=portal.icuregswe.org|access-date=2020-04-01}}</ref>
+![[Intensive care medicine|ICU-care]]{{Refn|Source [https://portal.icuregswe.org/siri/report/inrapp-corona "Svenska Intensivvårdsregistret"]|group=lower-alpha}}<ref>{{Cite web|url=https://portal.icuregswe.org/siri/report/inrapp-corona|title=SIR {{!}} Influensaportalen|website=portal.icuregswe.org|access-date=2020-04-01}}</ref>
 !2
 !11
 !1
