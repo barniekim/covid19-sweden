@@ -6,6 +6,7 @@ Array
 ! colspan="21" |'''County'''
 ! colspan="3" |Cases{{refn|Reported, confirmed cases. Actual case numbers may be higher.|group=lower-alpha}}<ref name="FHM_Official_stats">{{Cite web|url=https://experience.arcgis.com/experience/09f821667ce64bf7be6f9f87457ed9aa|title=Antal fall av covid-19 i Sverige - data uppdateras dagligen kl 11.30|last=|first=|date=2020-03-30|website=Public Health Agency of Sweden — Official statistics at arcgis|publisher=[[Public Health Agency of Sweden]] (Folkhälsomyndigheten)|url-status=live|archive-url=|archive-date=|access-date=2020-03-30|layurl=https://www.folkhalsomyndigheten.se/smittskydd-beredskap/utbrott/aktuella-utbrott/covid-19/aktuellt-epidemiologiskt-lage/|laysource=Antal fall av covid-19 — Statistik – antal fall covid-19|language=Swedish|quote="Data updated daily at 11:30 [CET]"}}</ref>
 ! colspan="3" |Deaths{{efn|name=FHM_daily|From the daily report released by Folkhälsomyndigheten at 14:00 (UTC+02:00). Note that the data is compiled by Folkhälsomyndigheten at 11:30 (UTC+02:00) each day, which will lead to some delay in reporting.<ref name="FHM_Aktuellt_läge" />|group=lower-alpha}}
+! colspan="3" |[[Intensive care medicine|ICU-care]]
 ! colspan="3" |Analysed samples<ref name="FHM_Aktuellt_läge">{{Cite web|url=http://www.folkhalsomyndigheten.se/smittskydd-beredskap/utbrott/aktuella-utbrott/covid-19/aktuellt-epidemiologiskt-lage/|title=Bekräftade fall i Sverige — Folkhälsomyndigheten|website=www.folkhalsomyndigheten.se|language=sv|access-date=2020-04-01}}</ref>
 
     [1] => 
@@ -30,6 +31,9 @@ Array
 !!{{vert header|[[Västra Götaland County|Västra Götaland]]}}
 !!{{vert header|[[Örebro County|Örebro]]}}
 !!{{vert header|[[Östergötland County|Östergötland]]}}
+! rowspan="2" |New
+! rowspan="2" |Total
+! rowspan="2" |{{abbr|Diff.|Difference}}
 ! rowspan="2" |New
 ! rowspan="2" |Total
 ! rowspan="2" |{{abbr|Diff.|Difference}}
@@ -92,6 +96,9 @@ Array
 !
 !
 |
+!
+!
+|
 ! rowspan="6" |1,000
 ! rowspan="6" |1,000
 | rowspan="6" |9
@@ -125,6 +132,9 @@ Array
 !
 !
 |
+!
+!
+|
 
     [5] => 
 |2020-02-27
@@ -152,6 +162,9 @@ Array
 !1
 !3
 |50%
+!
+!
+|
 !
 !
 |
@@ -185,6 +198,9 @@ Array
 !
 !
 |
+!
+!
+|
 
     [7] => 
 |2020-02-29
@@ -212,6 +228,9 @@ Array
 !3
 !14
 | 27%
+!
+!
+|
 !
 !
 |
@@ -245,6 +264,9 @@ Array
 !
 !
 |
+!
+!
+|
 
     [9] => 
 |2020-03-02
@@ -272,6 +294,9 @@ Array
 !5
 !19
 | 36%
+!
+!
+|
 !
 !
 |
@@ -308,6 +333,9 @@ Array
 !
 !
 |
+!
+!
+|
 
     [11] => 
 |2020-03-04
@@ -335,6 +363,9 @@ Array
 !29
 !61
 | 91%
+!
+!
+|
 !
 !
 |
@@ -368,6 +399,9 @@ Array
 !
 !
 |
+!
+!
+|
 
     [13] => 
 |2020-03-06{{Refn|From 6 March 2020 onwards, Stockholm County reported its cases after 24 hours.{{citation needed|date=March 2020}}|group=lower-alpha}}
@@ -397,6 +431,9 @@ Array
 | 70%
 !
 !
+|
+!1
+!1
 |
 
     [14] => 
@@ -428,6 +465,9 @@ Array
 !
 !
 |
+!1
+!2
+|100%
 
     [15] => 
 |2020-03-08
@@ -458,6 +498,9 @@ Array
 !
 !
 |
+!2
+!4
+|100%
 
     [16] => 
 |2020-03-09
@@ -488,6 +531,9 @@ Array
 !
 !
 |
+!0
+!4
+|0%
 ! rowspan="7" |9,000
 ! rowspan="7" |14,300
 | rowspan="7" |11
@@ -521,6 +567,9 @@ Array
 !
 !
 |
+!2
+!6
+|50%
 
     [18] => 
 |2020-03-11{{Refn|Stockholm County decided to only test hospitalized patients from risk groups and healthcare personnel with symptoms from 11 March 2020 onwards.<ref>{{Cite news|last=Almgren|first=Jan|url=https://www.svd.se/uppmaningen-kom-inte-in-for-provtagning|title=Uppmaningen: Kom inte in för provtagning|date=12 March 2020|work=Svenska Dagbladet|trans-title=Appeal: Do not come in for testing|access-date=17 March 2020|url-status=live|language=sv|issn=1101-2412}}</ref>|group=lower-alpha}}
@@ -551,6 +600,9 @@ Array
 !1
 !1
 |
+!0
+!6
+|0%
 
     [19] => 
 |2020-03-12{{Refn|The [[Public Health Agency of Sweden]] decided to only test hospitalized patients from risk groups and healthcare personnel with symptoms from 12 March 2020 onwards.<ref>{{Cite web|url=https://www.aftonbladet.se/a/70GQRV|title=Nya strategin – slutar räkna exakta antalet coronafall|last=Karlsson|first=Pär|date=13 March 2020|website=[[Aftonbladet]]|language=sv|trans-title=The new strategy – stops counting the exact number of corona cases|url-status=live|archive-url=|archive-date=|access-date=17 March 2020}}</ref>|group=lower-alpha}}
@@ -581,6 +633,9 @@ Array
 !
 !1
 |
+!1
+!7
+|17%
 
     [20] => 
 |2020-03-13
@@ -611,6 +666,9 @@ Array
 !1
 !2
 |100%
+!2
+!9
+|29%
 
     [21] => 
 |2020-03-14
@@ -641,6 +699,9 @@ Array
 !1
 !3
 |50%
+!5
+!14
+|56%
 
     [22] => 
 |2020-03-15
@@ -671,6 +732,9 @@ Array
 !2
 !5
 |67%
+!6
+!20
+|43%
 
     [23] => 
 |2020-03-16
@@ -701,6 +765,9 @@ Array
 !2
 !7
 |40%
+!5
+!25
+|25%
 ! rowspan="7" |10,300
 ! rowspan="7" |24,600
 | rowspan="7" |12
@@ -734,6 +801,9 @@ Array
 !1
 !8
 |14%
+!4
+!29
+|16%
 
     [25] => 
 |2020-03-18
@@ -764,6 +834,9 @@ Array
 !6
 !14
 |75%
+!15
+!44
+|52%
 
     [26] => 
 |2020-03-19
@@ -794,6 +867,9 @@ Array
 !7
 !21
 |50%
+!8
+!52
+|18%
 
     [27] => 
 |2020-03-20
@@ -824,6 +900,9 @@ Array
 !9
 !30
 |43%
+!19
+!71
+|37%
 
     [28] => 
 |2020-03-21
@@ -854,6 +933,9 @@ Array
 !8
 !38
 |27%
+!12
+!83
+|17%
 
     [29] => 
 |2020-03-22
@@ -884,6 +966,9 @@ Array
 !11
 !49
 |29%
+!21
+!104
+|25%
 
     [30] => 
 |2020-03-23
@@ -914,6 +999,9 @@ Array
 !9
 !58
 |18%
+!38
+!142
+|37%
 ! rowspan="7" |12,300
 ! rowspan="7" |36,900
 | rowspan="7" |13
@@ -947,6 +1035,9 @@ Array
 !16
 !74
 |28%
+!34
+!176
+|24%
 
     [32] => 
 |2020-03-25
@@ -977,6 +1068,9 @@ Array
 !23
 !97
 |31%
+!31
+!207
+|18%
 
     [33] => 
 |2020-03-26
@@ -1007,6 +1101,9 @@ Array
 !27
 !124
 |28%
+!40
+!247
+|19%
 
     [34] => 
 |2020-03-27
@@ -1037,6 +1134,9 @@ Array
 !31
 !155
 |25%
+!27
+!274
+|11%
 
     [35] => 
 |2020-03-28
@@ -1067,6 +1167,9 @@ Array
 !29
 !184
 |19%
+!28
+!302
+|10%
 
     [36] => 
 |2020-03-29
@@ -1097,6 +1200,9 @@ Array
 !28
 !212
 |15%
+!40
+!342
+|13%
 
     [37] => 
 |2020-03-30
@@ -1127,6 +1233,9 @@ Array
 !30
 !242
 |14%
+!31
+!373
+|9%
 ! rowspan="6" |
 ! rowspan="6" |
 | rowspan="6" |14
@@ -1160,6 +1269,9 @@ Array
 !36
 !278
 |15%
+!31
+!404
+|8%
 
     [39] => 
 |2020-04-01
@@ -1190,6 +1302,9 @@ Array
 !25
 !303
 |9%
+!42
+!446
+|10%
 
     [40] => 
 |2020-04-02
@@ -1220,6 +1335,9 @@ Array
 !36
 !339
 |12%
+!39
+!485
+|9%
 
     [41] => 
 |2020-04-03
@@ -1250,6 +1368,9 @@ Array
 !18
 !357
 |5%
+!29
+!514
+|6%
 
     [42] => 
 |2020-04-04{{efn|name=FHM_daily}}
@@ -1280,6 +1401,9 @@ Array
 !1+15
 !373
 |4%
+!6
+!520
+|1%
 
     [43] => 
 ! County
@@ -1306,6 +1430,7 @@ Array
 !{{Flagicon|Östergötlands län|COA}}
 ! colspan="3" |Cases
 ! colspan="3" |Deaths
+! colspan="3" |[[Intensive care medicine|ICU-care]]
 ! colspan="3" |Analysed samples
 
     [44] => 
@@ -1333,6 +1458,7 @@ Array
 !584
 ! colspan="3" rowspan="2" |6443
 ! colspan="3" rowspan="2" |373
+! colspan="3" rowspan="2" |520
 ! colspan="3" rowspan="2" |36,900
 
     [45] => 
@@ -1387,6 +1513,7 @@ Array
 !+7%
 | colspan="3" |
 | colspan="3" |
+| colspan="3" |
 
     [47] => 
 !{{Abbr|Cases per 100k|Cases per 100,000 county population}}{{efn|name=FHM_daily}}
@@ -1416,8 +1543,9 @@ Array
 !
 | colspan="3" |
 | colspan="3" |
+| colspan="3" |
 
     [48] => 
-| colspan="31" style="text-align:left;" |'''Notes'''{{reflist|group=lower-alpha}}
+| colspan="34" style="text-align:left;" |'''Notes'''{{reflist|group=lower-alpha}}
 |}
 )
