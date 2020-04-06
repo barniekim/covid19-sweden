@@ -68,7 +68,7 @@ Array
 !{{Flagicon|Östergötlands län|COA}}
 
     [3] => 
-|2020-02-04
+!2020-02-04
 |
 |
 |
@@ -104,7 +104,7 @@ Array
 | rowspan="6" |9
 
     [4] => 
-|2020-02-26
+!2020-02-26
 |
 |
 |
@@ -137,7 +137,7 @@ Array
 |
 
     [5] => 
-|2020-02-27
+!2020-02-27
 |
 |
 |
@@ -170,7 +170,7 @@ Array
 |
 
     [6] => 
-|2020-02-28
+!2020-02-28
 |
 |
 |
@@ -203,7 +203,7 @@ Array
 |
 
     [7] => 
-|2020-02-29
+!2020-02-29
 |
 |
 |
@@ -236,7 +236,7 @@ Array
 |
 
     [8] => 
-|2020-03-01
+!2020-03-01
 |
 |
 |
@@ -269,7 +269,7 @@ Array
 |
 
     [9] => 
-|2020-03-02
+!2020-03-02
 |
 |
 |
@@ -305,7 +305,7 @@ Array
 | rowspan="7" |10
 
     [10] => 
-|2020-03-03
+!2020-03-03
 |
 |
 |
@@ -338,7 +338,7 @@ Array
 |
 
     [11] => 
-|2020-03-04
+!2020-03-04
 |
 |
 |
@@ -371,7 +371,7 @@ Array
 |
 
     [12] => 
-|2020-03-05
+!2020-03-05
 |
 |
 |
@@ -404,7 +404,7 @@ Array
 |
 
     [13] => 
-|2020-03-06{{Refn|From 6 March 2020 onwards, Stockholm County reported its cases after 24 hours.{{citation needed|date=March 2020}}|group=lower-alpha}}
+!2020-03-06{{Refn|From 6 March 2020 onwards, Stockholm County reported its cases after 24 hours.{{citation needed|date=March 2020}}|group=lower-alpha}}
 |
 |
 |
@@ -437,7 +437,7 @@ Array
 |
 
     [14] => 
-|2020-03-07
+!2020-03-07
 |
 |
 |
@@ -470,7 +470,7 @@ Array
 |100%
 
     [15] => 
-|2020-03-08
+!2020-03-08
 |
 |
 |
@@ -503,7 +503,7 @@ Array
 |100%
 
     [16] => 
-|2020-03-09
+!2020-03-09
 |
 |
 |
@@ -539,7 +539,7 @@ Array
 | rowspan="7" |11
 
     [17] => 
-|2020-03-10
+!2020-03-10
 |1
 |
 |
@@ -572,7 +572,7 @@ Array
 |50%
 
     [18] => 
-|2020-03-11{{Refn|Stockholm County decided to only test hospitalized patients from risk groups and healthcare personnel with symptoms from 11 March 2020 onwards.<ref>{{Cite news|last=Almgren|first=Jan|url=https://www.svd.se/uppmaningen-kom-inte-in-for-provtagning|title=Uppmaningen: Kom inte in för provtagning|date=12 March 2020|work=Svenska Dagbladet|trans-title=Appeal: Do not come in for testing|access-date=17 March 2020|url-status=live|language=sv|issn=1101-2412}}</ref>|group=lower-alpha}}
+!2020-03-11{{Refn|Stockholm County decided to only test hospitalized patients from risk groups and healthcare personnel with symptoms from 11 March 2020 onwards.<ref>{{Cite news|last=Almgren|first=Jan|url=https://www.svd.se/uppmaningen-kom-inte-in-for-provtagning|title=Uppmaningen: Kom inte in för provtagning|date=12 March 2020|work=Svenska Dagbladet|trans-title=Appeal: Do not come in for testing|access-date=17 March 2020|url-status=live|language=sv|issn=1101-2412}}</ref>|group=lower-alpha}}
 |6
 |1
 |2
@@ -605,7 +605,7 @@ Array
 |0%
 
     [19] => 
-|2020-03-12{{Refn|The [[Public Health Agency of Sweden]] decided to only test hospitalized patients from risk groups and healthcare personnel with symptoms from 12 March 2020 onwards.<ref>{{Cite web|url=https://www.aftonbladet.se/a/70GQRV|title=Nya strategin – slutar räkna exakta antalet coronafall|last=Karlsson|first=Pär|date=13 March 2020|website=[[Aftonbladet]]|language=sv|trans-title=The new strategy – stops counting the exact number of corona cases|url-status=live|archive-url=|archive-date=|access-date=17 March 2020}}</ref>|group=lower-alpha}}
+!2020-03-12{{Refn|The [[Public Health Agency of Sweden]] decided to only test hospitalized patients from risk groups and healthcare personnel with symptoms from 12 March 2020 onwards.<ref>{{Cite web|url=https://www.aftonbladet.se/a/70GQRV|title=Nya strategin – slutar räkna exakta antalet coronafall|last=Karlsson|first=Pär|date=13 March 2020|website=[[Aftonbladet]]|language=sv|trans-title=The new strategy – stops counting the exact number of corona cases|url-status=live|archive-url=|archive-date=|access-date=17 March 2020}}</ref>|group=lower-alpha}}
 |2
 |3
 |
@@ -632,13 +632,13 @@ Array
 | 24%
 !
 !1
-|
+|0%
 !1
 !7
 |17%
 
     [20] => 
-|2020-03-13
+!2020-03-13
 |
 |1
 |
@@ -671,7 +671,7 @@ Array
 |29%
 
     [21] => 
-|2020-03-14
+!2020-03-14
 |
 |
 |
@@ -704,7 +704,7 @@ Array
 |56%
 
     [22] => 
-|2020-03-15
+!2020-03-15
 |1
 |
 |
@@ -727,7 +727,7 @@ Array
 |
 |9
 !69
-!1,063
+!1063
 | 7%
 !2
 !5
@@ -737,7 +737,7 @@ Array
 |43%
 
     [23] => 
-|2020-03-16
+!2020-03-16
 |
 |
 |
@@ -760,7 +760,7 @@ Array
 |
 |8
 !83
-!1,146
+!1146
 | 8%
 !2
 !7
@@ -773,7 +773,7 @@ Array
 | rowspan="7" |12
 
     [24] => 
-|2020-03-17
+!2020-03-17
 |1
 |3
 |1
@@ -796,7 +796,7 @@ Array
 |16
 |13
 !120
-!1,266
+!1266
 | 10%
 !1
 !8
@@ -806,7 +806,7 @@ Array
 |16%
 
     [25] => 
-|2020-03-18
+!2020-03-18
 |1
 |2
 |1
@@ -829,7 +829,7 @@ Array
 |3
 |28
 !145
-!1,411
+!1411
 | 11%
 !6
 !14
@@ -839,7 +839,7 @@ Array
 |52%
 
     [26] => 
-|2020-03-19
+!2020-03-19
 |
 |2
 |1
@@ -862,7 +862,7 @@ Array
 |9
 |28
 !143
-!1,554
+!1554
 | 10%
 !7
 !21
@@ -872,7 +872,7 @@ Array
 |18%
 
     [27] => 
-|2020-03-20
+!2020-03-20
 |
 |5
 |
@@ -895,7 +895,7 @@ Array
 |5
 |22
 !180
-!1,734
+!1734
 | 12%
 !9
 !30
@@ -905,7 +905,7 @@ Array
 |37%
 
     [28] => 
-|2020-03-21
+!2020-03-21
 |
 |
 |
@@ -928,7 +928,7 @@ Array
 |
 |12
 !134
-!1,868
+!1868
 | 8%
 !8
 !38
@@ -938,7 +938,7 @@ Array
 |17%
 
     [29] => 
-|2020-03-22
+!2020-03-22
 |
 |5
 |
@@ -961,7 +961,7 @@ Array
 |
 |13
 !117
-!1,985
+!1985
 | 6%
 !11
 !49
@@ -971,7 +971,7 @@ Array
 |25%
 
     [30] => 
-|2020-03-23
+!2020-03-23
 |
 |9
 |
@@ -994,11 +994,11 @@ Array
 |6
 |18
 !182
-!2,167
+!2167
 | 9%
-!9
-!58
-|18%
+!10
+!59
+|20%
 !38
 !142
 |37%
@@ -1007,7 +1007,7 @@ Array
 | rowspan="7" |13
 
     [31] => 
-|2020-03-24
+!2020-03-24
 |
 |9
 |
@@ -1030,17 +1030,17 @@ Array
 |11
 |30
 !230
-!2,397
+!2397
 | 11%
 !16
-!74
-|28%
+!75
+|27%
 !34
 !176
 |24%
 
     [32] => 
-|2020-03-25
+!2020-03-25
 |3
 |13
 |1
@@ -1063,17 +1063,17 @@ Array
 |8
 |11
 !314
-!2,711
+!2711
 | 13%
 !24
-!98
+!99
 |32%
 !31
 !207
 |18%
 
     [33] => 
-|2020-03-26
+!2020-03-26
 |
 |8
 |4
@@ -1096,17 +1096,17 @@ Array
 |6
 |29
 !285
-!2,996
+!2996
 | 11%
-!27
-!125
+!28
+!127
 |28%
 !40
 !247
 |19%
 
     [34] => 
-|2020-03-27
+!2020-03-27
 |2
 |15
 |1
@@ -1129,17 +1129,17 @@ Array
 |6
 |33
 !366
-!3,362
+!3362
 | 12%
-!32
-!157
+!33
+!160
 |26%
 !27
 !274
 |11%
 
     [35] => 
-|2020-03-28
+!2020-03-28
 |
 |6
 |
@@ -1162,17 +1162,17 @@ Array
 |8
 |42
 !301
-!3,663
+!3663
 | 9%
 !29
-!186
+!189
 |18%
 !28
 !302
 |10%
 
     [36] => 
-|2020-03-29
+!2020-03-29
 |4
 |10
 |
@@ -1195,17 +1195,17 @@ Array
 |3
 |40
 !281
-!3,943
+!3944
 | 8%
-!29
-!215
+!31
+!220
 |16%
 !40
 !342
 |13%
 
     [37] => 
-|2020-03-30
+!2020-03-30
 |
 |9
 |
@@ -1228,11 +1228,11 @@ Array
 |17
 |27
 !414
-!4,358
+!4358
 | 10%
-!30
-!245
-|14%
+!32
+!252
+|15%
 !31
 !373
 |9%
@@ -1241,7 +1241,7 @@ Array
 | rowspan="7" |14
 
     [38] => 
-|2020-03-31
+!2020-03-31
 |1
 |22
 |1
@@ -1264,17 +1264,17 @@ Array
 |11
 |48
 !474
-!4,830
+!4832
 | 11%
 !36
-!281
-|15%
+!288
+|14%
 !32
 !405
 |9%
 
     [39] => 
-|2020-04-01
+!2020-04-01
 |5
 |19
 |
@@ -1297,17 +1297,17 @@ Array
 |5
 |63
 !485
-!5,315
+!5317
 |10%
-!31
-!312
-|11%
+!35
+!323
+|12%
 !42
 !447
 |10%
 
     [40] => 
-|2020-04-02
+!2020-04-04{{efn|name=FHM_daily}}
 |3
 |6
 |
@@ -1319,7 +1319,7 @@ Array
 |7
 |8
 |8
-|216
+|215
 |34
 |28
 |
@@ -1329,18 +1329,18 @@ Array
 |48
 |28
 |71
-!554
-!5,871
+!553
+!5870
 |10%
-!43
-!355
-|14%
-!39
-!486
+!47
+!370
+|15%
+!40
+!487
 |9%
 
     [41] => 
-|2020-04-03
+!2020-04-03{{efn|name=FHM_daily}}
 |1
 |20
 |
@@ -1352,93 +1352,129 @@ Array
 |2
 |6
 |24
-|251
+|247
 |59
 |38
 |1
 |17
 |3
 |27
-|48
+|46
 |21
 |28
-!607
-!6,478
+!601
+!6471
 |10%
-!22
-!377
-|6%
 !34
-!520
-|7%
+!404
+|9%
+!40
+!527
+|8%
 
     [42] => 
-|2020-04-04
-|
-|9
+!2020-04-04{{efn|name=FHM_daily}}
+|4
+|18
 |
 |12
-|1
 |2
-|7
+|2
+|15
 |1
-|
 |2
 |3
-|130
-|1
-|5
+|12
+|131
+|17
+|11
 |1
 |17
-|4
-|
-|11
-|
-|53
-!259
-!6,737
+|6
+|14
+|30
+|1
+|58
+!357
+!6828
+|6%
+!17
+!421
 |4%
-!6
-!383
-|2%
-!18
-!538
-|3%
+!26
+!553
+|5%
 
     [43] => 
-|2020-04-05{{efn|name=FHM_daily}}
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|91
-|
-|
-|
-|
-|1
+!2020-04-05{{efn|name=FHM_daily}}
 |1
 |
 |
+|7
+|3
 |
-!93
-!6,830
-|1%
-!1+17
-!401
-|0%
-!3
-!541
-|1%
+|1
+|2
+|2
+|
+|6
+|172
+|9
+|9
+|1
+|9
+|1
+|7
+|23
+|
+|41
+!294
+!7122
+|4%
+!23
+!444
+|5%
+!30
+!583
+|5%
 
     [44] => 
+!2020-04-06{{efn|name=FHM_daily}}
+|
+|
+|
+|
+|
+|1
+|1
+|1
+|
+|
+|
+|50
+|3
+|
+|1
+|
+|
+|18
+|4
+|
+|5
+!84
+!7206
+|
+!13+20
+!477
+|
+!7
+!590
+|1%
+!
+!
+|15
+
+    [45] => 
 ! County
 !{{Flagicon|Blekinge län|COA}}
 !{{Flagicon|Dalarnas län|COA}}
@@ -1463,118 +1499,110 @@ Array
 !{{Flagicon|Östergötlands län|COA}}
 ! colspan="3" |Cases
 ! colspan="3" |Deaths
-! colspan="3" |[[Intensive care medicine|ICU-care]]
+! colspan="3" |ICU-Care
 ! colspan="3" |Analysed samples
 
-    [45] => 
-!Total cases
-!31
-!177
-!12
-!175
-!127
-!89
-!223
-!49
-!49
-!80
-!333
-!3016
-!424
-!293
-!55
-!114
-!66
-!140
-!561
-!172
-!644
-! colspan="3"  |6830 
-! colspan="3" rowspan="2" |
-! colspan="3" rowspan="3" |
-! colspan="3" rowspan="2" |36,900
-
     [46] => 
-!{{nowrap begin}}{{Abbr|Cases per 100k|Cases per 100,000 county population}}{{efn|name=FHM_daily}}{{nowrap end}}
-!19
-!61
-!20
-!61
-!38
-!68
-!61
-!20
-!24
-!32
-!24
-!127
-!143
-!76
-!19
-!42
-!27
-!51
-!33
-!56
-!138
-! colspan="3" | 66.1
+!Total cases
+|36
+|186
+|12
+|182
+|131
+|90
+|233
+|52
+|53
+|81
+|348
+|3143
+|452
+|308
+|57
+|123
+|68
+|178
+|605
+|173
+|695
+! colspan="3" rowspan="4" |7206
+! colspan="3" rowspan="4" |401
+! colspan="3" rowspan="4" |590
+! colspan="3" rowspan="4" |36,900
 
     [47] => 
-!Total deaths{{efn|name=FHM_daily}}
-!1
-!16
-!
-!4
-!11
-!
-!13
-!1
-!
-!1
-!11
-!251
-!45
-!9
-!1
-!
-!2
-!4
-!18
-!1
-!12
-! colspan="3" rowspan="2" | 
-! colspan="3" | 401 
-! colspan="3" rowspan="2" |
+!{{nowrap begin}}{{Abbr|Cases per 100k|Cases per 100,000 county population}}{{efn|name=FHM_daily}}{{nowrap end}}
+|23
+|65
+|20
+|63
+|39
+|69
+|64
+|21
+|26
+|32
+|25
+|132
+|152
+|80
+|20
+|45
+|28
+|65
+|35
+|57
+|149
 
     [48] => 
 ![[Intensive care medicine|ICU-care]]{{Refn|Source [https://portal.icuregswe.org/siri/report/inrapp-corona "Svenska Intensivvårdsregistret"]|group=lower-alpha}}<ref>{{Cite web|url=https://portal.icuregswe.org/siri/report/inrapp-corona|title=SIR {{!}} Influensaportalen|website=portal.icuregswe.org|access-date=2020-04-01}}</ref>
-!2
-!11
-!1
-!14
-!10
-!3
-!20
-!4
-!1
-!13
-!22
-!241
-!49
-!26
-!5
-!9
-!5
-!13
-!55
-!16
-!36
-! colspan="3" |
-!+23
-!556
-!+4%
+|2
+|12
+|1
+|16
+|11
+|3
+|21
+|4
+|1
+|13
+|24
+|253
+|49
+|30
+|4
+|11
+|6
+|14
+|64
+|16
+|35
 
     [49] => 
+!Total deaths{{efn|name=FHM_daily}}
+|1
+|21
+|
+|4
+|12
+|
+|13
+|1
+|
+|3
+|13
+|303
+|50
+|9
+|1
+|
+|2
+|5
+|21
+|1
+|17
+
+    [50] => 
 | colspan="34" style="text-align:left;" |'''Notes'''{{reflist|group=lower-alpha}}
 |}
 )
