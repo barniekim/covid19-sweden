@@ -4,7 +4,7 @@ Array
 |+ style="font-size:11pt;" |{{nowrap|New COVID-19 cases in Sweden by county ({{navbar|2019–20 coronavirus pandemic data/Sweden medical cases|mini=1|nodiv=1}})}}
 !Source: FOHM<ref name="FHM_Official_Stats">{{Cite web|url=https://experience.arcgis.com/experience/09f821667ce64bf7be6f9f87457ed9aa|title=Antal fall av covid-19 i Sverige - data uppdateras dagligen kl 11.30|last=|first=|date=2020-03-30|website=Public Health Agency of Sweden — Official statistics at arcgis|publisher=[[Public Health Agency of Sweden]] (Folkhälsomyndigheten)|language=Swedish|url-status=live|archive-url=|archive-date=|access-date=2020-03-30|quote="Data updated daily at 11:30 [CET]"|layurl=https://www.folkhalsomyndigheten.se/smittskydd-beredskap/utbrott/aktuella-utbrott/covid-19/aktuellt-epidemiologiskt-lage/|laysource=Antal fall av covid-19 — Statistik – antal fall covid-19}}</ref>
 ! colspan="21" |'''County'''
-! colspan="3" |Cases{{refn|Reported, confirmed cases. Actual case numbers may be higher.|group=lower-alpha}}
+! colspan="3" |Cases{{efn|name=Uncertain|Reported, confirmed cases. Actual case numbers may be higher.|group=lower-alpha}}
 ! colspan="3" |Deaths{{efn|name=FHM_daily|From the daily report released by Folkhälsomyndigheten at 14:00 (UTC+02:00). Note that the data is compiled by Folkhälsomyndigheten at 11:30 (UTC+02:00) each day, which will lead to some delay in reporting.<ref name="FHM_Aktuellt_läge">{{Cite web|url=http://www.folkhalsomyndigheten.se/smittskydd-beredskap/utbrott/aktuella-utbrott/covid-19/aktuellt-epidemiologiskt-lage/|title=Bekräftade fall i Sverige — Folkhälsomyndigheten|website=www.folkhalsomyndigheten.se|language=sv|access-date=2020-04-01}}</ref>|group=lower-alpha}}
 ! colspan="3" |[[Intensive care medicine|ICU-care]]
 ! colspan="3" |Analysed samples
@@ -1308,7 +1308,7 @@ Array
 |10%
 
     [40] => 
-!2020-04-02{{efn|name=FHM_daily}}
+!2020-04-02
 |3
 |6
 |
@@ -1341,7 +1341,7 @@ Array
 |9%
 
     [41] => 
-!2020-04-03{{efn|name=FHM_daily}}
+!2020-04-03
 |1
 |20
 |
@@ -1374,7 +1374,7 @@ Array
 |8%
 
     [42] => 
-!2020-04-04{{efn|name=FHM_daily}}
+!2020-04-04
 |4
 |18
 |
@@ -1407,7 +1407,7 @@ Array
 |5%
 
     [43] => 
-!2020-04-05{{efn|name=FHM_daily}}
+!2020-04-05
 |1
 |
 |
@@ -1504,7 +1504,7 @@ Array
 ! colspan="3" |Analysed samples
 
     [46] => 
-!Total cases{{refn|Reported, confirmed cases. Actual case numbers may be higher.|group=lower-alpha}}
+!Total cases{{efn|name=Uncertain|group=lower-alpha}}
 |36
 |186
 |12
@@ -1560,30 +1560,6 @@ Array
 |149
 
     [48] => 
-![[Intensive care medicine|ICU-care]]
-|2
-|12
-|1
-|16
-|11
-|3
-|21
-|4
-|1
-|13
-|24
-|253
-|49
-|30
-|4
-|11
-|6
-|14
-|64
-|16
-|35
-
-    [49] => 
 !Total deaths
 |1
 |21
@@ -1606,6 +1582,30 @@ Array
 |21
 |1
 |17
+
+    [49] => 
+![[Intensive care medicine|ICU-care]]
+|2
+|12
+|1
+|16
+|11
+|3
+|21
+|4
+|1
+|13
+|24
+|253
+|49
+|30
+|4
+|11
+|6
+|14
+|64
+|16
+|35
 
     [50] => 
 | colspan="34" style="text-align:left;" |'''Notes'''{{reflist|group=lower-alpha}}
