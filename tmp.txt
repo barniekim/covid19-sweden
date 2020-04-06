@@ -1528,17 +1528,17 @@ Array
 |605
 |173
 |695
-! colspan="3" rowspan="4" |7206
+! colspan="3" rowspan="5" |7206
 (71 {{nowrap begin}}{{Abbr|per 100k pop|Cases per 100,000 population using 10.12 Million as Sweden's total population}}{{nowrap end}})
-! colspan="3" rowspan="4" |477
+! colspan="3" rowspan="5" |477
 (4.7 {{nowrap begin}}{{Abbr|per 100k pop|Deaths per 100,000 population using 10.12 Million as Sweden's total population}}{{nowrap end}})
-! colspan="3" rowspan="4" |590
+! colspan="3" rowspan="5" |590
 (5.8 {{nowrap begin}}{{Abbr|per 100k pop|ICU cases per 100,000 population using 10.12 Million as Sweden's total population}}{{nowrap end}})
-! colspan="3" rowspan="4" |36,902
+! colspan="3" rowspan="5" |36,902
 (365 {{nowrap begin}}{{Abbr|per 100k pop|Analysed samples per 100,000 population using 10.12 Million as Sweden's total population}}{{nowrap end}})
 
     [47] => 
-!{{nowrap begin}}{{Abbr|Cases per 100k|Cases per 100,000 county population}}{{nowrap end}}
+!{{Abbr|Cases&nbsp;per&nbsp;100k|Cases per 100,000 county population}}
 |23
 |65
 |20
@@ -1586,6 +1586,30 @@ Array
 |17
 
     [49] => 
+!{{Abbr|Deaths&nbsp;per&nbsp;100k|Deaths per 100,000 county population}}
+|0.63
+|7.3
+|
+|1.4
+|3.6
+|
+|3.6
+|0.41
+|
+|1.2
+|0.94
+|13
+|17
+|2.4
+|0.35
+|
+|0.82
+|1.8
+|1.2
+|0.33
+|3.7
+
+    [50] => 
 ![[Intensive care medicine|ICU-care]]
 |2
 |12
@@ -1609,7 +1633,7 @@ Array
 |16
 |35
 
-    [50] => 
+    [51] => 
 | colspan="34" style="text-align:left;" |'''Notes'''{{reflist|group=lower-alpha}}
 |}
 )
