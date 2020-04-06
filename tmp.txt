@@ -2,15 +2,15 @@ Array
 (
     [0] => {| class="wikitable mw-collapsible" style="float:left; text-align:center; font-size:85%"
 |+ style="font-size:11pt;" |{{nowrap|New COVID-19 cases in Sweden by county ({{navbar|2019–20 coronavirus pandemic data/Sweden medical cases|mini=1|nodiv=1}})}}
-! rowspan="3" |Date
+!Source: FOHM<ref name="FHM_Official_stats">{{Cite web|url=https://experience.arcgis.com/experience/09f821667ce64bf7be6f9f87457ed9aa|title=Antal fall av covid-19 i Sverige - data uppdateras dagligen kl 11.30|last=|first=|date=2020-03-30|website=Public Health Agency of Sweden — Official statistics at arcgis|publisher=[[Public Health Agency of Sweden]] (Folkhälsomyndigheten)|language=Swedish|url-status=live|archive-url=|archive-date=|access-date=2020-03-30|quote="Data updated daily at 11:30 [CET]"|layurl=https://www.folkhalsomyndigheten.se/smittskydd-beredskap/utbrott/aktuella-utbrott/covid-19/aktuellt-epidemiologiskt-lage/|laysource=Antal fall av covid-19 — Statistik – antal fall covid-19}}</ref>
 ! colspan="21" |'''County'''
-! colspan="3" |Cases{{refn|Reported, confirmed cases. Actual case numbers may be higher.|group=lower-alpha}}<ref name="FHM_Official_stats">{{Cite web|url=https://experience.arcgis.com/experience/09f821667ce64bf7be6f9f87457ed9aa|title=Antal fall av covid-19 i Sverige - data uppdateras dagligen kl 11.30|last=|first=|date=2020-03-30|website=Public Health Agency of Sweden — Official statistics at arcgis|publisher=[[Public Health Agency of Sweden]] (Folkhälsomyndigheten)|url-status=live|archive-url=|archive-date=|access-date=2020-03-30|layurl=https://www.folkhalsomyndigheten.se/smittskydd-beredskap/utbrott/aktuella-utbrott/covid-19/aktuellt-epidemiologiskt-lage/|laysource=Antal fall av covid-19 — Statistik – antal fall covid-19|language=Swedish|quote="Data updated daily at 11:30 [CET]"}}</ref>
+! colspan="3" |Cases{{refn|Reported, confirmed cases. Actual case numbers may be higher.|group=lower-alpha}}
 ! colspan="3" |Deaths{{efn|name=FHM_daily|From the daily report released by Folkhälsomyndigheten at 14:00 (UTC+02:00). Note that the data is compiled by Folkhälsomyndigheten at 11:30 (UTC+02:00) each day, which will lead to some delay in reporting.<ref name="FHM_Aktuellt_läge" />|group=lower-alpha}}
-! colspan="3" |[[Intensive care medicine|ICU-care]]<ref name="FHM_Official_stats" />
-! colspan="3" |Analysed samples<ref name="FHM_Aktuellt_läge">{{Cite web|url=http://www.folkhalsomyndigheten.se/smittskydd-beredskap/utbrott/aktuella-utbrott/covid-19/aktuellt-epidemiologiskt-lage/|title=Bekräftade fall i Sverige — Folkhälsomyndigheten|website=www.folkhalsomyndigheten.se|language=sv|access-date=2020-04-01}}</ref>
+! colspan="3" |[[Intensive care medicine|ICU-care]]
+! colspan="3" |Analysed samples
 
     [1] => 
-!!{{vert header|[[Blekinge County|Blekinge]]}}
+! rowspan="2" |Date!!{{vert header|[[Blekinge County|Blekinge]]}}
 !!{{vert header|[[Dalarna County|Dalarna]]}}
 !!{{vert header|[[Gotland County|Gotland]]}}
 !!{{vert header|[[Gävleborg County|Gävleborg]]}}
@@ -36,7 +36,7 @@ Array
 ! rowspan="2" |{{abbr|Diff.|Difference}}
 ! rowspan="2" |New
 ! rowspan="2" |Total
-! rowspan="2" |{{abbr|Diff.|Difference}}{{Refn|Not including cases with unknown time of death.|group=lower-alpha}}
+! rowspan="2" |{{abbr|Diff.|Difference}}
 ! rowspan="2" |New
 ! rowspan="2" |Total
 ! rowspan="2" |{{abbr|Diff.|Difference}}
@@ -1469,7 +1469,7 @@ Array
 |
 !7
 !590
-|1%
+|
 !
 !
 |15
@@ -1499,11 +1499,11 @@ Array
 !{{Flagicon|Östergötlands län|COA}}
 ! colspan="3" |Cases
 ! colspan="3" |Deaths
-! colspan="3" |ICU-Care
+! colspan="3" |[[Intensive care medicine|ICU-care]]
 ! colspan="3" |Analysed samples
 
     [46] => 
-!Total cases
+!Total cases{{refn|Reported, confirmed cases. Actual case numbers may be higher.|group=lower-alpha}}
 |36
 |186
 |12
@@ -1531,7 +1531,7 @@ Array
 ! colspan="3" rowspan="4" |36,900
 
     [47] => 
-!{{nowrap begin}}{{Abbr|Cases per 100k|Cases per 100,000 county population}}{{efn|name=FHM_daily}}{{nowrap end}}
+!{{nowrap begin}}{{Abbr|Cases per 100k|Cases per 100,000 county population}}{{nowrap end}}
 |23
 |65
 |20
@@ -1555,7 +1555,7 @@ Array
 |149
 
     [48] => 
-![[Intensive care medicine|ICU-care]]{{Refn|Source [https://portal.icuregswe.org/siri/report/inrapp-corona "Svenska Intensivvårdsregistret"]|group=lower-alpha}}<ref>{{Cite web|url=https://portal.icuregswe.org/siri/report/inrapp-corona|title=SIR {{!}} Influensaportalen|website=portal.icuregswe.org|access-date=2020-04-01}}</ref>
+![[Intensive care medicine|ICU-care]]
 |2
 |12
 |1
@@ -1579,7 +1579,7 @@ Array
 |35
 
     [49] => 
-!Total deaths{{efn|name=FHM_daily}}
+!Total deaths
 |1
 |21
 |
