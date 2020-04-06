@@ -7,7 +7,7 @@ Array
 ! colspan="3" |Cases{{efn|name=Uncertain|Reported, confirmed cases. Actual case numbers may be higher.|group=lower-alpha}}
 ! colspan="3" |Deaths{{efn|name=FHM_daily|From the daily report released by Folkhälsomyndigheten at 14:00 (UTC+02:00). Note that the data is compiled by Folkhälsomyndigheten at 11:30 (UTC+02:00) each day, which will lead to some delay in reporting.<ref name="FHM_Aktuellt_läge">{{Cite web|url=http://www.folkhalsomyndigheten.se/smittskydd-beredskap/utbrott/aktuella-utbrott/covid-19/aktuellt-epidemiologiskt-lage/|title=Bekräftade fall i Sverige — Folkhälsomyndigheten|website=www.folkhalsomyndigheten.se|language=sv|access-date=2020-04-01}}</ref>|group=lower-alpha}}
 ! colspan="3" |[[Intensive care medicine|ICU-care]]
-! colspan="3" |Analysed samples
+! colspan="3" |Analysed samples<ref>{{Cite web|url=http://www.folkhalsomyndigheten.se/folkhalsorapportering-statistik/statistik-a-o/sjukdomsstatistik/covid-19-veckorapporter/|title=Veckorapporter om covid-19 — Folkhälsomyndigheten|website=www.folkhalsomyndigheten.se|language=sv|access-date=2020-04-06}}</ref>
 
     [1] => 
 ! rowspan="2" |Date!!{{vert header|[[Blekinge County|Blekinge]]}}
@@ -99,9 +99,9 @@ Array
 !
 !
 |
-! rowspan="6" |1,000
-! rowspan="6" |1,000
-|6
+!180
+!180
+|4-8
 
     [4] => 
 !2020-02-26
@@ -135,6 +135,8 @@ Array
 !
 !
 |
+! rowspan="5" |752
+! rowspan="5" |932
 | rowspan="5" |9
 
     [5] => 
@@ -301,8 +303,8 @@ Array
 !
 !
 |
-! rowspan="7" |4,300
-! rowspan="7" |5,300
+! rowspan="7" |4,302
+! rowspan="7" |5,234
 | rowspan="7" |10
 
     [10] => 
@@ -535,8 +537,8 @@ Array
 !
 !4
 |0%
-! rowspan="7" |9,000
-! rowspan="7" |14,300
+! rowspan="7" |8,990
+! rowspan="7" |14,224
 | rowspan="7" |11
 
     [17] => 
@@ -769,8 +771,8 @@ Array
 !5
 !25
 |25%
-! rowspan="7" |10,300
-! rowspan="7" |24,600
+! rowspan="7" |10,322
+! rowspan="7" |24,546
 | rowspan="7" |12
 
     [24] => 
@@ -1003,8 +1005,8 @@ Array
 !38
 !142
 |37%
-! rowspan="7" |12,300
-! rowspan="7" |36,900
+! rowspan="7" |12,356
+! rowspan="7" |36,902
 | rowspan="7" |13
 
     [31] => 
@@ -1532,7 +1534,7 @@ Array
 (4.7 {{nowrap begin}}{{Abbr|per 100k pop|Deaths per 100,000 population using 10.12 Million as Sweden's total population}}{{nowrap end}})
 ! colspan="3" rowspan="4" |590
 (5.8 {{nowrap begin}}{{Abbr|per 100k pop|ICU cases per 100,000 population using 10.12 Million as Sweden's total population}}{{nowrap end}})
-! colspan="3" rowspan="4" |36,900
+! colspan="3" rowspan="4" |36,902
 (365 {{nowrap begin}}{{Abbr|per 100k pop|Analysed samples per 100,000 population using 10.12 Million as Sweden's total population}}{{nowrap end}})
 
     [47] => 
