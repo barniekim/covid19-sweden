@@ -1307,7 +1307,7 @@ Array
 |10%
 
     [40] => 
-!2020-04-04{{efn|name=FHM_daily}}
+!2020-04-02{{efn|name=FHM_daily}}
 |3
 |6
 |
