@@ -1645,7 +1645,7 @@ Array
 ≈438<ref>{{Cite web|url=https://www.icuregswe.org/data--resultat/covid-19-i-svensk-intensivvard/|title=COVID-19 i svensk intensivvård|website=www.icuregswe.org|access-date=2020-04-07}}</ref> (68%)
 
     [51] => 
-![[Intensive care medicine|ICU-care]]
+!Total [[Intensive care medicine|ICU-care]]
 |2
 |12
 |1
