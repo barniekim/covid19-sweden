@@ -1239,8 +1239,8 @@ Array
 !31
 !373
 |9%
-! rowspan="7" |
-! rowspan="7" |
+! rowspan="7" |17,700
+! rowspan="7" |54,602
 | rowspan="7" |14
 
     [38] => 
@@ -1564,14 +1564,14 @@ Array
 |674
 |185
 |733
-! colspan="3" rowspan="5" |7693
+! colspan="3" rowspan="5" |7,693
 (76 {{nowrap begin}}{{Abbr|per 100k pop|Cases per 100,000 population using 10.12 Million as Sweden's total population}}{{nowrap end}})
 ! colspan="3" rowspan="5" |477
 (5.8 {{nowrap begin}}{{Abbr|per 100k pop|Deaths per 100,000 population using 10.12 Million as Sweden's total population}}{{nowrap end}})
 ! colspan="3" rowspan="5" |590
 (5.8 {{nowrap begin}}{{Abbr|per 100k pop|ICU cases per 100,000 population using 10.12 Million as Sweden's total population}}{{nowrap end}})
-! colspan="3" rowspan="5" |36,902
-(365 {{nowrap begin}}{{Abbr|per 100k pop|Analysed samples per 100,000 population using 10.12 Million as Sweden's total population}}{{nowrap end}})
+! colspan="3" rowspan="5" |54,602
+(540 {{nowrap begin}}{{Abbr|per 100k pop|Analysed samples per 100,000 population using 10.12 Million as Sweden's total population}}{{nowrap end}})
 
     [48] => 
 !{{Abbr|Cases&nbsp;per&nbsp;100k|Cases per 100,000 county population}}
