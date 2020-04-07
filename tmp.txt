@@ -263,7 +263,7 @@ Array
 |
 !
 !14
-| 0%
+| 
 !
 !
 |
@@ -536,7 +536,7 @@ Array
 |
 !
 !4
-|0%
+|
 ! rowspan="7" |8,990
 ! rowspan="7" |14,224
 | rowspan="7" |11
@@ -605,7 +605,7 @@ Array
 |
 !
 !6
-|0%
+|
 
     [19] => 
 !2020-03-12{{Refn|The [[Public Health Agency of Sweden]] decided to only test hospitalized patients from risk groups and healthcare personnel with symptoms from 12 March 2020 onwards.<ref>{{Cite web|url=https://www.aftonbladet.se/a/70GQRV|title=Nya strategin – slutar räkna exakta antalet coronafall|last=Karlsson|first=Pär|date=13 March 2020|website=[[Aftonbladet]]|language=sv|trans-title=The new strategy – stops counting the exact number of corona cases|url-status=live|archive-url=|archive-date=|access-date=17 March 2020}}</ref>|group=lower-alpha}}
@@ -635,7 +635,7 @@ Array
 | 24%
 !
 !1
-|0%
+|
 !1
 !7
 |17%
@@ -698,7 +698,7 @@ Array
 |7
 !71
 !994
-| 8%
+| 7.7%
 !1
 !3
 |50%
@@ -731,7 +731,7 @@ Array
 |9
 !69
 !1063
-| 7%
+| 6.9%
 !2
 !5
 |67%
@@ -764,7 +764,7 @@ Array
 |8
 !83
 !1146
-| 8%
+| 7.8%
 !2
 !7
 |40%
@@ -932,7 +932,7 @@ Array
 |12
 !134
 !1868
-| 8%
+| 7.7%
 !8
 !38
 |27%
@@ -965,7 +965,7 @@ Array
 |13
 !117
 !1985
-| 6%
+| 6.3%
 !11
 !49
 |29%
@@ -998,7 +998,7 @@ Array
 |18
 !182
 !2167
-| 9%
+| 9.2%
 !11
 !60
 |22%
@@ -1199,7 +1199,7 @@ Array
 |40
 !281
 !3944
-| 8%
+| 7.7%
 !32
 !227
 |16%
@@ -1238,7 +1238,7 @@ Array
 |17%
 !31
 !373
-|9%
+|9.1%
 ! rowspan="7" |17,700
 ! rowspan="7" |54,602
 | rowspan="7" |14
@@ -1274,7 +1274,7 @@ Array
 |14%
 !32
 !405
-|9%
+|8.6%
 
     [39] => 
 !2020-04-01
@@ -1340,7 +1340,7 @@ Array
 |16%
 !43
 !490
-|10%
+|9.6%
 
     [41] => 
 !2020-04-03
@@ -1373,7 +1373,7 @@ Array
 |12%
 !43
 !533
-|9%
+|8.8%
 
     [42] => 
 !2020-04-04
@@ -1400,13 +1400,13 @@ Array
 |58
 !356
 !6826
-|6%
+|5.5%
 !40
 !486
 |9%
 !27
 !560
-|5%
+|5.1%
 
     [43] => 
 !2020-04-05
@@ -1439,7 +1439,7 @@ Array
 |10%
 !40
 !600
-|7%
+|7.1%
 
     [44] => 
 !2020-04-06
@@ -1466,13 +1466,13 @@ Array
 |28
 !336
 !7503
-|5%
+|4.7%
 !37
 !572
-|7%
+|6.9%
 !33
 !633
-|6%
+|5.5%
 ! rowspan="2" |
 ! rowspan="2" |
 | rowspan="2" |15
@@ -1628,7 +1628,7 @@ Array
 |
 |4.1
 |1.2
-|0.5
+|0.50
 |1.6
 |1.2
 |16
