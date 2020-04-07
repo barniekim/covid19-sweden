@@ -1566,9 +1566,9 @@ Array
 |733
 ! colspan="3" rowspan="5" |7,693
 (76 {{nowrap begin}}{{Abbr|per 100k pop|Cases per 100,000 population using 10.12 Million as Sweden's total population}}{{nowrap end}})
-! colspan="3" rowspan="5" |477
+! colspan="3" rowspan="5" |591
 (5.8 {{nowrap begin}}{{Abbr|per 100k pop|Deaths per 100,000 population using 10.12 Million as Sweden's total population}}{{nowrap end}})
-! colspan="3" rowspan="5" |590
+! colspan="3" rowspan="5" |640
 (5.8 {{nowrap begin}}{{Abbr|per 100k pop|ICU cases per 100,000 population using 10.12 Million as Sweden's total population}}{{nowrap end}})
 ! colspan="3" rowspan="5" |54,602
 (540 {{nowrap begin}}{{Abbr|per 100k pop|Analysed samples per 100,000 population using 10.12 Million as Sweden's total population}}{{nowrap end}})
