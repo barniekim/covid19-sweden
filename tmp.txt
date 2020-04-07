@@ -1533,10 +1533,10 @@ Array
 !{{Flagicon|Västra Götaland|COA}}
 !{{Flagicon|Örebro|COA}}
 !{{Flagicon|Östergötlands län|COA}}
-! colspan="3" |Cases
-! colspan="3" |Deaths
-! colspan="3" |[[Intensive care medicine|ICU-care]]
-! colspan="3" |Analysed samples
+! colspan="3" |Total cases
+! colspan="3" |Total deaths
+! colspan="3" |Total [[Intensive care medicine|ICU-care]] cases
+! colspan="3" |Total analysed samples
 
     [47] => 
 !Total cases{{efn|name=Uncertain|group=lower-alpha}}
@@ -1565,7 +1565,7 @@ Array
 (76 {{nowrap begin}}{{Abbr|per 100k pop|Cases per 100,000 population using 10.12 Million as Sweden's total population}}{{nowrap end}})
 ! colspan="3" rowspan="5" |591
 (5.8 {{nowrap begin}}{{Abbr|per 100k pop|Deaths per 100,000 population using 10.12 Million as Sweden's total population}}{{nowrap end}})
-! colspan="3" rowspan="5" |640
+! colspan="3" rowspan="3" |640
 (5.8 {{nowrap begin}}{{Abbr|per 100k pop|ICU cases per 100,000 population using 10.12 Million as Sweden's total population}}{{nowrap end}})
 ! colspan="3" rowspan="5" |54,602
 (540 {{nowrap begin}}{{Abbr|per 100k pop|Analysed samples per 100,000 population using 10.12 Million as Sweden's total population}}{{nowrap end}})
@@ -1641,6 +1641,8 @@ Array
 |1.5
 |0.33
 |3.7
+! colspan="3" rowspan="2" |Currently in [[Intensive care medicine|ICU-care]]: 
+≈438<ref>{{Cite web|url=https://www.icuregswe.org/data--resultat/covid-19-i-svensk-intensivvard/|title=COVID-19 i svensk intensivvård|website=www.icuregswe.org|access-date=2020-04-07}}</ref> (68%)
 
     [51] => 
 ![[Intensive care medicine|ICU-care]]
