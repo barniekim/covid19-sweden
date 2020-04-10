@@ -771,8 +771,8 @@ Array
 !5
 !25
 |4
-! rowspan="7" |10,322
-! rowspan="7" |24,546
+! rowspan="7" |10,404
+! rowspan="7" |24,628
 | rowspan="7" |12
 
     [24] => 
@@ -1005,8 +1005,8 @@ Array
 !39
 !142
 |17
-! rowspan="7" |12,356
-! rowspan="7" |36,902
+! rowspan="7" |12,349
+! rowspan="7" |36,977
 | rowspan="7" |13
 
     [31] => 
@@ -1239,8 +1239,8 @@ Array
 !30
 !376
 |33
-! rowspan="7" |17,700
-! rowspan="7" |54,602
+! rowspan="7" |17,776
+! rowspan="7" |54,753
 | rowspan="7" |14
 
     [38] => 
@@ -1666,7 +1666,7 @@ Array
 (8.6 {{nowrap begin}}{{Abbr|per 100k pop|Deaths per 100,000 population using 10.12 Million as Sweden's total population}}{{nowrap end}})
 ! colspan="3" rowspan="3" |749
 (7.4 {{nowrap begin}}{{Abbr|per 100k pop|ICU cases per 100,000 population using 10.12 Million as Sweden's total population}}{{nowrap end}})
-! colspan="3" rowspan="5" |54,602
+! colspan="3" rowspan="5" |54,753
 (540 {{nowrap begin}}{{Abbr|per 100k pop|Analysed samples per 100,000 population using 10.12 Million as Sweden's total population}}{{nowrap end}})
 
     [51] => 
