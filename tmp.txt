@@ -1081,7 +1081,7 @@ Array
 |8
 |4
 |5
-|8
+|9
 |7
 |9
 |6
@@ -1098,8 +1098,8 @@ Array
 |20
 |6
 |29
-!285
-!2996
+!286
+!2997
 | 206
 !30
 !137
@@ -1132,13 +1132,13 @@ Array
 |6
 |33
 !366
-!3362
+!3363
 | 233
 !32
 !169
 |20
-!27
-!274
+!29
+!276
 |29
 
     [35] => 
@@ -1165,13 +1165,13 @@ Array
 |8
 |42
 !301
-!3663
-| 256
+!3664
+| 257
 !34
 !203
 |23
 !29
-!303
+!305
 |32
 
     [36] => 
@@ -1198,14 +1198,14 @@ Array
 |3
 |40
 !281
-!3944
+!3945
 | 280
 !37
 !240
 |27
 !41
-!344
-|34
+!346
+|35
 
     [37] => 
 !2020-03-30
@@ -1222,7 +1222,7 @@ Array
 |5
 |169
 |60
-|22
+|21
 |1
 |7
 |6
@@ -1230,14 +1230,14 @@ Array
 |27
 |17
 |27
-!414
+!413
 !4358
 | 313
 !41
 !281
 |31
 !30
-!374
+!376
 |33
 ! rowspan="7" |17,700
 ! rowspan="7" |54,602
@@ -1273,7 +1273,7 @@ Array
 !323
 |34
 !32
-!406
+!408
 |33
 
     [39] => 
@@ -1302,11 +1302,11 @@ Array
 !486
 !5319
 |373
-!45
-!368
-|37
+!47
+!370
+|38
 !43
-!449
+!451
 |35
 
     [40] => 
@@ -1322,7 +1322,7 @@ Array
 |7
 |8
 |8
-|216
+|217
 |34
 |28
 |
@@ -1332,14 +1332,14 @@ Array
 |47
 |28
 |70
-!553
-!5872
+!554
+!5873
 |411
-!65
-!433
-|42
-!43
-!492
+!67
+!437
+|43
+!44
+!495
 |35
 
     [41] => 
@@ -1363,16 +1363,16 @@ Array
 |3
 |27
 |46
-|22
+|21
 |27
-!602
+!601
 !6474
-|445
-!58
-!491
-|46
-!42
-!534
+|444
+!64
+!501
+|47
+!41
+!536
 |37
 
     [42] => 
@@ -1388,7 +1388,7 @@ Array
 |2
 |3
 |12
-|130
+|129
 |17
 |11
 |1
@@ -1398,14 +1398,14 @@ Array
 |30
 |3
 |58
-!358
-!6832
-|453
-!54
-!545
-|49
+!357
+!6831
+|452
+!57
+!558
+|51
 !29
-!563
+!565
 |37
 
     [43] => 
@@ -1432,13 +1432,13 @@ Array
 |
 |41
 !341
-!7173
+!7172
 |461
-!67
-!612
-|53
-!40
-!603
+!75
+!633
+|56
+!41
+!606
 |37
 
     [44] => 
@@ -1465,17 +1465,17 @@ Array
 |12
 |39
 !390
-!7563
+!7562
 |458
-!66
-!678
-|57
-!43
-!646
+!74
+!707
+|61
+!42
+!648
 |39
-! rowspan="4" |
-! rowspan="4" |
-| rowspan="4" |15
+! rowspan="5" |
+! rowspan="5" |
+| rowspan="5" |15
 
     [45] => 
 !2020-04-07
@@ -1498,85 +1498,118 @@ Array
 |10
 |46
 |64
-|73
+|74
 |57
-!738
+!739
 !8301
 |495
-!53
-!731
-|58
-!41
-!687
+!60
+!767
+|63
+!42
+!690
 |40
 
     [46] => 
 !2020-04-08
 |2
 |28
-|
+|1
 |17
 |9
 |8
-|18
+|19
 |2
 |7
-|8
+|12
 |15
-|266
-|32
+|271
+|33
 |29
 |1
 |12
 |5
 |23
-|66
-|18
+|68
+|37
 |57
-!623
-!8924
-|515
-!47
-!778
-|59
-!29
-!716
-|38
+!656
+!8957
+|520
+!67
+!834
+|66
+!36
+!726
+|39
 
     [47] => 
-!2020-04-09{{efn|name=FHM_daily}}
+!2020-04-09
 |
-|
-|
-|
-|4
-|
-|
-|
-|
-|2
-|3
-|100
-|9
-|7
-|
-|
-|2
+|30
+|1
+|18
+|11
+|8
 |21
-|35
-|
-|34
-!217
-!9141
-|
-!3 (+12){{efn|Cases in brackets have unknown or not yet reported date of death.|group=lower-alpha}}
-!793
-|
-!3
-!719
-|
+|1
+|5
+|5
+|11
+|229
+|37
+|27
+|4
+|12
+|4
+|24
+|100
+|4
+|53
+!605
+!9562
+|527
+!20
+!854
+|60
+!21
+!747
+|36
 
     [48] => 
+!2020-04-10{{efn|name=FHM_daily}}
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|96
+|
+|
+|
+|
+|
+|2
+|8
+|
+|17
+!123
+!9685
+|
+!3 (+13){{efn|Cases in brackets have unknown or not yet reported date of death.|group=lower-alpha}}
+!870
+|
+!2
+!749
+|
+
+    [49] => 
 ! County
 !{{Flagicon|Blekinge län|COA}}
 !{{Flagicon|Dalarnas län|COA}}
@@ -1604,137 +1637,137 @@ Array
 ! colspan="3" |Total [[Intensive care medicine|ICU-care]] cases
 ! colspan="3" |Total analysed samples
 
-    [49] => 
+    [50] => 
 !Total cases{{efn|name=Uncertain|group=lower-alpha}}
 |39
-|266
-|14
-|227
-|167
-|107
-|295
-|63
-|77
-|120
-|397
-|3831
-|568
-|412
-|66
-|154
-|90
-|268
-|827
-|279
-|874
-! colspan="3" rowspan="5" |9,141
-(90 {{nowrap begin}}{{Abbr|per 100k pop|Cases per 100,000 population using 10.12 Million as Sweden's total population}}{{nowrap end}})
-! colspan="3" rowspan="5" |793
-(7.8 {{nowrap begin}}{{Abbr|per 100k pop|Deaths per 100,000 population using 10.12 Million as Sweden's total population}}{{nowrap end}})
-! colspan="3" rowspan="3" |719
-(7.1 {{nowrap begin}}{{Abbr|per 100k pop|ICU cases per 100,000 population using 10.12 Million as Sweden's total population}}{{nowrap end}})
+|296
+|16
+|245
+|175
+|115
+|317
+|64
+|82
+|127
+|405
+|4061
+|597
+|431
+|70
+|166
+|92
+|273
+|902
+|302
+|910
+! colspan="3" rowspan="5" |9,685
+(96 {{nowrap begin}}{{Abbr|per 100k pop|Cases per 100,000 population using 10.12 Million as Sweden's total population}}{{nowrap end}})
+! colspan="3" rowspan="5" |870
+(8.6 {{nowrap begin}}{{Abbr|per 100k pop|Deaths per 100,000 population using 10.12 Million as Sweden's total population}}{{nowrap end}})
+! colspan="3" rowspan="3" |749
+(7.4 {{nowrap begin}}{{Abbr|per 100k pop|ICU cases per 100,000 population using 10.12 Million as Sweden's total population}}{{nowrap end}})
 ! colspan="3" rowspan="5" |54,602
 (540 {{nowrap begin}}{{Abbr|per 100k pop|Analysed samples per 100,000 population using 10.12 Million as Sweden's total population}}{{nowrap end}})
 
-    [50] => 
+    [51] => 
 !{{Abbr|Cases&nbsp;per&nbsp;100k|Cases per 100,000 county population}}
 |24
-|92
-|23
-|79
-|50
-|82
-|81
+|103
+|27
+|85
+|52
+|88
+|87
 |26
-|38
-|48
+|41
+|51
 |29
-|161
-|191
-|107
-|23
-|57
+|171
+|201
+|112
+|25
+|61
 |37
-|97
-|48
-|92
-|188
+|99
+|52
+|99
+|195
 
-    [51] => 
+    [52] => 
 !Total deaths
 |1
-|33
-|
-|20
+|35
+|0
+|27
 |15
-|
-|23
+|0
+|24
 |4
 |1
 |7
-|18
-|486
-|78
-|14
+|20
+|510
+|82
+|30
 |1
-|1
+|5
 |6
-|15
-|39
-|4
-|27
+|16
+|49
+|5
+|32
 
-    [52] => 
+    [53] => 
 !{{Abbr|Deaths&nbsp;per&nbsp;100k|Deaths per 100,000 county population}}
 |0.6
-|11.5
-|
-|7.0
+|12.2
+|0.0
+|9.4
 |4.5
-|
-|6.3
+|0.0
+|6.6
 |1.6
 |0.5
 |2.8
-|1.3
-|20.4
-|26.2
-|3.6
+|1.5
+|21.5
+|27.6
+|7.8
 |0.4
-|0.4
+|1.8
 |2.4
-|5.4
-|2.3
-|1.3
 |5.8
+|2.8
+|1.6
+|6.9
 ! colspan="3" rowspan="2" |Currently in  [[Intensive care medicine|ICU-care]]:
 490<ref>{{Cite web|url=https://www.icuregswe.org/data--resultat/covid-19-i-svensk-intensivvard/|title=COVID-19 i svensk intensivvård|website=www.icuregswe.org|access-date=2020-04-10}}</ref>
 
-    [53] => 
+    [54] => 
 !Total [[Intensive care medicine|ICU-care]]
 |2
-|13
+|18
 |1
 |17
-|12
+|14
 |3
-|25
-|7
-|2
-|15
+|27
+|8
+|3
+|16
 |30
-|307
-|64
-|39
+|317
+|62
+|41
 |5
 |14
 |8
 |18
-|73
-|19
+|78
+|22
 |45
 
-    [54] => 
+    [55] => 
 | colspan="34" style="text-align:left;" |'''Notes'''{{reflist|group=lower-alpha}}
 |}
 )
