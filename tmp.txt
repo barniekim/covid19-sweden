@@ -68,6 +68,78 @@ Array
 !{{Flagicon|Östergötlands län|COA}}
 
     [3] => 
+!
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+!
+!
+|
+!
+!
+|
+!
+!
+|
+!11
+!11
+|4
+
+    [4] => 
+!
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+!
+!
+|
+!
+!
+|
+!
+!
+|
+!26
+!37
+|5
+
+    [5] => 
 !2020-02-04
 |
 |
@@ -99,11 +171,83 @@ Array
 !
 !
 |
-!{{abbr|180|week 4:11, week 5:26, week 6:78, week 7:38, week 8: 27 }}
-!{{abbr|180|week 4:11, week 5:26, week 6:78, week 7:38, week 8: 27 }}
-|4-8
+!78
+!115
+|6
 
-    [4] => 
+    [6] => 
+!
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+!
+!1
+|1
+!
+!
+|
+!
+!
+|
+!38
+!153
+|7
+
+    [7] => 
+!
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+!
+!1
+|1
+!
+!
+|
+!
+!
+|
+!27
+!180
+|8
+
+    [8] => 
 !2020-02-26
 |
 |
@@ -139,7 +283,7 @@ Array
 ! rowspan="5" |932
 | rowspan="5" |9
 
-    [5] => 
+    [9] => 
 !2020-02-27
 |
 |
@@ -172,7 +316,7 @@ Array
 !
 |
 
-    [6] => 
+    [10] => 
 !2020-02-28
 |
 |
@@ -205,7 +349,7 @@ Array
 !
 |
 
-    [7] => 
+    [11] => 
 !2020-02-29
 |
 |
@@ -238,7 +382,7 @@ Array
 !
 |
 
-    [8] => 
+    [12] => 
 !2020-03-01
 |
 |
@@ -271,7 +415,7 @@ Array
 !
 |
 
-    [9] => 
+    [13] => 
 !2020-03-02
 |
 |
@@ -307,7 +451,7 @@ Array
 ! rowspan="7" |5,234
 | rowspan="7" |10
 
-    [10] => 
+    [14] => 
 !2020-03-03
 |
 |
@@ -340,7 +484,7 @@ Array
 !
 |
 
-    [11] => 
+    [15] => 
 !2020-03-04
 |
 |
@@ -373,7 +517,7 @@ Array
 !
 |
 
-    [12] => 
+    [16] => 
 !2020-03-05
 |
 |
@@ -406,7 +550,7 @@ Array
 !
 |
 
-    [13] => 
+    [17] => 
 !2020-03-06{{Refn|From 6 March 2020 onwards, Stockholm County reported its cases after 24 hours.{{citation needed|date=March 2020}}|group=lower-alpha}}
 |
 |
@@ -439,7 +583,7 @@ Array
 !1
 |1
 
-    [14] => 
+    [18] => 
 !2020-03-07
 |
 |
@@ -472,7 +616,7 @@ Array
 !2
 |1
 
-    [15] => 
+    [19] => 
 !2020-03-08
 |
 |
@@ -505,7 +649,7 @@ Array
 !4
 |1
 
-    [16] => 
+    [20] => 
 !2020-03-09
 |
 |
@@ -541,7 +685,7 @@ Array
 ! rowspan="7" |14,224
 | rowspan="7" |11
 
-    [17] => 
+    [21] => 
 !2020-03-10
 |1
 |
@@ -574,7 +718,7 @@ Array
 !6
 |2
 
-    [18] => 
+    [22] => 
 !2020-03-11{{Refn|Stockholm County decided to only test hospitalized patients from risk groups and healthcare personnel with symptoms from 11 March 2020 onwards.<ref>{{Cite news|last=Almgren|first=Jan|url=https://www.svd.se/uppmaningen-kom-inte-in-for-provtagning|title=Uppmaningen: Kom inte in för provtagning|date=12 March 2020|work=Svenska Dagbladet|trans-title=Appeal: Do not come in for testing|access-date=17 March 2020|url-status=live|language=sv|issn=1101-2412}}</ref>|group=lower-alpha}}
 |6
 |1
@@ -607,7 +751,7 @@ Array
 !7
 |1
 
-    [19] => 
+    [23] => 
 !2020-03-12{{Refn|The [[Public Health Agency of Sweden]] decided to only test hospitalized patients from risk groups and healthcare personnel with symptoms from 12 March 2020 onwards.<ref>{{Cite web|url=https://www.aftonbladet.se/a/70GQRV|title=Nya strategin – slutar räkna exakta antalet coronafall|last=Karlsson|first=Pär|date=13 March 2020|website=[[Aftonbladet]]|language=sv|trans-title=The new strategy – stops counting the exact number of corona cases|url-status=live|archive-url=|archive-date=|access-date=17 March 2020}}</ref>|group=lower-alpha}}
 |2
 |3
@@ -640,7 +784,7 @@ Array
 !7
 |1
 
-    [20] => 
+    [24] => 
 !2020-03-13
 |
 |1
@@ -673,7 +817,7 @@ Array
 !9
 |2
 
-    [21] => 
+    [25] => 
 !2020-03-14
 |
 |
@@ -706,7 +850,7 @@ Array
 !15
 |3
 
-    [22] => 
+    [26] => 
 !2020-03-15
 |1
 |
@@ -739,7 +883,7 @@ Array
 !20
 |3
 
-    [23] => 
+    [27] => 
 !2020-03-16
 |
 |
@@ -775,7 +919,7 @@ Array
 ! rowspan="7" |24,628
 | rowspan="7" |12
 
-    [24] => 
+    [28] => 
 !2020-03-17
 |1
 |3
@@ -808,7 +952,7 @@ Array
 !29
 |4
 
-    [25] => 
+    [29] => 
 !2020-03-18
 |1
 |2
@@ -841,7 +985,7 @@ Array
 !44
 |6
 
-    [26] => 
+    [30] => 
 !2020-03-19
 |
 |2
@@ -874,7 +1018,7 @@ Array
 !52
 |6
 
-    [27] => 
+    [31] => 
 !2020-03-20
 |
 |5
@@ -907,7 +1051,7 @@ Array
 !70
 |9
 
-    [28] => 
+    [32] => 
 !2020-03-21
 |
 |
@@ -940,7 +1084,7 @@ Array
 !82
 |10
 
-    [29] => 
+    [33] => 
 !2020-03-22
 |
 |5
@@ -973,7 +1117,7 @@ Array
 !103
 |12
 
-    [30] => 
+    [34] => 
 !2020-03-23
 |
 |9
@@ -1009,7 +1153,7 @@ Array
 ! rowspan="7" |36,977
 | rowspan="7" |13
 
-    [31] => 
+    [35] => 
 !2020-03-24
 |
 |9
@@ -1042,7 +1186,7 @@ Array
 !176
 |21
 
-    [32] => 
+    [36] => 
 !2020-03-25
 |3
 |13
@@ -1075,7 +1219,7 @@ Array
 !207
 |23
 
-    [33] => 
+    [37] => 
 !2020-03-26
 |
 |8
@@ -1108,7 +1252,7 @@ Array
 !247
 |28
 
-    [34] => 
+    [38] => 
 !2020-03-27
 |2
 |15
@@ -1141,7 +1285,7 @@ Array
 !276
 |29
 
-    [35] => 
+    [39] => 
 !2020-03-28
 |
 |6
@@ -1174,7 +1318,7 @@ Array
 !305
 |32
 
-    [36] => 
+    [40] => 
 !2020-03-29
 |4
 |10
@@ -1207,7 +1351,7 @@ Array
 !346
 |35
 
-    [37] => 
+    [41] => 
 !2020-03-30
 |
 |9
@@ -1243,7 +1387,7 @@ Array
 ! rowspan="7" |54,753
 | rowspan="7" |14
 
-    [38] => 
+    [42] => 
 !2020-03-31
 |1
 |23
@@ -1276,7 +1420,7 @@ Array
 !408
 |33
 
-    [39] => 
+    [43] => 
 !2020-04-01
 |5
 |19
@@ -1309,7 +1453,7 @@ Array
 !451
 |35
 
-    [40] => 
+    [44] => 
 !2020-04-02
 |3
 |6
@@ -1342,7 +1486,7 @@ Array
 !495
 |35
 
-    [41] => 
+    [45] => 
 !2020-04-03
 |1
 |20
@@ -1375,7 +1519,7 @@ Array
 !536
 |37
 
-    [42] => 
+    [46] => 
 !2020-04-04
 |4
 |18
@@ -1408,7 +1552,7 @@ Array
 !565
 |37
 
-    [43] => 
+    [47] => 
 !2020-04-05
 |1
 |7
@@ -1441,7 +1585,7 @@ Array
 !606
 |37
 
-    [44] => 
+    [48] => 
 !2020-04-06
 |
 |16
@@ -1477,7 +1621,7 @@ Array
 ! rowspan="5" |
 | rowspan="5" |15
 
-    [45] => 
+    [49] => 
 !2020-04-07
 |1
 |28
@@ -1510,7 +1654,7 @@ Array
 !690
 |40
 
-    [46] => 
+    [50] => 
 !2020-04-08
 |2
 |28
@@ -1543,7 +1687,7 @@ Array
 !726
 |39
 
-    [47] => 
+    [51] => 
 !2020-04-09
 |
 |30
@@ -1576,7 +1720,7 @@ Array
 !747
 |36
 
-    [48] => 
+    [52] => 
 !2020-04-10{{efn|name=FHM_daily}}
 |
 |
@@ -1609,7 +1753,7 @@ Array
 !749
 |
 
-    [49] => 
+    [53] => 
 ! County
 !{{Flagicon|Blekinge län|COA}}
 !{{Flagicon|Dalarnas län|COA}}
@@ -1637,7 +1781,7 @@ Array
 ! colspan="3" |Total [[Intensive care medicine|ICU-care]] cases
 ! colspan="3" |Total analysed samples
 
-    [50] => 
+    [54] => 
 !Total cases{{efn|name=Uncertain|group=lower-alpha}}
 |39
 |296
@@ -1669,7 +1813,7 @@ Array
 ! colspan="3" rowspan="5" |54,753
 (540 {{nowrap begin}}{{Abbr|per 100k pop|Analysed samples per 100,000 population using 10.12 Million as Sweden's total population}}{{nowrap end}})
 
-    [51] => 
+    [55] => 
 !{{Abbr|Cases&nbsp;per&nbsp;100k|Cases per 100,000 county population}}
 |24
 |103
@@ -1693,7 +1837,7 @@ Array
 |99
 |195
 
-    [52] => 
+    [56] => 
 !Total deaths
 |1
 |35
@@ -1717,7 +1861,7 @@ Array
 |5
 |32
 
-    [53] => 
+    [57] => 
 !{{Abbr|Deaths&nbsp;per&nbsp;100k|Deaths per 100,000 county population}}
 |0.6
 |12.2
@@ -1743,7 +1887,7 @@ Array
 ! colspan="3" rowspan="2" |Currently in  [[Intensive care medicine|ICU-care]]:
 490<ref>{{Cite web|url=https://www.icuregswe.org/data--resultat/covid-19-i-svensk-intensivvard/|title=COVID-19 i svensk intensivvård|website=www.icuregswe.org|access-date=2020-04-10}}</ref>
 
-    [54] => 
+    [58] => 
 !Total [[Intensive care medicine|ICU-care]]
 |2
 |18
@@ -1767,7 +1911,7 @@ Array
 |22
 |45
 
-    [55] => 
+    [59] => 
 | colspan="34" style="text-align:left;" |'''Notes'''{{reflist|group=lower-alpha}}
 |}
 )
