@@ -1697,10 +1697,10 @@ Array
 !Total deaths
 |1
 |35
-|0
+|
 |27
 |15
-|0
+|
 |24
 |4
 |1
@@ -1721,10 +1721,10 @@ Array
 !{{Abbr|Deaths&nbsp;per&nbsp;100k|Deaths per 100,000 county population}}
 |0.6
 |12.2
-|0.0
+|
 |9.4
 |4.5
-|0.0
+|
 |6.6
 |1.6
 |0.5
