@@ -99,8 +99,8 @@ Array
 !
 !
 |
-!180
-!180
+!{{abbr|180|week 4:11, week 5:26, week 6:78, week 7:38, week 8: 27 }}
+!{{abbr|180|week 4:11, week 5:26, week 6:78, week 7:38, week 8: 27 }}
 |4-8
 
     [4] => 
