@@ -1512,9 +1512,9 @@ Array
 !601
 !6474
 |444
-!64
-!501
-|47
+!65
+!502
+|48
 !41
 !536
 |37
@@ -1546,7 +1546,7 @@ Array
 !6831
 |452
 !57
-!558
+!559
 |51
 !29
 !565
@@ -1579,7 +1579,7 @@ Array
 !7172
 |461
 !75
-!633
+!634
 |56
 !41
 !606
@@ -1598,7 +1598,7 @@ Array
 |3
 |10
 |7
-|130
+|131
 |18
 |31
 |2
@@ -1608,18 +1608,18 @@ Array
 |54
 |12
 |39
-!390
-!7562
+!391
+!7563
 |458
 !74
-!707
+!708
 |61
 !42
 !648
 |39
-! rowspan="5" |
-! rowspan="5" |
-| rowspan="5" |15
+! rowspan="6" |
+! rowspan="6" |
+| rowspan="6" |15
 
     [49] => 
 !2020-04-07
@@ -1645,13 +1645,13 @@ Array
 |74
 |57
 !739
-!8301
-|495
+!8302
+|496
 !60
-!767
-|63
-!42
-!690
+!768
+|64
+!43
+!691
 |40
 
     [50] => 
@@ -1678,50 +1678,83 @@ Array
 |37
 |57
 !656
-!8957
+!8958
 |520
-!67
-!834
-|66
-!36
-!726
-|39
+!70
+!838
+|67
+!39
+!730
+|40
 
     [51] => 
 !2020-04-09
-|
+|1
 |30
 |1
 |18
-|11
+|12
 |8
 |21
 |1
-|5
+|6
 |5
 |11
-|229
-|37
-|27
+|240
+|38
+|29
 |4
 |12
 |4
 |24
-|100
-|4
-|53
-!605
-!9562
-|527
-!20
-!854
-|60
-!21
-!747
-|36
+|117
+|6
+|54
+!642
+!9600
+|532
+!23
+!861
+|61
+!29
+!759
+|38
 
     [52] => 
-!2020-04-10{{efn|name=FHM_daily}}
+!2020-04-10
+|1
+|17
+|
+|18
+|4
+|8
+|19
+|1
+|4
+|6
+|24
+|149
+|41
+|4
+|3
+|15
+|8
+|27
+|69
+|4
+|31
+!453
+!10053
+|511
+!13
+!874
+|53
+!24
+!783
+|35
+
+    [53] => 
+!2020-04-11{{efn|name=FHM_daily}}
 |
 |
 |
@@ -1733,27 +1766,27 @@ Array
 |
 |
 |
-|96
+|79
+|
 |
 |
 |
 |
 |
 |2
-|8
 |
 |17
-!123
-!9685
+!98
+!10151
 |
-!3 (+13){{efn|Cases in brackets have unknown or not yet reported date of death.|group=lower-alpha}}
-!870
+!0 (+13){{efn|Cases in brackets have unknown or not yet reported date of death.|group=lower-alpha}}
+!887
 |
-!2
-!749
+!6
+!789
 |
 
-    [53] => 
+    [54] => 
 ! County
 !{{Flagicon|Blekinge län|COA}}
 !{{Flagicon|Dalarnas län|COA}}
@@ -1781,66 +1814,66 @@ Array
 ! colspan="3" |Total [[Intensive care medicine|ICU-care]] cases
 ! colspan="3" |Total analysed samples
 
-    [54] => 
+    [55] => 
 !Total cases{{efn|name=Uncertain|group=lower-alpha}}
-|39
-|296
+|41
+|313
 |16
-|245
-|175
-|115
-|317
-|64
-|82
-|127
-|405
-|4061
-|597
-|431
-|70
-|166
-|92
-|273
-|902
-|302
-|910
-! colspan="3" rowspan="5" |9,685
-(96 {{nowrap begin}}{{Abbr|per 100k pop|Cases per 100,000 population using 10.12 Million as Sweden's total population}}{{nowrap end}})
-! colspan="3" rowspan="5" |870
-(8.6 {{nowrap begin}}{{Abbr|per 100k pop|Deaths per 100,000 population using 10.12 Million as Sweden's total population}}{{nowrap end}})
-! colspan="3" rowspan="3" |749
-(7.4 {{nowrap begin}}{{Abbr|per 100k pop|ICU cases per 100,000 population using 10.12 Million as Sweden's total population}}{{nowrap end}})
+|263
+|180
+|123
+|336
+|65
+|87
+|133
+|429
+|4205
+|639
+|437
+|73
+|181
+|100
+|298
+|982
+|308
+|942
+! colspan="3" rowspan="5" |10,151
+(100 {{nowrap begin}}{{Abbr|per 100k pop|Cases per 100,000 population using 10.12 Million as Sweden's total population}}{{nowrap end}})
+! colspan="3" rowspan="5" |887
+(8.8 {{nowrap begin}}{{Abbr|per 100k pop|Deaths per 100,000 population using 10.12 Million as Sweden's total population}}{{nowrap end}})
+! colspan="3" rowspan="3" |789
+(7.8 {{nowrap begin}}{{Abbr|per 100k pop|ICU cases per 100,000 population using 10.12 Million as Sweden's total population}}{{nowrap end}})
 ! colspan="3" rowspan="5" |54,753
 (540 {{nowrap begin}}{{Abbr|per 100k pop|Analysed samples per 100,000 population using 10.12 Million as Sweden's total population}}{{nowrap end}})
 
-    [55] => 
-!{{Abbr|Cases&nbsp;per&nbsp;100k|Cases per 100,000 county population}}
-|24
-|103
-|27
-|85
-|52
-|88
-|87
-|26
-|41
-|51
-|29
-|171
-|201
-|112
-|25
-|61
-|37
-|99
-|52
-|99
-|195
-
     [56] => 
+!{{Abbr|Cases&nbsp;per&nbsp;100k|Cases per 100,000 county population}}
+|26
+|109
+|27
+|92
+|54
+|94
+|92
+|26
+|43
+|53
+|31
+|177
+|215
+|114
+|26
+|67
+|41
+|108
+|57
+|101
+|202
+
+    [57] => 
 !Total deaths
 |1
-|35
+|36
 |
 |27
 |15
@@ -1849,22 +1882,22 @@ Array
 |4
 |1
 |7
-|20
-|510
-|82
+|21
+|523
+|83
 |30
 |1
 |5
-|6
+|7
 |16
 |49
 |5
 |32
 
-    [57] => 
+    [58] => 
 !{{Abbr|Deaths&nbsp;per&nbsp;100k|Deaths per 100,000 county population}}
 |0.6
-|12.2
+|12.5
 |
 |9.4
 |4.5
@@ -1874,44 +1907,44 @@ Array
 |0.5
 |2.8
 |1.5
-|21.5
-|27.6
+|22.0
+|27.9
 |7.8
 |0.4
 |1.8
-|2.4
+|2.9
 |5.8
 |2.8
 |1.6
 |6.9
 ! colspan="3" rowspan="2" |Currently in  [[Intensive care medicine|ICU-care]]:
-490<ref>{{Cite web|url=https://www.icuregswe.org/data--resultat/covid-19-i-svensk-intensivvard/|title=COVID-19 i svensk intensivvård|website=www.icuregswe.org|access-date=2020-04-10}}</ref>
+493<ref>{{Cite web|url=https://www.icuregswe.org/data--resultat/covid-19-i-svensk-intensivvard/|title=COVID-19 i svensk intensivvård|website=www.icuregswe.org|access-date=2020-04-10}}</ref>
 
-    [58] => 
+    [59] => 
 !Total [[Intensive care medicine|ICU-care]]
 |2
 |18
 |1
-|17
+|19
 |14
-|3
+|4
 |27
 |8
 |3
-|16
-|30
-|317
-|62
-|41
-|5
+|15
+|33
+|337
+|57
+|40
+|9
 |14
 |8
-|18
-|78
-|22
-|45
+|20
+|89
+|25
+|46
 
-    [59] => 
+    [60] => 
 | colspan="34" style="text-align:left;" |'''Notes'''{{reflist|group=lower-alpha}}
 |}
 )
