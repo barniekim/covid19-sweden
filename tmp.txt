@@ -2041,12 +2041,9 @@ Array
 !{{Flagicon|Västra Götaland|COA}}
 !{{Flagicon|Örebro|COA}}
 !{{Flagicon|Östergötlands län|COA}}
-! colspan="3" |Total cases{{efn|name=Uncertain|Reported, confirmed cases. Actual case numbers may be higher.|group=lower-alpha}}
-!
-! colspan="3" |Total deaths{{efn|name=Uncertain|Reported, confirmed cases. Actual case numbers may be higher.|group=lower-alpha}}
-!
-! colspan="3" |Total [[Intensive care medicine|ICU-care]] cases
-!
+! colspan="4" |Total cases{{efn|name=Uncertain|Reported, confirmed cases. Actual case numbers may be higher.|group=lower-alpha}}
+! colspan="4" |Total deaths{{efn|name=Uncertain|Reported, confirmed cases. Actual case numbers may be higher.|group=lower-alpha}}
+! colspan="4" |Total [[Intensive care medicine|ICU-care]] cases
 ! colspan="3" |Total analysed samples
 
     [57] => 
@@ -2072,21 +2069,18 @@ Array
 |1064
 |383
 |970
-! colspan="3" rowspan="5" |10,948
+! colspan="4" rowspan="5" |10,948
 (108 {{nowrap begin}}{{Abbr|per 100k pop|Cases per 100,000 population using 10.12 Million as Sweden's total population}}{{nowrap end}})
 
 (465 new)
-!
-! colspan="3" rowspan="5" |919
+! colspan="4" rowspan="5" |919
 (9.1 {{nowrap begin}}{{Abbr|per 100k pop|Deaths per 100,000 population using 10.12 Million as Sweden's total population}}{{nowrap end}})
 
 (20 new)
-!
-! colspan="3" rowspan="3" |859
+! colspan="4" rowspan="3" |859
 (8.5 {{nowrap begin}}{{Abbr|per 100k pop|ICU cases per 100,000 population using 10.12 Million as Sweden's total population}}{{nowrap end}})
 
 (20 new)
-!
 ! colspan="3" rowspan="5" |54,753
 (540 {{nowrap begin}}{{Abbr|per 100k pop|Analysed samples per 100,000 population using 10.12 Million as Sweden's total population}}{{nowrap end}})
 
@@ -2113,9 +2107,6 @@ Array
 |62
 |126
 |208
-|
-|
-|
 
     [59] => 
 !Total deaths{{efn|name=Uncertain|Reported, confirmed cases. Actual case numbers may be higher.|group=lower-alpha}}
@@ -2140,9 +2131,6 @@ Array
 |51
 |5
 |34
-|
-|
-|
 
     [60] => 
 !{{Abbr|Deaths&nbsp;per&nbsp;100k|Deaths per 100,000 county population}}
@@ -2167,10 +2155,7 @@ Array
 |3.0
 |1.6
 |7.3
-|
-|
-! colspan="3" rowspan="2" |Currently in  [[Intensive care medicine|ICU-care]]: 529<ref>{{Cite web|url=https://www.icuregswe.org/data--resultat/covid-19-i-svensk-intensivvard/|title=COVID-19 i svensk intensivvård|website=www.icuregswe.org|access-date=2020-04-10}}</ref><br />(36 new)
-!
+! colspan="4" rowspan="2" |Currently in  [[Intensive care medicine|ICU-care]]: 529<ref>{{Cite web|url=https://www.icuregswe.org/data--resultat/covid-19-i-svensk-intensivvard/|title=COVID-19 i svensk intensivvård|website=www.icuregswe.org|access-date=2020-04-10}}</ref><br />(36 new)
 
     [61] => 
 !Total [[Intensive care medicine|ICU-care]]
@@ -2195,9 +2180,6 @@ Array
 |101
 |28
 |45
-|
-|
-|
 
     [62] => 
 | colspan="37" style="text-align:left;" |'''Notes'''{{reflist|group=lower-alpha}}
