@@ -1364,7 +1364,7 @@ Array
 |1
 |5
 |5
-|169
+|170
 |60
 |21
 |1
@@ -1374,8 +1374,8 @@ Array
 |27
 |17
 |27
-!413
-!4358
+!414
+!4359
 | 313
 !41
 !281
@@ -1411,13 +1411,13 @@ Array
 |11
 |47
 !475
-!4833
+!4834
 | 348
 !42
 !323
 |34
-!32
-!408
+!31
+!407
 |33
 
     [43] => 
@@ -1444,12 +1444,12 @@ Array
 |5
 |63
 !486
-!5319
+!5320
 |373
 !47
 !370
 |38
-!43
+!44
 !451
 |35
 
@@ -1477,7 +1477,7 @@ Array
 |28
 |70
 !555
-!5874
+!5875
 |411
 !67
 !437
@@ -1510,7 +1510,7 @@ Array
 |21
 |27
 !601
-!6475
+!6476
 |445
 !65
 !502
@@ -1543,7 +1543,7 @@ Array
 |3
 |58
 !357
-!6832
+!6833
 |453
 !57
 !559
@@ -1576,13 +1576,13 @@ Array
 |
 |41
 !341
-!7173
+!7174
 |461
 !75
 !634
 |56
-!43
-!612
+!44
+!613
 |38
 
     [48] => 
@@ -1609,12 +1609,12 @@ Array
 |12
 |39
 !391
-!7564
+!7565
 |458
 !74
 !708
 |61
-!42
+!41
 !654
 |40
 ! rowspan="7" |
@@ -1645,14 +1645,14 @@ Array
 |74
 |57
 !739
-!8303
+!8304
 |496
 !60
 !768
 |64
 !44
 !698
-|41
+|42
 
     [50] => 
 !2020-04-08
@@ -1678,7 +1678,7 @@ Array
 |37
 |57
 !656
-!8959
+!8960
 |520
 !70
 !838
@@ -1708,13 +1708,13 @@ Array
 |4
 |24
 |117
-|6
+|9
 |54
-!642
-!9601
-|532
-!24
-!862
+!645
+!9605
+|533
+!26
+!864
 |61
 !31
 !771
@@ -1733,7 +1733,7 @@ Array
 |4
 |6
 |24
-|149
+|148
 |41
 |4
 |3
@@ -1743,12 +1743,12 @@ Array
 |69
 |4
 |31
-!453
-!10054
-|511
-!14
-!876
-|53
+!452
+!10057
+|512
+!17
+!881
+|54
 !31
 !802
 |38
@@ -1756,70 +1756,106 @@ Array
     [53] => 
 !2020-04-11{{efn|name=FHM_daily}}
 |
-|3
+|9
 |
 |10
 |2
 |2
-|4
+|5
 |3
 |10
-|1
+|2
 |6
-|187
+|200
 |22
-|12
+|15
 |2
 |2
 |
-|6
-|24
+|33
+|32
 |8
 |26
-!330
-!10384
-|507
-!8
-!884
-|46
-!36
-!838
-|38
+!389
+!10446
+|516
+!14
+!895
+|48
+!37
+!839
+|39
 
     [54] => 
 !2020-04-12{{efn|name=FHM_daily}}
 |
+|23
 |
-|
-|
-|
+|17
+|3
+|6
+|9
+|2
+|1
+|2
+|14
+|174
+|7
+|13
 |2
 |
-|
-|
-|
-|
-|83
-|
-|
-|
-|
-|
-|
-|14
-|
-|
-!99
-!10483
-|
-!2 (+13){{efn|Cases in brackets have unknown or not yet reported date of death.|group=lower-alpha}}
-!899
-|
-!1
-!839
-|
+|5
+|15
+|43
+|64
+|19
+!419
+!10865
+|527
+!9
+!904
+|39
+!16
+!855
+|35
 
     [55] => 
+!2020-04-13{{efn|name=FHM_daily}}
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|74
+|
+|
+|
+|
+|
+|
+|9
+|
+|
+!83
+!10948
+|
+!2 (+13){{efn|Cases in brackets have unknown or not yet reported date of death.|group=lower-alpha}}
+!919
+|
+!4
+!859
+|
+!
+!
+|16
+
+    [56] => 
 ! County
 !{{Flagicon|Blekinge län|COA}}
 !{{Flagicon|Dalarnas län|COA}}
@@ -1847,69 +1883,69 @@ Array
 ! colspan="3" |Total [[Intensive care medicine|ICU-care]] cases
 ! colspan="3" |Total analysed samples
 
-    [56] => 
+    [57] => 
 !Total cases{{efn|name=Uncertain|group=lower-alpha}}
 |41
-|316
+|345
 |16
-|273
-|182
-|127
-|340
-|68
-|97
-|134
-|435
-|4397
-|661
+|290
+|185
+|131
+|350
+|70
+|98
+|137
 |449
-|75
+|4575
+|668
+|465
+|77
 |183
-|100
-|304
-|1018
-|316
-|951
-! colspan="3" rowspan="5" |10,483
-(104 {{nowrap begin}}{{Abbr|per 100k pop|Cases per 100,000 population using 10.12 Million as Sweden's total population}}{{nowrap end}})
+|105
+|346
+|1064
+|383
+|970
+! colspan="3" rowspan="5" |10,948
+(108 {{nowrap begin}}{{Abbr|per 100k pop|Cases per 100,000 population using 10.12 Million as Sweden's total population}}{{nowrap end}})
 
-(332 new)
-! colspan="3" rowspan="5" |899
-(8.9 {{nowrap begin}}{{Abbr|per 100k pop|Deaths per 100,000 population using 10.12 Million as Sweden's total population}}{{nowrap end}})
+(465 new)
+! colspan="3" rowspan="5" |919
+(9.1 {{nowrap begin}}{{Abbr|per 100k pop|Deaths per 100,000 population using 10.12 Million as Sweden's total population}}{{nowrap end}})
 
-(12 new)
-! colspan="3" rowspan="3" |839
-(8.3 {{nowrap begin}}{{Abbr|per 100k pop|ICU cases per 100,000 population using 10.12 Million as Sweden's total population}}{{nowrap end}})
+(20 new)
+! colspan="3" rowspan="3" |859
+(8.5 {{nowrap begin}}{{Abbr|per 100k pop|ICU cases per 100,000 population using 10.12 Million as Sweden's total population}}{{nowrap end}})
 
-(50 new)
+(20 new)
 ! colspan="3" rowspan="5" |54,753
 (540 {{nowrap begin}}{{Abbr|per 100k pop|Analysed samples per 100,000 population using 10.12 Million as Sweden's total population}}{{nowrap end}})
 
-    [57] => 
+    [58] => 
 !{{Abbr|Cases&nbsp;per&nbsp;100k|Cases per 100,000 county population}}
 |26
-|110
+|120
 |27
-|95
+|101
 |55
-|97
-|94
-|28
-|48
-|54
-|32
-|185
-|222
-|117
+|100
+|96
+|29
+|49
+|55
+|33
+|192
+|225
+|121
 |27
 |67
-|41
-|110
-|59
-|104
-|204
+|43
+|125
+|62
+|126
+|208
 
-    [58] => 
+    [59] => 
 !Total deaths{{efn|name=Uncertain|Reported, confirmed cases. Actual case numbers may be higher.|group=lower-alpha}}
 |1
 |37
@@ -1921,19 +1957,19 @@ Array
 |4
 |1
 |7
-|22
-|528
+|24
+|543
 |83
 |30
 |1
-|5
+|7
 |8
 |16
-|50
+|51
 |5
 |34
 
-    [59] => 
+    [60] => 
 !{{Abbr|Deaths&nbsp;per&nbsp;100k|Deaths per 100,000 county population}}
 |0.6
 |12.8
@@ -1945,44 +1981,44 @@ Array
 |1.6
 |0.5
 |2.8
-|1.6
-|22.2
+|1.7
+|22.8
 |27.9
 |7.8
 |0.4
-|1.8
+|2.6
 |3.3
 |5.8
-|2.9
+|3.0
 |1.6
 |7.3
-! colspan="3" rowspan="2" |Currently in  [[Intensive care medicine|ICU-care]]: 493<ref>{{Cite web|url=https://www.icuregswe.org/data--resultat/covid-19-i-svensk-intensivvard/|title=COVID-19 i svensk intensivvård|website=www.icuregswe.org|access-date=2020-04-10}}</ref><br />(24 new)
-
-    [60] => 
-!Total [[Intensive care medicine|ICU-care]]
-|3
-|17
-|1
-|19
-|14
-|4
-|27
-|7
-|1
-|16
-|35
-|368
-|64
-|41
-|9
-|14
-|11
-|20
-|97
-|26
-|45
+! colspan="3" rowspan="2" |Currently in  [[Intensive care medicine|ICU-care]]: 529<ref>{{Cite web|url=https://www.icuregswe.org/data--resultat/covid-19-i-svensk-intensivvard/|title=COVID-19 i svensk intensivvård|website=www.icuregswe.org|access-date=2020-04-10}}</ref><br />(36 new)
 
     [61] => 
+!Total [[Intensive care medicine|ICU-care]]
+|2
+|16
+|1
+|21
+|14
+|4
+|28
+|8
+|1
+|17
+|36
+|373
+|65
+|40
+|9
+|16
+|12
+|22
+|101
+|28
+|45
+
+    [62] => 
 | colspan="34" style="text-align:left;" |'''Notes'''{{reflist|group=lower-alpha}}
 |}
 )
