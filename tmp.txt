@@ -2071,15 +2071,15 @@ Array
 ! colspan="4" rowspan="5" |10,948
 (108 {{nowrap begin}}{{Abbr|per 100k pop|Cases per 100,000 population using 10.12 Million as Sweden's total population}}{{nowrap end}})
 
-(465 new)
+(465 {{abbr|new|Newly reported in the last 24 hours, these cases didn't necessary occur in the last 24 hours.}})
 ! colspan="4" rowspan="5" |919
 (9.1 {{nowrap begin}}{{Abbr|per 100k pop|Deaths per 100,000 population using 10.12 Million as Sweden's total population}}{{nowrap end}})
 
-(20 new)
+(20 {{abbr|new|Newly reported in the last 24 hours, these cases didn't necessary occur in the last 24 hours.}})
 ! colspan="4" rowspan="3" |859
 (8.5 {{nowrap begin}}{{Abbr|per 100k pop|ICU cases per 100,000 population using 10.12 Million as Sweden's total population}}{{nowrap end}})
 
-(20 new)
+(20 {{abbr|new|Newly reported in the last 24 hours, these cases didn't necessary occur in the last 24 hours.}})
 ! colspan="3" rowspan="5" |54,753
 (540 {{nowrap begin}}{{Abbr|per 100k pop|Analysed samples per 100,000 population using 10.12 Million as Sweden's total population}}{{nowrap end}})
 
@@ -2154,7 +2154,7 @@ Array
 |3.0
 |1.6
 |7.3
-! colspan="4" rowspan="2" |Currently in  [[Intensive care medicine|ICU-care]]: 529<ref>{{Cite web|url=https://www.icuregswe.org/data--resultat/covid-19-i-svensk-intensivvard/|title=COVID-19 i svensk intensivvård|website=www.icuregswe.org|access-date=2020-04-10}}</ref><br />(36 new)
+! colspan="4" rowspan="2" |Currently in  [[Intensive care medicine|ICU-care]]: 529<ref>{{Cite web|url=https://www.icuregswe.org/data--resultat/covid-19-i-svensk-intensivvard/|title=COVID-19 i svensk intensivvård|website=www.icuregswe.org|access-date=2020-04-10}}</ref><br />(36 {{abbr|new|Newly reported in the last 24 hours, these cases didn't necessary occur in the last 24 hours.}})
 
     [61] => 
 !Total [[Intensive care medicine|ICU-care]]
