@@ -6,8 +6,7 @@ Array
 ! colspan="21" |'''County'''
 ! colspan="4" |Cases{{efn|name=Uncertain|Reported, confirmed cases. Actual case numbers may be higher.|group=lower-alpha}}
 ! colspan="4" |Deaths{{efn|name=Uncertain|Reported, confirmed cases. Actual case numbers may be higher.|group=lower-alpha}}
-! colspan="3" |[[Intensive care medicine|ICU-care]]
-!
+! colspan="4" |[[Intensive care medicine|ICU-care]]
 ! colspan="3" |Analysed samples<ref>{{Cite web|url=http://www.folkhalsomyndigheten.se/folkhalsorapportering-statistik/statistik-a-o/sjukdomsstatistik/covid-19-veckorapporter/|title=Veckorapporter om covid-19 — Folkhälsomyndigheten|website=www.folkhalsomyndigheten.se|language=sv|access-date=2020-04-06}}</ref>
 
     [1] => 
