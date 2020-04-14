@@ -2044,7 +2044,7 @@ Array
 !11,445
 |
 |
-!5(+15){{efn|Cases in brackets have unknown or not yet reported date of death.|group=lower-alpha}}
+!5 (+15){{efn|Cases in brackets have unknown or not yet reported date of death.|group=lower-alpha}}
 !1033
 |
 |
@@ -2217,7 +2217,8 @@ Array
 |48
 
     [63] => 
-| colspan="22" rowspan="14" style="text-align:left;" |'''Notes'''{{reflist|group=lower-alpha}}
+| rowspan="14" style="text-align:left;" |
+| colspan="21" rowspan="14" |'''Notes'''{{reflist|group=lower-alpha}}
 | colspan="3" |5,586
 |48.81%
 | colspan="3" |594
