@@ -2044,7 +2044,7 @@ Array
 !11,445
 |
 |
-!5 (+15){{efn|Cases in brackets have unknown or not yet reported date of death.|group=lower-alpha}}
+!5(+15){{efn|Cases in brackets have unknown or not yet reported date of death.|group=lower-alpha}}
 !1033
 |
 |
@@ -2112,7 +2112,7 @@ Array
 (10.2 {{nowrap begin}}{{Abbr|per 100k pop|Deaths per 100,000 population using 10.12 Million as Sweden's total population}}{{nowrap end}})
 
 (114 {{abbr|new|Newly reported in the last 24 hours, these cases didn't necessary occur in the last 24 hours.}})
-! colspan="4" rowspan="3" |859
+! colspan="4" rowspan="3" |915
 (9.0 {{nowrap begin}}{{Abbr|per 100k pop|ICU cases per 100,000 population using 10.12 Million as Sweden's total population}}{{nowrap end}})
 
 (56 {{abbr|new|Newly reported in the last 24 hours, these cases didn't necessary occur in the last 24 hours.}})
@@ -2217,6 +2217,132 @@ Array
 |48
 
     [63] => 
-| colspan="37" style="text-align:left;" |'''Notes'''{{reflist|group=lower-alpha}}
+| colspan="22" rowspan="14" style="text-align:left;" |'''Notes'''{{reflist|group=lower-alpha}}
+| colspan="3" |5,586
+|48.81%
+| colspan="3" |594
+|57.50%
+| colspan="3" |688
+|75.19%
+! colspan="2" |Male
+! rowspan="3" |Sex
+
+    [64] => 
+| colspan="3" |5,857
+|51.18%
+| colspan="3" |439
+|42.50%
+| colspan="3" |227
+|24.81%
+! colspan="2" |Female
+
+    [65] => 
+| colspan="3" |2
+|0.02%
+| colspan="3" |0
+|0.00%
+| colspan="3" |0
+|0.00%
+! colspan="2" |Unspecified
+
+    [66] => 
+| colspan="3" |64
+|0.56%
+| colspan="3" |0
+|0.00%
+| colspan="3" |2
+|0.22%
+! colspan="2" |0-9
+! rowspan="11" |Age
+
+    [67] => 
+| colspan="3" |162
+|1.42%
+| colspan="3" |0
+|0.00%
+| colspan="3" |0
+|0.00%
+! colspan="2" |10-19
+
+    [68] => 
+| colspan="3" |833
+|7.28%
+| colspan="3" |3
+|0.29%
+| colspan="3" |37
+|4.04%
+! colspan="2" |20-29
+
+    [69] => 
+| colspan="3" |1,057
+|9.24%
+| colspan="3" |2
+|0.19%
+| colspan="3" |43
+|4.70%
+! colspan="2" |30-39
+
+    [70] => 
+| colspan="3" |1,460
+|12.76%
+| colspan="3" |7
+|0.68%
+| colspan="3" |113
+|12.35%
+! colspan="2" |40-49
+
+    [71] => 
+| colspan="3" |1,961
+|17.13%
+| colspan="3" |36
+|3.48%
+| colspan="3" |223
+|24.37%
+! colspan="2" |50-59
+
+    [72] => 
+| colspan="3" |1,590
+|13.89%
+| colspan="3" |76
+|7.36%
+| colspan="3" |279
+|30.49%
+! colspan="2" |60-69
+
+    [73] => 
+| colspan="3" |1,617
+|14.13%
+| colspan="3" |256
+|24.78%
+| colspan="3" |188
+|20.55%
+! colspan="2" |70-79
+
+    [74] => 
+| colspan="3" |1,778
+|15.54%
+| colspan="3" |430
+|41.63%
+| colspan="3" |29
+|3.17%
+! colspan="2" |80-89
+
+    [75] => 
+| colspan="3" |916
+|8.00%
+| colspan="3" |223
+|21.59%
+| colspan="3" |1
+|0.11%
+! colspan="2" |90+
+
+    [76] => 
+| colspan="3" |7
+|0.06%
+| colspan="3" |0
+|0.00%
+| colspan="3" |0
+|0.00%
+! colspan="2" |Unspecified
 |}
 )
