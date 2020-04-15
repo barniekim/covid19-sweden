@@ -2143,15 +2143,15 @@ Array
 ! colspan="4" rowspan="5" |11,927
 (118 {{nowrap begin}}{{Abbr|per 100k pop|Cases per 100,000 population using 10.12 Million as Sweden's total population}}{{nowrap end}})
 
-(482 {{abbr|new|Newly reported in the last 24 hours, these cases didn't necessary occur in the last 24 hours.}})
+(482 {{abbr|new|Newly reported in the last 24 hours, these cases didn't necessarily occur during the last 24 hours.}})
 ! colspan="4" rowspan="5" |1203
 (11.9 {{nowrap begin}}{{Abbr|per 100k pop|Deaths per 100,000 population using 10.12 Million as Sweden's total population}}{{nowrap end}})
 
-(170 {{abbr|new|Newly reported in the last 24 hours, these cases didn't necessary occur in the last 24 hours.}})
+(170 {{abbr|new|Newly reported in the last 24 hours, these cases didn't necessarily occur during the last 24 hours.}})
 ! colspan="4" rowspan="3" |954
 (9.4 {{nowrap begin}}{{Abbr|per 100k pop|ICU cases per 100,000 population using 10.12 Million as Sweden's total population}}{{nowrap end}})
 
-(39 {{abbr|new|Newly reported in the last 24 hours, these cases didn't necessary occur in the last 24 hours.}})
+(39 {{abbr|new|Newly reported in the last 24 hours, these cases didn't necessarily occur during the last 24 hours.}})
 ! colspan="3" rowspan="5" |74,653
 (738 {{nowrap begin}}{{Abbr|per 100k pop|Analysed samples per 100,000 population using 10.12 Million as Sweden's total population}}{{nowrap end}})
 
@@ -2226,7 +2226,7 @@ Array
 |3.5
 |2.3
 |10.5
-! colspan="4" rowspan="2" |Currently in  [[Intensive care medicine|ICU-care]]: 530<ref>{{Cite web|url=https://www.icuregswe.org/data--resultat/covid-19-i-svensk-intensivvard/|title=COVID-19 i svensk intensivvård|website=www.icuregswe.org|access-date=2020-04-10}}</ref><br />(4 {{abbr|new|Newly reported in the last 24 hours, these cases didn't necessary occur in the last 24 hours.}})
+! colspan="4" rowspan="2" |Currently in  [[Intensive care medicine|ICU-care]]: 530<ref>{{Cite web|url=https://www.icuregswe.org/data--resultat/covid-19-i-svensk-intensivvard/|title=COVID-19 i svensk intensivvård|website=www.icuregswe.org|access-date=2020-04-10}}</ref><br />(4 {{abbr|new|Newly reported in the last 24 hours, these cases didn't necessarily occur during the last 24 hours.}})
 
     [63] => 
 !Total [[Intensive care medicine|ICU-care]]
@@ -2253,8 +2253,8 @@ Array
 |50
 
     [64] => 
-| rowspan="14" style="text-align:left;" |
-| colspan="21" rowspan="14" |'''Notes'''{{reflist|group=lower-alpha}}
+| rowspan="15" style="text-align:left;" |
+| colspan="21" rowspan="15" |'''Notes'''{{reflist|group=lower-alpha}}
 | colspan="3" |5,784
 |48.50%
 | colspan="3" |686
@@ -2283,6 +2283,9 @@ Array
 ! colspan="2" |Unspecified
 
     [67] => 
+| colspan="15" |
+
+    [68] => 
 | colspan="3" |64
 |0.54%
 | colspan="3" |0
@@ -2292,7 +2295,7 @@ Array
 ! colspan="2" |0-9
 ! rowspan="11" |Age
 
-    [68] => 
+    [69] => 
 | colspan="3" |170
 |1.43%
 | colspan="3" |0
@@ -2301,7 +2304,7 @@ Array
 |0.00%
 ! colspan="2" |10-19
 
-    [69] => 
+    [70] => 
 | colspan="3" |873
 |7.32%
 | colspan="3" |3
@@ -2310,7 +2313,7 @@ Array
 |4.30%
 ! colspan="2" |20-29
 
-    [70] => 
+    [71] => 
 | colspan="3" |1,110
 |9.31%
 | colspan="3" |4
@@ -2319,7 +2322,7 @@ Array
 |4.93%
 ! colspan="2" |30-39
 
-    [71] => 
+    [72] => 
 | colspan="3" |1,518
 |12.73%
 | colspan="3" |10
@@ -2328,7 +2331,7 @@ Array
 |12.16%
 ! colspan="2" |40-49
 
-    [72] => 
+    [73] => 
 | colspan="3" |2,026
 |16.99%
 | colspan="3" |41
@@ -2337,7 +2340,7 @@ Array
 |24.53%
 ! colspan="2" |50-59
 
-    [73] => 
+    [74] => 
 | colspan="3" |1,655
 |13.88%
 | colspan="3" |95
@@ -2346,7 +2349,7 @@ Array
 |30.29%
 ! colspan="2" |60-69
 
-    [74] => 
+    [75] => 
 | colspan="3" |1,683
 |14.11%
 | colspan="3" |301
@@ -2355,7 +2358,7 @@ Array
 |20.23%
 ! colspan="2" |70-79
 
-    [75] => 
+    [76] => 
 | colspan="3" |1,864
 |15.63%
 | colspan="3" |492
@@ -2364,7 +2367,7 @@ Array
 |3.14%
 ! colspan="2" |80-89
 
-    [76] => 
+    [77] => 
 | colspan="3" |958
 |8.03%
 | colspan="3" |257
@@ -2373,7 +2376,7 @@ Array
 |0.10%
 ! colspan="2" |90+
 
-    [77] => 
+    [78] => 
 | colspan="3" |6
 |0.05%
 | colspan="3" |0
