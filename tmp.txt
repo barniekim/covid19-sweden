@@ -2298,7 +2298,7 @@ Array
 |4.3
 |2.6
 |12.5
-! colspan="4" rowspan="2" |Currently in  [[Intensive care medicine|ICU-care]]: 527<ref>{{Cite web|url=https://www.icuregswe.org/data--resultat/covid-19-i-svensk-intensivvard/|title=COVID-19 i svensk intensivvård|website=www.icuregswe.org|access-date=2020-04-10}}</ref><br />(-3 {{abbr|new|Newly reported in the last 24 hours, these cases didn't necessarily occur during the last 24 hours.}})
+! colspan="4" rowspan="2" |Currently in  [[Intensive care medicine|ICU-care]]: 527<ref>{{Cite web|url=https://www.icuregswe.org/data--resultat/covid-19-i-svensk-intensivvard/|title=COVID-19 i svensk intensivvård|website=www.icuregswe.org|access-date=2020-04-10}}</ref><br />(0 {{abbr|new|Newly reported in the last 24 hours, these cases didn't necessarily occur during the last 24 hours.}})
 
     [65] => 
 !Total [[Intensive care medicine|ICU-care]]
