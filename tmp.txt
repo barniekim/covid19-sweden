@@ -2437,20 +2437,22 @@ Array
 |60
 
     [69] => 
-|
-| colspan="21" rowspan="16" |'''Notes'''{{reflist|group=lower-alpha}}
-! colspan="3" |Total
-|Percent
-! colspan="2" |Total
-|Percent
-|Rate
-! colspan="2" |Total
-|Percent
-|Rate
-! colspan="3" |Composition
+| rowspan="17" |
+| colspan="21" rowspan="17" |'''Notes'''{{reflist|group=lower-alpha}}
+| colspan="15" |
 
     [70] => 
-| rowspan="15" style="text-align:left;" |
+! colspan="3" |Total
+!Percent
+! colspan="2" |Total
+!Percent
+!Rate
+! colspan="2" |Total
+!Percent
+!Rate
+! colspan="3" |Composition
+
+    [71] => 
 ! colspan="3" |6,970
 |47.17%
 ! colspan="2" |894
@@ -2462,7 +2464,7 @@ Array
 ! colspan="2" |Male
 ! rowspan="3" |Sex
 
-    [71] => 
+    [72] => 
 ! colspan="3" |7,804
 |52.81%
 ! colspan="2" |686
@@ -2473,7 +2475,7 @@ Array
 |3.74%
 ! colspan="2" |Female
 
-    [72] => 
+    [73] => 
 ! colspan="3" |3
 |0.02%
 ! colspan="2" |0
@@ -2484,10 +2486,10 @@ Array
 |0.00%
 ! colspan="2" |Unspecified
 
-    [73] => 
+    [74] => 
 | colspan="15" |
 
-    [74] => 
+    [75] => 
 ! colspan="3" |74
 |0.50%
 ! colspan="2" |0
@@ -2499,7 +2501,7 @@ Array
 ! colspan="2" |0-9
 ! rowspan="11" |Age
 
-    [75] => 
+    [76] => 
 ! colspan="3" |192
 |1.30%
 ! colspan="2" |0
@@ -2510,7 +2512,7 @@ Array
 |1.56%
 ! colspan="2" |10-19
 
-    [76] => 
+    [77] => 
 ! colspan="3" |1,057
 |7.15%
 ! colspan="2" |4
@@ -2521,7 +2523,7 @@ Array
 |4.26%
 ! colspan="2" |20-29
 
-    [77] => 
+    [78] => 
 ! colspan="3" |1,407
 |9.52%
 ! colspan="2" |6
@@ -2532,7 +2534,7 @@ Array
 |3.77%
 ! colspan="2" |30-39
 
-    [78] => 
+    [79] => 
 ! colspan="3" |1,874
 |12.68%
 ! colspan="2" |15
@@ -2543,7 +2545,7 @@ Array
 |7.52%
 ! colspan="2" |40-49
 
-    [79] => 
+    [80] => 
 ! colspan="3" |2,526
 |17.09%
 ! colspan="2" |53
@@ -2554,7 +2556,7 @@ Array
 |11.32%
 ! colspan="2" |50-59
 
-    [80] => 
+    [81] => 
 ! colspan="3" |2,020
 |13.67%
 ! colspan="2" |125
@@ -2565,7 +2567,7 @@ Array
 |17.13%
 ! colspan="2" |60-69
 
-    [81] => 
+    [82] => 
 ! colspan="3" |2,042
 |13.82%
 ! colspan="2" |378
@@ -2576,7 +2578,7 @@ Array
 |10.87%
 ! colspan="2" |70-79
 
-    [82] => 
+    [83] => 
 ! colspan="3" |2,372
 |16.05%
 ! colspan="2" |644
@@ -2587,7 +2589,7 @@ Array
 |1.48%
 ! colspan="2" |80-89
 
-    [83] => 
+    [84] => 
 ! colspan="3" |1,207
 |8.17%
 ! colspan="2" |355
@@ -2598,7 +2600,7 @@ Array
 |0.08%
 ! colspan="2" |90+
 
-    [84] => 
+    [85] => 
 ! colspan="3" |6
 |0.04%
 ! colspan="2" |0
