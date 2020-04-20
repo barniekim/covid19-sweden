@@ -1793,9 +1793,9 @@ Array
 !843
 |  +10.2%
 |73
-!46
-!706
-|  +7.0%
+!47
+!707
+|  +7.1%
 |42
 
     [50] => 
@@ -1830,9 +1830,9 @@ Array
 |  +12.1%
 |81
 !44
-!750
+!751
 |  +6.2%
-|42
+|43
 
     [51] => 
 !2020-04-09
@@ -1861,12 +1861,12 @@ Array
 !9,602
 | +7.2%
 |533
-!75
-!1,020
-|  +7.9%
+!76
+!1,021
+|  +8.0%
 |82
 !31
-!781
+!782
 |  +4.1%
 |40
 
@@ -1898,11 +1898,11 @@ Array
 | +4.7%
 |512
 !75
-!1,095
-|  +7.4%
+!1,096
+|  +7.3%
 |81
 !38
-!819
+!820
 |  +4.9%
 |40
 
@@ -1934,13 +1934,13 @@ Array
 | +3.9%
 |517
 !74
-!1,169
+!1,170
 |  +6.8%
 |82
 !45
-!864
+!865
 |  +5.5%
-|41
+|42
 
     [54] => 
 !2020-04-12
@@ -1970,11 +1970,11 @@ Array
 |  +4.4%
 |534
 !79
-!1,248
+!1,249
 |  +6.8%
 |82
 !32
-!896
+!897
 |  +3.7%
 |40
 
@@ -1999,19 +1999,19 @@ Array
 |6
 |18
 |48
-|20
+|21
 |31
-!436
-!11,350
+!437
+!11,351
 |  +4.0%
 |541
 !63
-!1,311
+!1,312
 |  +5.0%
 |78
-!45
+!44
 !941
-|  +5.0%
+|  +4.9%
 |40
 ! rowspan="7" |
 ! rowspan="7" |
@@ -2041,13 +2041,13 @@ Array
 |52
 |23
 !480
-!11,830
+!11,831
 |  +4.2%
 |504
 !60
-!1,371
+!1,372
 |  +4.6%
-|75
+|76
 !37
 !978
 |  +3.9%
@@ -2077,20 +2077,20 @@ Array
 |30
 |31
 !604
-!12,434
+!12,435
 |  +5.1%
 |497
-!56
-!1,427
-|  +4.1%
+!57
+!1,429
+|  +4.2%
 |69
-!32
-!1,010
-|  +3.3%
+!33
+!1,011
+|  +3.4%
 |37
 
     [58] => 
-!2020-04-16{{efn|name=FHM_daily}}
+!2020-04-16
 |
 |25
 |1
@@ -2109,28 +2109,28 @@ Array
 |3
 |3
 |31
-|85
+|84
 |30
 |19
-!624
+!623
 !13,058
 |  +5.0%
 |494
-!61
-!1,488
-|  +4.3%
+!63
+!1,492
+|  +4.4%
 |67
-!32
+!31
 !1,042
-|  +3.2%
+|  +3.1%
 |37
 
     [59] => 
-!2020-04-17{{efn|name=FHM_daily}}
+!2020-04-17
 |
 |26
 |
-|23
+|24
 |9
 |19
 |36
@@ -2138,7 +2138,7 @@ Array
 |12
 |15
 |21
-|222
+|221
 |64
 |44
 |3
@@ -2152,17 +2152,17 @@ Array
 !13,746
 |  +5.3%
 |527
-!23
-!1,511
-|  +1.5%
-|59
-!17
-!1,059
-|  +1.6%
-|34
+!30
+!1,522
+|  +2.0%
+|61
+!31
+!1,073
+|  +3.0%
+|36
 
     [60] => 
-!2020-04-18{{efn|name=FHM_daily}}
+!2020-04-18
 |
 |27
 |
@@ -2174,66 +2174,105 @@ Array
 |21
 |1
 |17
-|175
+|178
 |8
 |18
 |3
 |3
 |2
-|17
-|46
+|18
+|48
 |52
 |52
-!524
-!14,270
-| +3.8%
+!530
+!14,276
+|  +3.9%
 |546
-!9
-!1,520
-| +0.6%
-|50
-!14
-!1,073
-| +1.3%
-|30
+!19
+!1,541
+|  +1.2%
+|53
+!24
+!1,097
+|  +2.2%
+|33
 
     [61] => 
 !2020-04-19{{efn|name=FHM_daily}}
 |
+|8
+|
+|8
+|6
+|6
+|15
+|4
+|11
+|2
+|5
+|192
+|13
+|18
+|4
+|7
+|8
+|29
+|31
+|6
+|16
+!389
+!14,665
+| +2.7%
+|536
+!17
+!1,558
+| +1.1%
+|44
+!28
+!1,125
+| +2.6%
+|33
+
+    [62] => 
+!2020-04-20{{efn|name=FHM_daily}}
 |
 |
+|
+|
+|4
+|
+|1
 |
 |
 |2
 |
+|75
+|2
 |
-|
-|
-|
-|103
+|1
 |3
 |
+|14
+|4
+|6
 |
-|7
-|
-|
-|
-|
-|
-!115
-!14,385
+!112
+!14,777
 |
 |
-!1 (+19){{efn|Cases in brackets have unknown or not yet reported date of death.|group=lower-alpha}}
-!1,540
+!2 (+20){{efn|Cases in brackets have unknown or not yet reported date of death.|group=lower-alpha}}
+!1,580
 |
 |
-!6
-!1,079
+!8
+!1,133
 |
 |
+!
+!
+|17
 
-    [62] => 
+    [63] => 
 ! County
 !{{Flagicon|Blekinge län|COA}}
 !{{Flagicon|Dalarnas län|COA}}
@@ -2261,164 +2300,164 @@ Array
 ! colspan="4" |Total [[Intensive care medicine|ICU-care]] cases
 ! colspan="3" |Total analysed samples
 
-    [63] => 
+    [64] => 
 !Total cases{{efn|name=Uncertain|group=lower-alpha}}
 |43
-|483
+|491
 |19
-|402
-|231
-|209
-|489
-|94
-|164
-|190
-|544
-|5,826
-|872
-|649
-|100
-|238
-|131
-|484
-|1,442
-|617
-|1,158
-! colspan="4" rowspan="5" |14,385
-(142 {{nowrap begin}}{{Abbr|per 100k pop|Cases per 100,000 population using 10.12 Million as Sweden's total population}}{{nowrap end}})
+|411
+|241
+|213
+|505
+|98
+|175
+|194
+|549
+|5,992
+|884
+|667
+|105
+|241
+|139
+|528
+|1,478
+|630
+|1,174
+! colspan="4" rowspan="5" |14,777
+(146 {{nowrap begin}}{{Abbr|per 100k pop|Cases per 100,000 population using 10.12 Million as Sweden's total population}}{{nowrap end}})
 
-(563 {{abbr|new|Newly reported in the last 24 hours, these cases didn't necessarily occur during the last 24 hours.}})
-! colspan="4" rowspan="5" |1,540
-(15.2 {{nowrap begin}}{{Abbr|per 100k pop|Deaths per 100,000 population using 10.12 Million as Sweden's total population}}{{nowrap end}})
+(392 {{abbr|new|Newly reported in the last 24 hours, these cases didn't necessarily occur during the last 24 hours.}})
+! colspan="4" rowspan="5" |1,580
+(15.6 {{nowrap begin}}{{Abbr|per 100k pop|Deaths per 100,000 population using 10.12 Million as Sweden's total population}}{{nowrap end}})
 
-(29 {{abbr|new|Newly reported in the last 24 hours, these cases didn't necessarily occur during the last 24 hours.}})
-! colspan="4" rowspan="3" |1,079
-(10.7 {{nowrap begin}}{{Abbr|per 100k pop|ICU cases per 100,000 population using 10.12 Million as Sweden's total population}}{{nowrap end}})
+(40 {{abbr|new|Newly reported in the last 24 hours, these cases didn't necessarily occur during the last 24 hours.}})
+! colspan="4" rowspan="3" |1,133
+(11.2 {{nowrap begin}}{{Abbr|per 100k pop|ICU cases per 100,000 population using 10.12 Million as Sweden's total population}}{{nowrap end}})
 
-(55 {{abbr|new|Newly reported in the last 24 hours, these cases didn't necessarily occur during the last 24 hours.}})
+(54 {{abbr|new|Newly reported in the last 24 hours, these cases didn't necessarily occur during the last 24 hours.}})
 ! colspan="3" rowspan="5" |74,633
 (738 {{nowrap begin}}{{Abbr|per 100k pop|Analysed samples per 100,000 population using 10.12 Million as Sweden's total population}}{{nowrap end}})
 
-    [64] => 
+    [65] => 
 !{{Abbr|Cases&nbsp;per&nbsp;100k|Cases per 100,000 county population}}
 |27
-|168
+|171
 |32
-|140
-|69
-|160
-|134
-|38
-|81
-|76
-|39
-|245
-|293
-|169
-|35
-|88
-|53
-|175
-|84
-|202
-|249
+|143
+|72
+|163
+|139
+|40
+|87
+|78
+|40
+|252
+|297
+|174
+|37
+|89
+|57
+|191
+|86
+|207
+|252
 
-    [65] => 
+    [66] => 
 !Total deaths{{efn|name=Uncertain|Reported, confirmed cases. Actual case numbers may be higher.|group=lower-alpha}}
 |2
 |63
 |1
-|36
+|39
 |23
 |1
-|38
+|39
 |6
-|8
-|15
+|9
+|18
 |43
-|921
-|125
+|944
+|128
 |41
 |3
 |10
-|15
+|17
 |30
-|81
-|20
+|83
+|22
 |58
 
-    [66] => 
+    [67] => 
 !{{Abbr|Deaths&nbsp;per&nbsp;100k|Deaths per 100,000 county population}}
 |1.3
 |21.9
 |1.7
-|12.5
+|13.6
 |6.9
 |0.8
-|10.5
+|10.7
 |2.4
-|4.0
-|6.0
+|4.5
+|7.2
 |3.1
-|38.7
-|42.0
+|39.7
+|43.0
 |10.7
 |1.1
 |3.7
-|6.1
+|6.9
 |10.9
-|4.7
-|6.6
+|4.8
+|7.2
 |12.5
 ! colspan="4" rowspan="2" |Currently in  [[Intensive care medicine|ICU-care]] for Covid-19: 
-544<ref>{{Cite web|url=https://www.icuregswe.org/data--resultat/covid-19-i-svensk-intensivvard/|title=COVID-19 i svensk intensivvård|website=www.icuregswe.org|access-date=2020-04-10}}</ref> (0 {{abbr|new|Newly reported in the last 24 hours, these cases didn't necessarily occur during the last 24 hours.}})
-
-    [67] => 
-!Total [[Intensive care medicine|ICU-care]]
-|3
-|31
-|3
-|25
-|19
-|5
-|35
-|11
-|4
-|21
-|45
-|455
-|73
-|60
-|11
-|20
-|13
-|26
-|126
-|36
-|57
+534<ref>{{Cite web|url=https://www.icuregswe.org/data--resultat/covid-19-i-svensk-intensivvard/|title=COVID-19 i svensk intensivvård|website=www.icuregswe.org|access-date=2020-04-10}}</ref> (-10 {{abbr|new|Newly reported in the last 24 hours, these cases didn't necessarily occur during the last 24 hours.}})
 
     [68] => 
+!Total [[Intensive care medicine|ICU-care]]
+|3
+|32
+|3
+|27
+|19
+|5
+|38
+|14
+|4
+|22
+|49
+|478
+|75
+|61
+|11
+|20
+|14
+|27
+|134
+|37
+|60
+
+    [69] => 
 | rowspan="15" style="text-align:left;" |
 | colspan="21" rowspan="15" |'''Notes'''{{reflist|group=lower-alpha}}
-| colspan="3" |6,776
-|47.10%
-| colspan="3" |874
-|56.75%
-| colspan="3" |803
-|74.42%
+| colspan="3" |6,970
+|47.17%
+| colspan="3" |894
+|56.58%
+| colspan="3" |841
+|74.23%
 ! colspan="2" |Male
 ! rowspan="3" |Sex
 
-    [69] => 
-| colspan="3" |7,606
-|52.87%
-| colspan="3" |666
-|43.25%
-| colspan="3" |276
-|25.58%
+    [70] => 
+| colspan="3" |7,804
+|52.81%
+| colspan="3" |686
+|43.42%
+| colspan="3" |292
+|25.77%
 ! colspan="2" |Female
 
-    [70] => 
+    [71] => 
 | colspan="3" |3
 |0.02%
 | colspan="3" |0
@@ -2427,12 +2466,12 @@ Array
 |0.00%
 ! colspan="2" |Unspecified
 
-    [71] => 
+    [72] => 
 | colspan="15" |
 
-    [72] => 
+    [73] => 
 | colspan="3" |74
-|0.51%
+|0.50%
 | colspan="3" |0
 |0.00%
 | colspan="3" |1
@@ -2440,90 +2479,90 @@ Array
 ! colspan="2" |0-9
 ! rowspan="11" |Age
 
-    [73] => 
-| colspan="3" |185
-|1.29%
+    [74] => 
+| colspan="3" |192
+|1.30%
 | colspan="3" |0
 |0.00%
-| colspan="3" |1
-|0.09%
+| colspan="3" |3
+|0.26%
 ! colspan="2" |10-19
 
-    [74] => 
-| colspan="3" |1,038
-|7.22%
+    [75] => 
+| colspan="3" |1,057
+|7.15%
 | colspan="3" |4
-|0.26%
+|0.25%
 | colspan="3" |45
-|4.17%
+|3.97%
 ! colspan="2" |20-29
 
-    [75] => 
-| colspan="3" |1,369
+    [76] => 
+| colspan="3" |1,407
 |9.52%
-| colspan="3" |5
-|0.32%
-| colspan="3" |52
-|4.82%
+| colspan="3" |6
+|0.38%
+| colspan="3" |53
+|4.68%
 ! colspan="2" |30-39
 
-    [76] => 
-| colspan="3" |1,841
-|12.80%
-| colspan="3" |14
-|0.91%
-| colspan="3" |132
-|12.23%
+    [77] => 
+| colspan="3" |1,874
+|12.68%
+| colspan="3" |15
+|0.95%
+| colspan="3" |141
+|12.44%
 ! colspan="2" |40-49
 
-    [77] => 
-| colspan="3" |2,436
-|16.93%
+    [78] => 
+| colspan="3" |2,526
+|17.09%
 | colspan="3" |53
-|3.44%
-| colspan="3" |271
-|25.12%
+|3.35%
+| colspan="3" |286
+|25.24%
 ! colspan="2" |50-59
 
-    [78] => 
-| colspan="3" |1,969
-|13.69%
-| colspan="3" |121
-|7.86%
-| colspan="3" |330
-|30.58%
+    [79] => 
+| colspan="3" |2,020
+|13.67%
+| colspan="3" |125
+|7.91%
+| colspan="3" |346
+|30.54%
 ! colspan="2" |60-69
 
-    [79] => 
-| colspan="3" |1,980
-|13.76%
-| colspan="3" |367
-|23.83%
-| colspan="3" |212
-|19.65%
+    [80] => 
+| colspan="3" |2,042
+|13.82%
+| colspan="3" |378
+|23.92%
+| colspan="3" |222
+|19.59%
 ! colspan="2" |70-79
 
-    [80] => 
-| colspan="3" |2,304
-|16.02%
-| colspan="3" |627
-|40.71%
-| colspan="3" |34
-|3.15%
+    [81] => 
+| colspan="3" |2,372
+|16.05%
+| colspan="3" |644
+|40.76%
+| colspan="3" |35
+|3.09%
 ! colspan="2" |80-89
 
-    [81] => 
-| colspan="3" |1,179
-|8.20%
-| colspan="3" |349
-|22.66%
+    [82] => 
+| colspan="3" |1,207
+|8.17%
+| colspan="3" |355
+|22.47%
 | colspan="3" |1
 |0.09%
 ! colspan="2" |90+
 
-    [82] => 
-| colspan="3" |10
-|0.07%
+    [83] => 
+| colspan="3" |6
+|0.04%
 | colspan="3" |0
 |0.00%
 | colspan="3" |0
