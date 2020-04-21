@@ -2483,10 +2483,10 @@ Array
 !{{abbr|Percent|Percent of total in category}}
 ! colspan="2" |Total
 !{{abbr|Percent|Percent of total in category}}
-!{{abbr|Rate|Rate of deaths per confirmed cases for each category}}
+!{{abbr|Rate|Deaths per confirmed cases in each category}}
 ! colspan="2" |Total
 !{{abbr|Percent|Percent of total in category}}
-!{{abbr|Rate|Rate of ICU-care cases per confirmed cases for each category}}
+!{{abbr|Rate|ICU-care cases per confirmed cases in each category}}
 ! colspan="3" |Composition
 
     [72] => 
