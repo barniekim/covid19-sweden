@@ -10,7 +10,8 @@ Array
 ! colspan="3" |Analysed samples<ref>{{Cite web|url=http://www.folkhalsomyndigheten.se/folkhalsorapportering-statistik/statistik-a-o/sjukdomsstatistik/covid-19-veckorapporter/|title=Veckorapporter om covid-19 — Folkhälsomyndigheten|website=www.folkhalsomyndigheten.se|language=sv|access-date=2020-04-06}}</ref>
 
     [1] => 
-! rowspan="2" |Date!!{{vert header|[[Blekinge County|Blekinge]]}}
+! rowspan="2" |Date
+!!{{vert header|[[Blekinge County|Blekinge]]}}
 !!{{vert header|[[Dalarna County|Dalarna]]}}
 !!{{vert header|[[Gotland County|Gotland]]}}
 !!{{vert header|[[Gävleborg County|Gävleborg]]}}
@@ -2479,13 +2480,13 @@ Array
 
     [71] => 
 ! colspan="3" |Total
-!Percent
+!{{abbr|Percent|Percent of total in category}}
 ! colspan="2" |Total
-!Percent
-!Rate
+!{{abbr|Percent|Percent of total in category}}
+!{{abbr|Rate|Rate of deaths per confirmed cases for each category}}
 ! colspan="2" |Total
-!Percent
-!Rate
+!{{abbr|Percent|Percent of total in category}}
+!{{abbr|Rate|Rate of ICU-care cases per confirmed cases for each category}}
 ! colspan="3" |Composition
 
     [72] => 
