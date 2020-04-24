@@ -2014,8 +2014,8 @@ Array
 !934
 |  +4.8%
 |40
-! rowspan="7" |20,000
-! rowspan="7" |94,633
+! rowspan="7" |20,041
+! rowspan="7" |94,674
 | rowspan="7" |16
 
     [56] => 
@@ -2480,7 +2480,7 @@ Array
 (12.4 {{nowrap begin}}{{Abbr|per 100k pop|ICU cases per 100,000 population using 10.12 Million as Sweden's total population}}{{nowrap end}})
 
 (39 {{abbr|new|Newly reported in the last 24 hours, these cases didn't necessarily occur during the last 24 hours.}})
-! colspan="3" rowspan="5" |94,633
+! colspan="3" rowspan="5" |94,674
 (935 {{nowrap begin}}{{Abbr|per 100k pop|Analysed samples per 100,000 population using 10.12 Million as Sweden's total population}}{{nowrap end}})
 
     [69] => 
