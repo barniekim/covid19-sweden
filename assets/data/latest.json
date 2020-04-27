@@ -1,11 +1,11 @@
 {
     "updated": {
-        "datetime": "2020-04-28 01:40 (CET)",
-        "timestamp": 1588030808
+        "datetime": "2020-04-28 01:45 (CET)",
+        "timestamp": 1588031109
     },
     "summary": {
         "confirmed": 18926,
-        "recovered": 0,
+        "recovered": 1005,
         "deceased": 2274,
         "severe": 1353
     },
