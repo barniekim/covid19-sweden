@@ -2667,7 +2667,7 @@ Array
 ! colspan="2" |Total
 !{{abbr|Percent|Percent of total in category}}
 !{{abbr|Rate|ICU-care cases per confirmed cases in each category}}
-! colspan="3" |Composition
+! colspan="3" |Distribution
 
     [77] => 
 ! colspan="3" |8,430
@@ -2704,10 +2704,7 @@ Array
 ! colspan="2" |Unspecified
 
     [80] => 
-| colspan="12" |
-|
-|
-|
+| colspan="15" |
 
     [81] => 
 ! colspan="3" |99
