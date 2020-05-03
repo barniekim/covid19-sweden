@@ -1,13 +1,13 @@
 {
     "updated": {
-        "datetime": "2020-05-03 15:05 (CET)",
-        "timestamp": 1588511109
+        "datetime": "2020-05-03 15:10 (CET)",
+        "timestamp": 1588511409
     },
     "summary": {
-        "confirmed": 22082,
+        "confirmed": 22317,
         "recovered": 0,
-        "deceased": 2669,
-        "severe": 1531
+        "deceased": 2679,
+        "severe": 1543
     },
     "regions": {
         "Blekinge": {
