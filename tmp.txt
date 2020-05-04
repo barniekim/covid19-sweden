@@ -2887,10 +2887,7 @@ Array
 ! colspan="2" |Unspecified
 
     [85] => 
-| colspan="12" |
-|
-|
-|
+| colspan="15" |
 
     [86] => 
 ! colspan="3" |105
