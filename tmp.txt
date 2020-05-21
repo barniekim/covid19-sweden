@@ -842,7 +842,7 @@ Array
 !771
 |  +24%
 |86
-!
+!0
 !1
 | 
 |1
@@ -2444,7 +2444,7 @@ Array
 !18561
 | +2.6%
 |536
-!72
+!73
 !2484
 |  +3.0%
 |70
@@ -2555,7 +2555,7 @@ Array
 !20134
 |  +3.7%
 |537
-!78
+!79
 !2711
 |  +3.0%
 |69
@@ -2627,7 +2627,7 @@ Array
 !21508
 |  +2.9%
 |525
-!75
+!76
 !2868
 |  +2.7%
 |68
@@ -2663,7 +2663,7 @@ Array
 !22040
 | +2.5%
 |494
-!75
+!77
 !2943
 |  +2.6%
 |66
@@ -2699,7 +2699,7 @@ Array
 !22338
 | +1.4%
 |472
-!71
+!72
 !3014
 |  +2.4%
 |66
@@ -2735,7 +2735,7 @@ Array
 !22596
 | +1.2%
 |467
-!74
+!75
 !3088
 |  +2.5%
 |66
@@ -2810,7 +2810,7 @@ Array
 !23692
 | +2.8%
 |445
-!66
+!68
 !3235
 | +2.1%
 |66
@@ -2846,7 +2846,7 @@ Array
 !24421
 | +3.1%
 |439
-!72
+!73
 !3307
 | +2.2%
 |64
@@ -2882,7 +2882,7 @@ Array
 !25172
 | +3.1%
 |458
-!75
+!78
 !3382
 | +2.3%
 |64
@@ -2918,7 +2918,7 @@ Array
 !25857
 | +2.7%
 |477
-!51
+!56
 !3433
 | +1.5%
 |61
@@ -2954,7 +2954,7 @@ Array
 !26366
 | +2.0%
 |504
-!52
+!60
 !3485
 | +1.5%
 |59
@@ -2990,7 +2990,7 @@ Array
 !26644
 | +1.1%
 |506
-!62
+!69
 !3547
 | +1.8%
 |57
@@ -3026,7 +3026,7 @@ Array
 !27055
 | +1.5%
 |500
-!47
+!54
 !3594
 | +1.3%
 |53
@@ -3065,7 +3065,7 @@ Array
 !27761
 | +2.6%
 |509
-!35
+!47
 !3629
 | +0.97%
 |49
@@ -3101,7 +3101,7 @@ Array
 !28420
 | +2.4%
 |500
-!21
+!32
 !3650
 | +0.58%
 |43
@@ -3137,7 +3137,7 @@ Array
 !29046
 | +2.2%
 |484
-!21
+!24
 !3671
 | +0.58%
 |36
@@ -3173,7 +3173,7 @@ Array
 !29697
 | +2.2%
 |480
-!16
+!27
 !3687
 | +0.44%
 |32
@@ -3209,7 +3209,7 @@ Array
 !30055
 | +1.2%
 |461
-!10
+!19
 !3697
 | +0.27%
 |27
@@ -3245,7 +3245,7 @@ Array
 !30313
 | +0.86%
 |459
-!16
+!25
 !3713
 | +0.43%
 |21
@@ -3281,7 +3281,7 @@ Array
 !30703
 | +1.3%
 |456
-!6
+!28
 !3719
 | +0.16%
 |16
@@ -3295,33 +3295,32 @@ Array
 
     [91] => 
 !2020-05-19{{efn|name=FHM_daily}}
-|
-|1
-|
-|8
-|1
-|7
-|7
-|1
-|3
-|1
-|25
-|20
-|
+|6
 |2
-|3
 |
-|
-|
+|34
+|14
+|9
+|41
+|2
+|27
+|2
+|65
+|129
+|18
+|35
+|15
+|15
+|38
+|22
+|105
+|22
 |17
-|
-|
-!96
+!618
 !30799
 | +0.31%
 |380
-!1
-(+23){{efn|Cases in brackets have unknown or not yet reported date of death.|group=lower-alpha}}
+!9
 !3743
 | +0.027%
 |11
@@ -3331,6 +3330,85 @@ Array
 |13
 
     [92] => 
+!20-05-20
+|23
+|31
+|1
+|25
+|42
+|19
+|30
+|3
+|11
+|7
+|45
+|105
+|22
+|53
+|16
+|5
+|27
+|22
+|136
+|53
+|27
+!703
+!
+|
+|
+!6
+(+20){{efn|Cases in brackets have unknown or not yet reported date of death.|group=lower-alpha}}
+!
+|
+|
+!
+!
+|
+|
+!
+!
+|
+
+    [93] => 
+!20-05-21
+|
+|
+|
+|3
+|3
+|12
+|6
+|1
+|
+|
+|7
+|37
+|
+|9
+|8
+|
+|
+|
+|36
+|1
+|34
+!147
+!
+|
+|
+!
+!
+|
+|
+!
+!
+|
+|
+!
+!
+|
+
+    [94] => 
 ! County
 !{{Flagicon|Blekinge län|COA}}
 !{{Flagicon|Dalarnas län|COA}}
@@ -3358,7 +3436,7 @@ Array
 ! colspan="4" |Total [[Intensive care medicine|ICU-care]] cases
 ! colspan="3" |Total analysed samples
 
-    [93] => 
+    [95] => 
 !Total cases{{efn|name=Uncertain|group=lower-alpha}}
 |103
 |1063
@@ -3390,7 +3468,7 @@ Array
 ! colspan="3" rowspan="5" |177,216
 (1751 {{nowrap begin}}{{Abbr|per 100k pop|Analysed samples per 100,000 population using 10.12 Million as Sweden's total population}}{{nowrap end}})
 
-    [94] => 
+    [96] => 
 !{{Abbr|Cases&nbsp;per&nbsp;100k|Cases per 100,000 county population}}
 |65
 |369
@@ -3414,7 +3492,7 @@ Array
 |497
 |383
 
-    [95] => 
+    [97] => 
 !Total deaths{{efn|name=Uncertain|Reported, confirmed cases. Actual case numbers may be higher.|group=lower-alpha}}
 |4
 |128
@@ -3438,7 +3516,7 @@ Array
 |109
 |159
 
-    [96] => 
+    [98] => 
 !{{Abbr|Deaths&nbsp;per&nbsp;100k|Deaths per 100,000 county population}}
 |2.5
 |44
@@ -3464,7 +3542,7 @@ Array
 | colspan="4" rowspan="2" |Currently in  [[Intensive care medicine|ICU-care]] for Covid-19:
 372<ref>{{Cite web|url=https://www.icuregswe.org/data--resultat/covid-19-i-svensk-intensivvard/|title=COVID-19 i svensk intensivvård|website=www.icuregswe.org|access-date=2020-04-10}}</ref>
 
-    [97] => 
+    [99] => 
 !Total [[Intensive care medicine|ICU-care]]
 |3
 |55
@@ -3488,15 +3566,15 @@ Array
 |67
 |90
 
-    [98] => 
+    [100] => 
 | rowspan="18" |
 | colspan="21" rowspan="18" |'''Notes'''{{reflist|group=lower-alpha}}
 | colspan="15" |
 
-    [99] => 
+    [101] => 
 ! colspan="15" |Distribution
 
-    [100] => 
+    [102] => 
 ! colspan="3" |Amount
 !{{abbr|Percent|Percent of total in category}}
 ! colspan="2" |Amount
@@ -3507,7 +3585,7 @@ Array
 !{{abbr|Rate|ICU-care cases per confirmed cases in each category}}
 ! colspan="3" |Category
 
-    [101] => 
+    [103] => 
 ! colspan="3" |12854
 |42%
 ! colspan="2" |2072
@@ -3519,7 +3597,7 @@ Array
 ! colspan="2" |Male
 ! rowspan="3" |Sex
 
-    [102] => 
+    [104] => 
 ! colspan="3" |17942
 |58%
 ! colspan="2" |1671
@@ -3530,7 +3608,7 @@ Array
 |2.7%
 ! colspan="2" |Female
 
-    [103] => 
+    [105] => 
 ! colspan="3" |3
 |0.0097%
 ! colspan="2" |0
@@ -3541,11 +3619,11 @@ Array
 |0%
 ! colspan="2" |Unspecified
 
-    [104] => 
+    [106] => 
 | colspan="12" |
 | colspan="3" |
 
-    [105] => 
+    [107] => 
 ! colspan="3" |146
 |0.47%
 ! colspan="2" |1
@@ -3557,7 +3635,7 @@ Array
 ! colspan="2" |0-9
 ! rowspan="11" |Age
 
-    [106] => 
+    [108] => 
 ! colspan="3" |353
 |1.1%
 ! colspan="2" |0
@@ -3568,7 +3646,7 @@ Array
 |1.7%
 ! colspan="2" |10-19
 
-    [107] => 
+    [109] => 
 ! colspan="3" |2686
 |8.7%
 ! colspan="2" |8
@@ -3579,7 +3657,7 @@ Array
 |2.5%
 ! colspan="2" |20-29
 
-    [108] => 
+    [110] => 
 ! colspan="3" |3531
 |11%
 ! colspan="2" |12
@@ -3590,7 +3668,7 @@ Array
 |2.5%
 ! colspan="2" |30-39
 
-    [109] => 
+    [111] => 
 ! colspan="3" |4365
 |14%
 ! colspan="2" |38
@@ -3601,7 +3679,7 @@ Array
 |5.1%
 ! colspan="2" |40-49
 
-    [110] => 
+    [112] => 
 ! colspan="3" |5474
 |18%
 ! colspan="2" |117
@@ -3612,7 +3690,7 @@ Array
 |9.1%
 ! colspan="2" |50-59
 
-    [111] => 
+    [113] => 
 ! colspan="3" |3782
 |12%
 ! colspan="2" |272
@@ -3623,7 +3701,7 @@ Array
 |15%
 ! colspan="2" |60-69
 
-    [112] => 
+    [114] => 
 ! colspan="3" |3581
 |12%
 ! colspan="2" |838
@@ -3634,7 +3712,7 @@ Array
 |10.0%
 ! colspan="2" |70-79
 
-    [113] => 
+    [115] => 
 ! colspan="3" |4445
 |14%
 ! colspan="2" |1529
@@ -3645,7 +3723,7 @@ Array
 |1.6%
 ! colspan="2" |80-89
 
-    [114] => 
+    [116] => 
 ! colspan="3" |2428
 |7.9%
 ! colspan="2" |928
@@ -3656,7 +3734,7 @@ Array
 |0.041%
 ! colspan="2" |90+
 
-    [115] => 
+    [117] => 
 ! colspan="3" |8
 |0.026%
 ! colspan="2" |0
