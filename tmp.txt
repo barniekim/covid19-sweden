@@ -3609,7 +3609,7 @@ Array
 !{{Flagicon|Örebro|COA}}
 !{{Flagicon|Östergötlands län|COA}}
 ! colspan="4" |Total cases{{efn|name=Uncertain|Reported, confirmed cases. Actual case numbers may be higher.|group=lower-alpha}}
-! colspan="4" |Total deaths{{efn|name=Uncertain|Reported, confirmed cases. Actual case numbers may be higher.|group=lower-alpha}}{{efn|Cases in brackets have unknown or not yet reported date of death.|group=lower-alpha}}
+! colspan="4" |Total deaths{{efn|name=Uncertain|Reported, confirmed cases. Actual case numbers may be higher.|group=lower-alpha}}
 ! colspan="4" |Total [[Intensive care medicine|ICU-care]] cases
 ! colspan="3" |Total analysed samples
 
@@ -3642,8 +3642,8 @@ Array
 (40.8 {{nowrap begin}}{{Abbr|per 100k pop|Deaths per 100,000 population using 10.12 Million as Sweden's total population}}{{nowrap end}})
 ! colspan="4" rowspan="3" |1,987
 (19.6 {{nowrap begin}}{{Abbr|per 100k pop|ICU cases per 100,000 population using 10.12 Million as Sweden's total population}}{{nowrap end}})
-! colspan="3" rowspan="5" |177,216
-(1751 {{nowrap begin}}{{Abbr|per 100k pop|Analysed samples per 100,000 population using 10.12 Million as Sweden's total population}}{{nowrap end}})
+! colspan="3" rowspan="5" |210,022
+(2075 {{nowrap begin}}{{Abbr|per 100k pop|Analysed samples per 100,000 population using 10.12 Million as Sweden's total population}}{{nowrap end}})
 
     [101] => 
 !{{Abbr|Cases&nbsp;per&nbsp;100k|Cases per 100,000 county population}}
